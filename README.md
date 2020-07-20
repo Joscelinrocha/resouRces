@@ -1,5 +1,8 @@
-Here are my favorite sites to learn R that usually include Data Science, Intro to r, and Stats but don't go too deep in either category.     
+Here are my favorite sites to learn R that usually include Data Science, Intro to r, and Stats but don't go too deep in either category.           
+
 Beginners 🌱  Intermediate 🌳    Advanced 🌳🌳 
+
+** Make sure to visit the [wiki page](https://github.com/Joscelinrocha/Learning-R-Resources/wiki) for more resources!!
       
 ## [Getting Started with R by David Keyes](https://rfortherestofus.com/courses/getting-started/) 💯 🌱
 **What is this?**
