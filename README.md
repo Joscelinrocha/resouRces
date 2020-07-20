@@ -152,35 +152,35 @@ Excerpt from ebook: This book is for anyone who wants to make their R code faste
 1. https://bookdown.org/csgillespie/efficientR/
 
 ## [R-Ladies #LdnOnt Materials](https://drive.google.com/drive/folders/0BzCQiZLG7vQmVm9ISndsRzllbTA)
-**What is this**
+**What is this?**
 Excerpt from site: Wonderful materials to learn and teach R!!
 Link to site here: https://drive.google.com/drive/folders/0BzCQiZLG7vQmVm9ISndsRzllbTA
 
 ## [Swirl](https://swirlstats.com/)
-**What is this**
+**What is this?**
 Excerpt from site: Swirl teaches you R programming and data science interactively, at your own pace, and right in the R console!
 1. Link to site here: https://swirlstats.com/
 1. Link to courses repo here: https://github.com/swirldev/swirl_courses#swirl-courses
 1. Link to the Swirl Course Network: https://swirlstats.com/students.html
 
 ## [R Bootcamp by Ted Laderas & Jessica Minnier](https://r-bootcamp.netlify.app/) 🌱
-**What is this**
+**What is this?**
 Excerpt from the course: The R-Bootcamp is a gentle and gradual introduction to manipulating and visualizing data in R using the `tidyverse` suite of packages. It is meant for incoming OHSU Bioinformatics and Computational Biomedicine Majors but is appropriate for any beginners wanting to learn elementary data manipulation in R.
 1. Link to course: https://r-bootcamp.netlify.app/
 
 ## [The Tidyverse Cookbook by Garrett Grolemund](https://rstudio-education.github.io/tidyverse-cookbook/)
-**What is this**
+**What is this?**
 Excerpt from the ebook: This book collects code recipes for doing data science with R’s tidyverse. Each recipe solves a single common task, with a minimum of discussion. 
 
 1. Link to the ebook here: https://rstudio-education.github.io/tidyverse-cookbook/
 
 ## [Tidy Tuesday by David Robinson](https://www.youtube.com/channel/UCeiiqmVK07qhY-wvg3IZiZQ)
-**What is this**
+**What is this?**
 Wonderful youtube channel by David Robinson.
 1. Link to site here: https://www.youtube.com/user/safe4democracy/featured
 
 ## [Using R for data journalism](http://learn.r-journalism.com/en/introduction/)
-**What is this**
+**What is this?**
 Excerpt from site here: This course is designed to give you a sense of all the possibilities from programming in R.
 It’ll emphasize packages that will help you do data analysis and visualization.
 Once you see how fun and easy it can be, you’ll be more open to tackling the more challenging task of robust statistical analysis in R, with all its quirks.
@@ -188,7 +188,7 @@ Once you see how fun and easy it can be, you’ll be more open to tackling the m
 1. Link to the course here: https://learn.r-journalism.com/en/
 
 ## [List of classes for learning R by Justin Post](https://www4.stat.ncsu.edu/~post/DataScienceR/)
-**What is this**
+**What is this?**
 Excerpt from site here: Here is a list of classes by Justin Post in the Department of Statistics at North Carolina State University.
 1. Link for the INTRODUCTION TO R FOR DATA SCIENCE here: https://www4.stat.ncsu.edu/~post/DataScienceR/
 1. Link for the INTERMEDIATE PROGRAMMING IN R here: https://www4.stat.ncsu.edu/~post/ProgrammingR/ 
@@ -196,24 +196,24 @@ Excerpt from site here: Here is a list of classes by Justin Post in the Departme
 
 
 ## [Introduction to dplyr](https://cran.r-project.org/web/packages/dplyr/vignettes/dplyr.html)
-**What is this**
+**What is this?**
 Excerpt from site here: This document introduces you to dplyr’s basic set of tools, and shows you how to apply them to data frames. dplyr also supports databases via the dbplyr package, once you’ve installed, read vignette("dbplyr") to learn more.
 1. Link to site: https://cran.r-project.org/web/packages/dplyr/vignettes/dplyr.html
 
 ## [Introduction to data.table](https://cran.r-project.org/web/packages/data.table/vignettes/datatable-intro.html)
-**What is this**
+**What is this?**
 Excerpt from site here: This vignette introduces the data.table syntax, its general form, how to subset rows, select and compute on columns, and perform aggregations by group. Familiarity with data.frame data structure from base R is useful, but not essential to follow this vignette.
 1. Link to site here: https://cran.r-project.org/web/packages/data.table/vignettes/datatable-intro.html
 1. Link to reference semantics here: https://cran.r-project.org/web/packages/data.table/vignettes/datatable-reference-semantics.html
 
 ## [Forecasting: Principles and Practice by Rob J Hyndman & George Athanasopoulos](https://otexts.com/fpp2/)
-**What is this**
+**What is this?**
 Excerpt from e-book here: This textbook is intended to provide a comprehensive introduction to forecasting methods and to present enough information about each method for readers to be able to use them sensibly. 
 
 1. Link to ebook here: https://otexts.com/fpp2/
 
 ## [Just Enough R](https://benwhalley.github.io/just-enough-r/) 🌱
-**What is this**
+**What is this?**
 Excerpt from e-book here:R makes it easy to work with and learn from data.
 
 It also happens to be a programmming language, but if you’re reading this, that might not be of interest. That’s OK — the goal here is not to teach programming1. The goal is to teach you just enough R to be confident to explore your data.
