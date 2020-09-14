@@ -96,6 +96,13 @@ It also happens to be a programmming language, but if you’re reading this, tha
 This book uses R like any other statistics software: To work-with and visualise data, run statistical analyses, and share our results with others. To do that you don’t need more than the absolute basics of the R language itself.
 1. Link to ebook here: https://benwhalley.github.io/just-enough-r/
 
+## [List of classes for learning R by Justin Post](https://www4.stat.ncsu.edu/~post/DataScienceR/)
+**What is this?**
+Excerpt from site here: Here is a list of classes by Justin Post in the Department of Statistics at North Carolina State University.
+1. Link for the INTRODUCTION TO R FOR DATA SCIENCE here: https://www4.stat.ncsu.edu/~post/DataScienceR/
+1. Link for the INTERMEDIATE PROGRAMMING IN R here: https://www4.stat.ncsu.edu/~post/ProgrammingR/ 
+1. Link for the ADVANCED R: AUTOMATING WORKFLOW & SHARING WORK here: https://www4.stat.ncsu.edu/~post/IntermediateR/  🌳🌳 
+
 ## [Modelling and visualizing data using R: A practical introduction by Daniel Nettle](https://www.danielnettle.org.uk/r-modelling/)
 **What is this?**
 Excerpt from site:
@@ -190,13 +197,6 @@ In this tutorial, I'll walk through how to go from a database or tabular data fi
 
 1. Link to the tutorial here: https://github.com/mcfrank/tidyverse-tutorial
 
-
-## [List of classes for learning R by Justin Post](https://www4.stat.ncsu.edu/~post/DataScienceR/)
-**What is this?**
-Excerpt from site here: Here is a list of classes by Justin Post in the Department of Statistics at North Carolina State University.
-1. Link for the INTRODUCTION TO R FOR DATA SCIENCE here: https://www4.stat.ncsu.edu/~post/DataScienceR/
-1. Link for the INTERMEDIATE PROGRAMMING IN R here: https://www4.stat.ncsu.edu/~post/ProgrammingR/ 
-1. Link for the ADVANCED R: AUTOMATING WORKFLOW & SHARING WORK here: https://www4.stat.ncsu.edu/~post/IntermediateR/  🌳🌳 
 
 
 ## [Using R for data journalism](http://learn.r-journalism.com/en/introduction/)
