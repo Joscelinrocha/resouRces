@@ -1,7 +1,4 @@
-# Make sure to visit the [wiki page](https://github.com/Joscelinrocha/Learning-R-Resources/wiki) for more resources!!
-
->[!WARNING]
->This is a warning 
+# Make sure to visit the 👉🏽 👉🏽[wiki page](https://github.com/Joscelinrocha/Learning-R-Resources/wiki)👈🏽👈🏽 for ✨more resources✨!!
 
 Beginners 🌱       
 Intermediate 🌳          
