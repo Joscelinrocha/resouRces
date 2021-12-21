@@ -1,5 +1,5 @@
 # You can find the resources by visiting the Wiki of this project
-Here you can find a list of resources that have and continue helping me in my process of learning/ teaching R.
+[Here](https://github.com/Joscelinrocha/Learning-R-Resources/wiki) you can find a list of resources that have and continue helping me in my process of learning/ teaching R.
 # Learning-R-Resources
 
 Since I got introduced to R, I have been accumulating resources that could help me and others in this process. In the past two years, I have taken the role of teaching R to people in my lab and university. Last semester I, for the first time, opened my class to people outside of the school. It was an incredible experience, and I would like to continue doing it.
