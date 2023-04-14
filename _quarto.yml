@@ -8,7 +8,7 @@ website:
   description: "Database of Resources to Learn & Teach R"
   site-url: "/resouRces/"
 
-  repo-url: https://github.com/Joscelinrocha/resouRces/issues
+  repo-url: https://github.com/Joscelinrocha/resouRces/
   repo-actions: [edit, issue]
 
   open-graph: true
