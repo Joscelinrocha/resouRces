@@ -6,7 +6,7 @@ website:
   reader-mode: true
   title: "resouRces"
   description: "Database of Resources to Learn & Teach R"
-  site-url: "https://www.resourcesdatabase.com/"
+  site-url: https://www.resourcesdatabase.com/
 
   repo-url: https://github.com/Joscelinrocha/resouRces/
   repo-actions: [edit, issue]
@@ -14,7 +14,6 @@ website:
   open-graph: true
 
   twitter-card:
-    creator: "@JoscelinRocha"
     image: "images/twitter-card.png"
 
   page-footer:
