@@ -51,6 +51,16 @@ Added Sun Oct 25th, 2020
 
 1.  Link to site here: <https://missing.csail.mit.edu/>
 
+## [Use GIT like a professional software engineer!: Git and GitHub Crash Course for beginners](https://www.youtube.com/watch?v=NmC0GtHj_4w)
+
+Added Fri Apr 14th, 2023
+
+**What is this?**
+
+**Excerpt from site here:** Classes teach you all about advanced topics within CS, from operating systems to machine learning, but there's one critical subject that's rarely covered, and is instead left to students to figure out on their own: proficiency with their tools. We'll teach you how to master the command-line, use a powerful text editor, use fancy features of version control systems, and much more!
+
+1.  Link to site here: <https://www.youtube.com/watch?v=NmC0GtHj_4w>
+
 ## [Version Control with Git](https://swcarpentry.github.io/git-novice/)
 
 Added Sun Oct 25th, 2020

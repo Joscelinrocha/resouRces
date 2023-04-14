@@ -6,4 +6,12 @@ title: "Quarto"
 
 ------------------------------------------------------------------------
 
-None (YET!)
+## [Quarto demos](https://www.youtube.com/playlist?list=PLDqZV53PcnYxnBYuEdSBxnOwdKLGaoKGg)
+
+By [EEHolmes-DataScience](https://www.youtube.com/playlist?list=PLDqZV53PcnYxnBYuEdSBxnOwdKLGaoKGg)
+
+**What is this?**
+
+**Excerpt from site:** Short tutorials on topics around Quarto
+
+1.  Link to tutorials here: <https://www.youtube.com/playlist?list=PLDqZV53PcnYxnBYuEdSBxnOwdKLGaoKGg>

@@ -445,7 +445,7 @@
     "href": "courses_tutorials_only/quarto.html",
     "title": "Quarto",
     "section": "",
-    "text": "Buy me a coffee\n\nNone (YET!)"
+    "text": "Buy me a coffee"
   },
   {
     "objectID": "courses_tutorials_only/r_for_neuro.html",
@@ -2405,21 +2405,21 @@
     "href": "resources/learning_r.html#tidy-tuesday-by-david-robinson",
     "title": "Learning R",
     "section": "Tidy Tuesday by David Robinson",
-    "text": "Tidy Tuesday by David Robinson\nWhat is this? Wonderful youtube channel by David Robinson.\n\nLink to site here: https://www.youtube.com/user/safe4democracy/featured"
+    "text": "Tidy Tuesday by David Robinson\nWhat is this?\nWonderful youtube channel by David Robinson.\n\nLink to site here: https://www.youtube.com/user/safe4democracy/featured"
   },
   {
     "objectID": "resources/learning_r.html#tidyverse-tutorial-2017",
     "href": "resources/learning_r.html#tidyverse-tutorial-2017",
     "title": "Learning R",
     "section": "Tidyverse tutorial (2017)",
-    "text": "Tidyverse tutorial (2017)\nBy Mike Frank\nWhat is this? Excerpt from site: In this tutorial, I’ll walk through how to go from a database or tabular data file to an interactive plot with surprisingly little pain (and less code than you’d imagine). My focus will be on introducing a workflow that uses a wide variety of different tools and packages, including readr, dplyr, tidyr, and shiny. I’ll assume basic familiarity with R and will use (but not spend too much time teaching) ggplot2. Featuring data from http://wordbank.stanford.edu\n\nLink to the tutorial here: https://github.com/mcfrank/tidyverse-tutorial"
+    "text": "Tidyverse tutorial (2017)\nBy Mike Frank\nWhat is this?\nExcerpt from site: In this tutorial, I’ll walk through how to go from a database or tabular data file to an interactive plot with surprisingly little pain (and less code than you’d imagine). My focus will be on introducing a workflow that uses a wide variety of different tools and packages, including readr, dplyr, tidyr, and shiny. I’ll assume basic familiarity with R and will use (but not spend too much time teaching) ggplot2. Featuring data from http://wordbank.stanford.edu\n\nLink to the tutorial here: https://github.com/mcfrank/tidyverse-tutorial"
   },
   {
     "objectID": "resources/learning_r.html#using-r-for-data-journalism",
     "href": "resources/learning_r.html#using-r-for-data-journalism",
     "title": "Learning R",
     "section": "Using R for Data Journalism",
-    "text": "Using R for Data Journalism\nWhat is this? Excerpt from site here: This course is designed to give you a sense of all the possibilities from programming in R. It’ll emphasize packages that will help you do data analysis and visualization. Once you see how fun and easy it can be, you’ll be more open to tackling the more challenging task of robust statistical analysis in R, with all its quirks.\n\nLink to the course here: https://learn.r-journalism.com/en/"
+    "text": "Using R for Data Journalism\nWhat is this?\nExcerpt from site here: This course is designed to give you a sense of all the possibilities from programming in R. It’ll emphasize packages that will help you do data analysis and visualization. Once you see how fun and easy it can be, you’ll be more open to tackling the more challenging task of robust statistical analysis in R, with all its quirks.\n\nLink to the course here: https://learn.r-journalism.com/en/"
   },
   {
     "objectID": "resources/learning_r.html#what-they-forgot-to-teach-you-about-r",
@@ -2594,14 +2594,14 @@
     "href": "resources/packages_how_to.html#r-package-primer-a-minimal-tutorial",
     "title": "Packages (How to make them?)",
     "section": "R package primer a minimal tutorial",
-    "text": "R package primer a minimal tutorial\nBy Karl Broman\nWhat is this?\nMinimal tutorial about how to write your very own R package.\n\nLink to tutorial here: https://kbroman.org/pkg_primer/\nLunk to repo here: https://github.com/kbroman/pkg_primer"
+    "text": "R package primer a minimal tutorial\nBy Karl Broman\nWhat is this?\nMinimal tutorial about how to write your very own R package.\n\nLink to tutorial here: https://kbroman.org/pkg_primer/\nLink to repo here: https://github.com/kbroman/pkg_primer"
   },
   {
     "objectID": "resources/packages_how_to.html#writing-an-r-package-from-scratch",
     "href": "resources/packages_how_to.html#writing-an-r-package-from-scratch",
     "title": "Packages (How to make them?)",
     "section": "Writing an R package from scratch",
-    "text": "Writing an R package from scratch\nBy Hilary Parker\nWhat is this?\nExcerpt from blog: This tutorial is not about making a beautiful, perfect R package. This tutorial is about creating a bare-minimum R package so that you don’t have to keep thinking to yourself, “I really should just make an R package with these functions so I don’t have to keep copy/pasting them like a goddamn luddite.” Seriously, it doesn’t have to be about sharing your code (although that is an added benefit!). It is about saving yourself time. (n.b. this is my attitude about all reproducibility)\n\n.Link to blog: https://hilaryparker.com/2014/04/29/writing-an-r-package-from-scratch/"
+    "text": "Writing an R package from scratch\nBy Hilary Parker\nWhat is this?\nExcerpt from blog: This tutorial is not about making a beautiful, perfect R package. This tutorial is about creating a bare-minimum R package so that you don’t have to keep thinking to yourself, “I really should just make an R package with these functions so I don’t have to keep copy/pasting them like a goddamn luddite.” Seriously, it doesn’t have to be about sharing your code (although that is an added benefit!). It is about saving yourself time. (n.b. this is my attitude about all reproducibility)\n\nLink to blog: https://hilaryparker.com/2014/04/29/writing-an-r-package-from-scratch/"
   },
   {
     "objectID": "resources/presentations_slides.html",
@@ -2671,7 +2671,7 @@
     "href": "resources/quarto.html",
     "title": "Quarto",
     "section": "",
-    "text": "Buy me a coffee\n\nNone (YET!)"
+    "text": "Buy me a coffee"
   },
   {
     "objectID": "resources/r_for_neuro.html",
@@ -4506,5 +4506,145 @@
     "title": "resouRces: Database for resources to help you learn and teach R",
     "section": "",
     "text": "Since I got introduced to R, I have been accumulating resources that could help me and others in this process. In the past two years, I have taken the role of teaching R to people in my lab and university. Last semester I, for the first time, opened my class to people outside of the school. It was an incredible experience, and I would like to continue doing it.\nI used to keep track of these sources in a private Trello, but honestly, why should I just keep it to myself? I hope it helps you all!"
+  },
+  {
+    "objectID": "resources/learning_r.html#kingdom-of-newbr-an-introduction-to-r",
+    "href": "resources/learning_r.html#kingdom-of-newbr-an-introduction-to-r",
+    "title": "Learning R",
+    "section": "Kingdom of NewbR: An introduction to R🌱",
+    "text": "Kingdom of NewbR: An introduction to R🌱\nBy Damie Pak (@pakdamie)\nWhat is this?\nExcerpt from the twitter launching interactive site: I finished a silly beginner #rstats tutorial I started during the pandemic. You are a traveler in a fantastical kingdom of NewbR. It’s interactive and the project was for me to learn how to use learnR\n\nLink to interactive site here: https://dpak.shinyapps.io/LEARNR/"
+  },
+  {
+    "objectID": "courses_tutorials_only/learning_r.html#kingdom-of-newbr-an-introduction-to-r",
+    "href": "courses_tutorials_only/learning_r.html#kingdom-of-newbr-an-introduction-to-r",
+    "title": "Learning R",
+    "section": "Kingdom of NewbR: An introduction to R🌱",
+    "text": "Kingdom of NewbR: An introduction to R🌱\nBy Damie Pak (@pakdamie)\nWhat is this?\nExcerpt from the twitter launching interactive site: I finished a silly beginner #rstats tutorial I started during the pandemic. You are a traveler in a fantastical kingdom of NewbR. It’s interactive and the project was for me to learn how to use learnR\n\nLink to interactive site here: https://dpak.shinyapps.io/LEARNR/"
+  },
+  {
+    "objectID": "blogs_slides_only/visualization.html#designing-ggplots-making-clear-figures-that-communicate-1",
+    "href": "blogs_slides_only/visualization.html#designing-ggplots-making-clear-figures-that-communicate-1",
+    "title": "Visualization",
+    "section": "Designing ggplots making clear figures that communicate",
+    "text": "Designing ggplots making clear figures that communicate\nBy Malcolm Barrett\nWhat is this?\nWonderful slides to make your figures and visualization much clear and communicative. I visit it quite often.\n\nSlides here: https://designing-ggplots.netlify.app/#1"
+  },
+  {
+    "objectID": "blogs_slides_only/visualization.html#how-to-increase-legend-key-size-in-ggplot2",
+    "href": "blogs_slides_only/visualization.html#how-to-increase-legend-key-size-in-ggplot2",
+    "title": "Visualization",
+    "section": "How to Increase Legend Key Size in ggplot2",
+    "text": "How to Increase Legend Key Size in ggplot2\nBy datavizpyr\nAdded Fri Apr 14th, 2023\nWhat is this?\nExcerpt from article: In this tutorial, we will learn how to increase the color legend’s point (or legend key) size in ggplot2. Often when you make a plot with multiple groups and large number of data points, the legend key for the color variable are small and can be not legible in the plot.\nHere we will see examples of increasing the point size of the legend in a scatter plot using guides() function in ggplot2.\n\nLink to article here: https://datavizpyr.com/increase-legend-key-size-in-ggplot2/"
+  },
+  {
+    "objectID": "courses_tutorials_only/visualization.html#how-to-increase-legend-key-size-in-ggplot2",
+    "href": "courses_tutorials_only/visualization.html#how-to-increase-legend-key-size-in-ggplot2",
+    "title": "Visualization",
+    "section": "How to Increase Legend Key Size in ggplot2",
+    "text": "How to Increase Legend Key Size in ggplot2\nBy datavizpyr\nAdded Fri Apr 14th, 2023\nWhat is this?\nExcerpt from article: In this tutorial, we will learn how to increase the color legend’s point (or legend key) size in ggplot2. Often when you make a plot with multiple groups and large number of data points, the legend key for the color variable are small and can be not legible in the plot.\nHere we will see examples of increasing the point size of the legend in a scatter plot using guides() function in ggplot2.\n\nLink to article here: https://datavizpyr.com/increase-legend-key-size-in-ggplot2/"
+  },
+  {
+    "objectID": "resources/visualization.html#how-to-increase-legend-key-size-in-ggplot2",
+    "href": "resources/visualization.html#how-to-increase-legend-key-size-in-ggplot2",
+    "title": "Visualization",
+    "section": "How to Increase Legend Key Size in ggplot2",
+    "text": "How to Increase Legend Key Size in ggplot2\nBy datavizpyr\nAdded Fri Apr 14th, 2023\nWhat is this?\nExcerpt from article: In this tutorial, we will learn how to increase the color legend’s point (or legend key) size in ggplot2. Often when you make a plot with multiple groups and large number of data points, the legend key for the color variable are small and can be not legible in the plot.\nHere we will see examples of increasing the point size of the legend in a scatter plot using guides() function in ggplot2.\n\nLink to article here: https://datavizpyr.com/increase-legend-key-size-in-ggplot2/"
+  },
+  {
+    "objectID": "resources/learning_r.html#statistical-computing-at-johns-hopkins-bloomberg-school-of-public-health",
+    "href": "resources/learning_r.html#statistical-computing-at-johns-hopkins-bloomberg-school-of-public-health",
+    "title": "Learning R",
+    "section": "Statistical Computing at Johns Hopkins Bloomberg School of Public Health",
+    "text": "Statistical Computing at Johns Hopkins Bloomberg School of Public Health\nBy Stephanie Hicks\nAdded Fri Apri 14th, 2023\nWhat is this?\nExcerpt from course site: This course covers advanced statistical computing programming paradigms and workflows required for the research and application of statistical methods. Includes the basics of programming in unix and/or using command-line tools, introduction to version control, advanced R and tidyverse skills, introduction to creating R packages with documentation, working with relational databases, introduction to functional programming, getting and using data from APIs, introduction to Shiny and dashboards. Topics in statistical data analysis provide working examples.\n\nLink to site here: https://www.stephaniehicks.com/jhustatcomputing2022/\nLink to courses repo here: https://github.com/stephaniehicks/jhustatprogramming2022"
+  },
+  {
+    "objectID": "courses_tutorials_only/learning_r.html#statistical-computing-at-johns-hopkins-bloomberg-school-of-public-health",
+    "href": "courses_tutorials_only/learning_r.html#statistical-computing-at-johns-hopkins-bloomberg-school-of-public-health",
+    "title": "Learning R",
+    "section": "Statistical Computing at Johns Hopkins Bloomberg School of Public Health",
+    "text": "Statistical Computing at Johns Hopkins Bloomberg School of Public Health\nBy Stephanie Hicks\nAdded Fri Apri 14th, 2023\nWhat is this?\nExcerpt from course site: This course covers advanced statistical computing programming paradigms and workflows required for the research and application of statistical methods. Includes the basics of programming in unix and/or using command-line tools, introduction to version control, advanced R and tidyverse skills, introduction to creating R packages with documentation, working with relational databases, introduction to functional programming, getting and using data from APIs, introduction to Shiny and dashboards. Topics in statistical data analysis provide working examples.\n\nLink to site here: https://www.stephaniehicks.com/jhustatcomputing2022/\nLink to courses repo here: https://github.com/stephaniehicks/jhustatprogramming2022"
+  },
+  {
+    "objectID": "resources/packages_how_to.html#rjtools-preparing-checking-and-submitting-articles-to-the-r-journal",
+    "href": "resources/packages_how_to.html#rjtools-preparing-checking-and-submitting-articles-to-the-r-journal",
+    "title": "Packages (How to make them?)",
+    "section": "rjtools: Preparing, Checking, and Submitting Articles to the ‘R Journal’",
+    "text": "rjtools: Preparing, Checking, and Submitting Articles to the ‘R Journal’\nBy Di Cook\nAdded Fri Apr 14th, 2023\nWhat is this?\nExcerpt from vignette: Create an ‘R Journal’ ‘Rmarkdown’ template article, that will generate html and pdf versions of your paper. Check that the paper folder has all the required components needed for submission. Examples of ‘R Journal’ publications can be found at https://journal.r-project.org.\n\nLink to package vignette here: https://cran.r-project.org/web/packages/rjtools/index.html\nLink to package manual here: https://cran.r-project.org/web/packages/rjtools/rjtools.pdf"
+  },
+  {
+    "objectID": "resources/quarto.html#quarto-demos",
+    "href": "resources/quarto.html#quarto-demos",
+    "title": "Quarto",
+    "section": "Quarto demos",
+    "text": "Quarto demos\nBy EEHolmes-DataScience\nWhat is this?\nExcerpt from site: Short tutorials on topics around Quarto\n\nLink to tutorials here: https://www.youtube.com/playlist?list=PLDqZV53PcnYxnBYuEdSBxnOwdKLGaoKGg"
+  },
+  {
+    "objectID": "courses_tutorials_only/quarto.html#quarto-demos",
+    "href": "courses_tutorials_only/quarto.html#quarto-demos",
+    "title": "Quarto",
+    "section": "Quarto demos",
+    "text": "Quarto demos\nBy EEHolmes-DataScience\nWhat is this?\nExcerpt from site: Short tutorials on topics around Quarto\n\nLink to tutorials here: https://www.youtube.com/playlist?list=PLDqZV53PcnYxnBYuEdSBxnOwdKLGaoKGg"
+  },
+  {
+    "objectID": "resources/learning_r.html#using-r-as-a-gis-preview-what-is-r",
+    "href": "resources/learning_r.html#using-r-as-a-gis-preview-what-is-r",
+    "title": "Learning R",
+    "section": "Using R as a GIS: Preview: What Is R?",
+    "text": "Using R as a GIS: Preview: What Is R?\nBy Dr. Nick Bearman\nAdded Fri Apr 14th, 2023\nWhat is this?\nExcerpt from e-book here: In this preview chapter, we discuss what R is how we can use it as a GIS and why it is different to many other Geographic Information System (GIS) programs.\nThis book is in the works and we are offering a single preview chapter for free!\n\nLink to the course here: https://locatepress.com/book/rgis1"
+  },
+  {
+    "objectID": "ebooks_only/learning_r.html#using-r-as-a-gis-preview-what-is-r",
+    "href": "ebooks_only/learning_r.html#using-r-as-a-gis-preview-what-is-r",
+    "title": "Learning R",
+    "section": "Using R as a GIS: Preview: What Is R?",
+    "text": "Using R as a GIS: Preview: What Is R?\nBy Dr. Nick Bearman\nAdded Fri Apr 14th, 2023\nWhat is this?\nExcerpt from e-book here: In this preview chapter, we discuss what R is how we can use it as a GIS and why it is different to many other Geographic Information System (GIS) programs.\nThis book is in the works and we are offering a single preview chapter for free!\n\nLink to the course here: https://locatepress.com/book/rgis1"
+  },
+  {
+    "objectID": "ebooks_only/learning_r.html#r-for-data-analysis",
+    "href": "ebooks_only/learning_r.html#r-for-data-analysis",
+    "title": "Learning R",
+    "section": "R for Data Analysis",
+    "text": "R for Data Analysis\nBy Trevor French\nAdded Fri Apr 14th, 2023\nWhat is this?\nExcerpt from e-book: The purpose of this book is to inspire and enable anyone who reads it to reconsider the methods they currently employ to analyse data. This is not to suggest that the methodologies outlined will be useful or sufficient for everyone who reads it. Some analyses can be performed quickly without the need for additional computation while others will require advanced analytics techniques not outlined in this book; however, the aspiration is that all will be equipped with novel tools and ideas for approaching data analysis.\n\nLink to e-book here: https://trevorfrench.github.io/R-for-Data-Analysis/?es_id=aaa755b1d8"
+  },
+  {
+    "objectID": "resources/statistics.html#r-for-data-analysis",
+    "href": "resources/statistics.html#r-for-data-analysis",
+    "title": "Statistics",
+    "section": "R for Data Analysis",
+    "text": "R for Data Analysis\nBy Trevor French\nAdded Fri Apr 14th, 2023\nWhat is this?\nExcerpt from e-book: The purpose of this book is to inspire and enable anyone who reads it to reconsider the methods they currently employ to analyse data. This is not to suggest that the methodologies outlined will be useful or sufficient for everyone who reads it. Some analyses can be performed quickly without the need for additional computation while others will require advanced analytics techniques not outlined in this book; however, the aspiration is that all will be equipped with novel tools and ideas for approaching data analysis.\n\nLink to e-book here: https://trevorfrench.github.io/R-for-Data-Analysis/?es_id=aaa755b1d8"
+  },
+  {
+    "objectID": "ebooks_only/statistics.html#r-for-data-analysis",
+    "href": "ebooks_only/statistics.html#r-for-data-analysis",
+    "title": "Statistics",
+    "section": "R for Data Analysis",
+    "text": "R for Data Analysis\nBy Trevor French\nAdded Fri Apr 14th, 2023\nWhat is this?\nExcerpt from e-book: The purpose of this book is to inspire and enable anyone who reads it to reconsider the methods they currently employ to analyse data. This is not to suggest that the methodologies outlined will be useful or sufficient for everyone who reads it. Some analyses can be performed quickly without the need for additional computation while others will require advanced analytics techniques not outlined in this book; however, the aspiration is that all will be equipped with novel tools and ideas for approaching data analysis.\n\nLink to e-book here: https://trevorfrench.github.io/R-for-Data-Analysis/?es_id=aaa755b1d8"
+  },
+  {
+    "objectID": "resources/learning_r.html#r-for-data-analysis",
+    "href": "resources/learning_r.html#r-for-data-analysis",
+    "title": "Learning R",
+    "section": "R for Data Analysis",
+    "text": "R for Data Analysis\nBy Trevor French\nAdded Fri Apr 14th, 2023\nWhat is this?\nExcerpt from e-book: The purpose of this book is to inspire and enable anyone who reads it to reconsider the methods they currently employ to analyse data. This is not to suggest that the methodologies outlined will be useful or sufficient for everyone who reads it. Some analyses can be performed quickly without the need for additional computation while others will require advanced analytics techniques not outlined in this book; however, the aspiration is that all will be equipped with novel tools and ideas for approaching data analysis.\n\nLink to e-book here: https://trevorfrench.github.io/R-for-Data-Analysis/?es_id=aaa755b1d8"
+  },
+  {
+    "objectID": "courses_tutorials_only/git.html#use-git-like-a-professional-software-engineer-git-and-github-crash-course-for-beginners",
+    "href": "courses_tutorials_only/git.html#use-git-like-a-professional-software-engineer-git-and-github-crash-course-for-beginners",
+    "title": "Git and Github",
+    "section": "Use GIT like a professional software engineer!: Git and GitHub Crash Course for beginners",
+    "text": "Use GIT like a professional software engineer!: Git and GitHub Crash Course for beginners\nAdded Fri Apr 14th, 2023\nWhat is this?\nExcerpt from site here: Classes teach you all about advanced topics within CS, from operating systems to machine learning, but there’s one critical subject that’s rarely covered, and is instead left to students to figure out on their own: proficiency with their tools. We’ll teach you how to master the command-line, use a powerful text editor, use fancy features of version control systems, and much more!\n\nLink to site here: https://www.youtube.com/watch?v=NmC0GtHj_4w"
+  },
+  {
+    "objectID": "resources/git.html#use-git-like-a-professional-software-engineer-git-and-github-crash-course-for-beginners",
+    "href": "resources/git.html#use-git-like-a-professional-software-engineer-git-and-github-crash-course-for-beginners",
+    "title": "Git and Github",
+    "section": "Use GIT like a professional software engineer!: Git and GitHub Crash Course for beginners",
+    "text": "Use GIT like a professional software engineer!: Git and GitHub Crash Course for beginners\nAdded Fri Apr 14th, 2023\nWhat is this?\nExcerpt from site here: Classes teach you all about advanced topics within CS, from operating systems to machine learning, but there’s one critical subject that’s rarely covered, and is instead left to students to figure out on their own: proficiency with their tools. We’ll teach you how to master the command-line, use a powerful text editor, use fancy features of version control systems, and much more!\n\nLink to site here: https://www.youtube.com/watch?v=NmC0GtHj_4w"
+  },
+  {
+    "objectID": "resources/visualization.html#raincloud-vignette",
+    "href": "resources/visualization.html#raincloud-vignette",
+    "title": "Visualization",
+    "section": "Raincloud vignette 💯💯💯",
+    "text": "Raincloud vignette 💯💯💯\nBy Micah Allen, Davide Poggiali, Kirstie Whitaker, Tom Rhys Marshall, Jordy van Langen, & Rogier A. Kievit\nAdded Fri Apr 14th, 2023\nWhat is this?\nExcerpt from article: Here we describe a data visualization approach which overcomes these issues, providing maximal statistical information while preserving the desired ‘inference at a glance’ nature of barplots and other similar visualization devices. These “raincloud plots” can visualize raw data, probability density, and key summary statistics such as median, mean, and relevant confidence intervals in an appealing and flexible format with minimal redundancy. In this tutorial paper, we provide basic demonstrations of the strength of raincloud plots and similar approaches, outline potential modifications for their optimal use, and provide open-source code for their streamlined implementation in R, Python and Matlab (https://github.com/RainCloudPlots/RainCloudPlots).\n\nLink to vignette: https://cran.r-project.org/web/packages/ggrain/vignettes/ggrain.html\nLink to article: https://wellcomeopenresearch.org/articles/4-63"
   }
 ]

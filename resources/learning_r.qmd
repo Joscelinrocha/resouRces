@@ -202,6 +202,16 @@ This book uses R like any other statistics software: To work-with and visualize 
 
 1.  Link to ebook here: <https://benwhalley.github.io/just-enough-r/>
 
+## [Kingdom of NewbR: An introduction to R](https://dpak.shinyapps.io/LEARNR/)🌱
+
+By [Damie Pak](https://dpak.shinyapps.io/LEARNR/) (\@pakdamie)
+
+**What is this?**
+
+**Excerpt from the twitter launching interactive site:** I finished a silly beginner [#rstats](https://twitter.com/hashtag/rstats?src=hashtag_click) tutorial I started during the pandemic. You are a traveler in a fantastical kingdom of NewbR. It's interactive and the project was for me to learn how to use learnR
+
+1.  Link to interactive site here: <https://dpak.shinyapps.io/LEARNR/>
+
 ## [Learning R with Hockey Data and learnr](https://meghan.rbind.io/blog/learnr/) 🌱
 
 By [Meghan Hall](https://meghan.rbind.io/blog/learnr/)
@@ -287,6 +297,20 @@ By [Ted Laderas & Jessica Minnier](https://r-bootcamp.netlify.app/)
 
 1.  Link to course: <https://r-bootcamp.netlify.app/>
 
+## [R for Data Analysis](https://trevorfrench.github.io/R-for-Data-Analysis/?es_id=aaa755b1d8)
+
+By [Trevor French](https://trevorfrench.github.io/R-for-Data-Analysis/?es_id=aaa755b1d8)
+
+Added Fri Apr 14th, 2023
+
+**What is this?**
+
+**Excerpt from e-book:** The purpose of this book is to inspire and enable anyone who reads it to reconsider the methods they currently employ to analyse data.
+This is not to suggest that the methodologies outlined will be useful or sufficient for everyone who reads it.
+Some analyses can be performed quickly without the need for additional computation while others will require advanced analytics techniques not outlined in this book; however, the aspiration is that all will be equipped with novel tools and ideas for approaching data analysis.
+
+1.  Link to e-book here: https://trevorfrench.github.io/R-for-Data-Analysis/?es_id=aaa755b1d8
+
 ## [R for Psychological Science](https://psyr.djnavarro.net/)
 
 By [Danielle Navarro](https://psyr.djnavarro.net/)
@@ -347,6 +371,19 @@ By [Kelly Black](https://www.cyclismo.org/tutorial/R/index.html)
 2.  Link to courses repo here: <https://github.com/swirldev/swirl_courses#swirl-courses>
 3.  Link to the Swirl Course Network: <https://swirlstats.com/students.html>
 
+## [Statistical Computing at Johns Hopkins Bloomberg School of Public Health](https://www.stephaniehicks.com/jhustatcomputing2022/)
+
+By [Stephanie Hicks](https://www.stephaniehicks.com/jhustatcomputing2022/)
+
+Added Fri Apri 14th, 2023
+
+**What is this?**
+
+**Excerpt from course site:** This course covers advanced statistical computing programming paradigms and workflows required for the research and application of statistical methods. Includes the basics of programming in unix and/or using command-line tools, introduction to version control, advanced R and tidyverse skills, introduction to creating R packages with documentation, working with relational databases, introduction to functional programming, getting and using data from APIs, introduction to Shiny and dashboards. Topics in statistical data analysis provide working examples.
+
+1.  Link to site here: <https://www.stephaniehicks.com/jhustatcomputing2022/>
+2.  Link to courses repo here: <https://github.com/stephaniehicks/jhustatprogramming2022>
+
 ## [Teacup Giraffes_Before the Adventure Begins: INTRO TO R](https://tinystats.github.io/teacups-giraffes-and-statistics/01_introToR.html#common_functions)🌱
 
 By [Hasse Walum & Desirée De Leon](https://tinystats.github.io/teacups-giraffes-and-statistics/01_introToR.html#common_functions)
@@ -389,7 +426,9 @@ By [Max Kuhn & Julia Silge](https://www.tmwr.org/)
 
 ## [Tidy Tuesday by David Robinson](https://www.youtube.com/channel/UCeiiqmVK07qhY-wvg3IZiZQ)
 
-**What is this?** Wonderful youtube channel by David Robinson.
+**What is this?**
+
+Wonderful youtube channel by David Robinson.
 
 1.  Link to site here: <https://www.youtube.com/user/safe4democracy/featured>
 
@@ -397,13 +436,31 @@ By [Max Kuhn & Julia Silge](https://www.tmwr.org/)
 
 By [Mike Frank](https://github.com/mcfrank/tidyverse-tutorial)
 
-**What is this?** Excerpt from site: In this tutorial, I'll walk through how to go from a database or tabular data file to an interactive plot with surprisingly little pain (and less code than you'd imagine). My focus will be on introducing a workflow that uses a wide variety of different tools and packages, including readr, dplyr, tidyr, and shiny. I'll assume basic familiarity with R and will use (but not spend too much time teaching) ggplot2. Featuring data from http://wordbank.stanford.edu
+**What is this?**
+
+**Excerpt from site:** In this tutorial, I'll walk through how to go from a database or tabular data file to an interactive plot with surprisingly little pain (and less code than you'd imagine). My focus will be on introducing a workflow that uses a wide variety of different tools and packages, including readr, dplyr, tidyr, and shiny. I'll assume basic familiarity with R and will use (but not spend too much time teaching) ggplot2. Featuring data from http://wordbank.stanford.edu
 
 1.  Link to the tutorial here: <https://github.com/mcfrank/tidyverse-tutorial>
 
+## [Using R as a GIS: Preview: What Is R?](https://locatepress.com/book/rgis1)
+
+By [Dr. Nick Bearman](https://locatepress.com/book/rgis1)
+
+Added Fri Apr 14th, 2023
+
+**What is this?**
+
+**Excerpt from e-book here:** In this preview chapter, we discuss what R is how we can use it as a GIS and why it is different to many other Geographic Information System (GIS) programs.
+
+This book is in the works and we are offering a single preview chapter for free!
+
+1.  Link to the course here: <https://locatepress.com/book/rgis1>
+
 ## [Using R for Data Journalism](http://learn.r-journalism.com/en/introduction/)
 
-**What is this?** Excerpt from site here: This course is designed to give you a sense of all the possibilities from programming in R. It'll emphasize packages that will help you do data analysis and visualization. Once you see how fun and easy it can be, you'll be more open to tackling the more challenging task of robust statistical analysis in R, with all its quirks.
+**What is this?**
+
+**Excerpt from site here:** This course is designed to give you a sense of all the possibilities from programming in R. It'll emphasize packages that will help you do data analysis and visualization. Once you see how fun and easy it can be, you'll be more open to tackling the more challenging task of robust statistical analysis in R, with all its quirks.
 
 1.  Link to the course here: <https://learn.r-journalism.com/en/>
 
