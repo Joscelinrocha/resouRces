@@ -6,4 +6,4 @@ Since I got introduced to R, I have been accumulating resources that could help 
 
 I used to keep track of these sources in a private Trello, but honestly, why should I just keep it to myself? I hope it helps you all!
 
-![](images/logo.png){fig-alt="A series of six, generic data visualizations: a scatterplot, a density plot, a contour plot, a line plot, a box plot, and another scatterplot." width="700"}
+![](images/twitter-card.png){.preview-image}

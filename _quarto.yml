@@ -15,6 +15,7 @@ website:
 
   twitter-card:
     image: "images/twitter-card.png"
+    creator: "@JoscelinRocha"
 
   page-footer:
     right: "This page is built with [Quarto](https://quarto.org/)."
