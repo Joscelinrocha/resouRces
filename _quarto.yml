@@ -8,7 +8,7 @@ website:
   description: "Database of Resources to Learn & Teach R"
   site-url: "/resouRces/"
 
-  repo-url: https://github.com/Joscelinrocha/Learning-R-Resources/issues
+  repo-url: https://github.com/Joscelinrocha/resouRces/issues
   repo-actions: [edit, issue]
 
   open-graph: true
@@ -29,7 +29,7 @@ website:
     align: center
     tools:
       - icon: github
-        href: https://github.com/Joscelinrocha/Learning-R-Resources
+        href: https://github.com/Joscelinrocha/resouRces
         text: "GitHub organization"
 
     style: "docked"
