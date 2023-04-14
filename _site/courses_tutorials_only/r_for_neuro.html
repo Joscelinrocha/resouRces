@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>../resouRces - Teaching R</title>
+<title>../resouRces - R for Neuroscientists</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -61,11 +61,11 @@ ul.task-list li input[type="checkbox"] {
 }</script>
 
 
-<meta property="og:title" content="../resouRces - Teaching R">
-<meta property="og:description" content="E-books Only">
+<meta property="og:title" content="../resouRces - R for Neuroscientists">
+<meta property="og:description" content="Courses &amp; Tutorials Only">
 <meta property="og:site-name" content="../resouRces">
-<meta name="twitter:title" content="../resouRces - Teaching R">
-<meta name="twitter:description" content="E-books Only">
+<meta name="twitter:title" content="../resouRces - R for Neuroscientists">
+<meta name="twitter:description" content="Courses &amp; Tutorials Only">
 <meta name="twitter:image" content="/resouRces/images/twitter-card.png">
 <meta name="twitter:creator" content="@JoscelinRocha">
 <meta name="twitter:image-height" content="1575">
@@ -79,7 +79,7 @@ ul.task-list li input[type="checkbox"] {
   <header id="quarto-header" class="headroom fixed-top">
   <nav class="quarto-secondary-nav" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
     <div class="container-fluid d-flex justify-content-between">
-      <h1 class="quarto-secondary-nav-title">Teaching R</h1>
+      <h1 class="quarto-secondary-nav-title">R for Neuroscientists</h1>
       <button type="button" class="quarto-btn-toggle btn" aria-label="Show secondary navigation">
         <i class="bi bi-chevron-right"></i>
       </button>
@@ -290,18 +290,30 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#rstudio4edu-a-handbook-for-teaching-and-learning-with-r-and-rstudio" id="toc-rstudio4edu-a-handbook-for-teaching-and-learning-with-r-and-rstudio" class="nav-link active" data-scroll-target="#rstudio4edu-a-handbook-for-teaching-and-learning-with-r-and-rstudio">rstudio4edu A Handbook for Teaching and Learning with R and RStudio</a></li>
-  <li><a href="#section" id="toc-section" class="nav-link" data-scroll-target="#section"></a></li>
+  <li><a href="#fnirs-nirs" id="toc-fnirs-nirs" class="nav-link active" data-scroll-target="#fnirs-nirs">fNIRS &amp; NIRS</a></li>
+  <li><a href="#fmri-mri-qmri" id="toc-fmri-mri-qmri" class="nav-link" data-scroll-target="#fmri-mri-qmri">fMRi, MRI, &amp; qMRI</a>
+  <ul class="collapse">
+  <li><a href="#working-with-fmri-data-using-r" id="toc-working-with-fmri-data-using-r" class="nav-link" data-scroll-target="#working-with-fmri-data-using-r">Working with fMRI data using R</a></li>
+  <li><a href="#r-for-statistical-analysis-of-fmri-data" id="toc-r-for-statistical-analysis-of-fmri-data" class="nav-link" data-scroll-target="#r-for-statistical-analysis-of-fmri-data">R for statistical analysis of fMRI data</a></li>
+  </ul></li>
+  <li><a href="#eeg" id="toc-eeg" class="nav-link" data-scroll-target="#eeg">EEG</a></li>
+  <li><a href="#all-neuro" id="toc-all-neuro" class="nav-link" data-scroll-target="#all-neuro">All Neuro</a>
+  <ul class="collapse">
+  <li><a href="#neuropointillist" id="toc-neuropointillist" class="nav-link" data-scroll-target="#neuropointillist">neuropointillist</a></li>
+  <li><a href="#plotting-brain-atlases-in-ggplot" id="toc-plotting-brain-atlases-in-ggplot" class="nav-link" data-scroll-target="#plotting-brain-atlases-in-ggplot">Plotting brain atlases in ggplot</a></li>
+  <li><a href="#neuroconductor" id="toc-neuroconductor" class="nav-link" data-scroll-target="#neuroconductor">Neuroconductor</a></li>
+  <li><a href="#neuroimaging-analysis-within-r" id="toc-neuroimaging-analysis-within-r" class="nav-link" data-scroll-target="#neuroimaging-analysis-within-r">Neuroimaging Analysis within R</a></li>
+  </ul></li>
   </ul>
-<div class="toc-actions"><div><i class="bi bi-github"></i></div><div class="action-links"><p><a href="https://github.com/Joscelinrocha/resouRces/edit/main/ebooks_only/teaching_r.qmd" class="toc-action">Edit this page</a></p><p><a href="https://github.com/Joscelinrocha/resouRces/issues/new" class="toc-action">Report an issue</a></p></div></div></nav>
+<div class="toc-actions"><div><i class="bi bi-github"></i></div><div class="action-links"><p><a href="https://github.com/Joscelinrocha/resouRces/edit/main/courses_tutorials_only/r_for_neuro.qmd" class="toc-action">Edit this page</a></p><p><a href="https://github.com/Joscelinrocha/resouRces/issues/new" class="toc-action">Report an issue</a></p></div></div></nav>
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title d-none d-lg-block">Teaching R</h1>
-<p class="subtitle lead">E-books Only</p>
+<h1 class="title d-none d-lg-block">R for Neuroscientists</h1>
+<p class="subtitle lead">Courses &amp; Tutorials Only</p>
 </div>
 
 
@@ -318,19 +330,102 @@ ul.task-list li input[type="checkbox"] {
 
 <p><link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/JoscelinRocha"><img src="https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg" alt="Buy me a coffee" width="15" height="21">Buy me a coffee</a></p>
 <hr>
-<section id="rstudio4edu-a-handbook-for-teaching-and-learning-with-r-and-rstudio" class="level2">
-<h2 class="anchored" data-anchor-id="rstudio4edu-a-handbook-for-teaching-and-learning-with-r-and-rstudio"><a href="https://rstudio4edu.github.io/rstudio4edu-book/">rstudio4edu A Handbook for Teaching and Learning with R and RStudio</a></h2>
-<p>By <a href="https://rstudio4edu.github.io/rstudio4edu-book/">Desirée De Leon &amp; Alison Hill</a></p>
-<p><strong>What is it?</strong></p>
-<p><strong>Excerpt from handbook:</strong> This handbook was inspired by the Handbook for Teaching and Learning with Jupyter- a book written by and for educators who teach data science. It is a thoughtful and inspiring resource for all educators, with a focus on the Python ecosystem. We aimed to create a similar resource for educators working with the R and RStudio ecosystem.</p>
+<section id="fnirs-nirs" class="level1">
+<h1>fNIRS &amp; NIRS</h1>
+</section>
+<section id="fmri-mri-qmri" class="level1">
+<h1>fMRi, MRI, &amp; qMRI</h1>
+<section id="working-with-fmri-data-using-r" class="level2">
+<h2 class="anchored" data-anchor-id="working-with-fmri-data-using-r"><a href="https://jokedurnez.github.io/validating-fmri/01-introduction/index.html">Working with fMRI data using R</a></h2>
+<p>Added Sunday Dec 13th, 2020</p>
+<p><strong>What is this?</strong><br>
+<strong>Description from site:</strong> Reading and visualising fMRI data with R/neuroconductor.</p>
 <ol type="1">
-<li>Link to handbook: <a href="https://rstudio4edu.github.io/rstudio4edu-book/" class="uri">https://rstudio4edu.github.io/rstudio4edu-book/</a></li>
+<li>Link to site: <a href="https://jokedurnez.github.io/validating-fmri/01-introduction/index.html" class="uri">https://jokedurnez.github.io/validating-fmri/01-introduction/index.html</a></li>
 </ol>
 </section>
-<section id="section" class="level2">
-<h2 class="anchored" data-anchor-id="section"></h2>
+<section id="r-for-statistical-analysis-of-fmri-data" class="level2">
+<h2 class="anchored" data-anchor-id="r-for-statistical-analysis-of-fmri-data"><a href="https://neurohackademy.org/course/r-for-statistical-analysis-of-fmri-data/">R for statistical analysis of fMRI data</a></h2>
+<p>By <a href="https://neurohackademy.org/course/r-for-statistical-analysis-of-fmri-data/">Tara Madhyastha</a></p>
+<p>Added Sunday Dec 13th, 2020</p>
+<p><strong>What is this?</strong></p>
+<p>Tutorial given at Neurohackademy 2018 by Tara Madhyastha</p>
+<ol type="1">
+<li>Link to site in NeuroHackademy: <a href="https://neurohackademy.org/course/r-for-statistical-analysis-of-fmri-data/" class="uri">https://neurohackademy.org/course/r-for-statistical-analysis-of-fmri-data/</a></li>
+<li>Link to youtube video: <a href="https://youtu.be/sdbkWvFhTZ0" class="uri">https://youtu.be/sdbkWvFhTZ0</a></li>
+</ol>
+</section>
+</section>
+<section id="eeg" class="level1">
+<h1>EEG</h1>
+</section>
+<section id="all-neuro" class="level1">
+<h1>All Neuro</h1>
+<section id="neuropointillist" class="level2">
+<h2 class="anchored" data-anchor-id="neuropointillist"><a href="http://ibic.github.io/neuropointillist/">neuropointillist</a></h2>
+<p>Added Sunday Dec 13th, 2020<br>
+<strong>What is this?</strong></p>
+<p>Description from site: Flexible modeling of neuroimaging data in R, point by point</p>
+<ol type="1">
+<li>Link to site: <a href="http://ibic.github.io/neuropointillist/" class="uri">http://ibic.github.io/neuropointillist/</a></li>
+<li>Content:</li>
+</ol>
+<ul>
+<li><a href="http://ibic.github.io/neuropointillist/fmri.example.html">Simple fMRI example</a></li>
+<li><a href="http://ibic.github.io/neuropointillist/fingerfootlips.example.html">Advanced fMRI example</a></li>
+<li><a href="http://ibic.github.io/neuropointillist/fingerfootlips_permute.html">Permutation testing fMRI example</a></li>
+<li><a href="http://ibic.github.io/neuropointillist/flournoy.example.html">Flournoy example (longitudinal)</a></li>
+<li><a href="http://ibic.github.io/neuropointillist/clustercorrection.html">Correcting for multiple comparisons</a></li>
+</ul>
+</section>
+<section id="plotting-brain-atlases-in-ggplot" class="level2">
+<h2 class="anchored" data-anchor-id="plotting-brain-atlases-in-ggplot"><a href="https://lcbc-uio.github.io/ggseg/articles/ggseg.html">Plotting brain atlases in ggplot</a></h2>
+<p>Added Sunday Dec 13th, 2020<br>
+<strong>What is this?</strong></p>
+<p><strong>Description from site:</strong> Plotting regions from different brain atlases ggplot2 is a handy way of displaying results or grouping of aparc data.</p>
+<p>The function ggseg(), is based in the ggplot2 format, it is recommended to get familiarized with plotting data with ggplot2.</p>
+<p>Out-of-the-box, ggseg() works without supplying any extra information. It will create a base plot of the aparc brain segmentations.</p>
+<ol type="1">
+<li>Link to site: <a href="https://lcbc-uio.github.io/ggseg/articles/ggseg.html" class="uri">https://lcbc-uio.github.io/ggseg/articles/ggseg.html</a></li>
+<li>Link to ggseg vignette: <a href="https://github.com/LCBC-UiO/ggseg/blob/master/vignettes/ggseg.Rmd" class="uri">https://github.com/LCBC-UiO/ggseg/blob/master/vignettes/ggseg.Rmd</a></li>
+<li>Link to ggseg repo: <a href="https://github.com/LCBC-UiO/ggseg" class="uri">https://github.com/LCBC-UiO/ggseg</a></li>
+</ol>
+</section>
+<section id="neuroconductor" class="level2">
+<h2 class="anchored" data-anchor-id="neuroconductor"><a href="https://neuroconductor.org/">Neuroconductor</a></h2>
+<p>Added Sunday Dec 13th, 2020<br>
+<strong>What is this?</strong></p>
+<p><strong>Description from site:</strong> Neuroconductor is an open-source platform for rapid testing and dissemination of reproducible computational imaging software. The goals of the project are to:</p>
+<p>provide a centralized repository of R software dedicated to image analysis; disseminate quickly software updates; educate a large, diverse community of scientists using detailed tutorials and short courses; ensure quality via automatic and manual quality controls; and promote reproducibility of image data analysis. Based on the programming language R, Neuroconductor started with 51 inter-operable packages that cover multiple areas of imaging including visualization, data processing and storage, and statistical inference. Neuroconductor accepts new R package submissions, which are subject to a formal review and continuous automated testing.</p>
+<ol type="1">
+<li>Link to site here: <a href="https://neuroconductor.org/" class="uri">https://neuroconductor.org/</a></li>
+</ol>
+</section>
+<section id="neuroimaging-analysis-within-r" class="level2">
+<h2 class="anchored" data-anchor-id="neuroimaging-analysis-within-r"><a href="https://johnmuschelli.com/imaging_in_r/">Neuroimaging Analysis within R</a></h2>
+<p>Added Sunday Dec 13th, 2020<br>
+<strong>What is this?</strong></p>
+<p>Series of slides with code for course on Neuroimaging Analysis: All the PDF slides are located in a zip file here.</p>
+<ul>
+<li>Introduction and R <a href="https://johnmuschelli.com/imaging_in_r/intro/index.html">Slides</a>, <a href="https://johnmuschelli.com/imaging_in_r/intro/index.pdf">PDF Slides</a>, <a href="https://johnmuschelli.com/imaging_in_r/intro/index.R">R Code</a>, <a href="https://johnmuschelli.com/imaging_in_r/intro/index.Rmd">Source</a></li>
+<li>General R (not covered at ENAR) <a href="https://johnmuschelli.com/imaging_in_r/general_r/index.html">Slides</a>, <a href="https://johnmuschelli.com/imaging_in_r/general_r/index.pdf">PDF Slides</a>, <a href="https://johnmuschelli.com/imaging_in_r/general_r/index.R">R Code</a>, <a href="https://johnmuschelli.com/imaging_in_r/general_r/index.Rmd">Source</a></li>
+<li>Imaging Packages in R <a href="https://johnmuschelli.com/imaging_in_r/imaging_r_packages/index.html">Slides</a> <a href="https://johnmuschelli.com/imaging_in_r/imaging_r_packages/index.pdf">PDF Slides</a>, <a href="https://johnmuschelli.com/imaging_in_r/imaging_r_packages/index.R">R Code</a>, <a href="https://johnmuschelli.com/imaging_in_r/imaging_r_packages/index.Rmd">Source</a></li>
+<li>Visualization of Images <a href="https://johnmuschelli.com/imaging_in_r/visualization/index.html">Slides</a> <a href="https://johnmuschelli.com/imaging_in_r/visualization/index.pdf">PDF Slides</a>, <a href="https://johnmuschelli.com/imaging_in_r/visualization/index.R">R Code</a>, <a href="https://johnmuschelli.com/imaging_in_r/visualization/index.Rmd">Source</a></li>
+<li>Inhomogeneity Correction <a href="https://johnmuschelli.com/imaging_in_r/inhomogeneity_correction_ms/index.html">Slides</a>, <a href="https://johnmuschelli.com/imaging_in_r/inhomogeneity_correction_ms/index.pdf">PDF Slides</a>, <a href="https://johnmuschelli.com/imaging_in_r/inhomogeneity_correction_ms/index.R">R Code</a> <a href="https://johnmuschelli.com/imaging_in_r/inhomogeneity_correction_ms/index.Rmd">Source</a></li>
+<li>Brain Extraction/Segmentation <a href="https://johnmuschelli.com/imaging_in_r/brain_extraction_malf/index.html">Slides</a>, <a href="https://johnmuschelli.com/imaging_in_r/brain_extraction_malf/index.pdf">PDF Slides</a>, <a href="https://johnmuschelli.com/imaging_in_r/brain_extraction_malf/index.R">R Code</a>, <a href="https://johnmuschelli.com/imaging_in_r/brain_extraction_malf/index.Rmd">Source</a></li>
+<li>Image Registration <a href="https://johnmuschelli.com/imaging_in_r/coregistration/index.html">Slides</a> <a href="https://johnmuschelli.com/imaging_in_r/coregistration/index.pdf">PDF Slides</a>, <a href="https://johnmuschelli.com/imaging_in_r/coregistration/index.R">R Code</a>, <a href="https://johnmuschelli.com/imaging_in_r/coregistration/index.Rmd">Source</a></li>
+<li>Tissue-Class Segmentation <a href="https://johnmuschelli.com/imaging_in_r/segmentation/index.html">Slides</a> <a href="https://johnmuschelli.com/imaging_in_r/segmentation/index.pdf">PDF Slides</a>, <a href="https://johnmuschelli.com/imaging_in_r/segmentation/index.R">R Code</a>, <a href="https://johnmuschelli.com/imaging_in_r/segmentation/index.Rmd">Source</a></li>
+<li>Intensity Normalization <a href="https://johnmuschelli.com/imaging_in_r/intensity_normalization/index.html">Slides</a>, <a href="https://johnmuschelli.com/imaging_in_r/intensity_normalization/index.pdf">PDF Slides</a>, <a href="https://johnmuschelli.com/imaging_in_r/intensity_normalization/index.R">R Code</a>, <a href="https://johnmuschelli.com/imaging_in_r/intensity_normalization/index.Rmd">Source</a></li>
+<li>Segmentation of MS Lesions <a href="https://johnmuschelli.com/imaging_in_r/ms_lesion_segmentation/index.html">Slides</a>, <a href="https://johnmuschelli.com/imaging_in_r/ms_lesion_segmentation/index.pdf">PDF Slides</a>, <a href="https://johnmuschelli.com/imaging_in_r/ms_lesion_segmentation/index.R">R Code</a>, <a href="https://johnmuschelli.com/imaging_in_r/ms_lesion_segmentation/index.Rmd">Source</a></li>
+<li>Image Harmonization <a href="https://johnmuschelli.com/imaging_in_r/image_harmonization/index.html">Slides</a> <a href="https://johnmuschelli.com/imaging_in_r/ms_lesion_segmentation/index.pdf">PDF Slides</a>, <a href="https://johnmuschelli.com/imaging_in_r/image_harmonization/index.R">R Code</a>, <a href="https://johnmuschelli.com/imaging_in_r/image_harmonization/index.Rmd">Source</a></li>
+<li>Starting with Raw (DICOM) Data (not covered) <a href="https://johnmuschelli.com/imaging_in_r/starting_with_raw_data/index.html">Slides</a>, <a href="https://johnmuschelli.com/imaging_in_r/starting_with_raw_data/index.pdf">PDF Slides</a>, <a href="https://johnmuschelli.com/imaging_in_r/starting_with_raw_data/index.R">R Code</a>, <a href="https://johnmuschelli.com/imaging_in_r/starting_with_raw_data/index.Rmd">Source</a></li>
+</ul>
+<ol type="1">
+<li>Link to site here: <a href="https://johnmuschelli.com/imaging_in_r/" class="uri">https://johnmuschelli.com/imaging_in_r/</a></li>
+</ol>
 
 
+</section>
 </section>
 
 </main> <!-- /main -->
