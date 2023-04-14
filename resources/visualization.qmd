@@ -410,6 +410,21 @@ Added Thu Dec 31st, 2020
 
 1.  Link to video demo here: <https://www.youtube.com/watch?v=BNTn_f43U04&feature=youtu.be>
 
+## [How to Increase Legend Key Size in ggplot2](https://datavizpyr.com/increase-legend-key-size-in-ggplot2/)
+
+By [datavizpyr](https://datavizpyr.com/increase-legend-key-size-in-ggplot2/)
+
+Added Fri Apr 14th, 2023
+
+**What is this?**
+
+**Excerpt from article:** In this tutorial, we will learn how to increase the color legend's point (or legend key) size in ggplot2.
+Often when you make a plot with multiple groups and large number of data points, the legend key for the color variable are small and can be not legible in the plot.
+
+Here we will see examples of increasing the point size of the legend in a scatter plot using guides() function in ggplot2.
+
+1.  Link to article here: <https://datavizpyr.com/increase-legend-key-size-in-ggplot2/>
+
 ## [Image sizes in an R markdown document](https://www.jumpingrivers.com/blog/knitr-rmarkdown-image-size/)
 
 Added Fri Apr 23rd, 2021
@@ -632,6 +647,21 @@ Added Mon Sep 14th, 2020
 **What is this?** Slides from Talk given by Will Chase at a Philly dataviz meetup on May 29th, 2019.
 
 1.  Link to slides: <https://www.williamrchase.com/slides/ggplot_intro.html#1>
+
+## [Raincloud vignette](https://cran.r-project.org/web/packages/ggrain/vignettes/ggrain.html) 💯💯💯
+
+By [Micah Allen, Davide Poggiali, Kirstie Whitaker, Tom Rhys Marshall, Jordy van Langen, & Rogier A. Kievit](https://cran.r-project.org/web/packages/ggrain/vignettes/ggrain.html)
+
+Added Fri Apr 14th, 2023
+
+**What is this?**
+
+**Excerpt from article:** Here we describe a data visualization approach which overcomes these issues, providing maximal statistical information while preserving the desired 'inference at a glance' nature of barplots and other similar visualization devices.
+These "raincloud plots" can visualize raw data, probability density, and key summary statistics such as median, mean, and relevant confidence intervals in an appealing and flexible format with minimal redundancy.
+In this tutorial paper, we provide basic demonstrations of the strength of raincloud plots and similar approaches, outline potential modifications for their optimal use, and provide open-source code for their streamlined implementation in R, Python and Matlab (https://github.com/RainCloudPlots/RainCloudPlots).
+
+1.  Link to vignette: <https://cran.r-project.org/web/packages/ggrain/vignettes/ggrain.html>
+2.  Link to article: <https://wellcomeopenresearch.org/articles/4-63>
 
 ## [Resizing plots](https://alyssasfu.wordpress.com/2015/04/03/resizing-plots-in-r-markdown/)
 

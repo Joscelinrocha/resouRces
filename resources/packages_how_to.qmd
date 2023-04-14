@@ -38,7 +38,20 @@ By [Karl Broman](https://kbroman.org/pkg_primer/)
 Minimal tutorial about how to write your very own R package.
 
 1.  Link to tutorial here: <https://kbroman.org/pkg_primer/>
-2.  Lunk to repo here: <https://github.com/kbroman/pkg_primer>
+2.  Link to repo here: <https://github.com/kbroman/pkg_primer>
+
+## [rjtools: Preparing, Checking, and Submitting Articles to the 'R Journal'](https://cran.r-project.org/web/packages/rjtools/index.html)
+
+By [Di Cook](https://cran.r-project.org/web/packages/rjtools/index.html)
+
+Added Fri Apr 14th, 2023
+
+**What is this?**
+
+**Excerpt from vignette:** Create an 'R Journal' 'Rmarkdown' template article, that will generate html and pdf versions of your paper. Check that the paper folder has all the required components needed for submission. Examples of 'R Journal' publications can be found at <https://journal.r-project.org>.
+
+1.  Link to package vignette here: <https://cran.r-project.org/web/packages/rjtools/index.html>
+2.  Link to package manual here: <https://cran.r-project.org/web/packages/rjtools/rjtools.pdf>
 
 ## [Writing an R package from scratch](https://hilaryparker.com/2014/04/29/writing-an-r-package-from-scratch/)
 
@@ -48,4 +61,4 @@ By [Hilary Parker](https://hilaryparker.com/2014/04/29/writing-an-r-package-from
 
 **Excerpt from blog:** This tutorial is not about making a beautiful, perfect R package. This tutorial is about creating a bare-minimum R package so that you don't have to keep thinking to yourself, "I really should just make an R package with these functions so I don't have to keep copy/pasting them like a goddamn luddite." Seriously, it doesn't have to be about sharing your code (although that is an added benefit!). It is about saving yourself time. (n.b. this is my attitude about all reproducibility)
 
-1.  .Link to blog: <https://hilaryparker.com/2014/04/29/writing-an-r-package-from-scratch/>
+1.  Link to blog: <https://hilaryparker.com/2014/04/29/writing-an-r-package-from-scratch/>

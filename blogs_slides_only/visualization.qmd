@@ -130,6 +130,32 @@ I visit it quite often.
 
 1.  Slides here: <https://designing-ggplots.netlify.app/#1>
 
+## [Designing ggplots making clear figures that communicate](https://designing-ggplots.netlify.app/#1)
+
+By [Malcolm Barrett](https://designing-ggplots.netlify.app/#1)
+
+**What is this?**
+
+Wonderful slides to make your figures and visualization much clear and communicative.
+I visit it quite often.
+
+1.  Slides here: <https://designing-ggplots.netlify.app/#1>
+
+## [How to Increase Legend Key Size in ggplot2](https://datavizpyr.com/increase-legend-key-size-in-ggplot2/)
+
+By [datavizpyr](https://datavizpyr.com/increase-legend-key-size-in-ggplot2/)
+
+Added Fri Apr 14th, 2023
+
+**What is this?**
+
+**Excerpt from article:** In this tutorial, we will learn how to increase the color legend's point (or legend key) size in ggplot2.
+Often when you make a plot with multiple groups and large number of data points, the legend key for the color variable are small and can be not legible in the plot.
+
+Here we will see examples of increasing the point size of the legend in a scatter plot using guides() function in ggplot2.
+
+1.  Link to article here: <https://datavizpyr.com/increase-legend-key-size-in-ggplot2/>
+
 ## [Image sizes in an R markdown document](https://www.jumpingrivers.com/blog/knitr-rmarkdown-image-size/)
 
 Added Fri Apr 23rd, 2021

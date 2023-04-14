@@ -17,7 +17,7 @@ By: Nicholas M. Michalak & Loek Brinkman
 
 **What is this?** Description from site: In this three-hour workshop, we introduce you to data science in the R programming language. In particular, we'll show you how to use the "tidyverse" package to transform, visualize and model data. The workshop consists of short introductory presentations followed by elaborate hands-on sessions. At the end of each section, we'll showcase more complex features and functionality. The workshop is designed as an introduction to R. Zero programming experience is required. By the end of the workshop, you'll have a "feel" for what R is and what it can do for you, and we'll provide resources for follow-up self-study.
 
-1.  Course materials here: https://osf.io/69gub/
+1.  Course materials here: <https://osf.io/69gub/>
 
 ## [Beginner's Guide to R](https://osf.io/2bfjy/)🌱
 
@@ -27,7 +27,7 @@ By [Esther Schott](https://osf.io/2bfjy/)
 
 A beginner's guide to R from Basic R, the world of Tidiverse, to even plotting.
 
-1.  Link to OSF files here: https://osf.io/2bfjy/
+1.  Link to OSF files here: <https://osf.io/2bfjy/>
 
 ## [COMP/STAT 112 Macalester College](https://ds112-lendway.netlify.app/) 🌱
 
@@ -38,7 +38,7 @@ Date added: Thu April 15th, 2021
 **What is this?**\
 **Excerpt from the site:** This website serves the students who take COMP/STAT 112 at Macalester College taught by Lisa Lendway. Other people interested in learning Data Science skills using R may also be interested in this material!
 
-1.  Link to OSF files here: https://ds112-lendway.netlify.app/
+1.  Link to OSF files here: <https://ds112-lendway.netlify.app/>
 
 ## [Fundamentals of R Workshop Materials\_](https://osf.io/a2x7j/)🌱
 
@@ -48,8 +48,8 @@ By [Elizabeth Page-Gould & Alexander Danvers](https://osf.io/a2x7j/)
 
 **Excerpt from site:** Have you been meaning to start using R for analysis? Have you been wondering how R can make your analysis easier and your research reproducible? We present a practical introduction to R, demonstrating core analyses in psychology research (e.g., ANOVA, regression). We also explain how to manipulate and clean data in R to maintain a precise record of how the data went from raw to analysis-ready. The ideal audience for this workshop is a researcher who has not used R before, has used it briefly and then gone back to SPSS for the final analyses, or who has used R a few times but wants a better grounding in the basics.
 
-1.  Workshop materials here: https://osf.io/a2x7j/
-2.  Workshop requested examples here: https://osf.io/a2x7j/wiki/Requested%20Examples/
+1.  Workshop materials here: <https://osf.io/a2x7j/>
+2.  Workshop requested examples here: <https://osf.io/a2x7j/wiki/Requested%20Examples/>
 
 ## [Getting Started with R](https://rfortherestofus.com/courses/getting-started/) 💯 🌱
 
@@ -59,7 +59,7 @@ By [David Keyes](https://rfortherestofus.com/courses/getting-started/)
 
 In this course, you'll learn what you need to get up and running with R, including getting R and RStudio set up, working with projects, installing and loading packages, importing and examining data, and more.
 
-1.  Free course here: https://rfortherestofus.com/courses/getting-started/
+1.  Free course here: <https://rfortherestofus.com/courses/getting-started/>
 
 ## [Getting Started in R -- Tinyverse Edition](https://github.com/eddelbuettel/gsir-te) 🌱
 
@@ -70,7 +70,7 @@ Added Tue Oct 12, 2021
 **What is this?**\
 **Excerpt from repo:** An eight-page pdf guide for "Getting Started in R". Objective: To create a short guide that gives a quick overview and introduction to R.
 
-1.  Link to repo here: https://github.com/eddelbuettel/gsir-te
+1.  Link to repo here: <https://github.com/eddelbuettel/gsir-te>
 
 ## [Introduction to R for Statistics and Data Science](https://www.adventures-in-r.com/) 🌱
 
@@ -82,7 +82,7 @@ By [Dr. Kelly Bodwin](https://www.adventures-in-r.com/)
 
 This course was created by Dr. Kelly Bodwin. The materials shared here are free and open source, and may be shared and adapted under the Creative Commons license.
 
-1.  Link to course here: https://www.adventures-in-r.com/
+1.  Link to course here: <https://www.adventures-in-r.com/>
 
 ## [Intro to R for Biologists](https://hbctraining.github.io/Intro-to-R/lessons/07_ggplot2.html) 🌱
 
@@ -92,8 +92,18 @@ This course was created by Dr. Kelly Bodwin. The materials shared here are free 
 
 These materials are intended to provide both basic R programming knowledge and its application for increasing efficiency for data analysis.
 
-1.  Link to site here: https://hbctraining.github.io/Intro-to-R/lessons/07_ggplot2.html
-2.  Link to repo here: https://github.com/hbctraining/Intro-to-R
+1.  Link to site here: <https://hbctraining.github.io/Intro-to-R/lessons/07_ggplot2.html>
+2.  Link to repo here: <https://github.com/hbctraining/Intro-to-R>
+
+## [Kingdom of NewbR: An introduction to R](https://dpak.shinyapps.io/LEARNR/)🌱
+
+By [Damie Pak](https://dpak.shinyapps.io/LEARNR/) (\@pakdamie)
+
+**What is this?**
+
+**Excerpt from the twitter launching interactive site:** I finished a silly beginner [#rstats](https://twitter.com/hashtag/rstats?src=hashtag_click) tutorial I started during the pandemic. You are a traveler in a fantastical kingdom of NewbR. It's interactive and the project was for me to learn how to use learnR
+
+1.  Link to interactive site here: <https://dpak.shinyapps.io/LEARNR/>
 
 ## [Modelling and visualizing data using R: A practical introduction](https://www.danielnettle.org.uk/r-modelling/)
 
@@ -103,8 +113,8 @@ By [Daniel Nettle](https://www.danielnettle.org.uk/r-modelling/)
 
 **Excerpt from site:** This is a basic overview of using R for data analysis, and of linear statistical modelling. It would be suitable for anyone who has had some stats training but not used R; or has used R a little but not become confident; or has neither had stats training nor used R but is not happy with a reasonably steep learning curve. The emphasis is on rapidly getting to be able to use R for most of the common practical purposes, and knowing that you can take it further should you need to. It is designed for you to be able to work through on your own.
 
-1.  Link to pdf for intro: https://www.danielnettle.org.uk/wp-content/uploads/2019/07/funwithR3.0.pdf
-2.  Data files used for this intro: https://www.dropbox.com/sh/7s14m6ceph3laja/AAAIGT7jBZ3n6aIBR8-IT8R4a?dl=0
+1.  Link to pdf for intro: <https://www.danielnettle.org.uk/wp-content/uploads/2019/07/funwithR3.0.pdf>
+2.  Data files used for this intro: <https://www.dropbox.com/sh/7s14m6ceph3laja/AAAIGT7jBZ3n6aIBR8-IT8R4a?dl=0>
 
 ## [Moving Beyond Excel for Your Hockey Analysis](https://meghan.rbind.io/talk/hanic/)
 
@@ -114,9 +124,9 @@ Added Sat Dec, 2021.\
 **What is this?**\
 **Excerpt from site: "**Why and how to get started with coding! This presentation was part of Meghan Chayka and Alison Lukan's HANIC (Hockey Analytics Night in Canada) and focused on how to move on from Excel in order to make your analysis more reproducible, efficient, and shareable".
 
-1.  Link to post here: https://meghan.rbind.io/talk/hanic/
-2.  Link to slides here: https://meghan.rbind.io/slides/hall_hanic_2020.html#1
-3.  Link to video here: https://www.youtube.com/watch?v=-Zl_b5Emvb0&feature=youtu.be
+1.  Link to post here: <https://meghan.rbind.io/talk/hanic/>
+2.  Link to slides here: <https://meghan.rbind.io/slides/hall_hanic_2020.html#1>
+3.  Link to video here: <https://www.youtube.com/watch?v=-Zl_b5Emvb0&feature=youtu.be>
 
 ## [Online R courses-Mainly free ones](https://online-learning.harvard.edu/subject/r)
 
@@ -125,7 +135,7 @@ By [Harvard University](https://online-learning.harvard.edu/subject/r)
 Date added: April 15th, 2021.\
 **What is this?** Excerpt from site: Mainly free courses by Harvard university to learn R
 
-1.  Link to site: https: https://online-learning.harvard.edu/subject/r
+1.  Link to site: https: <https://online-learning.harvard.edu/subject/r>
 
 ## [Programming with R](https://swcarpentry.github.io/r-novice-inflammation/)
 
@@ -135,7 +145,7 @@ By [The Carpentries](https://swcarpentry.github.io/r-novice-inflammation/)
 
 **Excerpt from site:** This lesson is written as an introduction to R, but its real purpose is to introduce the single most important idea in programming: how to solve problems by building functions, each of which can fit in a programmer's working memory. In order to teach that, we must teach people a little about the mechanics of manipulating data with lists and file I/O so that their functions can do things they actually care about. Our teaching order tries to show practical uses of every idea as soon as it is introduced; instructors should resist the temptation to explain the "other 90%" of the language as well.
 
-1.  Course here: https://swcarpentry.github.io/r-novice-inflammation/
+1.  Course here: <https://swcarpentry.github.io/r-novice-inflammation/>
 
 ## [R Bootcamp](https://r-bootcamp.netlify.app/) 🌱
 
@@ -145,7 +155,7 @@ By [Ted Laderas & Jessica Minnier](https://r-bootcamp.netlify.app/)
 
 **Excerpt from the course:** The R-Bootcamp is a gentle and gradual introduction to manipulating and visualizing data in R using the `tidyverse` suite of packages. It is meant for incoming OHSU Bioinformatics and Computational Biomedicine Majors but is appropriate for any beginners wanting to learn elementary data manipulation in R.
 
-1.  Link to course: https://r-bootcamp.netlify.app/
+1.  Link to course: <https://r-bootcamp.netlify.app/>
 
 ## [Remaster the Tidyverse](https://github.com/rstudio-education/remaster-the-tidyverse)
 
@@ -157,7 +167,7 @@ By [Garrett Grolemund](https://github.com/rstudio-education/remaster-the-tidyver
 
 **Data Wrangling with the Tidyverse** An introduction to wrangling lists and tabular data in R with the tidyr, stringr, forcats, lubridate, and purrr packages. The course focuses on creating and using tidy tables and is designed to be a sequel to Welcome to the Tidyverse.
 
-1.  Link to repo here: https://github.com/rstudio-education/remaster-the-tidyverse
+1.  Link to repo here: <https://github.com/rstudio-education/remaster-the-tidyverse>
 
 ## [R-Ladies #LdnOnt Materials](https://drive.google.com/drive/folders/0BzCQiZLG7vQmVm9ISndsRzllbTA)
 
@@ -165,7 +175,7 @@ By [Garrett Grolemund](https://github.com/rstudio-education/remaster-the-tidyver
 
 **Excerpt from site:** Wonderful materials to learn and teach R!!
 
-1.  Link to site here: https://drive.google.com/drive/folders/0BzCQiZLG7vQmVm9ISndsRzllbTA
+1.  Link to site here: <https://drive.google.com/drive/folders/0BzCQiZLG7vQmVm9ISndsRzllbTA>
 
 ## [R Tutorial](https://www.cyclismo.org/tutorial/R/index.html)🌱
 
@@ -175,7 +185,7 @@ By [Kelly Black](https://www.cyclismo.org/tutorial/R/index.html)
 
 **Excerpt from site:** These materials are designed to offer an introduction to the use of R. It is not exhaustive, but is designed to just provide the basics. It has been developed for students who are new to R but have had some basic experience working with computers.
 
-1.  Link to Tutorial here: https://www.cyclismo.org/tutorial/R/index.html
+1.  Link to Tutorial here: <https://www.cyclismo.org/tutorial/R/index.html>
 
 ## [Swirl](https://swirlstats.com/)
 
@@ -183,9 +193,22 @@ By [Kelly Black](https://www.cyclismo.org/tutorial/R/index.html)
 
 **Excerpt from site:** Swirl teaches you R programming and data science interactively, at your own pace, and right in the R console!
 
-1.  Link to site here: https://swirlstats.com/
-2.  Link to courses repo here: https://github.com/swirldev/swirl_courses#swirl-courses
-3.  Link to the Swirl Course Network: https://swirlstats.com/students.html
+1.  Link to site here: <https://swirlstats.com/>
+2.  Link to courses repo here: <https://github.com/swirldev/swirl_courses#swirl-courses>
+3.  Link to the Swirl Course Network: <https://swirlstats.com/students.html>
+
+## [Statistical Computing at Johns Hopkins Bloomberg School of Public Health](https://www.stephaniehicks.com/jhustatcomputing2022/)
+
+By [Stephanie Hicks](https://www.stephaniehicks.com/jhustatcomputing2022/)
+
+Added Fri Apri 14th, 2023
+
+**What is this?**
+
+**Excerpt from course site:** This course covers advanced statistical computing programming paradigms and workflows required for the research and application of statistical methods. Includes the basics of programming in unix and/or using command-line tools, introduction to version control, advanced R and tidyverse skills, introduction to creating R packages with documentation, working with relational databases, introduction to functional programming, getting and using data from APIs, introduction to Shiny and dashboards. Topics in statistical data analysis provide working examples.
+
+1.  Link to site here: <https://www.stephaniehicks.com/jhustatcomputing2022/>
+2.  Link to courses repo here: <https://github.com/stephaniehicks/jhustatprogramming2022>
 
 ## [Teacup Giraffes_Before the Adventure Begins: INTRO TO R](https://tinystats.github.io/teacups-giraffes-and-statistics/01_introToR.html#common_functions)🌱
 
@@ -195,7 +218,7 @@ By [Hasse Walum & Desirée De Leon](https://tinystats.github.io/teacups-giraffes
 
 The site's purpose is to introduce you to statistics with R but the first module gives you a really concise introduction of R.
 
-1.  Link to module: https://tinystats.github.io/teacups-giraffes-and-statistics/01_introToR.html
+1.  Link to module: <https://tinystats.github.io/teacups-giraffes-and-statistics/01_introToR.html>
 
 ## [The tidyverse style guide](https://style.tidyverse.org/)
 
@@ -205,13 +228,13 @@ By [Hadley Wickham](https://style.tidyverse.org/)
 
 **Excerpt from site:** Good coding style is like correct punctuation: you can manage without it, but it sure makes things easier to read. This site describes the style used throughout the tidyverse.
 
-1.  Guide here: https://style.tidyverse.org/
+1.  Guide here: <https://style.tidyverse.org/>
 
 ## [Tidy Tuesday by David Robinson](https://www.youtube.com/channel/UCeiiqmVK07qhY-wvg3IZiZQ)
 
 **What is this?** Wonderful youtube channel by David Robinson.
 
-1.  Link to site here: https://www.youtube.com/user/safe4democracy/featured
+1.  Link to site here: <https://www.youtube.com/user/safe4democracy/featured>
 
 ## [Tidyverse tutorial (2017)](https://github.com/mcfrank/tidyverse-tutorial)
 
@@ -219,13 +242,13 @@ By [Mike Frank](https://github.com/mcfrank/tidyverse-tutorial)
 
 **What is this?** Excerpt from site: In this tutorial, I'll walk through how to go from a database or tabular data file to an interactive plot with surprisingly little pain (and less code than you'd imagine). My focus will be on introducing a workflow that uses a wide variety of different tools and packages, including readr, dplyr, tidyr, and shiny. I'll assume basic familiarity with R and will use (but not spend too much time teaching) ggplot2. Featuring data from http://wordbank.stanford.edu
 
-1.  Link to the tutorial here: https://github.com/mcfrank/tidyverse-tutorial
+1.  Link to the tutorial here: <https://github.com/mcfrank/tidyverse-tutorial>
 
 ## [Using R for Data Journalism](http://learn.r-journalism.com/en/introduction/)
 
 **What is this?** Excerpt from site here: This course is designed to give you a sense of all the possibilities from programming in R. It'll emphasize packages that will help you do data analysis and visualization. Once you see how fun and easy it can be, you'll be more open to tackling the more challenging task of robust statistical analysis in R, with all its quirks.
 
-1.  Link to the course here: https://learn.r-journalism.com/en/
+1.  Link to the course here: <https://learn.r-journalism.com/en/>
 
 ## [Workshop on Data Analysis using R](https://r2018workshop.wixsite.com/r2018) 🌱 🌳
 
@@ -233,7 +256,7 @@ By [the American Statistical Association, University of South Florida Chapter](h
 
 **What is this?** Excerpt from flyer here: The objective of this workshop was to introduce undergraduate and graduate-level students to R and How to use R and various popular packages to perform important data visualizations and analysis. November 5th - 9th, 2018 - Tampa FL.
 
-1.  Day one recorded workshop: https://www.youtube.com/watch?v=bgG-CLTTX-o
-2.  Day two recorded workshop: https://www.youtube.com/watch?v=0fOlzWlC_LM
-3.  Day three recorded workshop: https://www.youtube.com/watch?v=YDCMaiLykSo
-4.  Day four recorded workshop: https://www.youtube.com/watch?v=1_xbU6HmrbM
+1.  Day one recorded workshop: <https://www.youtube.com/watch?v=bgG-CLTTX-o>
+2.  Day two recorded workshop: <https://www.youtube.com/watch?v=0fOlzWlC_LM>
+3.  Day three recorded workshop: <https://www.youtube.com/watch?v=YDCMaiLykSo>
+4.  Day four recorded workshop: <https://www.youtube.com/watch?v=1_xbU6HmrbM>

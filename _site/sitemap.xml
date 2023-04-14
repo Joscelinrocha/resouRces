@@ -330,10 +330,62 @@
   </url>
   <url>
     <loc>https://www.resourcesdatabase.com/index.html</loc>
-    <lastmod>2023-04-14T06:59:29.809Z</lastmod>
+    <lastmod>2023-04-14T21:26:56.629Z</lastmod>
   </url>
   <url>
     <loc>https://www.resourcesdatabase.com/database-overview.html</loc>
     <lastmod>2023-04-14T06:59:24.791Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.resourcesdatabase.com/resources/learning_r.html</loc>
+    <lastmod>2023-04-14T21:04:56.276Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.resourcesdatabase.com/courses_tutorials_only/learning_r.html</loc>
+    <lastmod>2023-04-14T20:23:37.211Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.resourcesdatabase.com/blogs_slides_only/visualization.html</loc>
+    <lastmod>2023-04-14T20:12:33.496Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.resourcesdatabase.com/courses_tutorials_only/visualization.html</loc>
+    <lastmod>2023-04-14T20:12:40.625Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.resourcesdatabase.com/resources/visualization.html</loc>
+    <lastmod>2023-04-14T21:26:23.368Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.resourcesdatabase.com/resources/packages_how_to.html</loc>
+    <lastmod>2023-04-14T20:38:59.455Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.resourcesdatabase.com/resources/quarto.html</loc>
+    <lastmod>2023-04-14T20:52:19.984Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.resourcesdatabase.com/courses_tutorials_only/quarto.html</loc>
+    <lastmod>2023-04-14T20:52:36.103Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.resourcesdatabase.com/ebooks_only/learning_r.html</loc>
+    <lastmod>2023-04-14T21:04:41.479Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.resourcesdatabase.com/resources/statistics.html</loc>
+    <lastmod>2023-04-14T21:04:45.310Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.resourcesdatabase.com/ebooks_only/statistics.html</loc>
+    <lastmod>2023-04-14T21:04:49.391Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.resourcesdatabase.com/courses_tutorials_only/git.html</loc>
+    <lastmod>2023-04-14T21:12:21.828Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.resourcesdatabase.com/resources/git.html</loc>
+    <lastmod>2023-04-14T21:12:23.470Z</lastmod>
   </url>
 </urlset>
