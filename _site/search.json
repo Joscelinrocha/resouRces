@@ -4499,5 +4499,12 @@
     "title": "Art with R",
     "section": "Frankenstein: Voronoi tesselation example",
     "text": "Frankenstein: Voronoi tesselation example\nWhat is this?\nExcerpt from blog: A Voronoi diagram divides a plane based on a set of original points. Each polygon, or Voronoi cell, contains an original point and all that are closer to that point than any other. This is a nice example of a Voronoi tesselation.\n\nLink to blog here: https://fronkonstin.com/2017/03/07/frankenstein/"
+  },
+  {
+    "objectID": "database-overview.html",
+    "href": "database-overview.html",
+    "title": "resouRces: Database for resources to help you learn and teach R",
+    "section": "",
+    "text": "Since I got introduced to R, I have been accumulating resources that could help me and others in this process. In the past two years, I have taken the role of teaching R to people in my lab and university. Last semester I, for the first time, opened my class to people outside of the school. It was an incredible experience, and I would like to continue doing it.\nI used to keep track of these sources in a private Trello, but honestly, why should I just keep it to myself? I hope it helps you all!"
   }
 ]

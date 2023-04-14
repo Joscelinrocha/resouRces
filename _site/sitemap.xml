@@ -242,7 +242,7 @@
   </url>
   <url>
     <loc>/resouRces/index.html</loc>
-    <lastmod>2023-04-14T06:26:47.836Z</lastmod>
+    <lastmod>2023-04-14T06:31:48.773Z</lastmod>
   </url>
   <url>
     <loc>/resouRces/blogs_slides_only/workflows.html</loc>
@@ -323,5 +323,9 @@
   <url>
     <loc>/resouRces/blogs_slides_only/art.html</loc>
     <lastmod>2023-04-14T06:19:39.574Z</lastmod>
+  </url>
+  <url>
+    <loc>/resouRces/database-overview.html</loc>
+    <lastmod>2023-04-14T06:31:44.342Z</lastmod>
   </url>
 </urlset>
