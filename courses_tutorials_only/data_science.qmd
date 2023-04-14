@@ -1,0 +1,77 @@
+---
+title: "Data Science"
+subtitle: "Courses & Tutorials Only"
+editor: 
+  markdown: 
+    wrap: sentence
+---
+
+<link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/JoscelinRocha">![Buy me a coffee](https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg){alt="Buy me a coffee" width="15" height="21"}Buy me a coffee</a>
+
+------------------------------------------------------------------------
+
+## [Data Science for Economists Seminar](https://github.com/uo-ec607/lectures#data-science-for-economists)
+
+By [Grant McDermott at the University of Oregon](https://github.com/uo-ec607/lectures#data-science-for-economists)
+
+**What is this?**\
+**Excerpt from site:** This is a graduate economics seminar taught by Grant McDermott at the University of Oregon.
+
+Please read the syllabus before you go through any of the lectures.
+This will detail software requirements and installation, and give you a better sense of the aims and scope of the course.
+I also have an "FAQ" section at the end that covers frequently asked questions (or, at least, potentially asked questions).
+Speaking of which, here follow answers to some questions that are more specifically related to this repo.
+
+1.  Link to lectures repo: <https://github.com/uo-ec607/lectures#data-science-for-economists>
+
+## [Data Science in a Box](https://datasciencebox.org/)
+
+By [Mine Çetinkaya-Rundel](https://datasciencebox.org/)
+
+**What is it?**\
+**Excerpt from site: T**he core content of the course focuses on data acquisition and wrangling, exploratory data analysis, data visualization, inference, modelling, and effective communication of results.
+Time permitting, the course also introduces additional concepts and tools like interactive visualization and reporting, text analysis, and Bayesian inference.
+
+1.  Link to site: <https://datasciencebox.org/>
+2.  Link to repo: <https://github.com/rstudio-education/datascience-box>
+
+## [Data Science with R](http://robust-tools.djnavarro.net/)
+
+By [Danielle Navarro](http://robust-tools.djnavarro.net/)
+
+**What is this?**\
+Data Science course by the wonderful Danielle Navarro.
+
+1.  Link to e-course here: <http://robust-tools.djnavarro.net/>
+
+## [Data Skill for Reproducible science](https://psyteachr.github.io/msc-data-skills/)
+
+**What is it?**\
+**Excerpt from site:** This course provides an overview of skills needed for reproducible research and open science using the statistical programming language R.
+Students will learn about data visualisation, data tidying and wrangling, archiving, iteration and functions, probability and data simulations, general linear models, and reproducible workflows.
+Learning is reinforced through weekly assignments that involve working with different types of data.
+
+1.  Course here: <https://psyteachr.github.io/msc-data-skills/>
+
+## [Introduction to Data Science Fall 2019](https://introds.org/)
+
+By [University of Edinburgh](https://introds.org/)
+
+**What is this**\
+**Excerpt from site:** Gain experience in data collection, wrangling, and visualization, exploratory data analysis, predictive modeling, and effective communication of results while working on problems and case studies inspired by and based on real-world questions.
+The course will focus on the R statistical computing language.
+
+1.  Link to e-course here: <https://introds.org/>
+2.  
+
+## [Reproducible science workshop: A one-day workshop with R and RStudio](https://oliviergimenez.github.io/reproducible-science-workshop/)
+
+By [Olivier Gimenez](https://oliviergimenez.github.io/reproducible-science-workshop/)
+
+Added Fri Oct 8th, 2021
+
+**What is this**
+
+One day Workshop that includes the following topics: Motivations, Manipulating data in the tidyverse, Visualising data in the tidyverse, Writing dynamic and reproducible documents with R Markdown, Versioning with Git and GitHub in RStudio, and Take-home messages.
+
+1.  Link to materials and videos here: <https://oliviergimenez.github.io/reproducible-science-workshop/>

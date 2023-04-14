@@ -1,0 +1,45 @@
+---
+title: "Teaching R"
+subtitle: "Blogs & Slides Only"
+editor: 
+  markdown: 
+    wrap: sentence
+---
+
+<link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/JoscelinRocha">![Buy me a coffee](https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg){alt="Buy me a coffee" width="15" height="21"}Buy me a coffee</a>
+
+------------------------------------------------------------------------
+
+Here I added resources aimed exclusively for other people who are teaching R.
+
+## [How I Teach R Markdown](https://alison.rbind.io/post/2020-05-28-how-i-teach-r-markdown/)
+
+By [Alison Hill](https://alison.rbind.io/post/2020-05-28-how-i-teach-r-markdown/)
+
+**What is it?**
+
+**Excerpt from blog:** So without further ado, here are some of my guiding principles when introducing R Markdown to beginners, for those who are ready to go beyond casual knitter:
+
+1.  Link to blog: <https://alison.rbind.io/post/2020-05-28-how-i-teach-r-markdown/>
+
+## [How to prepare and teach an R lesson](https://www.monicathieu.com/posts/2020-08-15-prepare-teach-r-lesson/)
+
+By [Monica Thieu](https://www.monicathieu.com/posts/2020-08-15-prepare-teach-r-lesson/)
+
+**What is it?**
+
+**Excerpt from blog:** This blog post contains a written version of my speaker notes for my 20-minute 2020 NYC R conference talk.
+Since the talk time is on the shorter side, I trimmed a few things out of the talk that I would have liked to include with more time.
+The speaker notes for the unabridged version are included here for your reference.
+
+1.  Link to blog: <https://www.monicathieu.com/posts/2020-08-15-prepare-teach-r-lesson/>
+
+## [Sharing on Short Notice_How to get your teaching materials online with R Markdown](https://rstudio-education.github.io/sharing-short-notice/#1)
+
+By [Desirée De Leon & Alison Hill](https://rstudio-education.github.io/sharing-short-notice/#1)
+
+**What is it?**
+
+Now that many of us have to move to online platforms, this is a wonderful resource that walks you through on how you can use rMarkdown to upload your class materials.
+
+1.  Link to site here: <https://rstudio-education.github.io/sharing-short-notice/#1>

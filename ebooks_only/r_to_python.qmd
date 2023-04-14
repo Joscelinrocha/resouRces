@@ -1,0 +1,83 @@
+---
+title: "R to Python"
+subtitle: "E-books Only"
+---
+
+<link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/JoscelinRocha">![Buy me a coffee](https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg){alt="Buy me a coffee" width="15" height="21"}Buy me a coffee</a>
+
+------------------------------------------------------------------------
+
+## [A Byte of Python](https://python.swaroopch.com/)
+
+By [Swaroopch](https://python.swaroopch.com/)
+
+Added Sun Dec 12, 2021\
+**What is this?**.\
+**Excerpt from e-book:** "A Byte of Python" is a free book on programming using the Python language. It serves as a tutorial or guide to the Python language for a beginner audience. If all you know about computers is how to save text files, then this is the book for you."
+
+1.  Link to e-book here: <https://python.swaroopch.com/>
+
+## [Coming from R chapter from the book "Coding for Economics"](https://aeturrell.github.io/coding-for-economists/coming-from-r.html#r-python)
+
+By [Arthur Turrell](https://aeturrell.github.io/coding-for-economists/coming-from-r.html#r-python)
+
+Added Sun Dec 12, 2021
+
+**What is this?**
+
+**Excerpt from e-chapter:** "There are Python equivalents that have very similar syntax to these that you can use to help you to become productive quickly in Python--though these libraries are not so popular in Python. Here are the Python equivalents to those R libraries."
+
+1.  Link to chapter here: <https://aeturrell.github.io/coding-for-economists/coming-from-r.html#r-python>
+2.  Link to full e-book here: <https://aeturrell.github.io/coding-for-economists/intro.html>
+
+## [Data Analysis for Business, Economics, and Policy](https://gabors-data-analysis.com/)
+
+By [Gábor Békés & Gábor Kézdi](https://gabors-data-analysis.com/)
+
+Added Sun Dec 12, 2021
+
+**What is this?**
+
+**Excerpt from e-book:** "This textbook provides future data analysts with the tools, methods, and skills needed to answer data-focused, real life questions, to choose and apply appropriate methods to answer those questions, and to visualize and interpret results to support better decisions in business, economics, and public policy."
+
+1.  Link to textbook here: <https://gabors-data-analysis.com/>
+2.  Link to github repo and case studies here: <https://github.com/gabors-data-analysis/da_case_studies>
+3.  Link to datasets from textbook here: <https://gabors-data-analysis.com/datasets/>
+
+## [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
+
+By [Jake VanderPlas](https://jakevdp.github.io/PythonDataScienceHandbook/)
+
+Added Sun Dec 12, 2021
+
+**What is this?**
+
+**Excerpt from site:** "This website contains the full text of the Python Data Science Handbook by Jake VanderPlas; the content is available on GitHub in the form of Jupyter notebooks.".
+
+1.  Link to post here: <https://jakevdp.github.io/PythonDataScienceHandbook/>
+2.  Link to repo here: <https://github.com/jakevdp/PythonDataScienceHandbook>
+3.  Link to handbook to buy here: <https://www.oreilly.com/library/view/python-data-science/9781491912126/>
+
+## Python Exercises
+
+Added Sun Dec 12, 2021\
+**What is this?**.\
+A collection of different sites that provide python exercises for people from all levels:
+
+1.  [Practice Python](https://www.practicepython.org/)🌱 : There are over 30 beginner Python exercises just waiting to be solved. Each exercise comes with a small discussion of a topic and a link to a solution. New exercises are posted monthly.
+2.  [Python exercises on Exercism](https://exercism.org/tracks/python/exercises) 🌱 🌳
+3.  [Learn by example Exercises](https://github.com/learnbyexample/100_page_python_intro/blob/main/exercises/Exercises.md) 🌱
+
+## [Python & R for the Modern Data Scientist](https://github.com/moderndatadesign/PyR4MDS)💯
+
+By [Rick J Scavetta & Boyan Angelov](https://github.com/moderndatadesign/PyR4MDS)
+
+Added Sun Dec 12, 2021\
+**What is this?**.\
+Excerpt from site: "With this book, data scientists from the Python and R communities will learn how to speak the dialects of each language. By recognizing the strengths of working with both, you'll discover new ways to accomplish data science tasks and expand your skill set."
+
+1.  Link to Appendix A: A Python - R Bilingual Dictionary by Rick J Scavetta here 💯: <http://www.ylz.ncx.mybluehost.me/moderndata.design/PyR4MDS/>
+2.  Link to book to buy here: <https://www.oreilly.com/library/view/python-and-r/9781492093398/>
+3.  Link to github repo and code: <https://github.com/moderndatadesign/PyR4MDS>
+
+## 

@@ -1,0 +1,68 @@
+---
+title: "R to Python"
+subtitle: "Blogs & Slides Only"
+---
+
+<link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/JoscelinRocha">![Buy me a coffee](https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg){alt="Buy me a coffee" width="15" height="21"}Buy me a coffee</a>
+
+------------------------------------------------------------------------
+
+## [Heuristics for Translating Ggplot2 Code to Plotnine Code](https://datascienceworkshops.com/blog/heuristics-for-translating-ggplot2-to-plotnine/)
+
+By [Jeroen Janssens](https://datascienceworkshops.com/blog/heuristics-for-translating-ggplot2-to-plotnine/)
+
+Added Sun Dec 12, 2021
+
+**What is this?**
+
+**Excerpt from site:** "when it comes to the syntax, you can easily translate 95% of ggplot2 code to plotnine code if you take into account the heuristics listed below. But first, an example".
+
+1.  Link to post here: <https://datascienceworkshops.com/blog/heuristics-for-translating-ggplot2-to-plotnine/>
+
+## [Plotnine: Grammar of Graphics for Python](https://datascienceworkshops.com/blog/plotnine-grammar-of-graphics-for-python/)
+
+By [Jeroen Janssens](https://datascienceworkshops.com/blog/plotnine-grammar-of-graphics-for-python/)
+
+Added Sun Dec 12, 2021
+
+**What is this?**
+
+**Excerpt from site:** "plotnine is a data visualisation package for Python based on the grammar of graphics, created by Hassan Kibirige. Its API is similar to ggplot2, a widely successful R package by Hadley Wickham and others".
+
+1.  Link to post here: <https://datascienceworkshops.com/blog/plotnine-grammar-of-graphics-for-python/>
+
+## [Pydon'ts -- Write elegant Python code](https://mathspp.gumroad.com/l/pydonts)
+
+By [Rodrigo](https://mathspp.gumroad.com/l/pydonts)
+
+Added Sun Dec 12, 2021
+
+**What is this?**
+
+**Excerpt from site:** "Would you like me to teach you how to write Python 🐍 code that is more elegant, more effective, and more expressive than what you have been writing until now... for free?"
+
+1.  Link to post here: <https://mathspp.gumroad.com/l/pydonts>
+
+## [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
+
+By [Jake VanderPlas](https://jakevdp.github.io/PythonDataScienceHandbook/)
+
+Added Sun Dec 12, 2021\
+**What is this?**.\
+**Excerpt from site:** "This website contains the full text of the Python Data Science Handbook by Jake VanderPlas; the content is available on GitHub in the form of Jupyter notebooks.".
+
+1.  Link to post here: <https://jakevdp.github.io/PythonDataScienceHandbook/>
+2.  Link to repo here: <https://github.com/jakevdp/PythonDataScienceHandbook>
+3.  Link to handbook to buy here: <https://www.oreilly.com/library/view/python-data-science/9781491912126/>
+
+## Python Exercises
+
+Added Sun Dec 12, 2021
+
+**What is this?**
+
+A collection of different sites that provide python exercises for people from all levels:
+
+1.  \[Practice Python\](https://www.practicepython.org/ 🌱 : There are over 30 beginner Python exercises just waiting to be solved. Each exercise comes with a small discussion of a topic and a link to a solution. New exercises are posted monthly.
+2.  [Python exercises on Exercism](https://exercism.org/tracks/python/exercises) 🌱 🌳
+3.  [Learn by example Exercises](https://github.com/learnbyexample/100_page_python_intro/blob/main/exercises/Exercises.md) 🌱

@@ -1,0 +1,29 @@
+---
+title: "Packages (How to make them?)"
+subtitle: "Blogs & Slides Only"
+---
+
+<link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/JoscelinRocha">![Buy me a coffee](https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg){alt="Buy me a coffee" width="15" height="21"}Buy me a coffee</a>
+
+------------------------------------------------------------------------
+
+## [R package primer a minimal tutorial](https://kbroman.org/pkg_primer/)
+
+By [Karl Broman](https://kbroman.org/pkg_primer/)
+
+**What is this?**
+
+Minimal tutorial about how to write your very own R package.
+
+1.  Link to tutorial here: <https://kbroman.org/pkg_primer/>
+2.  Lunk to repo here: <https://github.com/kbroman/pkg_primer>
+
+## [Writing an R package from scratch](https://hilaryparker.com/2014/04/29/writing-an-r-package-from-scratch/)
+
+By [Hilary Parker](https://hilaryparker.com/2014/04/29/writing-an-r-package-from-scratch/)
+
+**What is this?**
+
+**Excerpt from blog:** This tutorial is not about making a beautiful, perfect R package. This tutorial is about creating a bare-minimum R package so that you don't have to keep thinking to yourself, "I really should just make an R package with these functions so I don't have to keep copy/pasting them like a goddamn luddite." Seriously, it doesn't have to be about sharing your code (although that is an added benefit!). It is about saving yourself time. (n.b. this is my attitude about all reproducibility)
+
+1.  .Link to blog: <https://hilaryparker.com/2014/04/29/writing-an-r-package-from-scratch/>

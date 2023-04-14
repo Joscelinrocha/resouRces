@@ -1,0 +1,313 @@
+---
+title: "Statistics"
+subtitle: "E-books Only"
+editor: 
+  markdown: 
+    wrap: sentence
+---
+
+<link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/JoscelinRocha">![Buy me a coffee](https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg){alt="Buy me a coffee" width="15" height="21"}Buy me a coffee</a>
+
+------------------------------------------------------------------------
+
+## [A Practical Extension of Introductory Statistics in Psychology using R](https://rpsystats.com/)
+
+By [Ekarin E. Pongpipat, Giuseppe G. Miranda, & Matthew J. Kmiecik](https://rpsystats.com/)
+
+**What is this?**
+
+**Excerpt from e-book:** the book will provide some evidence along with R code for others to see how the aforementioned analyses can be analyzed within the GLM framework with identical answers.
+
+1.  Link to ebook: <https://rpsystats.com/>
+
+## [Bayesian Data Analysis course](https://avehtari.github.io/BDA_course_Aalto/)
+
+By [Aki Vehtari](https://avehtari.github.io/BDA_course_Aalto/)
+
+**What is this?**
+
+**Excerpt from course site:** This is the web page for the Bayesian Data Analysis course at Aalto (CS-E5710) by Aki Vehtari.
+
+1.  Link to course: <https://avehtari.github.io/BDA_course_Aalto/>
+2.  Electronic book for course here: <https://users.aalto.fi/~ave/BDA3.pdf>
+
+## [Broadening Your Statistical Horizons Generalized Linear Models and Multilevel Models](https://bookdown.org/roback/bookdown-bysh/)
+
+By [Julie Legler & Paul Roback](https://bookdown.org/roback/bookdown-bysh/)
+
+**What is this?**
+
+Awesome books for stats!!
+Fav book
+
+1.  <https://bookdown.org/roback/bookdown-bysh/>
+
+## [Comparing Multiple Means in R: Repeated Measures ANOVA in R](https://www.datanovia.com/en/lessons/repeated-measures-anova-in-r/)
+
+Added Sun Sep 13th, 2020
+
+**What is this?**
+
+**Excerpt from site:** This chapter describes the different types of repeated measures ANOVA, including: One-way repeated-measures ANOVA, two-way repeated-measures ANOVA, three-way repeated-measures ANOVA.
+
+1.  Link to site here: <https://www.datanovia.com/en/lessons/repeated-measures-anova-in-r/>
+
+## [Conversion in Psychology-MsC course](https://psyteachr.github.io/msc-conv-f2f/)
+
+**What is this?**
+
+**Excerpt from site:** This book contains the quantitative research methods materials for students on the MSc Conversion in Psychological Studies/Science.
+The students are typically a diverse cohort and range from those with no STEM or programming background to engineering and computing science graduates.
+Compared to the undergraduate degree, the students are older, and there is a greater incidence of computer anxiety.
+
+The focus for the MSc is to provide a basic but solid competency in core data skills and statistics that can be built on in further study.
+Students who wish to push themselves beyond the core competencies are encouraged to consult the MSc Data Skills course where they can learn about e.g., simulation and custom functions.
+To support those students who may have very limited computer literacy, the beginning stages are more supported than in the undergraduate programme e.g., with an increased use of screenshots and explanations for terminology.
+
+1.  Course is here: <https://psyteachr.github.io/msc-conv-f2f/>
+
+## [Computational Toolkit for Educational Scientists](https://zief0002.github.io/toolkit/statistical-computation.html#statistical-computation)
+
+By [Andrew Zieffler](https://zief0002.github.io/toolkit/statistical-computation.html#statistical-computation)
+
+**What is this?**
+
+**Excerpt from ebook:** The first set of tools we will discuss will be related to statistical computation.
+Although there are many computational tools for statistical analysis, the first tools we will add to your computational toolkit is R.
+R is a free software environment for statistical computing and graphics.
+It can be installed on a variety of operating systems, including the MacOS, Windows, and UNIX platforms.
+To really make use of the computational power of R, we are also going to introduce you to RStudio, an open-source front-end1 to R.
+
+The initial chapters of this document will address:
+
+Installing R and RStudio; Getting started with R's computational syntax; Wrangling data using functions from the dplyr package; and Visualizing data using functions from the ggplot2 package.
+
+1.  Link to ebook here: <https://zief0002.github.io/toolkit/statistical-computation.html#statistical-computation>
+
+## [Crump Lab Statistics for Undergrads in Psychology Textbook](https://github.com/CrumpLab/statistics)
+
+**What is this?**
+
+This is a FREE Statistics for Undergrads in Psychology Textbook, on a creative commons license.
+Source code for everything available in the respective repos.
+
+1.  Web-book is here: <https://crumplab.github.io/statistics/>
+2.  Lab manual is here: <https://crumplab.github.io/statisticsLab/>
+3.  Course website is here: <https://crumplab.github.io/psyc3400/>
+
+## [Generalized Additive Models](https://m-clark.github.io/generalized-additive-models/)
+
+By [Michael Clark](https://m-clark.github.io/generalized-additive-models/)
+
+**What is this?**
+
+**Excerpt from site:** The following provides a brief introduction to generalized additive models and some thoughts on getting started within the R environment.
+It doesn't assume much more than a basic exposure to regression, and maybe a general idea of R, though not necessarily any particular expertise.
+The presentation is of a very applied nature, and such that the topics build upon the familiar and generalize to the less so, with the hope that one can bring the concepts they are comfortable with to the new material.
+The audience in mind is a researcher with typical applied science training.
+
+1.  Link to ebook: <https://m-clark.github.io/generalized-additive-models/>
+
+## [Introduction to Empirical Bayes: Examples from Baseball Statistics](https://gumroad.com/l/empirical-bayes)
+
+By [David Robinson](https://gumroad.com/l/empirical-bayes)
+
+**What is this?**
+
+**Excerpt from ebook:** This book is adapted from a series of ten posts on my blog, starting with Understanding the beta distribution and ending recently with Simulation of empirical Bayesian methods.
+In these posts I've introduced the empirical Bayesian approach to estimation, credible intervals, A/B testing, mixture models, and other methods, all through the example of baseball batting averages.
+
+1.  Link to e-book here: <https://gumroad.com/l/empirical-bayes>
+
+## [Learning Statistics](https://learningstatisticswithr.com/)
+
+By [Danielle Navarro](https://learningstatisticswithr.com/)
+
+**What is this?**
+
+The wonderful Danielle Navarro taught an introductory statistics class for psychology students.
+Her lecture notes for this class became a great book that is freely available.
+
+1.  The book is here: <https://learningstatisticswithr.com/lsr-0.6.pdf> or <https://learningstatisticswithr.com/book/>
+2.  The repository with all the source materials is here: https://github.com/djnavarro/rbook
+
+## [Learning stats with Jamovi](https://www.learnstatswithjamovi.com/)
+
+**What is this?**
+
+Technically not R but a wonderful resources anyways.
+If you would like to learn or teach people how to use JAMOVI, here is my favorite book!
+
+1.  The book is here: <https://drive.google.com/file/d/1aNNhC9rMUISCdcWCsNW9rf70Yv1scv6N/view>
+
+## [Methods and Algorithms for Correlation Analysis in R](https://www.researchgate.net/publication/342978399_Methods_and_Algorithms_for_Correlation_Analysis_in_R)
+
+By [Dominique Makowski, Mattan S. Ben-Shachar, Indrajeet Patil, & Daniel Lüdecke](https://www.researchgate.net/publication/342978399_Methods_and_Algorithms_for_Correlation_Analysis_in_R)
+
+**What is this?**
+
+**Excerpt from site:** Correlations tests are arguably one of the most commonly used statistical procedures, and are used as a basis in many applications such as exploratory data analysis, structural modeling, data engineering etc.
+In this context, we present correlation, a toolbox for the R language(R Core Team, 2019) and part of the easy stats collection, focused on correlation analysis.
+
+1.  Link to paper here: <https://www.researchgate.net/publication/342978399_Methods_and_Algorithms_for_Correlation_Analysis_in_R>
+2.  Link to repo here: <https://github.com/easystats/correlation>
+
+## [PSYCH 252: Statistical Methods at Stanford University](https://psych252.github.io/)
+
+**What is this?**
+
+**Excerpt from site:** This course offers an introduction to advanced topics in statistics with the focus of understanding data in the behavioral and social sciences.
+It is a practical course in which learning statistical concepts and building models in R go hand in hand.
+
+1.  Link to e-course here: https://psych252.github.io/
+
+## [PsyTeachR University of Glasgow](https://psyteachr.github.io/)
+
+**What is this?**
+
+**Excerpt from site:** The psyTeachR team at the University of Glasgow School of Psychology and Institute of Neuroscience and Psychology has successfully made the transition to teaching reproducible research using R across all undergraduate and postgraduate levels.
+Our curriculum now emphasizes essential 'data science' graduate skills that have been overlooked in traditional approaches to teaching, including programming skills, data visualisation, data wrangling and reproducible reports.
+Students learn about probability and inference through data simulation as well as by working with real datasets.
+
+This website contains our open materials for teaching reproducible research.
+
+Courses books:
+
+1.  Link to site here: <https://psyteachr.github.io/>
+2.  Link to Level 1 Data Skills here: <https://psyteachr.github.io/ug1-practical/>
+3.  Link to Level 2 Research Methods and Statistics Practical Skills here: <https://psyteachr.github.io/ug2-practical/>
+4.  Link to Level 3 Learning Statistical Models Through Simulation in R here: <https://psyteachr.github.io/ug3-stats/>
+5.  Link to MSc Conversion in Psychological Studies/Science here: <https://psyteachr.github.io/msc-conv-f2f/>
+6.  Link to Data Skills for Reproducible Science here: <https://psyteachr.github.io/msc-data-skills/>
+
+## [Research Methods in Practice 1](https://benwhalley.github.io/rmip/)
+
+By [Ben Whalley, Ellie Lloyd, Maggie Brennan, and Andy Wills](https://benwhalley.github.io/rmip/)
+
+**What is this?**
+
+**Excerpt from ebook:** We cover qualitative approaches, where you search for common themes within spoken or written material, and quantitative approaches where you use one or more measures to predict an outcome.
+Each week you will work in groups to solve problems and work towards a practical presentation of your work at the end of the semester (worth 20% of the mark), with two pieces of written coursework during the module (80% of the mark).
+
+1.  Link to ebook here: <https://benwhalley.github.io/rmip/>
+
+## [Running Multiple Linear Regression Models in for-Loop](https://statisticsglobe.com/r-multiple-regressions-in-for-loop)
+
+By [Joachim Schork](https://statisticsglobe.com/r-multiple-regressions-in-for-loop)
+
+Added Sun June 6th, 2021
+
+**What is this?**
+
+**Excerpt from site:** In this article, I'll show how to estimate multiple regression models in a for-loop in the R programming language.
+
+1.  Link to article here: <https://statisticsglobe.com/r-multiple-regressions-in-for-loop>
+
+## [Statistical Analysis and Visualizations Using R](https://okanbulut.github.io/rbook/)
+
+By [Okan Bulut](https://okanbulut.github.io/rbook/)
+
+Added Thu April 15th, 2021
+
+**What is this?**
+
+**Excerpt from site:** This full-day course is intended to provide participants with a hands-on training in exploring, visualizing, and analyzing data using the R programming language.1 To control R, participants will use RStudio, which is a free, user-friendly program with a console, syntax-highlighting editor that supports direct code execution, and a variety of robust tools for plotting.
+
+1.  Link to course here: <https://okanbulut.github.io/rbook/>
+
+## [Statistical Modeling and Computation for Educational Scientists](https://zief0002.github.io/modeling/)
+
+By [Andrew Zieffler](https://zief0002.github.io/modeling/)
+
+**What is this?**
+
+**Excerpt from book:** The content in this "book", as the title suggests, is related to statistical modeling and computation.
+More specifically, the content focuses on using the General Linear Model (GLM) to provide statistical evidence that can help answer substantive questions in the educational and social sciences.
+It is a book intended for applied practitioners in the educational or social sciences.
+The statistical content is hopefully presented in a manner that these domian scientists will find useful, including practical suggestions for analysis and the presentation of results intended to help researchers clearly communicate the results of a data analysis.
+
+1.  Link to book here: <https://zief0002.github.io/modeling/>
+
+## [Statistical Thinking for the 21st Century](https://statsthinking21.org/) 💯
+
+By [Russell Poldrack](https://statsthinking21.org/)
+
+**What is this?**
+
+**Excerpt from site:** The goal of this book is to the tell the story of statistics as it is used today by researchers around the world.
+It's a different story than the one told in most introductory statistics books, which focus on teaching how to use a set of tools to acheive very specific goals.
+This book focuses on understanding the basic ideas of statistical thinking --- a systematic way of thinking about how we describe the world and make decisions and predictions, all in the context of the inherent uncertainty that exists in the real world.
+It also brings to bear current methods that have only become feasible in light of the amazing increases in computational power that have happened in the last few decades.
+Analyses that would have taken years in the 1950's can now be completed in a few seconds on a standard laptop computer, and this power unleashes the ability to use computer simulation to ask questions in new and powerful ways.
+
+1.  Link to site here: <https://statsthinking21.org/>
+2.  Link to core text here: <https://statsthinking21.github.io/statsthinking21-core-site/>
+3.  Link to R repo here: <https://github.com/statsthinking21/statsthinking21-R>
+4.  Link to Python repo here (under work now): <https://github.com/statsthinking21/statsthinking21-python>
+
+## [Statistical rethinking with brms, ggplot2, and the tidyverse: Second edition](https://bookdown.org/content/4857/)
+
+By [Solomon Kurz](https://bookdown.org/content/4857/)
+
+**What is this?**
+
+**Excerpt from e-book:** This ebook is based on the second edition of Richard McElreath's (2020a) text, Statistical rethinking: A Bayesian course with examples in R and Stan.
+My contributions show how to fit the models he covered with Paul Bürkner's brms package (Bürkner, 2017, 2018, 2020c), which makes it easy to fit Bayesian regression models in R (R Core Team, 2020) using Hamiltonian Monte Carlo.
+I also prefer plotting and data wrangling with the packages from the tidyverse (Wickham, 2019; Wickham et al., 2019).
+So we'll be using those methods, too.
+
+1.  Link to ebook: <https://bookdown.org/content/4857/>
+
+## [Statistical Rethinking 2 with Stan and R](https://vincentarelbundock.github.io/rethinking2/)
+
+By [Vincent Arel-Bundock](https://vincentarelbundock.github.io/rethinking2/)
+
+**What is this?**
+
+**Excerpt from e-book:** Vincent is trying to replicate (nearly) all the models in Richard McElreath's Statistical Rethinking (2nd ed.) book using Stan, R, rstan, tidybayes, and ggplot2.
+This is work in progress.
+
+1.  Link to ebook here: <https://vincentarelbundock.github.io/rethinking2/>
+2.  Link to repo here: <https://github.com/vincentarelbundock/rethinking2>
+
+## [STAT 545 Data wrangling, exploration, and analysis with R](https://stat545.com/) 💯
+
+By [Jenny Bryan](https://stat545.com/)
+
+**What is this?**
+
+**Excerpt from site:** This site is about everything that comes up during data analysis except for statistical modelling and inference.
+This might strike you as strange, given R's statistical roots.
+First, let me assure you we believe that modelling and inference are important.
+But the world already offers a lot of great resources for doing statistics with R.
+
+1.  Link to the site: <https://stat545.com/>
+
+## [Summary and Analysis of Extension Program Evaluation in R](https://rcompanion.org/handbook/index.html)
+
+By [Salvatore S. Mangiafico](https://rcompanion.org/handbook/index.html)
+
+Added Sun Sep 13th, 2020
+
+**What is this?**
+
+**Excerpt from book:** This book is written for students at the undergraduate level with no prior knowledge of the analysis of experiments, and with no prior knowledge of computer programming.
+This being said, students with no background in these areas will need to apply care and dedication in order to understand the material and the computer code used in examples.
+These students may also need to explore the optional readings to obtain a better foundation in statistical thinking and theory.
+
+1.  Link to book here: <https://rcompanion.org/handbook/index.html>
+
+## [Teacup Giraffes_Intro to Statistics](https://tinystats.github.io/teacups-giraffes-and-statistics/02_bellCurve.html)🦒
+
+By [Hasse Walum & Desirée De Leon](https://tinystats.github.io/teacups-giraffes-and-statistics/02_bellCurve.html)
+
+**What is this?**
+
+The site's purpose is to introduce you to statistics with R.
+Very concise and clear 😄 !
+
+1.  Link to the "Introduction to the Normal Distribution" module here: <https://tinystats.github.io/teacups-giraffes-and-statistics/02_bellCurve.html>
+2.  Link to the "Measures of centrality: Mean, Median, & Mode" module here: <https://tinystats.github.io/teacups-giraffes-and-statistics/03_mean.html>
+3.  Link to the "The Spread of the Data: Variance \* Standard Deviation" module here: <https://tinystats.github.io/teacups-giraffes-and-statistics/04_variance.html>
+4.  Link to the "A tale of two variables: Covariance & Correlation" module here: <https://tinystats.github.io/teacups-giraffes-and-statistics/05_correlation.html>
+5.  Link to the "Introduction to Inference: Standard Error" module here: <https://tinystats.github.io/teacups-giraffes-and-statistics/06_standardError.html>

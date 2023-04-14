@@ -1,0 +1,81 @@
+---
+title: "Statistics"
+subtitle: "Blogs & Slides Only"
+editor: 
+  markdown: 
+    wrap: sentence
+---
+
+<link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/JoscelinRocha">![Buy me a coffee](https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg){alt="Buy me a coffee" width="15" height="21"}Buy me a coffee</a>
+
+------------------------------------------------------------------------
+
+## [A guide to working with country-year panel data and Bayesian multilevel models](https://www.andrewheiss.com/blog/2021/12/01/multilevel-models-panel-data-guide/)
+
+By [Andrew Heiss](https://www.andrewheiss.com/blog/2021/12/01/multilevel-models-panel-data-guide/)
+
+Added Sun Dec 12, 2021
+
+**What is this?**
+
+**Excerpt from guide:** "Here's a basic guide to dealing with country-year panel data using Bayesian multilevel modeling!"
+
+1.  Link to guide here: <https://www.andrewheiss.com/blog/2021/12/01/multilevel-models-panel-data-guide/>
+
+## [Five different "Cohen's d" statistics for within-subject designs](http://jakewestfall.org/blog/index.php/2016/03/25/five-different-cohens-d-statistics-for-within-subject-designs/)
+
+By [Cookie Scientist](http://jakewestfall.org/blog/index.php/2016/03/25/five-different-cohens-d-statistics-for-within-subject-designs/)
+
+**What is this?**
+
+**Excerpt from blog:** What I'll show here is that there are at least 5 different and non-equivalent ways that people might compute a d-like effect size (which they would invariably simply call "Cohen's d") for Jeff's dataset, and the resulting effect sizes range from about 0.25 to 1.91.
+I'll compare and contrast these procedures and ultimately choose one that I think is the least crazy, if you must compute a standardized effect size (more on that later).
+
+1.  Link to blog here: <http://jakewestfall.org/blog/index.php/2016/03/25/five-different-cohens-d-statistics-for-within-subject-designs/>
+
+## [Handling missing values in R](https://www.r-bloggers.com/2021/04/handling-missing-values-in-r/)
+
+Added Sun June 6th, 2021
+
+**What is this?**
+
+**Excerpt from blog:** Handling missing values in R, one of the common tasks in data analysis is handling missing values.
+In R, missing values are often represented by the symbol NA (not available) or some other value that represents missing values (i.e. 99).
+Impossible values (e.g., dividing by zero) are represented by the symbol NaN (not a number)
+
+1.  Link to blog here: <https://www.r-bloggers.com/2021/04/handling-missing-values-in-r/>
+
+## [Running Multiple Linear Regression Models in for-Loop](https://statisticsglobe.com/r-multiple-regressions-in-for-loop)
+
+By [Joachim Schork](https://statisticsglobe.com/r-multiple-regressions-in-for-loop)
+
+Added Sun June 6th, 2021
+
+**What is this?**
+
+**Excerpt from site:** In this article, I'll show how to estimate multiple regression models in a for-loop in the R programming language.
+
+1.  Link to article here: <https://statisticsglobe.com/r-multiple-regressions-in-for-loop>
+
+## [Visualizing research trends](https://twitter.com/dsquintana/status/1166083585771802626?s=20)
+
+By [Dan Quintana](https://twitter.com/dsquintana/status/1166083585771802626?s=20)
+
+**What is this?**
+
+Dan Quintana made a screencast of how to visualise research trends for a paper introduction or grant application using the {europepmc}
+
+1.  Link to screencast: <https://twitter.com/dsquintana/status/1166083585771802626?s=20>
+2.  Link to code: <https://gist.github.com/dsquintana/b512b715786088339b61a7fb79367d5e>
+
+## [(What to do) When Predictors Co-Vary](https://shouldbewriting.netlify.app/posts/2020-08-11-when-predictors-covary/)
+
+By [Mattan S. Ben-Shachar](https://shouldbewriting.netlify.app/posts/2020-08-11-when-predictors-covary/)
+
+**What is this?**
+
+**Excerpt from blog:** Co-varying predictors can be a messy business.
+They make estimates unstable, reducing our statistical power and making interpretation more difficult.
+In this post I will demonstrate how ignoring the presence of co-variation between predictors when exploring our models can lead to odd results and how we might deal with this issue.
+
+1.  Link to blog here: <https://shouldbewriting.netlify.app/posts/2020-08-11-when-predictors-covary/>

@@ -1,0 +1,40 @@
+---
+title: "R to Python"
+subtitle: "Courses & Tutorials Only"
+---
+
+<link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/JoscelinRocha">![Buy me a coffee](https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg){alt="Buy me a coffee" width="15" height="21"}Buy me a coffee</a>
+
+------------------------------------------------------------------------
+
+## Python Exercises
+
+Added Sun Dec 12, 2021\
+**What is this?**.\
+A collection of different sites that provide python exercises for people from all levels:
+
+1.  \[Practice Python\](https://www.practicepython.org/ 🌱 : There are over 30 beginner Python exercises just waiting to be solved. Each exercise comes with a small discussion of a topic and a link to a solution. New exercises are posted monthly.
+2.  [Python exercises on Exercism](https://exercism.org/tracks/python/exercises) 🌱 🌳
+3.  [Learn by example Exercises](https://github.com/learnbyexample/100_page_python_intro/blob/main/exercises/Exercises.md) 🌱
+
+## [Python Tutorials](https://www.youtube.com/c/Coreyms/featured)
+
+By [Corey Schafer](https://www.youtube.com/c/Coreyms/featured)
+
+Added Sun Dec 12, 2021
+
+**What is this?**
+
+**Excerpt from site:** "This channel is focused on creating tutorials and walkthroughs for software developers, programmers, and engineers. We cover topics for all different skill levels, so whether you are a beginner or have many years of experience, this channel will have something for you."
+
+1.  Link to the video tutorials here: <https://www.youtube.com/c/Coreyms/featured>
+
+## [r-to-python-data-wrangling-basics.md](https://gist.github.com/conormm/fd8b1980c28dd21cfaf6975c86c74d07)
+
+By [Connor](https://gist.github.com/conormm/fd8b1980c28dd21cfaf6975c86c74d07)
+
+Added Sun Dec 12, 2021\
+**What is this?**.\
+Excerpt from site: "The purpose of this document is to demonstrate how to execute the key dplyr verbs when manipulating data using Python (with the pandas package)".
+
+1.  Link to repo here: <https://gist.github.com/conormm/fd8b1980c28dd21cfaf6975c86c74d07>

@@ -1,0 +1,276 @@
+---
+title: "Visualization"
+subtitle: "Blogs & Slides Only"
+editor: 
+  markdown: 
+    wrap: sentence
+---
+
+<link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/JoscelinRocha">![Buy me a coffee](https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg){alt="Buy me a coffee" width="15" height="21"}Buy me a coffee</a>
+
+------------------------------------------------------------------------
+
+## [A Gentle Guide to the Grammar of Graphics with ggplot2](https://www.garrickadenbuie.com/talk/gentle-ggplot2-usf-asu/)💯
+
+By [Garrick Aden-Buie](https://www.garrickadenbuie.com/talk/gentle-ggplot2-usf-asu/)
+
+**What is this?**
+
+Slides and code from workshop by Garrick.
+This presentation was part of a 5 day Workshop on data analysis using R by the American Statistical Association, University of South Florida Chapter (for this workshop links visit the [learning R page](https://github.com/Joscelinrocha/Learning-R-Resources/wiki/a.-Learning-R).
+
+1.  Link to slides here: <https://pkg.garrickadenbuie.com/gentle-ggplot2/#1>
+2.  Link to code here: <https://github.com/gadenbuie/gentle-ggplot2/>
+
+## [A ggplot2 grammar guide](https://evamaerey.github.io/ggplot2_grammar_guide/about)💯
+
+By [Gina Reynolds](https://evamaerey.github.io/ggplot2_grammar_guide/about)
+
+Added Mon Sep 14th, 2020
+
+**What is this?**\
+This guide isn't comprehensive, and it will likely continue to evolve.
+But it's at a place that it might be useful to orient you, a colleague, or a student to ggplot2 and extensions.
+
+1.  Link to site here: <https://evamaerey.github.io/ggplot2_grammar_guide/about>
+
+## [A ggplot2 Tutorial for Beautiful Plotting in R](https://cedricscherer.netlify.app/2019/08/05/a-ggplot2-tutorial-for-beautiful-plotting-in-r/#titles)💯
+
+By [Cédric](https://cedricscherer.netlify.app/2019/08/05/a-ggplot2-tutorial-for-beautiful-plotting-in-r/#titles)
+
+Added Mon Sep 14th, 2020.
+
+**What is this?**
+
+Wonderful introductory tutorial to ggplot2 and the wonderful things you could do with it.
+
+1.  Link to blog here: <https://cedricscherer.netlify.app/2019/08/05/a-ggplot2-tutorial-for-beautiful-plotting-in-r/#titles>
+
+## [Align the assignment operators within a highlighted area](https://github.com/seasmith/AlignAssign)
+
+**What is this?**
+
+Technically not a visualization resource but once you use it on your script, it is so pleasant to look at (at least for me).
+
+1.  Link to animations here: <https://github.com/seasmith/AlignAssign>
+
+## [Alternatives to Simple Color Legends in ggplot2](https://meghan.rbind.io/blog/color-legend/)
+
+By [Meghan Hall](https://meghan.rbind.io/blog/color-legend/)
+
+Added Sat Dec 12th, 2021
+
+**What is this?**
+
+**Excerpt from post:** Legends, or the way aesthetic values are mapped to data, are an essential part of plots, and this post introduces a few different options for labeling colors effectively.
+
+1.  Link to post here: <https://meghan.rbind.io/blog/color-legend/>
+
+## [An Introduction to Hierarchical Modeling](http://mfviz.com/hierarchical-models/)
+
+**What is this?**
+
+This project was built by Michael Freeman, a faculty member at the University of Washington Information School.
+
+1.  All code for this project is on GitHub here: <https://github.com/mkfreeman/hierarchical-models/>
+
+## [Advanced data visualization with R and ggplot2 a practical](https://www.yan-holtz.com/PDF/Ggplot2_advancedTP_correction.html)
+
+By [Yan Holtz](https://www.yan-holtz.com/PDF/Ggplot2_advancedTP_correction.html)
+
+**What is this?**
+
+**Excerpt from site:** It allows to go further with ggplot2: annotation, theme customization, color palette, output formats, scales, and more.
+
+1.  Post here: <https://www.yan-holtz.com/PDF/Ggplot2_advancedTP_correction.html>
+
+## [An introduction to cowplot](https://meghan.rbind.io/blog/cowplot/)
+
+By [Meghan Hall](https://meghan.rbind.io/blog/cowplot/)
+
+Added Sat Dec 11, 2021
+
+**What is this?**
+
+**Excerpt from site:** "This week's #TidyTuesday data set is all about lemurs (with data from the Duke Lemur Center), so I figured I would stick with the animal theme and discuss a few functions from Claus Wilke's cowplot package, which is my personal favorite package for arranging plots made in R".
+
+1.  Post and course here: <https://meghan.rbind.io/blog/cowplot/>
+
+## [Calendar plot in R using ggplot2](https://r-coder.com/calendar-plot-r/)
+
+**What is this?**
+
+**Excerpt from site:** The calendR package allows creating fully customizable ggplot2 calendar plots with a single function.
+In addition, the package provides arguments to create heatmap calendars.
+In this tutorial you will learn how to create ready to print yearly and monthly calendar plots in R.
+
+1.  Link to blog here: <https://r-coder.com/calendar-plot-r/>
+2.  Link to package here: <https://cran.r-project.org/web/packages/calendR/>
+
+## [Create stylish tables in R using formattable](https://www.littlemissdata.com/blog/prettytables)
+
+By [Laura Ellis](https://www.littlemissdata.com/blog/prettytables)
+
+**What is this?**
+
+\
+Blog that uses *formattable* to crate pretty tables.
+
+1.  Link to blog here: <https://www.littlemissdata.com/blog/prettytables>
+2.  Link to repo here: <https://github.com/lgellis/MiscTutorial/tree/master/Austin>
+
+## [Designing ggplots making clear figures that communicate](https://designing-ggplots.netlify.app/#1)
+
+By [Malcolm Barrett](https://designing-ggplots.netlify.app/#1)
+
+**What is this?**
+
+Wonderful slides to make your figures and visualization much clear and communicative.
+I visit it quite often.
+
+1.  Slides here: <https://designing-ggplots.netlify.app/#1>
+
+## [Image sizes in an R markdown document](https://www.jumpingrivers.com/blog/knitr-rmarkdown-image-size/)
+
+Added Fri Apr 23rd, 2021
+
+**What is this?**
+
+**Excerpt from site: T**his is part four of our four-part series
+
+Part 1: Specifying the correct figure dimension in {knitr} (this post).
+
+Part 2: What image format should you use for graphics.
+
+Part 3: Including external graphics in your document.
+
+Part 4: Setting default {knitr} options.
+
+1.  Link to site here: <https://www.jumpingrivers.com/blog/knitr-rmarkdown-image-size/.be>
+
+## [Improving ggplots with Text Color](https://www.ericekholm.com/posts/2021-03-24-improving-ggplots-with-text-color/)
+
+By [Eric Ekholm](https://www.ericekholm.com/posts/2021-03-24-improving-ggplots-with-text-color/)
+
+Added Sun Jun 6th, 2021
+
+**What is this?**
+
+**Excerpt from site:** instead of having a legend off to the right or the bottom or wherever it is you typically place your legends, I've changed the font color of the words "Pass" and "Fail" in the title to contain this same information.
+We can do this using Claus Wilke's invaluable {ggtext} package, which provides improved rendering for ggplot2.
+
+1.  Link to article here: <https://www.ericekholm.com/posts/2021-03-24-improving-ggplots-with-text-color/>
+
+## [Introduction to Geospatial Visualization with R-R-Ladies Abuja + Abuja R Users](https://github.com/RamiKrispin/gis-dataviz-workshop)
+
+By [Rami Krispin](https://github.com/RamiKrispin/gis-dataviz-workshop)
+
+Added Sun Dec 12, 2021
+
+**What is this?**
+
+**Excerpt from site**: Introduction to spatial data - Working with sf objects - Plot sf objects with mapview, tmap, and ggplot2 - Create choropleth maps
+
+1.  Link to github repo. andcode here: <https://github.com/RamiKrispin/gis-dataviz-workshop>
+2.  Link to slides here: <https://ramikrispin.github.io/gis-dataviz-workshop/#1>
+
+## [Introduction to rbokeh--a vignette](https://hafen.github.io/rbokeh/articles/rbokeh.html)
+
+**What is this?**
+
+**Excerpt from vignette:** Bokeh is a visualization library that provides a flexible and powerful declarative framework for creating web-based plots.
+Bokeh renders plots using HTML canvas and provides many mechanisms for interactivity.
+Bokeh has interfaces in Python, Scala, Julia, and now R.
+The Bokeh library is written and maintained by the Bokeh Core Team consisting of several members of Continuum Analytics and other members of the open source community.
+The rbokeh package is written and maintained by Ryan Hafen (@hafenstats) with several contributions from others.
+
+1.  Link to blog here: <https://hafen.github.io/rbokeh/articles/rbokeh.html>
+
+## [Introduction to Tableau](https://meghan.rbind.io/blog/introduction-to-tableau/)
+
+By [Meghan Hall](https://meghan.rbind.io/blog/introduction-to-tableau/)
+
+Added Dec 11, 2021
+
+**What is this?**
+
+**Excerpt from blog:** "A bunch of people have been asking me for some kind of Tableau tutorial, so I'm experimenting with a screencast video on YouTube! The video should be embedded below and is also available here."
+
+1.  Link to blog here: <https://meghan.rbind.io/blog/introduction-to-tableau/>
+2.  Link to video here: <https://www.youtube.com/watch?v=fN7vAfeN0_E&feature=youtu.be>
+
+## [Principles & Practice of Data Visualization](https://apreshill.github.io/data-vis-labs-2018/index.html)
+
+By [Alison Hill](https://apreshill.github.io/data-vis-labs-2018/index.html)
+
+**What is this?**
+
+**Excerpt from site:** This is the site for sharing our Data Visualization Labs for CS631 at Oregon Health & Science University.
+It has exercises and solutions!
+💯
+
+1.  Link to the workshop here: <https://apreshill.github.io/data-vis-labs-2018/index.html>
+
+## [R graphics with ggplot2 workshop notes](http://tutorials.iq.harvard.edu/R/Rgraphics/Rgraphics.html#geometric_objects_and_aesthetics)
+
+Added Mon Sep 14th, 2020
+
+**What is this?**
+
+Workshop listed in Harvard's resources.
+Materials can be downloaded.
+
+1.  Link to workshop notes: <http://tutorials.iq.harvard.edu/R/Rgraphics/Rgraphics.html#geometric_objects_and_aesthetics>
+2.  Link to download materials here: <http://tutorials.iq.harvard.edu/R/Rgraphics.zip>
+
+## [R you ready to make charts?](https://www.williamrchase.com/slides/ggplot_intro.html#1)
+
+By [Will Chase](https://www.williamrchase.com/slides/ggplot_intro.html#1)
+
+Added Mon Sep 14th, 2020
+
+**What is this?** Slides from Talk given by Will Chase at a Philly dataviz meetup on May 29th, 2019.
+
+1.  Link to slides: <https://www.williamrchase.com/slides/ggplot_intro.html#1>
+
+## [Resizing plots](https://alyssasfu.wordpress.com/2015/04/03/resizing-plots-in-r-markdown/)
+
+**What is this?**
+
+How to resize plots in R markdown
+
+1.  Link to blog: <https://alyssasfu.wordpress.com/2015/04/03/resizing-plots-in-r-markdown/>
+
+## [The Evolution of a ggplot (Ep. 1)](https://cedricscherer.netlify.app/2019/05/17/the-evolution-of-a-ggplot-ep.-1/)
+
+By [Cédric](https://cedricscherer.netlify.app/2019/05/17/the-evolution-of-a-ggplot-ep.-1/)
+
+**What is this?**
+
+**Excerpt from the blog:** In this series of blog posts, I aim to show you how to turn a default ggplot into a plot that visualizes information in an appealing and easily understandable way.
+The goal of each blog post is to provide a step-by-step tutorial explaining how my visualization have evolved from a typical basic ggplot.
+All plots are going to be created with 100% {ggplot2} and 0% Inkscape.
+
+1.  Link to blog: <https://cedricscherer.netlify.app/2019/05/17/the-evolution-of-a-ggplot-ep.-1/>
+
+## [Visualization innovations: Waffleplots and Swarmplots](https://paulvanderlaken.com/2019/01/25/visualization-innovation-waffleplots-and-swarmplots-aka-beeplots/)
+
+**What is this?** Fun blog about how to make Waffleplots and swarmplots.
+
+1.  Link to blog here: <https://paulvanderlaken.com/2019/01/25/visualization-innovation-waffleplots-and-swarmplots-aka-beeplots/>
+
+## Making map plots
+
+**What is this?**
+
+Here is a list of resources to create visualizations with maps
+
+1.  <https://www.r-spatial.org/r/2018/10/25/ggplot2-sf-2.html>
+
+2.  <https://rstudio.github.io/leaflet/projections.html>
+
+3.  <https://www.r-graph-gallery.com/278-the-maps-library.html>
+
+4.  <http://www.milanor.net/blog/maps-in-r-introduction-drawing-the-map-of-europe/>
+
+5.  <https://www.youtube.com/watch?v=wgFVmzSbaQc&list=PL7D2RMSmRO9JOvPC1gbA8Mc3azvSfm8Vv&index=17>

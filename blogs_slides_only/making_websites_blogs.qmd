@@ -1,0 +1,47 @@
+---
+title: "Making Websites & Blogs"
+subtitle: "Blogs & Slides Only"
+editor: 
+  markdown: 
+    wrap: 72
+---
+
+<link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/JoscelinRocha">![Buy
+me a
+coffee](https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg){alt="Buy me a coffee"
+width="15" height="21"}Buy me a coffee</a>
+
+------------------------------------------------------------------------
+
+## [How to make your own website for free in under an hour](https://www.dsquintana.blog/create-an-academic-website-free-easy-2020/)
+
+By
+[Quintana](https://www.dsquintana.blog/create-an-academic-website-free-easy-2020/)
+💯
+
+**What is this?**
+
+**Excerpt from blog:** This tutorial will walk you through how to make
+your own website for free using the blogdown package in RStudio.
+
+1.  Link to blog here(2019):
+    <https://www.dsquintana.blog/free-website-in-r-easy/>
+2.  Updated blog here (2020):
+    <https://www.dsquintana.blog/create-an-academic-website-free-easy-2020/>
+3.  Link to video here: <https://www.youtube.com/watch?v=ox_Ue9yzf-0>
+
+## [Using GitHub Actions to Build your Hugo Website](https://drmowinckels.io/blog/2021-03-23-using-github-actions-to-build-your-hugo-website/)
+
+Added Sun June 6th 2021
+
+**What is this?**
+
+**Excerpt from blog:** What we want is Github Actions to run certain
+operations on a set schedule, build our website with hugo, and then
+trigger a Netlify deployment. In particular, we want to render the
+content/about.Rmd and knit my CV which is located in
+content/about/resume/am_mowinckel_cv.Rmd, and not commit these to git,
+just have them rendered right before Hugo build
+
+1.  Link to blog here:
+    <https://drmowinckels.io/blog/2021-03-23-using-github-actions-to-build-your-hugo-website/>

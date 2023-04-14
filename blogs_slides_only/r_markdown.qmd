@@ -1,0 +1,82 @@
+---
+title: "R Markdown"
+subtitle: "Blogs & Slides Only"
+editor: 
+  markdown: 
+    wrap: 60
+---
+
+<link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/JoscelinRocha">![Buy
+me a
+coffee](https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg){alt="Buy me a coffee"
+width="15" height="21"}Buy me a coffee</a>
+
+------------------------------------------------------------
+
+## [An introduction to R-Markdown](https://apreshill.github.io/rmd4cdc/#1)
+
+By [Dr. Alison Hill](https://apreshill.github.io/rmd4cdc/#1)
+
+**What is this?**\
+Slides giving an introduction to R-Markdown
+
+1.  Link to slides: <https://apreshill.github.io/rmd4cdc/#1>
+
+## [Extending R Markdown](https://meghan.rbind.io/talk/rstudio/)
+
+By [Meghan Hall](https://meghan.rbind.io/talk/rstudio/)
+
+Added Sat Dec, 11, 2021\
+**What is it?**\
+**Excerpt from site:** "R Markdown is a powerful yet
+underutilized tool for a powerful yet underutilized
+component of data science---communicating your work. R
+Markdown works seamlessly with other analytic work in R and
+knowing the basics allows you to extend that knowledge into
+producing PDFs, slides, websites, and more".
+
+1.  Link to blog here:
+    <https://meghan.rbind.io/talk/rstudio/>
+2.  Link to slides here:
+    <https://meghan.rbind.io/slides/RStudio/Hall_RStudio_2021.html#1>
+3.  Link to video here:
+    <https://community.rstudio.com/t/recording-of-r-in-sports-analytics-rstudio-enterprise-community-meetup/107551>
+4.  Link to Github repo and code:
+    <https://github.com/meghall06/personal-website/blob/master/static/slides/RStudio/Hall_RStudio_2021.Rmd>
+
+## [How I Teach R Markdown](https://alison.rbind.io/post/2020-05-28-how-i-teach-r-markdown/) 💯
+
+By [Alison
+Hill](https://alison.rbind.io/post/2020-05-28-how-i-teach-r-markdown/)
+
+**What is it?**
+
+**Excerpt from blog:** So without further ado, here are some
+of my guiding principles when introducing R Markdown to
+beginners, for those who are ready to go beyond casual
+knitter:
+
+1.  Link to blog:
+    <https://alison.rbind.io/post/2020-05-28-how-i-teach-r-markdown/>
+
+## [Meta RMarkdown - Taxonomy and Use cases](https://themockup.blog/posts/2020-07-25-meta-rmarkdown/)
+
+By [Thomas
+Mock](https://themockup.blog/posts/2020-07-25-meta-rmarkdown/)
+
+**What is this?**
+
+**Excerpt from blog:** A meta collection of all things R
+Markdown. This post will focus on 4 core strategies of why R
+Markdown is SO useful and absolutely worth learning with
+links to external tactics/guides/write-ups of how to
+accomplish the various tasks.
+
+1.  Link to blog here:
+    <https://themockup.blog/posts/2020-07-25-meta-rmarkdown/>
+
+2.  Link to slides here:
+    <https://docs.google.com/presentation/d/e/2PACX-1vRo1eXJtiwo6aTA8KZ2E-bUbv2GOonC2RIVk_5eWQ5y-ADXbRamBhHaa3w1vMW6BkEPOMJ13ZahSo8Q/embed?start=false&loop=true&delayms=30000&slide=id.p>
+
+3.  Link to slides in pdf here:
+    <https://github.com/jthomasmock/radix_themockup/blob/master/_posts/2020-07-25-meta-rmarkdown/rmd-slides.pdf>

@@ -1,0 +1,116 @@
+project:
+  type: website
+
+website:
+  page-navigation: true
+  reader-mode: true
+  title: "resouRces"
+  description: "Database of Resources to Learn & Teach R"
+  site-url: "/resouRces/"
+
+  repo-url: https://github.com/Joscelinrocha/Learning-R-Resources/issues
+  repo-actions: [edit, issue]
+
+  open-graph: true
+
+  twitter-card:
+    creator: "@JoscelinRocha"
+    image: "images/twitter-card.png"
+
+  page-footer:
+    right: "This page is built with [Quarto](https://quarto.org/)."
+    left: "&copy; Copyright 2023, Joscelin Rocha-Hidalgo"
+    background: "#D9E3E4"
+
+  sidebar:
+    background: "#D9E3E4"
+    logo: "images/logo.png"
+    pinned: true
+    align: center
+    tools:
+      - icon: github
+        href: https://github.com/Joscelinrocha/Learning-R-Resources
+        text: "GitHub organization"
+
+    style: "docked"
+    search: true
+    collapse-level: 1
+    contents:
+      - section: "About resouRces"
+        contents:
+          - href: database-overview.qmd
+            text: Overview
+          - href: team.qmd
+            text: Procurement Team
+          - href: database-faq.qmd
+            text: FAQs
+
+      - section: "Topics"
+        contents:
+          - href: ./resources/art.qmd
+            text: "Art"
+          - href: ./resources/dashboards_shiny.qmd
+            text: "Dashboards/Shiny"
+          - href: ./resources/data_science.qmd
+            text: "Data Science"
+          - href: ./resources/datasets.qmd
+            text: "Datasets"
+          - href: ./resources/docker.qmd
+            text: "Docker"
+          - href: ./resources/eyetracking.qmd
+            text: "Eye-Tracking"
+          - href: ./resources/r_to_python.qmd
+            text: "From R to Python"
+          - href: ./resources/git.qmd
+            text: "GIT"
+          - href: ./resources/learning_r.qmd
+            text: "Learning R"
+          - href: ./resources/machine_learning.qmd
+            text: "Machine Learning"
+          - href: ./resources/making_websites_blogs.qmd
+            text: "Making Websites/Blogs"
+          - href: ./resources/meta-analyses_systematic_reviews.qmd
+            text: "Meta-Analyses & Systematic Reviews"
+          - href: ./resources/packages_how_to.qmd
+            text: "Packages (How to)"
+          - href: ./resources/presentations_slides.qmd
+            text: "Presentations/Slides"
+          - href: ./resources/quarto.qmd
+            text: "Quarto"
+          - href: ./resources/prof_dev.qmd
+            text: "Resume-CVs-etc"
+          - href: ./resources/r_for_neuro.qmd
+            text: "R for Neuro"
+          - href: ./resources/r_markdown.qmd
+            text: "RMarkdown"
+          - href: ./resources/statistics.qmd
+            text: "Statistics"
+          - href: ./resources/teaching_r.qmd
+            text: "Teaching R"
+          - href: ./resources/visualization.qmd
+            text: "Visualization"
+          - href: ./resources/workflows.qmd
+            text: "Workflows"
+
+      - section: "Extra"
+        contents:
+          - href: ./resources/joscelins_faves.qmd
+            text: "Joscelin’s Fav Packages & Functions"
+          - href: ./resources/fun_extra.qmd
+            text: "Other Fun Stuff"
+          - href: more_r_databases.qmd
+            text: "More R Resources Databases"
+
+format:
+  html:
+    theme:
+      light: [cosmo, theme.scss]
+      dark: [cosmo, theme-dark.scss]
+    mainfont: "Atkinson Hyperlegible"
+    code-copy: true
+    code-overflow: wrap
+    toc: true
+
+freeze: auto
+
+editor: visual

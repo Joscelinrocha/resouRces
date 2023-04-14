@@ -1,0 +1,112 @@
+---
+title: "Visualization"
+subtitle: "E-books Only"
+editor: 
+  markdown: 
+    wrap: sentence
+---
+
+<link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/JoscelinRocha">![Buy me a coffee](https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg){alt="Buy me a coffee" width="15" height="21"}Buy me a coffee</a>
+
+------------------------------------------------------------------------
+
+## [Crime Mapping in R](https://maczokni.github.io/crimemapping_textbook_bookdown/)
+
+By [Juanjo Medina & Reka Solymosi](https://maczokni.github.io/crimemapping_textbook_bookdown/)
+
+**What is this?**
+
+**Excerpt from site:** This workbook contains the lab materials and homework assignments for an introduction to crime mapping course designed for LAWS31152 and 60142 Crime Mapping, an optional module open to 3rd year undergraduates on the BA Criminology programme as well as postgraduates on the MA and MRes Criminology programmes at the University of Manchester.
+
+1.  Link to web-book here: <https://maczokni.github.io/crimemapping_textbook_bookdown/>
+
+## [Data Visualization: A practical introduction](https://www.data-to-viz.com/)
+
+By [Kieran Healy](https://www.data-to-viz.com/)
+
+**What is this?**
+
+**Excerpt from site:** This book is a hands-on introduction to the principles and practice of looking at and presenting data using R and ggplot.
+R is a powerful, widely used, and freely available programming language for data analysis.
+You may be interested in exploring ggplot after having used R before, or be entirely new to both R and ggplot and just want to graph your data.
+I do not assume you have any prior knowledge of R.
+
+1.  Free web-book here: <https://socviz.co/index.html#preface>
+2.  Buy book here: [Link to Amazon](https://www.amazon.com/gp/product/0691181624/ref=as_li_tl?ie=UTF8&tag=kieranhealysw-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0691181624&linkId=16d53b3cc1ec3bc3aac60b27c29b92e8)
+
+## [Data Visualization course](https://datavizm20.classes.andrewheiss.com/syllabus/)
+
+By [Andrew Heiss](https://datavizm20.classes.andrewheiss.com/syllabus/)
+
+**What is this?**
+
+**Excerpt from site:** In this class, you'll learn how to use industry-standard graphic and data design techniques to create beautiful, understandable visualizations and uncover truth in data.
+
+By the end of this course, you will become (1) literate in data and graphic design principles, and (2) an ethical data communicator, by producing beautiful, powerful, and clear visualizations of your own data.
+
+1.  E-course here: <https://datavizm20.classes.andrewheiss.com/syllabus/>
+
+## [Data Visualization for Educational Data Science](https://dataviz-2021.netlify.app/)💯
+
+Added Thu Dec 31st, 2020
+
+**What is this?**
+
+Welcome to the second course in the Educational Data Science Specialization taught at the University of Oregon through the College of Education.
+This course will be taught through R, a free and open-source statistical computing environment, and will provide students with the foundational principles and practice of data visualization, particularly as applied to scientific and technical data.
+We will have weekly lectures, covering a wide variety of topics including human perception, color theory, and principles of visual design.
+We will also cover mediums for communication across diverse audiences with an emphasis on different web applications.
+Weekly hands-on laboratory sessions provide students the opportunity to put the lecture material into practice.
+
+1.  Link to site here: <https://dataviz-2021.netlify.app/>
+2.  Link to repo here: https://github.com/uo-datasci-specialization/c2-dataviz-2021
+
+## [Geocomputation with R](https://geocompr.robinlovelace.net/)
+
+By [Robin Lovelace, Jakub Nowosad, Jannes Muenchow](https://geocompr.robinlovelace.net/)
+
+**What is this?**
+
+**Excerpt from ebook:** This book is about using the power of computers to do things with geographic data.
+It teaches a range of spatial skills, including: reading, writing and manipulating geographic data; making static and interactive maps; applying geocomputation to solve real-world problems; and modeling geographic phenomena.\
+I added this one here because it is a nice resource to make map but it teaches way more than that :)
+
+1.  Link to free ebook: <https://geocompr.robinlovelace.net/>
+2.  You can buy the book from [CRC Press](https://www.routledge.com/Geocomputation-with-R/Lovelace-Nowosad-Muenchow/p/book/9781138304512?utm_source=crcpress.com&utm_medium=referral),[Wordery](https://wordery.com/geocomputation-with-r-robin-lovelace-9781138304512), or [Amazon](https://www.amazon.com/Geocomputation-Chapman-Hall-Robin-Lovelace/dp/1138304514/#ace-2093936695).
+
+## [ggplot2: Elegant Graphics for Data Analysis](https://ggplot2-book.org/)💯 💯
+
+By [Hadley Wickham](https://ggplot2-book.org/)
+
+**What is this?**
+
+**Excerpt from site:** This is the online version of work-in-progress 3rd edition of "ggplot2: elegant graphics for data analysis"
+
+1.  Web-book link here: <https://ggplot2-book.org/>
+
+## [Interactive web-based data visualization with R, plotly, and shiny](https://plotly-r.com/)
+
+By [Carson Sievert](https://plotly-r.com/)
+
+Added Mon Sep 14th, 2020
+
+**What is this?**
+
+This is the website for "Interactive web-based data visualization with R, plotly, and shiny".
+In this book, you'll gain insight and practical skills for creating interactive and dynamic web graphics for data analysis from R.
+It makes heavy use of plotly for rendering graphics, but you'll also learn about other R packages that augment a data science workflow, such as the tidyverse and shiny.
+
+1.  Link to ebook here: <https://plotly-r.com/>
+
+## [R Graphics Cookbook, 2nd edition](https://r-graphics.org/)
+
+By [Winston Chang](https://r-graphics.org/)
+
+**What is this?**
+
+**Excerpt from ebook:** a practical guide that provides more than 150 recipes to help you generate high-quality graphs quickly, without having to comb through all the details of R's graphing systems.
+Each recipe tackles a specific problem with a solution you can apply to your own project, and includes a discussion of how and why the recipe works.
+
+1.  Link to free ebook here: <https://r-graphics.org/>
+
+2.  Link to buy it: [Amazon link](https://www.amazon.com/dp/1491978600)

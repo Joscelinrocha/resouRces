@@ -1,0 +1,5 @@
+---
+title: 404 Page Not Found
+---
+
+![](images/404.png){fig-alt="Illustration of an old school tv/monitor with static screen. Text over image says: "It's just not here. The page seems to be missing. Sorry!\"." width="900"}

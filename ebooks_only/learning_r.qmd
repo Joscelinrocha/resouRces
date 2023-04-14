@@ -1,0 +1,153 @@
+---
+title: "Learning R"
+subtitle: "E-books Only"
+---
+
+<link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/JoscelinRocha">![Buy me a coffee](https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg){alt="Buy me a coffee" width="15" height="21"}Buy me a coffee</a>
+
+-   Beginners 🌱\
+-   Intermediate 🌳\
+-   Advanced 🌳🌳
+
+## [Advanced R](https://adv-r.hadley.nz/) 🌳🌳
+
+By [Hadley Wickham](https://adv-r.hadley.nz/)
+
+**What is this?**
+
+Excerpt from site: This is the website for 2nd edition of "Advanced R", a book in Chapman & Hall's R Series. The book is designed primarily for R users who want to improve their programming skills and understanding of the language. It should also be useful for programmers coming to R from other languages, as it helps you to understand why R works the way it does.
+
+1.  Free web-book here: [https://adv-r.hadley.nz/ or http://adv-r.had.co.nz/Introduction.html](https://adv-r.hadley.nz/%20or%20http://adv-r.had.co.nz/Introduction.html)
+2.  Buy book here: [Link to Amazon](https://www.amazon.com/dp/0815384572/ref=cm_sw_su_dp?tag=devtools-20)
+
+## [Coding togetheR](https://ab604.github.io/docs/coding-together-2019/)
+
+By [Alistair Bailey](https://ab604.github.io/docs/coding-together-2019/)
+
+**What is this?**
+
+Excerpt from site: Coding togetheR is a series of collaborative workshops to teach foundational R coding and data science skills at the University of Southampton in 2019. This book contains the materials covered over eight, two-hour sessions.
+
+1.  Link to web-book here: <https://ab604.github.io/docs/coding-together-2019/>
+
+## [Efficient R programming](https://bookdown.org/csgillespie/efficientR/) 🌱 & 🌳
+
+By [Colin Gillespie Robin Lovelace](https://bookdown.org/csgillespie/efficientR/)
+
+**What is this?**
+
+**Excerpt from ebook:** This book is for anyone who wants to make their R code faster to type, faster to run and more scalable. These considerations generally come after learning the very basics of R for data analysis: we assume you are either accustomed to R or proficient at programming in other languages, although this book could still be of use to beginners
+
+1.  <https://bookdown.org/csgillespie/efficientR/>
+
+## [Forecasting: Principles and Practice](https://otexts.com/fpp2/)
+
+By [Rob J Hyndman & George Athanasopoulos](https://otexts.com/fpp2/)
+
+**What is this?**
+
+**Excerpt from e-book here:** "This textbook is intended to provide a comprehensive introduction to forecasting methods and to present enough information about each method for readers to be able to use them sensibly."
+
+1.  Link to ebook here: <https://otexts.com/fpp2/>
+
+## [Hands-On Programming](https://rstudio-education.github.io/hopr/)
+
+By [R Garrett Grolemund](https://rstudio-education.github.io/hopr/)
+
+**What is this?**
+
+**Excerpt from site:** This is the website for "Hands-On Programming with R". This book will teach you how to program in R, with hands-on examples. I wrote it for non-programmers to provide a friendly introduction to the R language. You'll learn how to load data, assemble and disassemble data objects, navigate R's environment system, write your own functions, and use all of R's programming tools.
+
+1.  Free web-book here: <https://rstudio-education.github.io/hopr/>
+2.  You can buy book here: [Link to Amazon](https://www.amazon.com/Hands-Programming-Write-Functions-Simulations/dp/1449359019)
+
+## [Just Enough R](https://benwhalley.github.io/just-enough-r/) 🌱
+
+**What is this?**
+
+**Excerpt from e-book here:** R makes it easy to work with and learn from data.
+
+It also happens to be a programmming language, but if you're reading this, that might not be of interest. That's OK --- the goal here is not to teach programming1. The goal is to teach you just enough R to be confident to explore your data.
+
+This book uses R like any other statistics software: To work-with and visualize data, run statistical analyses, and share our results with others. To do that you don't need more than the absolute basics of the R language itself.
+
+1.  Link to ebook here: <https://benwhalley.github.io/just-enough-r/>
+
+## [Modelling and visualizing data using R: A practical introduction](https://www.danielnettle.org.uk/r-modelling/)
+
+By [Daniel Nettle](https://www.danielnettle.org.uk/r-modelling/)
+
+**What is this?**
+
+**Excerpt from site:** This is a basic overview of using R for data analysis, and of linear statistical modelling. It would be suitable for anyone who has had some stats training but not used R; or has used R a little but not become confident; or has neither had stats training nor used R but is not happy with a reasonably steep learning curve. The emphasis is on rapidly getting to be able to use R for most of the common practical purposes, and knowing that you can take it further should you need to. It is designed for you to be able to work through on your own.
+
+1.  Link to pdf for intro: <https://www.danielnettle.org.uk/wp-content/uploads/2019/07/funwithR3.0.pdf>
+2.  Data files used for this intro: <https://www.dropbox.com/sh/7s14m6ceph3laja/AAAIGT7jBZ3n6aIBR8-IT8R4a?dl=0>
+
+## [R Programming for Data Science](https://bookdown.org/rdpeng/rprogdatascience/)
+
+By [Roger D. Peng](https://bookdown.org/rdpeng/rprogdatascience/)
+
+**What is this?**
+
+**Excerpt from site:** This book is about the fundamentals of R programming. You will get started with the basics of the language, learn how to manipulate datasets, how to write functions, and how to debug and optimize code. With the fundamentals provided in this book, you will have a solid foundation on which to build your data science toolbox.
+
+1.  Web-book here: <https://bookdown.org/rdpeng/rprogdatascience/>
+
+## [Teacup Giraffes_Before the Adventure Begins: INTRO TO R](https://tinystats.github.io/teacups-giraffes-and-statistics/01_introToR.html#common_functions)🌱
+
+By [Hasse Walum & Desirée De Leon](https://tinystats.github.io/teacups-giraffes-and-statistics/01_introToR.html#common_functions)
+
+**What is this?**
+
+The site's purpose is to introduce you to statistics with R but the first module gives you a really concise introduction of R.
+
+1.  Link to module: <https://tinystats.github.io/teacups-giraffes-and-statistics/01_introToR.html>
+
+## [The Tidyverse Cookbook](https://rstudio-education.github.io/tidyverse-cookbook/)
+
+By [Garrett Grolemund](https://rstudio-education.github.io/tidyverse-cookbook/)
+
+**What is this?**
+
+**Excerpt from the ebook:** This book collects code recipes for doing data science with R's tidyverse. Each recipe solves a single common task, with a minimum of discussion.
+
+1.  Link to the ebook here: <https://rstudio-education.github.io/tidyverse-cookbook/>
+
+## [Tidy Modeling with R](https://www.tmwr.org/)
+
+By [Max Kuhn & Julia Silge](https://www.tmwr.org/)
+
+**What is this?**
+
+**Excerpt from site:** this book provides an introduction to how to use our software to create models. We focus on a dialect of R called the tidyverse that is designed to be a better interface for common tasks using R.
+
+1.  Link to ebook here: <https://www.tmwr.org/>
+
+## [Tidyverse tutorial (2017)](https://github.com/mcfrank/tidyverse-tutorial)
+
+By [Mike Frank](https://github.com/mcfrank/tidyverse-tutorial)
+
+**What is this?** Excerpt from site: In this tutorial, I'll walk through how to go from a database or tabular data file to an interactive plot with surprisingly little pain (and less code than you'd imagine). My focus will be on introducing a workflow that uses a wide variety of different tools and packages, including readr, dplyr, tidyr, and shiny. I'll assume basic familiarity with R and will use (but not spend too much time teaching) ggplot2. Featuring data from http://wordbank.stanford.edu
+
+1.  Link to the tutorial here: <https://github.com/mcfrank/tidyverse-tutorial>
+
+## [What They Forgot to Teach You About R](https://rstats.wtf/index.html) 🌳
+
+By [Jennifer Bryan & Jim Hester](https://rstats.wtf/index.html)
+
+**What is this?**
+
+**Excerpt from site:** The initial impetus for creating these materials is a two-day hands-on workshop. The in-person workshops are still the primary delivery method for this content, but we've begun recording prose versions of this content, in order to make it more widely available and for participants to refer back to. Warning: these materials absolutely do not constitute a self-contained "book", nor do they capture all workshop content.
+
+1.  Web-book here: <https://rstats.wtf/index.html>
+
+## [YaRrr! The Pirate's Guide](https://bookdown.org/ndphillips/YaRrr/)
+
+By [R Nathaniel D. Phillips](https://bookdown.org/ndphillips/YaRrr/)
+
+**What is this?**
+
+**Excerpt from site:** This book is meant to introduce you to the basic analytical tools in R, from basic coding and analyses, to data wrangling, plotting, and statistical inference.
+
+1.  Web-book is here: <https://bookdown.org/ndphillips/YaRrr/>

@@ -1,0 +1,21 @@
+---
+title: "Dashboards & Shiny"
+---
+
+<link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/JoscelinRocha">![Buy me a coffee](https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg){alt="Buy me a coffee" width="15" height="21"}Buy me a coffee</a>
+
+------------------------------------------------------------------------
+
+## [A gRadual intRoduction to Shiny](https://laderast.github.io/gradual_shiny/)
+
+By [Ted Laderas & Jessica Minnier](https://laderast.github.io/gradual_shiny/)
+
+**What is this?**
+
+**Excerpt from workshop:** By the end of this workshop, you should be able to:
+
+\* Browse examples in the shiny gallery and understand how they work. \* Understand the components of a Shiny app and how they communicate.,
+
+\* Learn three basic design patterns to the shiny apps.
+
+1.  Link to web-book here: <https://laderast.github.io/gradual_shiny/>

@@ -1,0 +1,204 @@
+---
+title: "R for Neuroscientists"
+subtitle: "Courses & Tutorials Only"
+editor: 
+  markdown: 
+    wrap: 72
+---
+
+<link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/JoscelinRocha">![Buy
+me a
+coffee](https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg){alt="Buy me a coffee"
+width="15" height="21"}Buy me a coffee</a>
+
+------------------------------------------------------------------------
+
+# fNIRS & NIRS
+
+# fMRi, MRI, & qMRI
+
+## [Working with fMRI data using R](https://jokedurnez.github.io/validating-fmri/01-introduction/index.html)
+
+Added Sunday Dec 13th, 2020
+
+**What is this?**\
+**Description from site:** Reading and visualising fMRI data with
+R/neuroconductor.
+
+1.  Link to site:
+    <https://jokedurnez.github.io/validating-fmri/01-introduction/index.html>
+
+## [R for statistical analysis of fMRI data](https://neurohackademy.org/course/r-for-statistical-analysis-of-fmri-data/)
+
+By [Tara
+Madhyastha](https://neurohackademy.org/course/r-for-statistical-analysis-of-fmri-data/)
+
+Added Sunday Dec 13th, 2020
+
+**What is this?**
+
+Tutorial given at Neurohackademy 2018 by Tara Madhyastha
+
+1.  Link to site in NeuroHackademy:
+    <https://neurohackademy.org/course/r-for-statistical-analysis-of-fmri-data/>
+2.  Link to youtube video: <https://youtu.be/sdbkWvFhTZ0>
+
+# EEG
+
+# All Neuro
+
+## [neuropointillist](http://ibic.github.io/neuropointillist/)
+
+Added Sunday Dec 13th, 2020\
+**What is this?**
+
+Description from site: Flexible modeling of neuroimaging data in R,
+point by point
+
+1.  Link to site: <http://ibic.github.io/neuropointillist/>
+2.  Content:
+
+-   [Simple fMRI
+    example](http://ibic.github.io/neuropointillist/fmri.example.html)
+-   [Advanced fMRI
+    example](http://ibic.github.io/neuropointillist/fingerfootlips.example.html)
+-   [Permutation testing fMRI
+    example](http://ibic.github.io/neuropointillist/fingerfootlips_permute.html)
+-   [Flournoy example
+    (longitudinal)](http://ibic.github.io/neuropointillist/flournoy.example.html)
+-   [Correcting for multiple
+    comparisons](http://ibic.github.io/neuropointillist/clustercorrection.html)
+
+## [Plotting brain atlases in ggplot](https://lcbc-uio.github.io/ggseg/articles/ggseg.html)
+
+Added Sunday Dec 13th, 2020\
+**What is this?**
+
+**Description from site:** Plotting regions from different brain atlases
+ggplot2 is a handy way of displaying results or grouping of aparc data.
+
+The function ggseg(), is based in the ggplot2 format, it is recommended
+to get familiarized with plotting data with ggplot2.
+
+Out-of-the-box, ggseg() works without supplying any extra information.
+It will create a base plot of the aparc brain segmentations.
+
+1.  Link to site: <https://lcbc-uio.github.io/ggseg/articles/ggseg.html>
+2.  Link to ggseg vignette:
+    <https://github.com/LCBC-UiO/ggseg/blob/master/vignettes/ggseg.Rmd>
+3.  Link to ggseg repo: <https://github.com/LCBC-UiO/ggseg>
+
+## [Neuroconductor](https://neuroconductor.org/)
+
+Added Sunday Dec 13th, 2020\
+**What is this?**
+
+**Description from site:** Neuroconductor is an open-source platform for
+rapid testing and dissemination of reproducible computational imaging
+software. The goals of the project are to:
+
+provide a centralized repository of R software dedicated to image
+analysis; disseminate quickly software updates; educate a large, diverse
+community of scientists using detailed tutorials and short courses;
+ensure quality via automatic and manual quality controls; and promote
+reproducibility of image data analysis. Based on the programming
+language R, Neuroconductor started with 51 inter-operable packages that
+cover multiple areas of imaging including visualization, data processing
+and storage, and statistical inference. Neuroconductor accepts new R
+package submissions, which are subject to a formal review and continuous
+automated testing.
+
+1.  Link to site here: <https://neuroconductor.org/>
+
+## [Neuroimaging Analysis within R](https://johnmuschelli.com/imaging_in_r/)
+
+Added Sunday Dec 13th, 2020\
+**What is this?**
+
+Series of slides with code for course on Neuroimaging Analysis: All the
+PDF slides are located in a zip file here.
+
+-   Introduction and R
+    [Slides](https://johnmuschelli.com/imaging_in_r/intro/index.html),
+    [PDF
+    Slides](https://johnmuschelli.com/imaging_in_r/intro/index.pdf), [R
+    Code](https://johnmuschelli.com/imaging_in_r/intro/index.R),
+    [Source](https://johnmuschelli.com/imaging_in_r/intro/index.Rmd)
+-   General R (not covered at ENAR)
+    [Slides](https://johnmuschelli.com/imaging_in_r/general_r/index.html),
+    [PDF
+    Slides](https://johnmuschelli.com/imaging_in_r/general_r/index.pdf),
+    [R Code](https://johnmuschelli.com/imaging_in_r/general_r/index.R),
+    [Source](https://johnmuschelli.com/imaging_in_r/general_r/index.Rmd)
+-   Imaging Packages in R
+    [Slides](https://johnmuschelli.com/imaging_in_r/imaging_r_packages/index.html)
+    [PDF
+    Slides](https://johnmuschelli.com/imaging_in_r/imaging_r_packages/index.pdf),
+    [R
+    Code](https://johnmuschelli.com/imaging_in_r/imaging_r_packages/index.R),
+    [Source](https://johnmuschelli.com/imaging_in_r/imaging_r_packages/index.Rmd)
+-   Visualization of Images
+    [Slides](https://johnmuschelli.com/imaging_in_r/visualization/index.html)
+    [PDF
+    Slides](https://johnmuschelli.com/imaging_in_r/visualization/index.pdf),
+    [R
+    Code](https://johnmuschelli.com/imaging_in_r/visualization/index.R),
+    [Source](https://johnmuschelli.com/imaging_in_r/visualization/index.Rmd)
+-   Inhomogeneity Correction
+    [Slides](https://johnmuschelli.com/imaging_in_r/inhomogeneity_correction_ms/index.html),
+    [PDF
+    Slides](https://johnmuschelli.com/imaging_in_r/inhomogeneity_correction_ms/index.pdf),
+    [R
+    Code](https://johnmuschelli.com/imaging_in_r/inhomogeneity_correction_ms/index.R)
+    [Source](https://johnmuschelli.com/imaging_in_r/inhomogeneity_correction_ms/index.Rmd)
+-   Brain Extraction/Segmentation
+    [Slides](https://johnmuschelli.com/imaging_in_r/brain_extraction_malf/index.html),
+    [PDF
+    Slides](https://johnmuschelli.com/imaging_in_r/brain_extraction_malf/index.pdf),
+    [R
+    Code](https://johnmuschelli.com/imaging_in_r/brain_extraction_malf/index.R),
+    [Source](https://johnmuschelli.com/imaging_in_r/brain_extraction_malf/index.Rmd)
+-   Image Registration
+    [Slides](https://johnmuschelli.com/imaging_in_r/coregistration/index.html)
+    [PDF
+    Slides](https://johnmuschelli.com/imaging_in_r/coregistration/index.pdf),
+    [R
+    Code](https://johnmuschelli.com/imaging_in_r/coregistration/index.R),
+    [Source](https://johnmuschelli.com/imaging_in_r/coregistration/index.Rmd)
+-   Tissue-Class Segmentation
+    [Slides](https://johnmuschelli.com/imaging_in_r/segmentation/index.html)
+    [PDF
+    Slides](https://johnmuschelli.com/imaging_in_r/segmentation/index.pdf),
+    [R
+    Code](https://johnmuschelli.com/imaging_in_r/segmentation/index.R),
+    [Source](https://johnmuschelli.com/imaging_in_r/segmentation/index.Rmd)
+-   Intensity Normalization
+    [Slides](https://johnmuschelli.com/imaging_in_r/intensity_normalization/index.html),
+    [PDF
+    Slides](https://johnmuschelli.com/imaging_in_r/intensity_normalization/index.pdf),
+    [R
+    Code](https://johnmuschelli.com/imaging_in_r/intensity_normalization/index.R),
+    [Source](https://johnmuschelli.com/imaging_in_r/intensity_normalization/index.Rmd)
+-   Segmentation of MS Lesions
+    [Slides](https://johnmuschelli.com/imaging_in_r/ms_lesion_segmentation/index.html),
+    [PDF
+    Slides](https://johnmuschelli.com/imaging_in_r/ms_lesion_segmentation/index.pdf),
+    [R
+    Code](https://johnmuschelli.com/imaging_in_r/ms_lesion_segmentation/index.R),
+    [Source](https://johnmuschelli.com/imaging_in_r/ms_lesion_segmentation/index.Rmd)
+-   Image Harmonization
+    [Slides](https://johnmuschelli.com/imaging_in_r/image_harmonization/index.html)
+    [PDF
+    Slides](https://johnmuschelli.com/imaging_in_r/ms_lesion_segmentation/index.pdf),
+    [R
+    Code](https://johnmuschelli.com/imaging_in_r/image_harmonization/index.R),
+    [Source](https://johnmuschelli.com/imaging_in_r/image_harmonization/index.Rmd)
+-   Starting with Raw (DICOM) Data (not covered)
+    [Slides](https://johnmuschelli.com/imaging_in_r/starting_with_raw_data/index.html),
+    [PDF
+    Slides](https://johnmuschelli.com/imaging_in_r/starting_with_raw_data/index.pdf),
+    [R
+    Code](https://johnmuschelli.com/imaging_in_r/starting_with_raw_data/index.R),
+    [Source](https://johnmuschelli.com/imaging_in_r/starting_with_raw_data/index.Rmd)
+
+1.  Link to site here: <https://johnmuschelli.com/imaging_in_r/>

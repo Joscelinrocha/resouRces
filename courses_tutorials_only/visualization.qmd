@@ -1,0 +1,315 @@
+---
+title: "Visualization"
+subtitle: "Courses & Tutorials Only"
+editor: 
+  markdown: 
+    wrap: sentence
+---
+
+<link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/JoscelinRocha">![Buy me a coffee](https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg){alt="Buy me a coffee" width="15" height="21"}Buy me a coffee</a>
+
+------------------------------------------------------------------------
+
+## [A ggplot2 grammar guide](https://evamaerey.github.io/ggplot2_grammar_guide/about)💯
+
+By [Gina Reynolds](https://evamaerey.github.io/ggplot2_grammar_guide/about)
+
+Added Mon Sep 14th, 2020
+
+**What is this?**\
+This guide isn't comprehensive, and it will likely continue to evolve.
+But it's at a place that it might be useful to orient you, a colleague, or a student to ggplot2 and extensions.
+
+1.  Link to site here: <https://evamaerey.github.io/ggplot2_grammar_guide/about>
+
+## [A ggplot2 Tutorial for Beautiful Plotting in R](https://cedricscherer.netlify.app/2019/08/05/a-ggplot2-tutorial-for-beautiful-plotting-in-r/#titles)💯
+
+By [Cédric](https://cedricscherer.netlify.app/2019/08/05/a-ggplot2-tutorial-for-beautiful-plotting-in-r/#titles)
+
+Added Mon Sep 14th, 2020.
+
+**What is this?**
+
+Wonderful introductory tutorial to ggplot2 and the wonderful things you could do with it.
+
+1.  Link to blog here: <https://cedricscherer.netlify.app/2019/08/05/a-ggplot2-tutorial-for-beautiful-plotting-in-r/#titles>
+
+## [An Introduction to Hierarchical Modeling](http://mfviz.com/hierarchical-models/)
+
+**What is this?**
+
+This project was built by Michael Freeman, a faculty member at the University of Washington Information School.
+
+1.  All code for this project is on GitHub here: <https://github.com/mkfreeman/hierarchical-models/>
+
+## [An introduction to cowplot](https://meghan.rbind.io/blog/cowplot/)
+
+By [Meghan Hall](https://meghan.rbind.io/blog/cowplot/)
+
+Added Sat Dec 11, 2021
+
+**What is this?**
+
+**Excerpt from site:** "This week's #TidyTuesday data set is all about lemurs (with data from the Duke Lemur Center), so I figured I would stick with the animal theme and discuss a few functions from Claus Wilke's cowplot package, which is my personal favorite package for arranging plots made in R".
+
+1.  Post and course here: <https://meghan.rbind.io/blog/cowplot/>
+
+## [Data Visualization course](https://datavizm20.classes.andrewheiss.com/syllabus/)
+
+By [Andrew Heiss](https://datavizm20.classes.andrewheiss.com/syllabus/)
+
+**What is this?**
+
+**Excerpt from site:** In this class, you'll learn how to use industry-standard graphic and data design techniques to create beautiful, understandable visualizations and uncover truth in data.
+
+By the end of this course, you will become (1) literate in data and graphic design principles, and (2) an ethical data communicator, by producing beautiful, powerful, and clear visualizations of your own data.
+
+1.  E-course here: <https://datavizm20.classes.andrewheiss.com/syllabus/>
+
+## [Data Visualization for Educational Data Science](https://dataviz-2021.netlify.app/)💯
+
+Added Thu Dec 31st, 2020
+
+**What is this?**
+
+Welcome to the second course in the Educational Data Science Specialization taught at the University of Oregon through the College of Education.
+This course will be taught through R, a free and open-source statistical computing environment, and will provide students with the foundational principles and practice of data visualization, particularly as applied to scientific and technical data.
+We will have weekly lectures, covering a wide variety of topics including human perception, color theory, and principles of visual design.
+We will also cover mediums for communication across diverse audiences with an emphasis on different web applications.
+Weekly hands-on laboratory sessions provide students the opportunity to put the lecture material into practice.
+
+1.  Link to site here: <https://dataviz-2021.netlify.app/>
+2.  Link to repo here: <https://github.com/uo-datasci-specialization/c2-dataviz-2021>
+
+## [Data visualisation using R, for researchers who don't use R](https://psyteachr.github.io/introdataviz/)💯
+
+Added Fri Feb 18th, 2022
+
+**What is this?**
+
+**Excerpt from site:** In this tutorial, we provide a practical introduction to data visualisation using R, specifically aimed at researchers who have little to no prior experience of using R.
+First we detail the rationale for using R for data visualisation and introduce the "grammar of graphics" that underlies data visualisation using the ggplot2 package.
+The tutorial then walks the reader through how to replicate plots that are commonly available in point-and-click software such as histograms and boxplots, as well as showing how the code for these "basic" plots can be easily extended to less commonly available options such as violin-boxplots.
+
+1.  Link to site here: <https://psyteachr.github.io/introdataviz/>
+2.  Link to dataset here: <https://osf.io/bj83f/>
+
+## [Drawing Anything with ggplot](https://github.com/thomasp85/ggplot2_workshop)
+
+By [Thomas Lin Pedersen](https://github.com/thomasp85/ggplot2_workshop)
+
+Added Thursday Nov 5, 2020
+
+**What is this?**
+
+**Excerpt from repo:** This repository collects material for a \~4 hour workshop first taught at celebRation2020 in Copenhagen.
+
+1.  Link to repo here: <https://github.com/thomasp85/ggplot2_workshop>
+2.  Link to youtube video Part1: <https://www.youtube.com/watch?v=h29g21z0a68>
+3.  Link to youtube video Part2: <https://www.youtube.com/watch?v=0m4yywqNPVY>
+
+## [First steps in spatial handling and visualization](https://github.com/statnmap/user2020_rspatial_tutorial)
+
+By [Sébastien Rochette, Dorris Scott, & Jakub Nowosad](https://github.com/statnmap/user2020_rspatial_tutorial)
+
+**What is this?**
+
+**Excerpt from tutorial:** The tutorial is designed for R users from a variety of fields who are interested in working with spatial data and creating maps with R.
+No knowledge of cartography is required.
+Prior knowledge of (non-spatial) graphic making and data handling with the {tidyverse} in R is recommended.
+
+1.  Link to tutorial video here: <https://youtu.be/1Hp8MO82t4g>
+2.  Link to github repo here: <https://github.com/statnmap/user2020_rspatial_tutorial>
+
+## [ggplot Wizardry: My Favorite Tricks and Secrets for Beautiful Plots in R](https://github.com/Z3tt/OutlierConf2021/)
+
+**What is this?**
+
+**Excerpt from site:** In this talk, I present my favorite tips and tricks with regard to the ggplot2 package, a library for plotting in the programming language R.
+I will cover functions that are helpful but many may not be aware of as well as a collection of interesting functions from a large range of extension packages.
+The talk is intended for people who already know how to code in R and ggplot2.
+However, I am going to cover a diverse collection of tips so I hope everyone can pick something helpful independent from their level of expertise.
+
+1.  Link to repo is here: <https://github.com/Z3tt/OutlierConf2021>
+2.  Link to Slides here: <https://cutt.ly/Yxbo2QY>
+3.  Link to Recording here: <https://cutt.ly/YxboC3n>
+4.  Link to Tutorial here: <https://cutt.ly/Gxbpu61>
+5.  Link to Codes here: <https://cutt.ly/TxbpcDV>
+6.  Link to Extended Slides here: <https://www.cedricscherer.com/slides/useR-2021_ggplot-wizardry-extended.pdf>
+
+## [Ggplot2tor](https://ggplot2tutor.com)
+
+Added Mon Sept 14th, 2020
+
+**What is this?**
+
+**Excerpt from site:** This webpage provides you with a step by step guide on how to make them.
+Each plot is explained in detail and allows you to create the data visualizations that you would like to design.
+
+1.  Link to site here: <https://ggplot2tutor.com>
+
+## [How to visualize models Part 1 \| multiple linear models, all assumptions & post-hocs](https://www.youtube.com/watch?v=BNTn_f43U04&feature=youtu.be)💯
+
+By [Yury Zablotski](https://www.youtube.com/watch?v=BNTn_f43U04&feature=youtu.be)
+
+Added Thu Dec 31st, 2020
+
+**What is this?**
+
+**Excerpt from video description:** In this video, we'll visualize in RStudio the results and coefficients of:
+
+-   simple linear models with categorical predictor
+-   simple linear models with numeric predictor
+-   multiple linear models with numeric and categorical predictors &
+-   multiple linear models with interactions
+
+1.  Link to video demo here: <https://www.youtube.com/watch?v=BNTn_f43U04&feature=youtu.be>
+
+## [Introduction to Dataviz in R UKCLC Pre-Conference Workshop](https://verbingnouns.github.io/notebooks/UKCLC2020.nb.html#)
+
+By[Dr. Lauren Ackerman](https://verbingnouns.github.io/notebooks/UKCLC2020.nb.html#)
+
+**What is this?**
+
+During the UKCLC 2020 Dr. Lauren Ackerman gave a preconference workshop on data visualization using R.
+
+1.  Link to rmd material here: <https://verbingnouns.github.io/notebooks/UKCLC2020.nb.html#1_Welcome_to_Dataviz>
+
+## [Introduction to Geospatial Visualization with R-R-Ladies Abuja + Abuja R Users](https://github.com/RamiKrispin/gis-dataviz-workshop)
+
+By [Rami Krispin](https://github.com/RamiKrispin/gis-dataviz-workshop)
+
+Added Sun Dec 12, 2021
+
+**What is this?**
+
+**Excerpt from site**: Introduction to spatial data - Working with sf objects - Plot sf objects with mapview, tmap, and ggplot2 - Create choropleth maps
+
+1.  Link to github repo. andcode here: <https://github.com/RamiKrispin/gis-dataviz-workshop>
+2.  Link to slides here: <https://ramikrispin.github.io/gis-dataviz-workshop/#1>
+
+## [Making Flipbooks](https://apreshill.github.io/rmd4cdc/#1)
+
+**What is this?**
+
+Intro to what Flipbooks are and how to make them in R.
+
+1.  Link to website: <https://evamaerey.github.io/flipbooks/about>
+
+## [Modify components of a theme](https://ggplot2.tidyverse.org/reference/theme.html)
+
+**What is this?**
+
+**Excerpt from site:** Themes are a powerful way to customize the non-data components of your plots: i.e. titles, labels, fonts, background, gridlines, and legends.
+Themes can be used to give plots a consistent customized look.
+Modify a single plot's theme using theme(); see theme_update() if you want modify the active theme, to affect all subsequent plots.
+Use the themes available in complete themes if you would like to use a complete theme such as theme_bw(), theme_minimal(), and more.
+
+1.  Link to site here: <https://ggplot2.tidyverse.org/reference/theme.html>
+
+## [Penn MUSA Masterclass: 3D Mapping and Visualization with R](https://github.com/tylermorganwall/MusaMasterclass)
+
+By [Rayshader & Tyler Morgan-Wall](https://github.com/tylermorganwall/MusaMasterclass)
+
+**What is this?**
+
+Tutorial to create 3d maps using R.
+
+1.  Link to repo here: <https://github.com/tylermorganwall/MusaMasterclass>
+
+## [Plotly R Open Source Graphing Library](https://plotly.com/r/) 💯
+
+**What is this?**
+
+**Excerpt from the site:** Plotly's R graphing library makes interactive, publication-quality graphs.
+Examples of how to make line plots, scatter plots, area charts, bar charts, error bars, box plots, histograms, heatmaps, subplots, multiple-axes, and 3D (WebGL based) charts.
+Plotly.R is free and open source and you can view the source, report issues or contribute on GitHub.
+
+1.  Link to site: <https://plotly.com/r/>
+
+## [Principles & Practice of Data Visualization](https://apreshill.github.io/data-vis-labs-2018/index.html)
+
+By [Alison Hill](https://apreshill.github.io/data-vis-labs-2018/index.html)
+
+**What is this?**
+
+**Excerpt from site:** This is the site for sharing our Data Visualization Labs for CS631 at Oregon Health & Science University.
+It has exercises and solutions!
+💯
+
+1.  Link to the workshop here: <https://apreshill.github.io/data-vis-labs-2018/index.html>
+
+## [R graphics with ggplot2 workshop notes](http://tutorials.iq.harvard.edu/R/Rgraphics/Rgraphics.html#geometric_objects_and_aesthetics)
+
+Added Mon Sep 14th, 2020
+
+**What is this?**
+
+Workshop listed in Harvard's resources.
+Materials can be downloaded.
+
+1.  Link to workshop notes: <http://tutorials.iq.harvard.edu/R/Rgraphics/Rgraphics.html#geometric_objects_and_aesthetics>
+2.  Link to download materials here: <http://tutorials.iq.harvard.edu/R/Rgraphics.zip>
+
+## [Teaching material: Data analytics and visualization](https://www.yan-holtz.com/teaching)
+
+By [Yan Holtz](https://www.yan-holtz.com/teaching)
+
+**What is this?**
+
+Wonderful site to give you and intro to ggplot and even github!
+Check it out!!!
+
+1.  Website here: <https://www.yan-holtz.com/teaching>
+
+## [TidyX YouTube channel hosted](https://www.youtube.com/channel/UCP8l94xtoemCH_GxByvTuFQ/featured)
+
+By [Ellis Hughes & Patrick Ward](https://www.youtube.com/channel/UCP8l94xtoemCH_GxByvTuFQ/featured)
+
+**What is this?**
+
+**Excerpt from channel:** TidyX is a screen cast where we select a person's code from the TidyTuesday project and go through their code line-by-line, explaining what they did and how the functions they used work.
+We also break down the visualizations they create and talk about how to apply similar approaches to other data sets.
+The objective is to help more people learn R and get involved in the TidyTuesday community.
+
+1.  Link to YouTube channel here: <https://www.youtube.com/channel/UCP8l94xtoemCH_GxByvTuFQ/featured>
+
+## Making map plots
+
+**What is this?**
+
+Here is a list of resources to create visualizations with maps
+
+1.  <https://www.r-spatial.org/r/2018/10/25/ggplot2-sf-2.html>
+2.  <https://rstudio.github.io/leaflet/projections.html>
+3.  <https://www.r-graph-gallery.com/278-the-maps-library.html>
+4.  <http://www.milanor.net/blog/maps-in-r-introduction-drawing-the-map-of-europe/>
+5.  <https://www.youtube.com/watch?v=wgFVmzSbaQc&list=PL7D2RMSmRO9JOvPC1gbA8Mc3azvSfm8Vv&index=17>
+
+## Videos for data visualization
+
+By Sharon Machlis
+
+**What is this?**
+
+Here is a list of video tutorial by Sharon by categories:
+
+1.  [How to style the headlines and axis text in your ggplot graphs with the ggtext package for R](https://www.infoworld.com/article/3527449/add-color-to-your-ggplot2-text-in-r.html)
+
+2.  [Easier ggplot with the ggeasy R package](https://www.infoworld.com/article/3533453/easier-ggplot-with-the-ggeasy-r-package.html)
+
+3.  [Add color to your ggplot2 text in R](https://www.infoworld.com/article/3527449/add-color-to-your-ggplot2-text-in-r.html)
+
+4.  [Customizing ggplot with bbplot](https://www.youtube.com/watch?v=t7434w464SU&list=PL7D2RMSmRO9JOvPC1gbA8Mc3azvSfm8Vv&index=7)
+
+5.  [Creating color coded calendars](https://www.infoworld.com/article/3331605/how-to-create-color-coded-calendars-in-r.html)
+
+6.  [Adding sparklines to r tables](https://www.infoworld.com/article/3318222/how-to-add-sparklines-to-r-tables.html)
+
+7.  [drag-and-drop ggplot Interface](https://www.infoworld.com/article/3311518/do-more-with-r-drag-and-drop-ggplot.html) 💯
+
+8.  [Animations in R](https://www.youtube.com/watch?v=HUgaP8iHfvw&list=PL7D2RMSmRO9JOvPC1gbA8Mc3azvSfm8Vv&index=20) 💯
+
+9.  [Easy dashboards with flexdashboard](https://www.youtube.com/watch?v=gFOjFRcouVU&list=PL7D2RMSmRO9JOvPC1gbA8Mc3azvSfm8Vv&index=31&t=0s) 💯
+
+10. [How to create easy interactive scatter plots with taucharts](https://www.youtube.com/watch?v=XkKHN44_JNo&list=PL7D2RMSmRO9JOvPC1gbA8Mc3azvSfm8Vv&index=33&t=0s)

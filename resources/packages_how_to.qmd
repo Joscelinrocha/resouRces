@@ -1,0 +1,51 @@
+---
+title: "Packages (How to make them?)"
+---
+
+<link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/JoscelinRocha">![Buy me a coffee](https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg){alt="Buy me a coffee" width="15" height="21"}Buy me a coffee</a>
+
+------------------------------------------------------------------------
+
+## [Create your own R package-R Packages](https://r-pkgs.org/)
+
+By [Hadley Wickham Jennifer Bryan](https://r-pkgs.org/)
+
+**What is this?**
+
+**Excerpt from e-book:** Packages are the fundamental units of reproducible R code. They include reusable R functions, the documentation that describes how to use them, and sample data. In this book you'll learn how to turn your code into packages that others can easily download and use. Writing a package can seem overwhelming at first. So start with the basics and improve it over time. It doesn't matter if your first version isn't perfect as long as the next version is better.
+
+1.  Link to e-book here: <https://r-pkgs.org/>
+
+## [R Packages](https://r-pkgs.org/)
+
+By [Hadley Wickham](https://r-pkgs.org/)
+
+**What is this?**
+
+**Excerpt from e-book:** Writing a package can seem overwhelming at first. So start with the basics and improve it over time. It doesn't matter if your first version isn't perfect as long as the next version is better.
+
+This is the work-in-progress 2nd edition of the book.
+
+1.  Link to ebook here: <https://r-pkgs.org/>
+2.  Purchase book [HERE](https://smile.amazon.com/gp/product/1491910593/ref=smi_www_rco2_go_smi_4368549507?_encoding=UTF8&camp=1789&creative=9325&creativeASIN=1491910593&ie=UTF8&linkCode=as2&linkId=789507cd7205267ec4557c2c2e7f8e25&tag=cmdlinetips-20)
+
+## [R package primer a minimal tutorial](https://kbroman.org/pkg_primer/)
+
+By [Karl Broman](https://kbroman.org/pkg_primer/)
+
+**What is this?**
+
+Minimal tutorial about how to write your very own R package.
+
+1.  Link to tutorial here: <https://kbroman.org/pkg_primer/>
+2.  Lunk to repo here: <https://github.com/kbroman/pkg_primer>
+
+## [Writing an R package from scratch](https://hilaryparker.com/2014/04/29/writing-an-r-package-from-scratch/)
+
+By [Hilary Parker](https://hilaryparker.com/2014/04/29/writing-an-r-package-from-scratch/)
+
+**What is this?**
+
+**Excerpt from blog:** This tutorial is not about making a beautiful, perfect R package. This tutorial is about creating a bare-minimum R package so that you don't have to keep thinking to yourself, "I really should just make an R package with these functions so I don't have to keep copy/pasting them like a goddamn luddite." Seriously, it doesn't have to be about sharing your code (although that is an added benefit!). It is about saving yourself time. (n.b. this is my attitude about all reproducibility)
+
+1.  .Link to blog: <https://hilaryparker.com/2014/04/29/writing-an-r-package-from-scratch/>
