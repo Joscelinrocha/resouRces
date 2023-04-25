@@ -139,7 +139,7 @@ However, I am going to cover a diverse collection of tips so I hope everyone can
 
 ## [Ggplot2tor](https://ggplot2tutor.com)
 
-Added Mon Sept 14th, 2020
+Added Mon Apr 24th, 2023
 
 **What is this?**
 
