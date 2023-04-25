@@ -346,7 +346,7 @@
   </url>
   <url>
     <loc>https://www.resourcesdatabase.com/blogs_slides_only/visualization.html</loc>
-    <lastmod>2023-04-14T20:12:33.496Z</lastmod>
+    <lastmod>2023-04-24T21:30:21.006Z</lastmod>
   </url>
   <url>
     <loc>https://www.resourcesdatabase.com/courses_tutorials_only/visualization.html</loc>
@@ -354,7 +354,7 @@
   </url>
   <url>
     <loc>https://www.resourcesdatabase.com/resources/visualization.html</loc>
-    <lastmod>2023-04-14T21:26:23.368Z</lastmod>
+    <lastmod>2023-04-25T02:22:15.592Z</lastmod>
   </url>
   <url>
     <loc>https://www.resourcesdatabase.com/resources/packages_how_to.html</loc>
@@ -374,7 +374,7 @@
   </url>
   <url>
     <loc>https://www.resourcesdatabase.com/resources/statistics.html</loc>
-    <lastmod>2023-04-14T21:04:45.310Z</lastmod>
+    <lastmod>2023-04-25T02:33:59.184Z</lastmod>
   </url>
   <url>
     <loc>https://www.resourcesdatabase.com/ebooks_only/statistics.html</loc>
@@ -387,5 +387,25 @@
   <url>
     <loc>https://www.resourcesdatabase.com/resources/git.html</loc>
     <lastmod>2023-04-14T21:12:23.470Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.resourcesdatabase.com/ebooks_only/data_science.html</loc>
+    <lastmod>2023-04-25T01:58:25.865Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.resourcesdatabase.com/resources/data_science.html</loc>
+    <lastmod>2023-04-25T02:34:27.718Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.resourcesdatabase.com/ebooks_only/visualization.html</loc>
+    <lastmod>2023-04-25T02:22:23.825Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.resourcesdatabase.com/resources/joscelins_faves.html</loc>
+    <lastmod>2023-04-25T02:34:21.723Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.resourcesdatabase.com/resources/r_markdown.html</loc>
+    <lastmod>2023-04-25T02:34:05.107Z</lastmod>
   </url>
 </urlset>

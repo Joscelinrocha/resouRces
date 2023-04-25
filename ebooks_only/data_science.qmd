@@ -47,6 +47,20 @@ The goal is to help you to organize your thinking around how to combine the thin
 
 1.  Link to ebook here: http://jtleek.com/ads2020/
 
+## [Building reproducible analytical pipelines with R](https://raps-with-r.dev/)
+
+By [Bruno Rodrigues](https://raps-with-r.dev/)
+
+Added Mon Apr 24th, 2023
+
+**What is this?**
+
+**Excerpt from e-book:** The aim of this book is to teach you how to use some of the best practices from software engineering and DevOps to make your projects robust, reliable and reproducible.
+It doesn't matter if you work alone, in a small or in a big team.
+It doesn't matter if your work gets (peer-)reviewed or audited: the techniques presented in this book will make your projects more reliable and save you a lot of frustration!
+
+1.  Link to ebook here: <https://raps-with-r.dev/>
+
 ## [Data Analysis for the Life Sciences with R](https://leanpub.com/dataanalysisforthelifesciences)
 
 By [Rafael A. Irizarry and Michael I Love](https://leanpub.com/dataanalysisforthelifesciences)

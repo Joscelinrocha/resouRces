@@ -45,6 +45,7 @@ Wonderful introductory tutorial to ggplot2 and the wonderful things you could do
 
 1.  Link to blog here: <https://cedricscherer.netlify.app/2019/08/05/a-ggplot2-tutorial-for-beautiful-plotting-in-r/#titles>
 
+
 ## [Align the assignment operators within a highlighted area](https://github.com/seasmith/AlignAssign)
 
 **What is this?**
@@ -94,6 +95,20 @@ Added Sat Dec 11, 2021
 **Excerpt from site:** "This week's #TidyTuesday data set is all about lemurs (with data from the Duke Lemur Center), so I figured I would stick with the animal theme and discuss a few functions from Claus Wilke's cowplot package, which is my personal favorite package for arranging plots made in R".
 
 1.  Post and course here: <https://meghan.rbind.io/blog/cowplot/>
+
+## [Astonishingly easy mapping in R with mapview](https://www.infoworld.com/article/3644848/astonishingly-easy-mapping-in-r-with-mapview.html)
+
+By [Sharon Machlis](https://www.infoworld.com/article/3644848/astonishingly-easy-mapping-in-r-with-mapview.html)
+
+Added Mon Apr 24, 2023
+
+**What is this?**
+
+**Excerpt from site:** TCreate interactive maps of GIS data with tooltips, hover text, and legends in one short and simple line of code.
+Plus get extras like side-by-side sliders and multiple maps in sync.
+
+1.  Post here: <https://www.infoworld.com/article/3644848/astonishingly-easy-mapping-in-r-with-mapview.html>
+2.  Video here: <https://www.youtube.com/watch?v=pHOto3VDG9s>
 
 ## [Basic usage of tidycensus--a vignette](https://walker-data.com/tidycensus/articles/basic-usage.html)
 
@@ -257,6 +272,20 @@ Added Thursday Nov 5, 2020
 1.  Link to repo here: <https://github.com/thomasp85/ggplot2_workshop>
 2.  Link to youtube video Part1: <https://www.youtube.com/watch?v=h29g21z0a68>
 3.  Link to youtube video Part2: <https://www.youtube.com/watch?v=0m4yywqNPVY>
+
+## [Educational Apps for ggplot2](https://ggplot2tor.com/apps)
+
+By [Christian Burkhart ](https://ggplot2tor.com/apps)
+
+Added Mon Apr 24th, 2023
+
+**What is this?**
+
+**Excerpt from site:** A list of educational apps that make it easy to create data visualizations in ggplot2.
+1. Link to all apps here: <https://ggplot2tor.com/apps>
+1. Link to Aesthetics finder here: <https://ggplot2tor.com/aesthetics>
+1. Link to Scales finder here: <https://ggplot2tor.com/scales>
+1. Link to Theme finder: <https://ggplot2tor.com/theme>
 
 ## [esquisse add-in](https://github.com/dreamRs/esquisse)
 
@@ -756,6 +785,7 @@ Here is a list of resources to create visualizations with maps
 3.  <https://www.r-graph-gallery.com/278-the-maps-library.html>
 4.  <http://www.milanor.net/blog/maps-in-r-introduction-drawing-the-map-of-europe/>
 5.  <https://www.youtube.com/watch?v=wgFVmzSbaQc&list=PL7D2RMSmRO9JOvPC1gbA8Mc3azvSfm8Vv&index=17>
+6.  <https://www.infoworld.com/article/3644848/astonishingly-easy-mapping-in-r-with-mapview.html>
 
 ## Videos for data visualization
 

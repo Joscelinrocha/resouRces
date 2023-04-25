@@ -96,6 +96,19 @@ Added Sat Dec 11, 2021
 
 1.  Post and course here: <https://meghan.rbind.io/blog/cowplot/>
 
+## [Astonishingly easy mapping in R with mapview](https://www.infoworld.com/article/3644848/astonishingly-easy-mapping-in-r-with-mapview.html)
+
+By [Sharon Machlis](https://www.infoworld.com/article/3644848/astonishingly-easy-mapping-in-r-with-mapview.html)
+
+Added Mon Apr 24, 2023
+
+**What is this?**
+
+**Excerpt from site:** TCreate interactive maps of GIS data with tooltips, hover text, and legends in one short and simple line of code. Plus get extras like side-by-side sliders and multiple maps in sync.
+
+1.  Post here: <https://www.infoworld.com/article/3644848/astonishingly-easy-mapping-in-r-with-mapview.html>
+1. Video here: <https://www.youtube.com/watch?v=pHOto3VDG9s>
+
 ## [Calendar plot in R using ggplot2](https://r-coder.com/calendar-plot-r/)
 
 **What is this?**
@@ -292,11 +305,8 @@ All plots are going to be created with 100% {ggplot2} and 0% Inkscape.
 Here is a list of resources to create visualizations with maps
 
 1.  <https://www.r-spatial.org/r/2018/10/25/ggplot2-sf-2.html>
-
 2.  <https://rstudio.github.io/leaflet/projections.html>
-
 3.  <https://www.r-graph-gallery.com/278-the-maps-library.html>
-
 4.  <http://www.milanor.net/blog/maps-in-r-introduction-drawing-the-map-of-europe/>
-
 5.  <https://www.youtube.com/watch?v=wgFVmzSbaQc&list=PL7D2RMSmRO9JOvPC1gbA8Mc3azvSfm8Vv&index=17>
+6. <https://www.infoworld.com/article/3644848/astonishingly-easy-mapping-in-r-with-mapview.html>
