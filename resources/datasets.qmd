@@ -12,6 +12,74 @@ editor:
 After I learned to do some fun things in R, I noticed that I needed datasets to practice my new skills.
 I know there are some already built in R (added a nice list here) but I also wanted to "choose" something that aligns more with what I do or may enjoy learning about, so here are other ones I found too.
 
+## [Afro Barometer Database](https://www.afrobarometer.org/data/)
+
+Added Fri Apr 28th, 2023
+
+**What is this?**
+
+**Excerpt from site:** Afrobarometer, a non-profit company limited by guarantee with headquarters in Ghana, is a pan-African, non-partisan survey research network that conducts public attitude surveys on democracy, governance, the economy, and society.
+
+1.  Link to datasets here: <https://www.afrobarometer.org/data/>
+
+## [American Housing Survey (AHS)](https://www.census.gov/programs-surveys/ahs.html)
+
+Added Fri Apr 28th, 2023
+
+**What is this?**
+
+**Excerpt from site:** The AHS is sponsored by the Department of Housing and Urban Development (HUD) and conducted by the U.S.
+Census Bureau.
+The survey is the most comprehensive national housing survey in the United States.
+
+1.  Link to website here: <https://www.census.gov/programs-surveys/ahs.html>
+
+## [ANES-American National Election Studies](https://electionstudies.org/data-center/)
+
+Added Fri Apr 28th, 2023
+
+**What is this?**
+
+**Excerpt from site:** To serve the research needs of social scientists, teachers, students, policy makers and journalists, the ANES produces high quality data from its own surveys on voting, public opinion, and political participation.
+Central to this mission is the active involvement of the ANES research community in all phases of the project.
+
+1.  Link to datasets here: <https://electionstudies.org/data-center/>
+
+## [ARDA (Association of Religion Data Archives) Data Archive](https://www.thearda.com/data-archive/browse-categories)
+
+Added Fri Apr 28th, 2023
+
+**What is this?**
+
+**Excerpt from site:** The ARDA Data Archive is a collection of surveys, polls, and other data submitted by researchers and made available online by the ARDA.\
+
+\
+There are 1,236 data files included in the ARDA collection.
+You can browse files by category, [alphabetically](https://www.thearda.com/data-archive/browse-alphabetically), view the [newest additions](https://www.thearda.com/data-archive/browse-newest-additions), or search for a file.
+Once you select a file you can preview the results, read about how the data were collected, review the survey questions asked, save selected survey questions to your own file, and/or download the data file.
+
+1.  Link to datasets here: <https://www.thearda.com/data-archive/browse-categories>
+
+## [British Election Study](https://www.britishelectionstudy.com/data/#.ZExD7-zML0o)
+
+Added Fri Apr 28th, 2023
+
+**What is this?**
+
+**Excerpt from site:** Here you will find all British Election Study data released by the current BES team, as well as historical BES data collected in elections between 1964 and 2010.
+New data are listed first.
+
+1.  Link to datasets here: <https://www.britishelectionstudy.com/data/#.ZExD7-zML0o>
+
+## [Center for the Study of Elections and Democracy Dataverse](https://dataverse.harvard.edu/dataverse/csed)
+
+Added Fri Apr 28th, 2023
+
+**What is this?**\
+**Excerpt from site:** This dataverse includes surveys and research conducted by professors at the Center for the Study of Elections and Democracy at Brigham Young University.
+
+1.  Link to the datasets: <https://dataverse.harvard.edu/dataverse/csed>
+
 ## [Child and Familia Data Archive (Beta)](https://www.childandfamilydataarchive.org/cfda/pages/cfda/index.html;jsessionid=5F851109CAC306B544741D5B55CC276F)
 
 **What is this?**
@@ -19,6 +87,28 @@ I know there are some already built in R (added a nice list here) but I also wan
 **Excerpt from site:** The Child and Family Data Archive (C&F Data Archive) is the place to discover, access, and analyze data on young children, their families and communities, and the programs that serve them.
 
 1.  Link to website here: <https://www.childandfamilydataarchive.org/cfda/pages/cfda/index.html>
+
+## [Chicago Council Survey](https://globalaffairs.org/research/lester-crown-center-us-foreign-policy/chicago-council-survey)
+
+Added Fri Apr 28th, 2023
+
+**What is this?**\
+**Excerpt from site:** The Chicago Council Survey provides the most comprehensive view of American public opinion on critical US foreign policy issues, highlighting critical trends and shifts in thinking over time since 1974.
+The Council\'s polling experts, their annual report, and related topical briefs compose the Council\'s most recognized area of research.
+A signature area of study under the Lester Crown Center on US Foreign Policy, the Chicago Council Survey provides the public with a mechanism for sharing views with politicians and decision makers who each year cite the survey as a valuable resource for influencing policy debates.
+
+1.  Link to the datasets: <https://globalaffairs.org/research/lester-crown-center-us-foreign-policy/chicago-council-survey>
+
+## [Cooperative Election Study: Formerly the Cooperative Congressional Election Study](https://cces.gov.harvard.edu/)
+
+Added Fri Apr 28th, 2023
+
+**What is this?**
+
+**Excerpt from site:** The CCES is a 50,000+ person national stratified sample survey administered by YouGov.
+Half of the questionnaire consists of [Common Content](http://projects.iq.harvard.edu/cces/book/common-content) asked of all 50,000+ people, and half of the questionnaire consists of Team Content designed by each individual participating team and asked of a subset of 1,000 people.
+
+1.  Link to datasets here: <https://cces.gov.harvard.edu/>
 
 ## [Data is Plural archive](https://dataset-finder.netlify.app/)
 
@@ -28,6 +118,16 @@ I know there are some already built in R (added a nice list here) but I also wan
 There have been 256 editions, dating from October 21, 2015 to October 6, 2021.
 
 1.  Link to website here: <https://dataset-finder.netlify.app/>
+
+## [Data.gov](https://data.gov/)
+
+Added Fri Apr 28th, 2023\
+**What is this?**\
+**Excerpt from site here:** The Home of the U.S.
+Government's Open Data.
+Here you will find data, tools, and resources to conduct research, develop web and mobile applications, design data visualizations, and more.
+
+1.  Link to site: <https://data.gov/>
 
 ## [Datasets: Machine learning datasets](https://paperswithcode.com/datasets)
 
@@ -81,6 +181,38 @@ List of dataset used for the cases studies and exercises in the "R, Python and S
 
 1.  Link to list of datasets here: <https://gabors-data-analysis.com/datasets/>
 
+## [Dynamics of Collective Action](https://web.stanford.edu/group/collectiveaction/cgi-bin/drupal/)
+
+Added Fri Apr 28th, 2023
+
+**What is this?**\
+**Excerpt from site:** Here you can access data from an ongoing project about collective action in the United States.
+Using the menu either above or to the right, you'll find links to the dataset, documentation, and contact information.
+
+1.  Link to the datasets: <https://web.stanford.edu/group/collectiveaction/cgi-bin/drupal/>
+
+## [General Social Survey - NORC](https://gss.norc.org/Get-The-Data)
+
+Added Fri Apr 28th, 2023
+
+**What is this?**\
+**Excerpt from site:** The GSS has been a reliable source of data to help researchers, students, and journalists monitor and explain trends in American behaviors, demographics, and opinions.
+You'll find the complete GSS data set on this site, and can access the GSS Data Explorer to explore, analyze, extract, and share custom sets of GSS data.
+
+1.  Link to the datasets: <https://gss.norc.org/Get-The-Data>
+
+## [LAPOP - AmericasBarometer \[Barómetro de las Americas\]](https://www.vanderbilt.edu/lapop/data-access.php)
+
+Added Fri Apr 28th, 2023
+
+**What is this?**
+
+**Excerpt from site:** The AmericasBarometer data sets feature a common core set of questions that has been asked from 2004 to present day.
+In addition, LAPOP has datasets that date back to the 1970s.
+Questionnaires and information on each data set can be found [here](http://www.vanderbilt.edu/lapop/core-surveys.php).
+
+1.  Link to datasets here: <https://www.vanderbilt.edu/lapop/data-access.php>
+
 ## [Machine learning datasets](https://www.datasetlist.com/)
 
 Added Sun June 6th, 2021
@@ -91,6 +223,66 @@ Added Sun June 6th, 2021
 
 1.  Link to list of datasets here: <https://www.datasetlist.com/>
 
+## [MIT Election Data + Science Lab](https://dataverse.harvard.edu/dataverse/medsl)
+
+Added Fri Apr 28th, 2023
+
+**What is this?**
+
+**Excerpt from site:** [This Dataverse is maintained by the MIT Election Data and Science Lab (MEDSL).](https://electionlab.mit.edu/)
+
+1.  Link to list of datasets here: <https://dataverse.harvard.edu/dataverse/medsl>
+
+## [Nationals Center for Education Statistics: Longitudinal Studies](https://nces.ed.gov/training/datauser/COMO_07.html)
+
+Added Fri Apr 28th, 2023
+
+**What is this?**
+
+**Excerpt from site:** The Early Childhood Longitudinal Study (ECLS) program includes four longitudinal studies that examine child development, school readiness, and early school experiences from birth through elementary school.
+The program provides data to analyze the relationships among a wide range of family, school, community, and individual factors with children's development, early learning, and performance in school.
+
+1.  Link to list of datasets here: <https://nces.ed.gov/training/datauser/COMO_07.html>
+
+## [National Longitudinal Surveys- A program of the U.S. Bureau of Labor Statistics](https://www.nlsinfo.org/)
+
+Added Fri Apr 28th, 2023
+
+**What is this?**
+
+**Excerpt from site:** The NLS, sponsored by the U.S.
+Bureau of Labor Statistics, are nationally representative surveys that follow the same sample of individuals from specific birth cohorts over time.
+The surveys collect data on labor market activity, schooling, fertility, program participation, health, and much, much more.
+
+1.  Link to list of datasets here: <https://www.nlsinfo.org/>
+
+## [National Epidemiologic Survey on Alcohol and Related Conditions-III (NESARC-III)](https://www.niaaa.nih.gov/research/nesarc-iii)
+
+Added Fri Apr 28th, 2023
+
+**What is this?**
+
+**Excerpt from site:** The National Epidemiologic Survey on Alcohol and Related Conditions-III (NESARC-III) was sponsored, designed and directed by the National Institute on Alcohol Abuse and Alcoholism (NIAAA).
+The NESARC-III is cross-sectional, based on a nationally representative sample of the civilian noninstitutionalized population of the United States aged 18 years and older.
+Fieldwork was conducted by Westat through a contract under the data collection authorization of Title 42 USC 285n.
+Utilizing the NIAAA Alcohol Use Disorder and Associated Disabilities Interview Schedule (AUDADIS-5), the NESARC-III collected information on alcohol and drug use and disorders, related risk factors, and associated physical and mental disabilities.
+In addition, DNA was obtained through saliva samples.
+The final sample size was 36,309 and included persons living in households and select noninstitutional group quarters.
+
+1.  Link to dataset here: <https://www.niaaa.nih.gov/research/nesarc-iii>
+
+## [National Couples\' Health and Time Study (NCHAT)](https://pop.umn.edu/data/nchat)
+
+Added Fri Apr 28th, 2023
+
+**What is this?**
+
+**Excerpt from site:** The National Couples\' Health and Time Study (NCHAT) is a nationally-representative, multi-method study of cohabiting and married individuals ages 20 to 60 who were in a same- or different-gender couple in the United States during the COVID-19 pandemic.
+The sample includes 3,642 main respondents and 1,515 spouses/partners.
+The survey and time diary with experience sampling methods focus on relationship functioning, emotion regulation, discrimination, racial trauma, physical health, psychological well-being, health behaviors, stressors, and time use.
+
+1.  Link to dataset here: <https://pop.umn.edu/data/nchat>
+
 ## [Open Data from city of New York](https://opendata.cityofnewyork.us/data/)
 
 **What is this?**\
@@ -98,6 +290,15 @@ Added Sun June 6th, 2021
 We believe that every New Yorker can benefit from Open Data, and Open Data can benefit from every New Yorker.
 
 1.  website here: <https://opendata.cityofnewyork.us/data/>
+
+## [Open Datasets](https://www.kaggle.com/datasets)
+
+Added Fri Apr 28th, 2023
+
+**What is this?**\
+**Excerpt from site:** Explore, analyze, and share quality data.
+
+1.  website here: <https://www.kaggle.com/datasets>
 
 ## [Package "pain21"](https://neuroconductor.org/help/pain21/index.html)
 
@@ -114,3 +315,55 @@ Maumet, Camille, Tibor Auer, Alexander Bowring, Gang Chen, Samir Das, Guillaume 
 https://doi.org/10.1038/sdata.2016.102.
 
 1.  Link to documentation: <https://neuroconductor.org/help/pain21/index.html>
+
+## [Pew Research Center Logo](https://www.pewresearch.org/tools-and-resources/)
+
+Added Fri Apr 28th, 2023
+
+**What is this?**\
+**Excerpt from site:** Digital tools and resources to access Pew Research Center data
+
+1.  Link to the datasets: <https://www.pewresearch.org/tools-and-resources/>
+
+## [Project on Human Development in Chicago Neighborhoods (PHDCN)](https://www.icpsr.umich.edu/web/NACJD/series/206)
+
+Added Fri Apr 28th, 2023
+
+**What is this?**
+
+**Excerpt from site:** The Project on Human Development in Chicago Neighborhoods (PHDCN) is a large-scale, interdisciplinary study of how families, schools, and neighborhoods affect child and adolescent development.
+It was designed to advance the understanding of the developmental pathways of both positive and negative human social behaviors.
+In particular, the project examined the causes and pathways of juvenile delinquency, adult crime, substance abuse, and violence.
+At the same time, the project also provided a detailed look at the environments in which these social behaviors take place by collecting substantial amounts of data about urban Chicago, including its people, institutions, and resources.
+
+1.  Link to list of datasets here: <https://www.icpsr.umich.edu/web/NACJD/series/206>
+
+## [Survey Center on American Life](https://www.americansurveycenter.org/data/download-data/)
+
+Added Fri Apr 28th, 2023
+
+**What is this?**\
+**Excerpt from site:** The Survey Center on American Life makes its data available to the public after a period of six to twelve months.
+Datasets are available to download as Stata and SPSS files.
+Survey datasets are cleaned with all identifying information removed.
+
+1.  Link to the datasets: <https://www.americansurveycenter.org/data/download-data/>
+
+## [Survey Data Driving the Insights](https://www.voterstudygroup.org/data)
+
+Added Fri Apr 28th, 2023
+
+**What is this?**\
+**Excerpt from site:** Voter Study Group [analysis](https://www.voterstudygroup.org/publications) almost exclusively features data from two primary research tools, the VOTER Survey and the Nationscape^™^ survey.
+We make the data generated by these tools available for use by anyone interested in engaging the public in meaningful conversations about the American electorate.
+
+1.  Link to the datasets: <https://www.voterstudygroup.org/data>
+
+## [2022- World Population Data Sheet](https://2022-wpds.prb.org/)
+
+Added Fri Apr 28th, 2023
+
+**What is this?**\
+**Excerpt from site:** The *2022 World Population Data Sheet* provides the latest population, health, and environment indicators for more than 200 countries and territories, each carefully researched by PRB\'s expert team of demographers and analysts.
+
+1.  Link to documentation: <https://2022-wpds.prb.org/>

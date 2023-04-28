@@ -45,7 +45,6 @@ Wonderful introductory tutorial to ggplot2 and the wonderful things you could do
 
 1.  Link to blog here: <https://cedricscherer.netlify.app/2019/08/05/a-ggplot2-tutorial-for-beautiful-plotting-in-r/#titles>
 
-
 ## [Align the assignment operators within a highlighted area](https://github.com/seasmith/AlignAssign)
 
 **What is this?**
@@ -275,17 +274,18 @@ Added Thursday Nov 5, 2020
 
 ## [Educational Apps for ggplot2](https://ggplot2tor.com/apps)
 
-By [Christian Burkhart ](https://ggplot2tor.com/apps)
+By [Christian Burkhart](https://ggplot2tor.com/apps)
 
 Added Mon Apr 24th, 2023
 
 **What is this?**
 
 **Excerpt from site:** A list of educational apps that make it easy to create data visualizations in ggplot2.
-1. Link to all apps here: <https://ggplot2tor.com/apps>
-1. Link to Aesthetics finder here: <https://ggplot2tor.com/aesthetics>
-1. Link to Scales finder here: <https://ggplot2tor.com/scales>
-1. Link to Theme finder: <https://ggplot2tor.com/theme>
+1.
+Link to all apps here: <https://ggplot2tor.com/apps> 1.
+Link to Aesthetics finder here: <https://ggplot2tor.com/aesthetics> 1.
+Link to Scales finder here: <https://ggplot2tor.com/scales> 1.
+Link to Theme finder: <https://ggplot2tor.com/theme>
 
 ## [esquisse add-in](https://github.com/dreamRs/esquisse)
 
@@ -770,9 +770,24 @@ The objective is to help more people learn R and get involved in the TidyTuesday
 
 ## [Visualization innovations: Waffleplots and Swarmplots](https://paulvanderlaken.com/2019/01/25/visualization-innovation-waffleplots-and-swarmplots-aka-beeplots/)
 
-**What is this?** Fun blog about how to make Waffleplots and swarmplots.
+**What is this?**
+
+Fun blog about how to make Waffleplots and swarmplots.
 
 1.  Link to blog here: https://paulvanderlaken.com/2019/01/25/visualization-innovation-waffleplots-and-swarmplots-aka-beeplots/
+
+## [Visualize Spatial Data using 'roughjs'](https://cran.r-project.org/web/packages/roughsf/roughsf.pdf)
+
+By David Schoch
+
+Added Fri April 28th, 2023
+
+**What is this?**
+
+**Excerpt from Package:** Draw maps using the 'javascript' library 'roughjs'.
+This allows to draw sketchy, handdrawn-like maps.
+
+1.  Link to blog here: <https://cran.r-project.org/web/packages/roughsf/roughsf.pdf>
 
 ## Making map plots
 

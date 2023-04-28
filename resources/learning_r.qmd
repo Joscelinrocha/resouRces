@@ -12,9 +12,23 @@ title: "Learning R"
 
 By: Nicholas M. Michalak & Loek Brinkman
 
-**What is this?** Description from site: In this three-hour workshop, we introduce you to data science in the R programming language. In particular, we'll show you how to use the "tidyverse" package to transform, visualize and model data. The workshop consists of short introductory presentations followed by elaborate hands-on sessions. At the end of each section, we'll showcase more complex features and functionality. The workshop is designed as an introduction to R. Zero programming experience is required. By the end of the workshop, you'll have a "feel" for what R is and what it can do for you, and we'll provide resources for follow-up self-study.
+**What is this?**
+
+**Description from site:** In this three-hour workshop, we introduce you to data science in the R programming language. In particular, we'll show you how to use the "tidyverse" package to transform, visualize and model data. The workshop consists of short introductory presentations followed by elaborate hands-on sessions. At the end of each section, we'll showcase more complex features and functionality. The workshop is designed as an introduction to R. Zero programming experience is required. By the end of the workshop, you'll have a "feel" for what R is and what it can do for you, and we'll provide resources for follow-up self-study.
 
 1.  Course materials here: <https://osf.io/69gub/>
+
+## [A Psychologist's Guide to R](https://github.com/seanchrismurphy/A-Psychologists-Guide-to-R) 🌱
+
+By: Sean C. Murphy
+
+Added Fri Apr 28, 2023
+
+**What is this?**
+
+**Description from site:** This is a repository containing the course notes and worked examples for a six week course in the R statistical programming language taught at the University of Melbourne, Australia. It is targeted at graduate students and faculty in psychology (and probably other social sciences) with no programming experience, and covers the use of R from the basics up to multilevel modelling, though it is not exhaustive within that range.
+
+1.  Course materials here: <https://github.com/seanchrismurphy/A-Psychologists-Guide-to-R>
 
 ## [Advanced R](https://adv-r.hadley.nz/) 🌳🌳
 
@@ -26,6 +40,18 @@ Excerpt from site: This is the website for 2nd edition of "Advanced R", a book i
 
 1.  Free web-book here: [https://adv-r.hadley.nz/ or http://adv-r.had.co.nz/Introduction.html](https://adv-r.hadley.nz/%20or%20http://adv-r.had.co.nz/Introduction.html)
 2.  Buy book here: [Link to Amazon](https://www.amazon.com/dp/0815384572/ref=cm_sw_su_dp?tag=devtools-20)
+
+## [A-Guided-Tour-of-R](https://github.com/seanchrismurphy/A-Guided-Tour-of-R) 🌱
+
+By [Sean Chris Murphy](https://github.com/seanchrismurphy/A-Guided-Tour-of-R)
+
+Added Fri April 28th, 2023
+
+**What is this?**
+
+**Description from site:** A self-paced version of an introductory R workshop taught at SPSP 2018. Will probably take 4-10 hours to work through, depending on experience and pacing.
+
+1.  Course materials here: <https://github.com/seanchrismurphy/A-Guided-Tour-of-R>
 
 ## [An Introduction to R With Hockey Data](https://meghan.rbind.io/blog/r-tutorial/) 🌱
 
@@ -117,6 +143,16 @@ By [Rob J Hyndman & George Athanasopoulos](https://otexts.com/fpp2/)
 **Excerpt from e-book here:** "This textbook is intended to provide a comprehensive introduction to forecasting methods and to present enough information about each method for readers to be able to use them sensibly."
 
 1.  Link to ebook here: <https://otexts.com/fpp2/>
+
+## [Get R Done \| R Stats Tutorials](https://www.youtube.com/playlist?list=PLmNgrNF3pZqg2GPmcIAWDa1A2-cAfbX37)🌱
+
+By [Chad C. Williams](https://www.youtube.com/playlist?list=PLmNgrNF3pZqg2GPmcIAWDa1A2-cAfbX37)
+
+**What is this?**
+
+**Excerpt from site:** Get R Done is a video series meant to QUICKLY teach you R so that you can run the statistics you need to right now.
+
+1.  Video tutorials here: <https://www.youtube.com/playlist?list=PLmNgrNF3pZqg2GPmcIAWDa1A2-cAfbX37>
 
 ## [Getting Started with R](https://rfortherestofus.com/courses/getting-started/) 💯 🌱
 
@@ -297,6 +333,18 @@ By [Ted Laderas & Jessica Minnier](https://r-bootcamp.netlify.app/)
 
 1.  Link to course: <https://r-bootcamp.netlify.app/>
 
+## [R Course](https://kirstenmorehouse.wordpress.com/354-2/topic-1-crash-course-in-r/) 🌱
+
+By [Kirsten Morehouse](https://kirstenmorehouse.wordpress.com/354-2/topic-1-crash-course-in-r/)
+
+Added Fri Apr 28th, 2023
+
+**What is this?**
+
+**Excerpt from the course:** The aim of this workshop is to teach you the fundaments of R
+
+1.  Link to course: <https://kirstenmorehouse.wordpress.com/354-2/topic-1-crash-course-in-r/>
+
 ## [R for Data Analysis](https://trevorfrench.github.io/R-for-Data-Analysis/?es_id=aaa755b1d8)
 
 By [Trevor French](https://trevorfrench.github.io/R-for-Data-Analysis/?es_id=aaa755b1d8)
@@ -305,9 +353,7 @@ Added Fri Apr 14th, 2023
 
 **What is this?**
 
-**Excerpt from e-book:** The purpose of this book is to inspire and enable anyone who reads it to reconsider the methods they currently employ to analyse data.
-This is not to suggest that the methodologies outlined will be useful or sufficient for everyone who reads it.
-Some analyses can be performed quickly without the need for additional computation while others will require advanced analytics techniques not outlined in this book; however, the aspiration is that all will be equipped with novel tools and ideas for approaching data analysis.
+**Excerpt from e-book:** The purpose of this book is to inspire and enable anyone who reads it to reconsider the methods they currently employ to analyse data. This is not to suggest that the methodologies outlined will be useful or sufficient for everyone who reads it. Some analyses can be performed quickly without the need for additional computation while others will require advanced analytics techniques not outlined in this book; however, the aspiration is that all will be equipped with novel tools and ideas for approaching data analysis.
 
 1.  Link to e-book here: https://trevorfrench.github.io/R-for-Data-Analysis/?es_id=aaa755b1d8
 
@@ -360,6 +406,18 @@ By [Kelly Black](https://www.cyclismo.org/tutorial/R/index.html)
 **Excerpt from site:** These materials are designed to offer an introduction to the use of R. It is not exhaustive, but is designed to just provide the basics. It has been developed for students who are new to R but have had some basic experience working with computers.
 
 1.  Link to Tutorial here: <https://www.cyclismo.org/tutorial/R/index.html>
+
+## [RYouWithMe](https://rladiessydney.org/courses/ryouwithme/)🌱
+
+By [R-Ladies Sydney (Lisa Williams)](https://rladiessydney.org/courses/ryouwithme/)
+
+Added Fri Apr 28th, 2023
+
+**What is this?**
+
+**Excerpt from site:** **RYouWithMe** - a series of online learning resources for using R - designed by us, for us. The series is oriented towards R beginners and aims to provide a solid foundation of R skills. That way, future R-Ladies Sydney activities can be accessible to more of our members.
+
+1.  Link to Tutorial here: <https://rladiessydney.org/courses/ryouwithme/>
 
 ## [Swirl](https://swirlstats.com/)
 

@@ -19,6 +19,28 @@ By: Nicholas M. Michalak & Loek Brinkman
 
 1.  Course materials here: <https://osf.io/69gub/>
 
+## [A gentle crash course in R using tidyverse](https://osf.io/69gub/) 🌱
+
+By: Nicholas M. Michalak & Loek Brinkman
+
+**What is this?**
+
+**Description from site:** In this three-hour workshop, we introduce you to data science in the R programming language. In particular, we'll show you how to use the "tidyverse" package to transform, visualize and model data. The workshop consists of short introductory presentations followed by elaborate hands-on sessions. At the end of each section, we'll showcase more complex features and functionality. The workshop is designed as an introduction to R. Zero programming experience is required. By the end of the workshop, you'll have a "feel" for what R is and what it can do for you, and we'll provide resources for follow-up self-study.
+
+1.  Course materials here: <https://osf.io/69gub/>
+
+## [A-Guided-Tour-of-R](https://github.com/seanchrismurphy/A-Guided-Tour-of-R) 🌱
+
+By Sean Chris Murphy
+
+Added Fri April 28th, 2023
+
+**What is this?**
+
+**Description from site:** A self-paced version of an introductory R workshop taught at SPSP 2018. Will probably take 4-10 hours to work through, depending on experience and pacing.
+
+1.  Course materials here: <https://github.com/seanchrismurphy/A-Guided-Tour-of-R>
+
 ## [Beginner's Guide to R](https://osf.io/2bfjy/)🌱
 
 By [Esther Schott](https://osf.io/2bfjy/)
@@ -50,6 +72,16 @@ By [Elizabeth Page-Gould & Alexander Danvers](https://osf.io/a2x7j/)
 
 1.  Workshop materials here: <https://osf.io/a2x7j/>
 2.  Workshop requested examples here: <https://osf.io/a2x7j/wiki/Requested%20Examples/>
+
+## [Get R Done \| R Stats Tutorials](https://www.youtube.com/playlist?list=PLmNgrNF3pZqg2GPmcIAWDa1A2-cAfbX37)🌱
+
+By [Chad C. Williams](https://www.youtube.com/playlist?list=PLmNgrNF3pZqg2GPmcIAWDa1A2-cAfbX37)
+
+**What is this?**
+
+**Excerpt from site:** Get R Done is a video series meant to QUICKLY teach you R so that you can run the statistics you need to right now.
+
+1.  Video tutorials here: <https://www.youtube.com/playlist?list=PLmNgrNF3pZqg2GPmcIAWDa1A2-cAfbX37>
 
 ## [Getting Started with R](https://rfortherestofus.com/courses/getting-started/) 💯 🌱
 
@@ -156,6 +188,18 @@ By [Ted Laderas & Jessica Minnier](https://r-bootcamp.netlify.app/)
 **Excerpt from the course:** The R-Bootcamp is a gentle and gradual introduction to manipulating and visualizing data in R using the `tidyverse` suite of packages. It is meant for incoming OHSU Bioinformatics and Computational Biomedicine Majors but is appropriate for any beginners wanting to learn elementary data manipulation in R.
 
 1.  Link to course: <https://r-bootcamp.netlify.app/>
+
+## [R Course](https://kirstenmorehouse.wordpress.com/354-2/topic-1-crash-course-in-r/) 🌱
+
+By [Kirsten Morehouse](https://kirstenmorehouse.wordpress.com/354-2/topic-1-crash-course-in-r/)
+
+Added Fri Apr 28th, 2023
+
+**What is this?**
+
+**Excerpt from the course:** The aim of this workshop is to teach you the fundaments of R
+
+1.  Link to course: <https://kirstenmorehouse.wordpress.com/354-2/topic-1-crash-course-in-r/>
 
 ## [Remaster the Tidyverse](https://github.com/rstudio-education/remaster-the-tidyverse)
 

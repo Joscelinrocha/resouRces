@@ -857,8 +857,8 @@
     "objectID": "courses_tutorials_only/visualization.html#data-visualization-course",
     "href": "courses_tutorials_only/visualization.html#data-visualization-course",
     "title": "Visualization",
-    "section": "Data Visualization course",
-    "text": "Data Visualization course\nBy Andrew Heiss\nWhat is this?\nExcerpt from site: In this class, you’ll learn how to use industry-standard graphic and data design techniques to create beautiful, understandable visualizations and uncover truth in data.\nBy the end of this course, you will become (1) literate in data and graphic design principles, and (2) an ethical data communicator, by producing beautiful, powerful, and clear visualizations of your own data.\n\nE-course here: https://datavizm20.classes.andrewheiss.com/syllabus/"
+    "section": "Data Visualization Course",
+    "text": "Data Visualization Course\nBy Andrew Heiss\nWhat is this?\nExcerpt from site: In this class, you’ll learn how to use industry-standard graphic and data design techniques to create beautiful, understandable visualizations and uncover truth in data.\nBy the end of this course, you will become (1) literate in data and graphic design principles, and (2) an ethical data communicator, by producing beautiful, powerful, and clear visualizations of your own data.\n\nE-course here: https://datavizm20.classes.andrewheiss.com/syllabus/"
   },
   {
     "objectID": "courses_tutorials_only/visualization.html#data-visualization-for-educational-data-science",
@@ -2146,7 +2146,7 @@
     "href": "resources/learning_r.html#a-gentle-crash-course-in-r-using-tidyverse",
     "title": "Learning R",
     "section": "A gentle crash course in R using tidyverse 🌱",
-    "text": "A gentle crash course in R using tidyverse 🌱\nBy: Nicholas M. Michalak & Loek Brinkman\nWhat is this? Description from site: In this three-hour workshop, we introduce you to data science in the R programming language. In particular, we’ll show you how to use the “tidyverse” package to transform, visualize and model data. The workshop consists of short introductory presentations followed by elaborate hands-on sessions. At the end of each section, we’ll showcase more complex features and functionality. The workshop is designed as an introduction to R. Zero programming experience is required. By the end of the workshop, you’ll have a “feel” for what R is and what it can do for you, and we’ll provide resources for follow-up self-study.\n\nCourse materials here: https://osf.io/69gub/"
+    "text": "A gentle crash course in R using tidyverse 🌱\nBy: Nicholas M. Michalak & Loek Brinkman\nWhat is this?\nDescription from site: In this three-hour workshop, we introduce you to data science in the R programming language. In particular, we’ll show you how to use the “tidyverse” package to transform, visualize and model data. The workshop consists of short introductory presentations followed by elaborate hands-on sessions. At the end of each section, we’ll showcase more complex features and functionality. The workshop is designed as an introduction to R. Zero programming experience is required. By the end of the workshop, you’ll have a “feel” for what R is and what it can do for you, and we’ll provide resources for follow-up self-study.\n\nCourse materials here: https://osf.io/69gub/"
   },
   {
     "objectID": "resources/learning_r.html#advanced-r",
@@ -3833,7 +3833,7 @@
     "href": "resources/visualization.html#visualization-innovations-waffleplots-and-swarmplots",
     "title": "Visualization",
     "section": "Visualization innovations: Waffleplots and Swarmplots",
-    "text": "Visualization innovations: Waffleplots and Swarmplots\nWhat is this? Fun blog about how to make Waffleplots and swarmplots.\n\nLink to blog here: https://paulvanderlaken.com/2019/01/25/visualization-innovation-waffleplots-and-swarmplots-aka-beeplots/"
+    "text": "Visualization innovations: Waffleplots and Swarmplots\nWhat is this?\nFun blog about how to make Waffleplots and swarmplots.\n\nLink to blog here: https://paulvanderlaken.com/2019/01/25/visualization-innovation-waffleplots-and-swarmplots-aka-beeplots/"
   },
   {
     "objectID": "resources/visualization.html#making-map-plots",
@@ -4702,5 +4702,271 @@
     "title": "Data Science",
     "section": "grateful: Facilitate citation of R packages 💯",
     "text": "grateful: Facilitate citation of R packages 💯\nBy Francisco Rodriguez-Sanchez & Connor P. Jackson\nAdded Mon Apr 24th, 2023\nWhat is it?\nExcerpt from package: The goal of grateful is to make it very easy to cite R and the R packages used in any analyses, so that package authors receive their deserved credit. By calling a single function, grateful will scan the project for R packages used and generate a BibTeX file containing all citations for those packages.\ngrateful can then generate a new document with citations in the desired output format (Word, PDF, HTML, Markdown). These references can be formatted for a specific journal, so that we can just paste them directly into our manuscript or report.\n\nLink to package: https://pakillo.github.io/grateful/"
+  },
+  {
+    "objectID": "resources/learning_r.html#a-psychologists-guide-to-r",
+    "href": "resources/learning_r.html#a-psychologists-guide-to-r",
+    "title": "Learning R",
+    "section": "A Psychologist’s Guide to R 🌱",
+    "text": "A Psychologist’s Guide to R 🌱\nBy: Sean C. Murphy\nAdded Fri Apr 28, 2023\nWhat is this?\nDescription from site: This is a repository containing the course notes and worked examples for a six week course in the R statistical programming language taught at the University of Melbourne, Australia. It is targeted at graduate students and faculty in psychology (and probably other social sciences) with no programming experience, and covers the use of R from the basics up to multilevel modelling, though it is not exhaustive within that range.\n\nCourse materials here: https://github.com/seanchrismurphy/A-Psychologists-Guide-to-R"
+  },
+  {
+    "objectID": "resources/learning_r.html#a-guided-tour-of-r",
+    "href": "resources/learning_r.html#a-guided-tour-of-r",
+    "title": "Learning R",
+    "section": "A-Guided-Tour-of-R 🌱",
+    "text": "A-Guided-Tour-of-R 🌱\nBy Sean Chris Murphy\nAdded Fri April 28th, 2023\nWhat is this?\nDescription from site: A self-paced version of an introductory R workshop taught at SPSP 2018. Will probably take 4-10 hours to work through, depending on experience and pacing.\n\nCourse materials here: https://github.com/seanchrismurphy/A-Guided-Tour-of-R"
+  },
+  {
+    "objectID": "resources/learning_r.html#get-r-done-r-stats-tutorials",
+    "href": "resources/learning_r.html#get-r-done-r-stats-tutorials",
+    "title": "Learning R",
+    "section": "Get R Done | R Stats Tutorials🌱",
+    "text": "Get R Done | R Stats Tutorials🌱\nBy Chad C. Williams\nWhat is this?\nExcerpt from site: Get R Done is a video series meant to QUICKLY teach you R so that you can run the statistics you need to right now.\n\nVideo tutorials here: https://www.youtube.com/playlist?list=PLmNgrNF3pZqg2GPmcIAWDa1A2-cAfbX37"
+  },
+  {
+    "objectID": "resources/learning_r.html#r-course",
+    "href": "resources/learning_r.html#r-course",
+    "title": "Learning R",
+    "section": "R Course 🌱",
+    "text": "R Course 🌱\nBy Kirsten Morehouse\nAdded Fri Apr 28th, 2023\nWhat is this?\nExcerpt from the course: The aim of this workshop is to teach you the fundaments of R\n\nLink to course: https://kirstenmorehouse.wordpress.com/354-2/topic-1-crash-course-in-r/"
+  },
+  {
+    "objectID": "resources/learning_r.html#ryouwithme",
+    "href": "resources/learning_r.html#ryouwithme",
+    "title": "Learning R",
+    "section": "RYouWithMe🌱",
+    "text": "RYouWithMe🌱\nBy R-Ladies Sydney (Lisa Williams)\nAdded Fri Apr 28th, 2023\nWhat is this?\nExcerpt from site: RYouWithMe - a series of online learning resources for using R - designed by us, for us. The series is oriented towards R beginners and aims to provide a solid foundation of R skills. That way, future R-Ladies Sydney activities can be accessible to more of our members.\n\nLink to Tutorial here: https://rladiessydney.org/courses/ryouwithme/"
+  },
+  {
+    "objectID": "courses_tutorials_only/learning_r.html#a-gentle-crash-course-in-r-using-tidyverse-1",
+    "href": "courses_tutorials_only/learning_r.html#a-gentle-crash-course-in-r-using-tidyverse-1",
+    "title": "Learning R",
+    "section": "A gentle crash course in R using tidyverse 🌱",
+    "text": "A gentle crash course in R using tidyverse 🌱\nBy: Nicholas M. Michalak & Loek Brinkman\nWhat is this?\nDescription from site: In this three-hour workshop, we introduce you to data science in the R programming language. In particular, we’ll show you how to use the “tidyverse” package to transform, visualize and model data. The workshop consists of short introductory presentations followed by elaborate hands-on sessions. At the end of each section, we’ll showcase more complex features and functionality. The workshop is designed as an introduction to R. Zero programming experience is required. By the end of the workshop, you’ll have a “feel” for what R is and what it can do for you, and we’ll provide resources for follow-up self-study.\n\nCourse materials here: https://osf.io/69gub/"
+  },
+  {
+    "objectID": "courses_tutorials_only/learning_r.html#a-guided-tour-of-r",
+    "href": "courses_tutorials_only/learning_r.html#a-guided-tour-of-r",
+    "title": "Learning R",
+    "section": "A-Guided-Tour-of-R 🌱",
+    "text": "A-Guided-Tour-of-R 🌱\nBy Sean Chris Murphy\nAdded Fri April 28th, 2023\nWhat is this?\nDescription from site: A self-paced version of an introductory R workshop taught at SPSP 2018. Will probably take 4-10 hours to work through, depending on experience and pacing.\n\nCourse materials here: https://github.com/seanchrismurphy/A-Guided-Tour-of-R"
+  },
+  {
+    "objectID": "courses_tutorials_only/learning_r.html#get-r-done-r-stats-tutorials",
+    "href": "courses_tutorials_only/learning_r.html#get-r-done-r-stats-tutorials",
+    "title": "Learning R",
+    "section": "Get R Done | R Stats Tutorials🌱",
+    "text": "Get R Done | R Stats Tutorials🌱\nBy Chad C. Williams\nWhat is this?\nExcerpt from site: Get R Done is a video series meant to QUICKLY teach you R so that you can run the statistics you need to right now.\n\nVideo tutorials here: https://www.youtube.com/playlist?list=PLmNgrNF3pZqg2GPmcIAWDa1A2-cAfbX37"
+  },
+  {
+    "objectID": "courses_tutorials_only/learning_r.html#r-course",
+    "href": "courses_tutorials_only/learning_r.html#r-course",
+    "title": "Learning R",
+    "section": "R Course 🌱",
+    "text": "R Course 🌱\nBy Kirsten Morehouse\nAdded Fri Apr 28th, 2023\nWhat is this?\nExcerpt from the course: The aim of this workshop is to teach you the fundaments of R\n\nLink to course: https://kirstenmorehouse.wordpress.com/354-2/topic-1-crash-course-in-r/"
+  },
+  {
+    "objectID": "resources/datasets.html#afro-barometer-database",
+    "href": "resources/datasets.html#afro-barometer-database",
+    "title": "Datasets",
+    "section": "Afro Barometer Database",
+    "text": "Afro Barometer Database\nAdded Fri Apr 28th, 2023\nWhat is this?\nExcerpt from site: Afrobarometer, a non-profit company limited by guarantee with headquarters in Ghana, is a pan-African, non-partisan survey research network that conducts public attitude surveys on democracy, governance, the economy, and society.\n\nLink to datasets here: https://www.afrobarometer.org/data/"
+  },
+  {
+    "objectID": "resources/datasets.html#american-housing-survey-ahs",
+    "href": "resources/datasets.html#american-housing-survey-ahs",
+    "title": "Datasets",
+    "section": "American Housing Survey (AHS)",
+    "text": "American Housing Survey (AHS)\nAdded Fri Apr 28th, 2023\nWhat is this?\nExcerpt from site: The AHS is sponsored by the Department of Housing and Urban Development (HUD) and conducted by the U.S. Census Bureau. The survey is the most comprehensive national housing survey in the United States.\n\nLink to website here: https://www.census.gov/programs-surveys/ahs.html"
+  },
+  {
+    "objectID": "resources/datasets.html#anes-american-national-election-studies",
+    "href": "resources/datasets.html#anes-american-national-election-studies",
+    "title": "Datasets",
+    "section": "ANES-American National Election Studies",
+    "text": "ANES-American National Election Studies\nAdded Fri Apr 28th, 2023\nWhat is this?\nExcerpt from site: To serve the research needs of social scientists, teachers, students, policy makers and journalists, the ANES produces high quality data from its own surveys on voting, public opinion, and political participation. Central to this mission is the active involvement of the ANES research community in all phases of the project.\n\nLink to datasets here: https://electionstudies.org/data-center/"
+  },
+  {
+    "objectID": "resources/datasets.html#arda-association-of-religion-data-archives-data-archive",
+    "href": "resources/datasets.html#arda-association-of-religion-data-archives-data-archive",
+    "title": "Datasets",
+    "section": "ARDA (Association of Religion Data Archives) Data Archive",
+    "text": "ARDA (Association of Religion Data Archives) Data Archive\nAdded Fri Apr 28th, 2023\nWhat is this?\nExcerpt from site: The ARDA Data Archive is a collection of surveys, polls, and other data submitted by researchers and made available online by the ARDA.\n\n\nThere are 1,236 data files included in the ARDA collection. You can browse files by category, alphabetically, view the newest additions, or search for a file. Once you select a file you can preview the results, read about how the data were collected, review the survey questions asked, save selected survey questions to your own file, and/or download the data file.\n\nLink to datasets here: https://www.thearda.com/data-archive/browse-categories"
+  },
+  {
+    "objectID": "resources/datasets.html#british-election-study",
+    "href": "resources/datasets.html#british-election-study",
+    "title": "Datasets",
+    "section": "British Election Study",
+    "text": "British Election Study\nAdded Fri Apr 28th, 2023\nWhat is this?\nExcerpt from site: Here you will find all British Election Study data released by the current BES team, as well as historical BES data collected in elections between 1964 and 2010. New data are listed first.\n\nLink to datasets here: https://www.britishelectionstudy.com/data/#.ZExD7-zML0o"
+  },
+  {
+    "objectID": "resources/datasets.html#center-for-the-study-of-elections-and-democracy-dataverse",
+    "href": "resources/datasets.html#center-for-the-study-of-elections-and-democracy-dataverse",
+    "title": "Datasets",
+    "section": "Center for the Study of Elections and Democracy Dataverse",
+    "text": "Center for the Study of Elections and Democracy Dataverse\nAdded Fri Apr 28th, 2023\nWhat is this?\nExcerpt from site: This dataverse includes surveys and research conducted by professors at the Center for the Study of Elections and Democracy at Brigham Young University.\n\nLink to the datasets: https://dataverse.harvard.edu/dataverse/csed"
+  },
+  {
+    "objectID": "resources/datasets.html#chicago-council-survey",
+    "href": "resources/datasets.html#chicago-council-survey",
+    "title": "Datasets",
+    "section": "Chicago Council Survey",
+    "text": "Chicago Council Survey\nAdded Fri Apr 28th, 2023\nWhat is this?\nExcerpt from site: The Chicago Council Survey provides the most comprehensive view of American public opinion on critical US foreign policy issues, highlighting critical trends and shifts in thinking over time since 1974. The Council's polling experts, their annual report, and related topical briefs compose the Council's most recognized area of research. A signature area of study under the Lester Crown Center on US Foreign Policy, the Chicago Council Survey provides the public with a mechanism for sharing views with politicians and decision makers who each year cite the survey as a valuable resource for influencing policy debates.\n\nLink to the datasets: https://globalaffairs.org/research/lester-crown-center-us-foreign-policy/chicago-council-survey"
+  },
+  {
+    "objectID": "resources/datasets.html#cooperative-election-study-formerly-the-cooperative-congressional-election-study",
+    "href": "resources/datasets.html#cooperative-election-study-formerly-the-cooperative-congressional-election-study",
+    "title": "Datasets",
+    "section": "Cooperative Election Study: Formerly the Cooperative Congressional Election Study",
+    "text": "Cooperative Election Study: Formerly the Cooperative Congressional Election Study\nAdded Fri Apr 28th, 2023\nWhat is this?\nExcerpt from site: The CCES is a 50,000+ person national stratified sample survey administered by YouGov. Half of the questionnaire consists of Common Content asked of all 50,000+ people, and half of the questionnaire consists of Team Content designed by each individual participating team and asked of a subset of 1,000 people.\n\nLink to datasets here: https://cces.gov.harvard.edu/"
+  },
+  {
+    "objectID": "resources/datasets.html#data.gov",
+    "href": "resources/datasets.html#data.gov",
+    "title": "Datasets",
+    "section": "Data.gov",
+    "text": "Data.gov\nAdded Fri Apr 28th, 2023\nWhat is this?\nExcerpt from site here: The Home of the U.S. Government’s Open Data. Here you will find data, tools, and resources to conduct research, develop web and mobile applications, design data visualizations, and more.\n\nLink to site: https://data.gov/"
+  },
+  {
+    "objectID": "resources/datasets.html#dynamics-of-collective-action",
+    "href": "resources/datasets.html#dynamics-of-collective-action",
+    "title": "Datasets",
+    "section": "Dynamics of Collective Action",
+    "text": "Dynamics of Collective Action\nAdded Fri Apr 28th, 2023\nWhat is this?\nExcerpt from site: Here you can access data from an ongoing project about collective action in the United States. Using the menu either above or to the right, you’ll find links to the dataset, documentation, and contact information.\n\nLink to the datasets: https://web.stanford.edu/group/collectiveaction/cgi-bin/drupal/"
+  },
+  {
+    "objectID": "resources/datasets.html#general-social-survey---norc",
+    "href": "resources/datasets.html#general-social-survey---norc",
+    "title": "Datasets",
+    "section": "General Social Survey - NORC",
+    "text": "General Social Survey - NORC\nAdded Fri Apr 28th, 2023\nWhat is this?\nExcerpt from site: The GSS has been a reliable source of data to help researchers, students, and journalists monitor and explain trends in American behaviors, demographics, and opinions. You’ll find the complete GSS data set on this site, and can access the GSS Data Explorer to explore, analyze, extract, and share custom sets of GSS data.\n\nLink to the datasets: https://gss.norc.org/Get-The-Data"
+  },
+  {
+    "objectID": "resources/datasets.html#lapop---americasbarometer-barómetro-de-las-americas",
+    "href": "resources/datasets.html#lapop---americasbarometer-barómetro-de-las-americas",
+    "title": "Datasets",
+    "section": "LAPOP - AmericasBarometer [Barómetro de las Americas]",
+    "text": "LAPOP - AmericasBarometer [Barómetro de las Americas]\nAdded Fri Apr 28th, 2023\nWhat is this?\nExcerpt from site: The AmericasBarometer data sets feature a common core set of questions that has been asked from 2004 to present day. In addition, LAPOP has datasets that date back to the 1970s. Questionnaires and information on each data set can be found here.\n\nLink to datasets here: https://www.vanderbilt.edu/lapop/data-access.php"
+  },
+  {
+    "objectID": "resources/datasets.html#mit-election-data-science-lab",
+    "href": "resources/datasets.html#mit-election-data-science-lab",
+    "title": "Datasets",
+    "section": "MIT Election Data + Science Lab",
+    "text": "MIT Election Data + Science Lab\nAdded Fri Apr 28th, 2023\nWhat is this?\nExcerpt from site: This Dataverse is maintained by the MIT Election Data and Science Lab (MEDSL).\n\nLink to list of datasets here: https://dataverse.harvard.edu/dataverse/medsl"
+  },
+  {
+    "objectID": "resources/datasets.html#nationals-center-for-education-statistics-longitudinal-studies",
+    "href": "resources/datasets.html#nationals-center-for-education-statistics-longitudinal-studies",
+    "title": "Datasets",
+    "section": "Nationals Center for Education Statistics: Longitudinal Studies",
+    "text": "Nationals Center for Education Statistics: Longitudinal Studies\nAdded Fri Apr 28th, 2023\nWhat is this?\nExcerpt from site: The Early Childhood Longitudinal Study (ECLS) program includes four longitudinal studies that examine child development, school readiness, and early school experiences from birth through elementary school. The program provides data to analyze the relationships among a wide range of family, school, community, and individual factors with children’s development, early learning, and performance in school.\n\nLink to list of datasets here: https://nces.ed.gov/training/datauser/COMO_07.html"
+  },
+  {
+    "objectID": "resources/datasets.html#national-longitudinal-surveys--a-program-of-the-u.s.-bureau-of-labor-statistics",
+    "href": "resources/datasets.html#national-longitudinal-surveys--a-program-of-the-u.s.-bureau-of-labor-statistics",
+    "title": "Datasets",
+    "section": "National Longitudinal Surveys- A program of the U.S. Bureau of Labor Statistics",
+    "text": "National Longitudinal Surveys- A program of the U.S. Bureau of Labor Statistics\nAdded Fri Apr 28th, 2023\nWhat is this?\nExcerpt from site: The NLS, sponsored by the U.S. Bureau of Labor Statistics, are nationally representative surveys that follow the same sample of individuals from specific birth cohorts over time. The surveys collect data on labor market activity, schooling, fertility, program participation, health, and much, much more.\n\nLink to list of datasets here: https://www.nlsinfo.org/"
+  },
+  {
+    "objectID": "resources/datasets.html#national-epidemiologic-survey-on-alcohol-and-related-conditions-iii-nesarc-iii",
+    "href": "resources/datasets.html#national-epidemiologic-survey-on-alcohol-and-related-conditions-iii-nesarc-iii",
+    "title": "Datasets",
+    "section": "National Epidemiologic Survey on Alcohol and Related Conditions-III (NESARC-III)",
+    "text": "National Epidemiologic Survey on Alcohol and Related Conditions-III (NESARC-III)\nAdded Fri Apr 28th, 2023\nWhat is this?\nExcerpt from site: The National Epidemiologic Survey on Alcohol and Related Conditions-III (NESARC-III) was sponsored, designed and directed by the National Institute on Alcohol Abuse and Alcoholism (NIAAA). The NESARC-III is cross-sectional, based on a nationally representative sample of the civilian noninstitutionalized population of the United States aged 18 years and older. Fieldwork was conducted by Westat through a contract under the data collection authorization of Title 42 USC 285n. Utilizing the NIAAA Alcohol Use Disorder and Associated Disabilities Interview Schedule (AUDADIS-5), the NESARC-III collected information on alcohol and drug use and disorders, related risk factors, and associated physical and mental disabilities. In addition, DNA was obtained through saliva samples. The final sample size was 36,309 and included persons living in households and select noninstitutional group quarters.\n\nLink to dataset here: https://www.niaaa.nih.gov/research/nesarc-iii"
+  },
+  {
+    "objectID": "resources/datasets.html#national-couples-health-and-time-study-nchat",
+    "href": "resources/datasets.html#national-couples-health-and-time-study-nchat",
+    "title": "Datasets",
+    "section": "National Couples' Health and Time Study (NCHAT)",
+    "text": "National Couples' Health and Time Study (NCHAT)\nAdded Fri Apr 28th, 2023\nWhat is this?\nExcerpt from site: The National Couples' Health and Time Study (NCHAT) is a nationally-representative, multi-method study of cohabiting and married individuals ages 20 to 60 who were in a same- or different-gender couple in the United States during the COVID-19 pandemic. The sample includes 3,642 main respondents and 1,515 spouses/partners. The survey and time diary with experience sampling methods focus on relationship functioning, emotion regulation, discrimination, racial trauma, physical health, psychological well-being, health behaviors, stressors, and time use.\n\nLink to dataset here: https://pop.umn.edu/data/nchat"
+  },
+  {
+    "objectID": "resources/datasets.html#open-datasets",
+    "href": "resources/datasets.html#open-datasets",
+    "title": "Datasets",
+    "section": "Open Datasets",
+    "text": "Open Datasets\nAdded Fri Apr 28th, 2023\nWhat is this?\nExcerpt from site: Explore, analyze, and share quality data.\n\nwebsite here: https://www.kaggle.com/datasets"
+  },
+  {
+    "objectID": "resources/datasets.html#pew-research-center-logo",
+    "href": "resources/datasets.html#pew-research-center-logo",
+    "title": "Datasets",
+    "section": "Pew Research Center Logo",
+    "text": "Pew Research Center Logo\nAdded Fri Apr 28th, 2023\nWhat is this?\nExcerpt from site: Digital tools and resources to access Pew Research Center data\n\nLink to the datasets: https://www.pewresearch.org/tools-and-resources/"
+  },
+  {
+    "objectID": "resources/datasets.html#project-on-human-development-in-chicago-neighborhoods-phdcn",
+    "href": "resources/datasets.html#project-on-human-development-in-chicago-neighborhoods-phdcn",
+    "title": "Datasets",
+    "section": "Project on Human Development in Chicago Neighborhoods (PHDCN)",
+    "text": "Project on Human Development in Chicago Neighborhoods (PHDCN)\nAdded Fri Apr 28th, 2023\nWhat is this?\nExcerpt from site: The Project on Human Development in Chicago Neighborhoods (PHDCN) is a large-scale, interdisciplinary study of how families, schools, and neighborhoods affect child and adolescent development. It was designed to advance the understanding of the developmental pathways of both positive and negative human social behaviors. In particular, the project examined the causes and pathways of juvenile delinquency, adult crime, substance abuse, and violence. At the same time, the project also provided a detailed look at the environments in which these social behaviors take place by collecting substantial amounts of data about urban Chicago, including its people, institutions, and resources.\n\nLink to list of datasets here: https://www.icpsr.umich.edu/web/NACJD/series/206"
+  },
+  {
+    "objectID": "resources/datasets.html#survey-center-on-american-life",
+    "href": "resources/datasets.html#survey-center-on-american-life",
+    "title": "Datasets",
+    "section": "Survey Center on American Life",
+    "text": "Survey Center on American Life\nAdded Fri Apr 28th, 2023\nWhat is this?\nExcerpt from site: The Survey Center on American Life makes its data available to the public after a period of six to twelve months. Datasets are available to download as Stata and SPSS files. Survey datasets are cleaned with all identifying information removed.\n\nLink to the datasets: https://www.americansurveycenter.org/data/download-data/"
+  },
+  {
+    "objectID": "resources/datasets.html#survey-data-driving-the-insights",
+    "href": "resources/datasets.html#survey-data-driving-the-insights",
+    "title": "Datasets",
+    "section": "Survey Data Driving the Insights",
+    "text": "Survey Data Driving the Insights\nAdded Fri Apr 28th, 2023\nWhat is this?\nExcerpt from site: Voter Study Group analysis almost exclusively features data from two primary research tools, the VOTER Survey and the Nationscape™ survey. We make the data generated by these tools available for use by anyone interested in engaging the public in meaningful conversations about the American electorate.\n\nLink to the datasets: https://www.voterstudygroup.org/data"
+  },
+  {
+    "objectID": "resources/datasets.html#world-population-data-sheet",
+    "href": "resources/datasets.html#world-population-data-sheet",
+    "title": "Datasets",
+    "section": "2022- World Population Data Sheet",
+    "text": "2022- World Population Data Sheet\nAdded Fri Apr 28th, 2023\nWhat is this?\nExcerpt from site: The 2022 World Population Data Sheet provides the latest population, health, and environment indicators for more than 200 countries and territories, each carefully researched by PRB's expert team of demographers and analysts.\n\nLink to documentation: https://2022-wpds.prb.org/"
+  },
+  {
+    "objectID": "resources/packages_how_to.html#how-to-write-your-own-r-package-and-publish-it-on-cran",
+    "href": "resources/packages_how_to.html#how-to-write-your-own-r-package-and-publish-it-on-cran",
+    "title": "Packages (How to make them?)",
+    "section": "How to write your own R package and publish it on CRAN",
+    "text": "How to write your own R package and publish it on CRAN\nBy Cosima Meyer\nAdded Fri Apr 28th, 2023\nWhat is this?\nExcerpt from site: While there exist many great resources for learning how to write a package in R, we found it difficult to find one all-encompassing guide that is also easily accessible for beginners. This tutorial seeks to close this gap: we will provide you with a step-by-step guide — seasoned with new and helpful packages that are also inspired by presentations at the recent virtual European R Users Meeting e-Rum 2020.\n\nLink to the datasets: https://www.mzes.uni-mannheim.de/socialsciencedatalab/article/r-package/"
+  },
+  {
+    "objectID": "resources/packages_how_to.html#understanding-the-basics-of-package-writing-in-r",
+    "href": "resources/packages_how_to.html#understanding-the-basics-of-package-writing-in-r",
+    "title": "Packages (How to make them?)",
+    "section": "Understanding the Basics of Package Writing in R",
+    "text": "Understanding the Basics of Package Writing in R\nBy Cosima Meyer\nAdded Fri Apr 28th, 2023\nWhat is this?\nExcerpt from site: Writing a package sounds big - and it can for sure be. But in its simplest form, it's not that much more than putting a function in a package structure. The R community is great and came up with multiple great helpers that make your life easier!\n\nLink to the datasets: https://cosimameyer.com/post/understanding-the-basics-of-package-writing-in-r/"
+  },
+  {
+    "objectID": "courses_tutorials_only/packages_how_to.html#how-to-write-your-own-r-package-and-publish-it-on-cran",
+    "href": "courses_tutorials_only/packages_how_to.html#how-to-write-your-own-r-package-and-publish-it-on-cran",
+    "title": "Packages (How to make them?)",
+    "section": "How to write your own R package and publish it on CRAN",
+    "text": "How to write your own R package and publish it on CRAN\nBy Cosima Meyer\nAdded Fri Apr 28th, 2023\nWhat is this?\nExcerpt from site: While there exist many great resources for learning how to write a package in R, we found it difficult to find one all-encompassing guide that is also easily accessible for beginners. This tutorial seeks to close this gap: we will provide you with a step-by-step guide — seasoned with new and helpful packages that are also inspired by presentations at the recent virtual European R Users Meeting e-Rum 2020.\n\nLink to the datasets: https://www.mzes.uni-mannheim.de/socialsciencedatalab/article/r-package/"
+  },
+  {
+    "objectID": "resources/visualization.html#visualize-spatial-data-using-roughjs",
+    "href": "resources/visualization.html#visualize-spatial-data-using-roughjs",
+    "title": "Visualization",
+    "section": "Visualize Spatial Data using ‘roughjs’",
+    "text": "Visualize Spatial Data using ‘roughjs’\nBy David Schoch\nAdded Fri April 28th, 2023\nWhat is this?\nExcerpt from Package: Draw maps using the ‘javascript’ library ‘roughjs’. This allows to draw sketchy, handdrawn-like maps.\n\nLink to blog here: https://cran.r-project.org/web/packages/roughsf/roughsf.pdf"
+  },
+  {
+    "objectID": "resources/data_science.html#data-science-for-psychologists-a-refreshed-exploratory-graphical-data-analysis-in-r",
+    "href": "resources/data_science.html#data-science-for-psychologists-a-refreshed-exploratory-graphical-data-analysis-in-r",
+    "title": "Data Science",
+    "section": "Data Science for Psychologists: A Refreshed Exploratory & Graphical Data Analysis in R",
+    "text": "Data Science for Psychologists: A Refreshed Exploratory & Graphical Data Analysis in R\nBy S. Mason Garrison\nAdded Fri Apr 28th, 2023\nWhat is this?\nExcerpt from site: This website is designed to accompany Mason Garrison's Data Science for Psychologists (DS4P). DS4P is a graduate-level quantitative methods course at Wake Forest University. This class assumes zero knowledge of programming, computer science, linear algebra, probability, or really anything fancy. I encourage anyone who is quant-curious to work their way through these course notes. The course notes include lectures, worked examples, readings, activities, and labs.\n\nLink to website: https://datascience4psych.github.io/DataScience4Psych/"
+  },
+  {
+    "objectID": "courses_tutorials_only/data_science.html#data-science-for-psychologists-a-refreshed-exploratory-graphical-data-analysis-in-r",
+    "href": "courses_tutorials_only/data_science.html#data-science-for-psychologists-a-refreshed-exploratory-graphical-data-analysis-in-r",
+    "title": "Data Science",
+    "section": "Data Science for Psychologists: A Refreshed Exploratory & Graphical Data Analysis in R",
+    "text": "Data Science for Psychologists: A Refreshed Exploratory & Graphical Data Analysis in R\nBy S. Mason Garrison\nAdded Fri Apr 28th, 2023\nWhat is this?\nExcerpt from site: This website is designed to accompany Mason Garrison's Data Science for Psychologists (DS4P). DS4P is a graduate-level quantitative methods course at Wake Forest University. This class assumes zero knowledge of programming, computer science, linear algebra, probability, or really anything fancy. I encourage anyone who is quant-curious to work their way through these course notes. The course notes include lectures, worked examples, readings, activities, and labs.\n\nLink to website: https://datascience4psych.github.io/DataScience4Psych/"
   }
 ]

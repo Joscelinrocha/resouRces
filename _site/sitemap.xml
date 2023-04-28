@@ -338,11 +338,11 @@
   </url>
   <url>
     <loc>https://www.resourcesdatabase.com/resources/learning_r.html</loc>
-    <lastmod>2023-04-14T21:04:56.276Z</lastmod>
+    <lastmod>2023-04-28T23:41:33.040Z</lastmod>
   </url>
   <url>
     <loc>https://www.resourcesdatabase.com/courses_tutorials_only/learning_r.html</loc>
-    <lastmod>2023-04-14T20:23:37.211Z</lastmod>
+    <lastmod>2023-04-28T23:41:44.836Z</lastmod>
   </url>
   <url>
     <loc>https://www.resourcesdatabase.com/blogs_slides_only/visualization.html</loc>
@@ -350,15 +350,15 @@
   </url>
   <url>
     <loc>https://www.resourcesdatabase.com/courses_tutorials_only/visualization.html</loc>
-    <lastmod>2023-04-25T02:45:59.985Z</lastmod>
+    <lastmod>2023-04-28T21:27:17.063Z</lastmod>
   </url>
   <url>
     <loc>https://www.resourcesdatabase.com/resources/visualization.html</loc>
-    <lastmod>2023-04-25T02:45:18.351Z</lastmod>
+    <lastmod>2023-04-28T23:43:01.391Z</lastmod>
   </url>
   <url>
     <loc>https://www.resourcesdatabase.com/resources/packages_how_to.html</loc>
-    <lastmod>2023-04-14T20:38:59.455Z</lastmod>
+    <lastmod>2023-04-28T23:42:34.283Z</lastmod>
   </url>
   <url>
     <loc>https://www.resourcesdatabase.com/resources/quarto.html</loc>
@@ -394,7 +394,7 @@
   </url>
   <url>
     <loc>https://www.resourcesdatabase.com/resources/data_science.html</loc>
-    <lastmod>2023-04-25T02:34:27.718Z</lastmod>
+    <lastmod>2023-04-28T23:43:07.739Z</lastmod>
   </url>
   <url>
     <loc>https://www.resourcesdatabase.com/ebooks_only/visualization.html</loc>
@@ -407,5 +407,17 @@
   <url>
     <loc>https://www.resourcesdatabase.com/resources/r_markdown.html</loc>
     <lastmod>2023-04-25T02:34:05.107Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.resourcesdatabase.com/resources/datasets.html</loc>
+    <lastmod>2023-04-28T23:42:28.747Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.resourcesdatabase.com/courses_tutorials_only/packages_how_to.html</loc>
+    <lastmod>2023-04-28T23:42:43.607Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.resourcesdatabase.com/courses_tutorials_only/data_science.html</loc>
+    <lastmod>2023-04-28T23:43:16.612Z</lastmod>
   </url>
 </urlset>

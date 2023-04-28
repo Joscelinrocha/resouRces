@@ -54,7 +54,7 @@ Added Sat Dec 11, 2021
 
 1.  Post and course here: <https://meghan.rbind.io/blog/cowplot/>
 
-## [Data Visualization course](https://datavizm20.classes.andrewheiss.com/syllabus/)
+## [Data Visualization Course](https://datavizm20.classes.andrewheiss.com/syllabus/)
 
 By [Andrew Heiss](https://datavizm20.classes.andrewheiss.com/syllabus/)
 

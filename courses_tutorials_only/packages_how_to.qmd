@@ -7,6 +7,17 @@ subtitle: "Courses & Tutorials Only"
 
 ------------------------------------------------------------------------
 
+## [How to write your own R package and publish it on CRAN](https://www.mzes.uni-mannheim.de/socialsciencedatalab/article/r-package/)
+
+By Cosima Meyer
+
+Added Fri Apr 28th, 2023
+
+**What is this?**\
+**Excerpt from site:** While there exist many great resources for learning how to write a package in R, we found it difficult to find one all-encompassing guide that is also easily accessible for beginners. This tutorial seeks to close this gap: we will provide you with a step-by-step guide --- seasoned with new and helpful packages that are also inspired by presentations at the recent virtual European R Users Meeting [e-Rum 2020](https://2020.erum.io/).
+
+1.  Link to the datasets: <https://www.mzes.uni-mannheim.de/socialsciencedatalab/article/r-package/>
+
 ## [R package primer a minimal tutorial](https://kbroman.org/pkg_primer/)
 
 By [Karl Broman](https://kbroman.org/pkg_primer/)
