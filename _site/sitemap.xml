@@ -350,11 +350,11 @@
   </url>
   <url>
     <loc>https://www.resourcesdatabase.com/courses_tutorials_only/visualization.html</loc>
-    <lastmod>2023-04-28T21:27:17.063Z</lastmod>
+    <lastmod>2023-04-30T17:12:40.535Z</lastmod>
   </url>
   <url>
     <loc>https://www.resourcesdatabase.com/resources/visualization.html</loc>
-    <lastmod>2023-04-28T23:43:01.391Z</lastmod>
+    <lastmod>2023-04-30T17:13:07.701Z</lastmod>
   </url>
   <url>
     <loc>https://www.resourcesdatabase.com/resources/packages_how_to.html</loc>
@@ -362,11 +362,11 @@
   </url>
   <url>
     <loc>https://www.resourcesdatabase.com/resources/quarto.html</loc>
-    <lastmod>2023-04-14T20:52:19.984Z</lastmod>
+    <lastmod>2023-04-30T18:13:50.854Z</lastmod>
   </url>
   <url>
     <loc>https://www.resourcesdatabase.com/courses_tutorials_only/quarto.html</loc>
-    <lastmod>2023-04-14T20:52:36.103Z</lastmod>
+    <lastmod>2023-04-30T17:12:02.224Z</lastmod>
   </url>
   <url>
     <loc>https://www.resourcesdatabase.com/ebooks_only/learning_r.html</loc>
@@ -374,11 +374,11 @@
   </url>
   <url>
     <loc>https://www.resourcesdatabase.com/resources/statistics.html</loc>
-    <lastmod>2023-04-25T02:33:59.184Z</lastmod>
+    <lastmod>2023-04-30T18:14:29.716Z</lastmod>
   </url>
   <url>
     <loc>https://www.resourcesdatabase.com/ebooks_only/statistics.html</loc>
-    <lastmod>2023-04-14T21:04:49.391Z</lastmod>
+    <lastmod>2023-04-30T18:14:21.674Z</lastmod>
   </url>
   <url>
     <loc>https://www.resourcesdatabase.com/courses_tutorials_only/git.html</loc>
@@ -419,5 +419,245 @@
   <url>
     <loc>https://www.resourcesdatabase.com/courses_tutorials_only/data_science.html</loc>
     <lastmod>2023-04-28T23:43:16.612Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.resourcesdatabase.com/more_r_databases.html</loc>
+    <lastmod>2023-04-30T17:07:36.513Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.resourcesdatabase.com/LICENSE.html</loc>
+    <lastmod>2023-04-30T17:07:05.148Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.resourcesdatabase.com/database-faq.html</loc>
+    <lastmod>2023-04-30T17:07:05.579Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.resourcesdatabase.com/resources/prof_dev.html</loc>
+    <lastmod>2023-04-30T17:07:06.509Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.resourcesdatabase.com/resources/r_to_python.html</loc>
+    <lastmod>2023-04-30T17:07:07.021Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.resourcesdatabase.com/resources/fun_extra.html</loc>
+    <lastmod>2023-04-30T17:07:07.642Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.resourcesdatabase.com/resources/workflows.html</loc>
+    <lastmod>2023-04-30T17:07:08.114Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.resourcesdatabase.com/resources/dashboards_shiny.html</loc>
+    <lastmod>2023-04-30T17:07:08.518Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.resourcesdatabase.com/resources/eyetracking.html</loc>
+    <lastmod>2023-04-30T17:07:08.978Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.resourcesdatabase.com/resources/meta-analyses_systematic_reviews.html</loc>
+    <lastmod>2023-04-30T17:07:09.442Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.resourcesdatabase.com/resources/docker.html</loc>
+    <lastmod>2023-04-30T17:07:09.896Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.resourcesdatabase.com/resources/presentations_slides.html</loc>
+    <lastmod>2023-04-30T17:07:10.350Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.resourcesdatabase.com/resources/teaching_r.html</loc>
+    <lastmod>2023-04-30T17:07:10.834Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.resourcesdatabase.com/resources/art.html</loc>
+    <lastmod>2023-04-30T17:13:11.337Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.resourcesdatabase.com/resources/machine_learning.html</loc>
+    <lastmod>2023-04-30T17:07:12.772Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.resourcesdatabase.com/resources/making_websites_blogs.html</loc>
+    <lastmod>2023-04-30T17:12:14.171Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.resourcesdatabase.com/resources/r_for_neuro.html</loc>
+    <lastmod>2023-04-30T17:07:13.836Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.resourcesdatabase.com/courses_tutorials_only/r_to_python.html</loc>
+    <lastmod>2023-04-30T17:07:14.273Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.resourcesdatabase.com/courses_tutorials_only/meta-analyses_systematic_reviews.html</loc>
+    <lastmod>2023-04-30T17:07:14.727Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.resourcesdatabase.com/courses_tutorials_only/teaching_r.html</loc>
+    <lastmod>2023-04-30T17:07:15.598Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.resourcesdatabase.com/courses_tutorials_only/r_markdown.html</loc>
+    <lastmod>2023-04-30T17:07:16.698Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.resourcesdatabase.com/courses_tutorials_only/machine_learning.html</loc>
+    <lastmod>2023-04-30T17:07:17.160Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.resourcesdatabase.com/courses_tutorials_only/making_websites_blogs.html</loc>
+    <lastmod>2023-04-30T17:07:17.612Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.resourcesdatabase.com/courses_tutorials_only/statistics.html</loc>
+    <lastmod>2023-04-30T17:07:18.301Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.resourcesdatabase.com/courses_tutorials_only/r_for_neuro.html</loc>
+    <lastmod>2023-04-30T17:07:18.775Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.resourcesdatabase.com/team.html</loc>
+    <lastmod>2023-04-30T17:07:19.172Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.resourcesdatabase.com/blogs_slides_only/prof_dev.html</loc>
+    <lastmod>2023-04-30T17:07:19.591Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.resourcesdatabase.com/blogs_slides_only/r_to_python.html</loc>
+    <lastmod>2023-04-30T17:07:20.068Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.resourcesdatabase.com/blogs_slides_only/workflows.html</loc>
+    <lastmod>2023-04-30T17:07:20.500Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.resourcesdatabase.com/blogs_slides_only/packages_how_to.html</loc>
+    <lastmod>2023-04-30T17:07:20.957Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.resourcesdatabase.com/blogs_slides_only/dashboards_shiny.html</loc>
+    <lastmod>2023-04-30T17:07:21.358Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.resourcesdatabase.com/blogs_slides_only/learning_r.html</loc>
+    <lastmod>2023-04-30T17:07:21.782Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.resourcesdatabase.com/blogs_slides_only/meta-analyses_systematic_reviews.html</loc>
+    <lastmod>2023-04-30T17:07:22.229Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.resourcesdatabase.com/blogs_slides_only/docker.html</loc>
+    <lastmod>2023-04-30T17:07:22.655Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.resourcesdatabase.com/blogs_slides_only/git.html</loc>
+    <lastmod>2023-04-30T17:07:23.079Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.resourcesdatabase.com/blogs_slides_only/quarto.html</loc>
+    <lastmod>2023-04-30T17:12:20.185Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.resourcesdatabase.com/blogs_slides_only/presentations_slides.html</loc>
+    <lastmod>2023-04-30T17:07:23.914Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.resourcesdatabase.com/blogs_slides_only/teaching_r.html</loc>
+    <lastmod>2023-04-30T17:07:24.379Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.resourcesdatabase.com/blogs_slides_only/art.html</loc>
+    <lastmod>2023-04-30T17:07:24.836Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.resourcesdatabase.com/blogs_slides_only/r_markdown.html</loc>
+    <lastmod>2023-04-30T17:07:25.312Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.resourcesdatabase.com/blogs_slides_only/machine_learning.html</loc>
+    <lastmod>2023-04-30T17:07:25.713Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.resourcesdatabase.com/blogs_slides_only/making_websites_blogs.html</loc>
+    <lastmod>2023-04-30T17:12:26.296Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.resourcesdatabase.com/blogs_slides_only/data_science.html</loc>
+    <lastmod>2023-04-30T17:07:26.609Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.resourcesdatabase.com/blogs_slides_only/statistics.html</loc>
+    <lastmod>2023-04-30T17:07:27.075Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.resourcesdatabase.com/blogs_slides_only/r_for_neuro.html</loc>
+    <lastmod>2023-04-30T17:07:27.595Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.resourcesdatabase.com/ebooks_only/r_to_python.html</loc>
+    <lastmod>2023-04-30T17:07:28.065Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.resourcesdatabase.com/ebooks_only/fun_extra.html</loc>
+    <lastmod>2023-04-30T17:07:28.488Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.resourcesdatabase.com/ebooks_only/packages_how_to.html</loc>
+    <lastmod>2023-04-30T17:07:28.892Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.resourcesdatabase.com/ebooks_only/dashboards_shiny.html</loc>
+    <lastmod>2023-04-30T17:07:29.328Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.resourcesdatabase.com/ebooks_only/eyetracking.html</loc>
+    <lastmod>2023-04-30T17:07:29.717Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.resourcesdatabase.com/ebooks_only/meta-analyses_systematic_reviews.html</loc>
+    <lastmod>2023-04-30T17:07:30.198Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.resourcesdatabase.com/ebooks_only/docker.html</loc>
+    <lastmod>2023-04-30T17:07:30.640Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.resourcesdatabase.com/ebooks_only/git.html</loc>
+    <lastmod>2023-04-30T17:07:31.073Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.resourcesdatabase.com/ebooks_only/quarto.html</loc>
+    <lastmod>2023-04-30T17:07:31.491Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.resourcesdatabase.com/ebooks_only/presentations_slides.html</loc>
+    <lastmod>2023-04-30T17:07:31.935Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.resourcesdatabase.com/ebooks_only/teaching_r.html</loc>
+    <lastmod>2023-04-30T17:07:32.333Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.resourcesdatabase.com/ebooks_only/art.html</loc>
+    <lastmod>2023-04-30T17:07:32.776Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.resourcesdatabase.com/ebooks_only/r_markdown.html</loc>
+    <lastmod>2023-04-30T17:07:33.210Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.resourcesdatabase.com/ebooks_only/machine_learning.html</loc>
+    <lastmod>2023-04-30T17:07:33.624Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.resourcesdatabase.com/ebooks_only/making_websites_blogs.html</loc>
+    <lastmod>2023-04-30T17:07:34.025Z</lastmod>
   </url>
 </urlset>

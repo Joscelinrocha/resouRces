@@ -3875,7 +3875,7 @@
     "href": "database-faq.html",
     "title": "FAQs",
     "section": "",
-    "text": "Buy me a coffee\n\n\nFAQs\nHow do I keep up to date with any changes?\nPlease note that this is a work in progress, I add resources every week or as often as I find resources.\nRemember to check back in regularly to get any updates. Or, you can watch or ⭐ star the repo to get notified automatically for any changes or new additions.\nI’ve spotted a mistake or would like to contribute\nPlease open a new issue. Better yet, please fork the repo and submit an upstream pull request. I’m very grateful for any contributions, but may be slow to respond (trying to get a doctorate done). I try my best to assign the resources in the categories I have listed but sometimes they are ambiguous. If I have time I put them in both categories but I usually don’t. If you think something really doesn’t belong in a certain category or the information is wrong such as authors names, summaries, or even links, just open an issue.\nWhy are you doing this?\nI struggled a lot getting resources to learn how to code. I started with python which I love but it wasn’t until I found the R community that I felt welcomed. I really admire all the people that make these resources available for anyone to learn and teach this language. I used to collect all the available resources and bookmarked them or emailed them to myself but I figure hundred of people do this as well so just wanted to help.\nWhat can you do to thank me?\nThis is a weird thing that someone asked me. I just would really appreciate it if you share it with your peers and especially BIPOC young people who otherwise cannot afford expensive courses to learn this skill.\nIf you would like to do something else you can Buy me a Coffee or Venmo me at @JoscelinRocha"
+    "text": "Buy me a coffee\n\nHow do I keep up to date with any changes?\nPlease note that this is a work in progress, I add resources every week or as often as I find resources.\nRemember to check back in regularly to get any updates. Or, you can watch or ⭐ star the repo to get notified automatically for any changes or new additions.\nI’ve spotted a mistake or would like to contribute\nPlease open a new issue. Better yet, please fork the repo and submit an upstream pull request. I’m very grateful for any contributions, but may be slow to respond (trying to get a doctorate done). I try my best to assign the resources in the categories I have listed but sometimes they are ambiguous. If I have time I put them in both categories but I usually don’t. If you think something really doesn’t belong in a certain category or the information is wrong such as authors names, summaries, or even links, just open an issue.\nWhy are you doing this?\nI struggled a lot getting resources to learn how to code. I started with python which I love but it wasn’t until I found the R community that I felt welcomed. I really admire all the people that make these resources available for anyone to learn and teach this language. I used to collect all the available resources and bookmarked them or emailed them to myself but I figure hundred of people do this as well so just wanted to help.\nWhat can you do to thank me?\nThis is a weird thing that someone asked me. I just would really appreciate it if you share it with your peers and especially BIPOC young people who otherwise cannot afford expensive courses to learn this skill.\nIf you would like to do something else you can Buy me a Coffee or Venmo me at @JoscelinRocha"
   },
   {
     "objectID": "index.html",
@@ -4267,7 +4267,7 @@
     "href": "blogs_slides_only/quarto.html",
     "title": "Quarto",
     "section": "",
-    "text": "Buy me a coffee\n\nNone (YET!)"
+    "text": "Buy me a coffee"
   },
   {
     "objectID": "blogs_slides_only/prof_dev.html",
@@ -4968,5 +4968,194 @@
     "title": "Data Science",
     "section": "Data Science for Psychologists: A Refreshed Exploratory & Graphical Data Analysis in R",
     "text": "Data Science for Psychologists: A Refreshed Exploratory & Graphical Data Analysis in R\nBy S. Mason Garrison\nAdded Fri Apr 28th, 2023\nWhat is this?\nExcerpt from site: This website is designed to accompany Mason Garrison's Data Science for Psychologists (DS4P). DS4P is a graduate-level quantitative methods course at Wake Forest University. This class assumes zero knowledge of programming, computer science, linear algebra, probability, or really anything fancy. I encourage anyone who is quant-curious to work their way through these course notes. The course notes include lectures, worked examples, readings, activities, and labs.\n\nLink to website: https://datascience4psych.github.io/DataScience4Psych/"
+  },
+  {
+    "objectID": "more_r_databases.html#schillingawesome-quartostudio",
+    "href": "more_r_databases.html#schillingawesome-quartostudio",
+    "title": "More Databases with R Resources",
+    "section": "SchillingAwesome QuartoStudio",
+    "text": "SchillingAwesome QuartoStudio\nBy Mickaël Canouil\nAdded Sun April 30th, 2023\nWhat is this?\nExcerpt from the repo: The most up to date curated list of Quarto® docs, talks, tools, examples & articles the internet has to offer.\n\nLink to YouTube channel: https://github.com/mcanouil/awesome-quarto"
+  },
+  {
+    "objectID": "LICENSE.html#creative-commons-attribution-sharealike-4.0-international-public-license",
+    "href": "LICENSE.html#creative-commons-attribution-sharealike-4.0-international-public-license",
+    "title": "resouRces",
+    "section": "Creative Commons Attribution-ShareAlike 4.0 International Public License",
+    "text": "Creative Commons Attribution-ShareAlike 4.0 International Public License\nBy exercising the Licensed Rights (defined below), You accept and agree to be bound by the terms and conditions of this Creative Commons Attribution-ShareAlike 4.0 International Public License (“Public License”). To the extent this Public License may be interpreted as a contract, You are granted the Licensed Rights in consideration of Your acceptance of these terms and conditions, and the Licensor grants You such rights in consideration of benefits the Licensor receives from making the Licensed Material available under these terms and conditions.\n\nSection 1 – Definitions.\n\nAdapted Material means material subject to Copyright and Similar Rights that is derived from or based upon the Licensed Material and in which the Licensed Material is translated, altered, arranged, transformed, or otherwise modified in a manner requiring permission under the Copyright and Similar Rights held by the Licensor. For purposes of this Public License, where the Licensed Material is a musical work, performance, or sound recording, Adapted Material is always produced where the Licensed Material is synched in timed relation with a moving image.\nAdapter’s License means the license You apply to Your Copyright and Similar Rights in Your contributions to Adapted Material in accordance with the terms and conditions of this Public License.\nBY-SA Compatible License means a license listed at creativecommons.org/compatiblelicenses, approved by Creative Commons as essentially the equivalent of this Public License.\nCopyright and Similar Rights means copyright and/or similar rights closely related to copyright including, without limitation, performance, broadcast, sound recording, and Sui Generis Database Rights, without regard to how the rights are labeled or categorized. For purposes of this Public License, the rights specified in Section 2(b)(1)-(2) are not Copyright and Similar Rights.\nEffective Technological Measures means those measures that, in the absence of proper authority, may not be circumvented under laws fulfilling obligations under Article 11 of the WIPO Copyright Treaty adopted on December 20, 1996, and/or similar international agreements.\nExceptions and Limitations means fair use, fair dealing, and/or any other exception or limitation to Copyright and Similar Rights that applies to Your use of the Licensed Material.\nLicense Elements means the license attributes listed in the name of a Creative Commons Public License. The License Elements of this Public License are Attribution and ShareAlike.\nLicensed Material means the artistic or literary work, database, or other material to which the Licensor applied this Public License.\nLicensed Rights means the rights granted to You subject to the terms and conditions of this Public License, which are limited to all Copyright and Similar Rights that apply to Your use of the Licensed Material and that the Licensor has authority to license.\nLicensor means the individual(s) or entity(ies) granting rights under this Public License.\nShare means to provide material to the public by any means or process that requires permission under the Licensed Rights, such as reproduction, public display, public performance, distribution, dissemination, communication, or importation, and to make material available to the public including in ways that members of the public may access the material from a place and at a time individually chosen by them.\nSui Generis Database Rights means rights other than copyright resulting from Directive 96/9/EC of the European Parliament and of the Council of 11 March 1996 on the legal protection of databases, as amended and/or succeeded, as well as other essentially equivalent rights anywhere in the world.\nYou means the individual or entity exercising the Licensed Rights under this Public License. Your has a corresponding meaning.\n\n\n\nSection 2 – Scope.\n\nLicense grant.\n\nSubject to the terms and conditions of this Public License, the Licensor hereby grants You a worldwide, royalty-free, non-sublicensable, non-exclusive, irrevocable license to exercise the Licensed Rights in the Licensed Material to:\nA. reproduce and Share the Licensed Material, in whole or in part; and\nB. produce, reproduce, and Share Adapted Material.\nExceptions and Limitations. For the avoidance of doubt, where Exceptions and Limitations apply to Your use, this Public License does not apply, and You do not need to comply with its terms and conditions.\nTerm. The term of this Public License is specified in Section 6(a).\nMedia and formats; technical modifications allowed. The Licensor authorizes You to exercise the Licensed Rights in all media and formats whether now known or hereafter created, and to make technical modifications necessary to do so. The Licensor waives and/or agrees not to assert any right or authority to forbid You from making technical modifications necessary to exercise the Licensed Rights, including technical modifications necessary to circumvent Effective Technological Measures. For purposes of this Public License, simply making modifications authorized by this Section 2(a)(4) never produces Adapted Material.\nDownstream recipients.\nA. Offer from the Licensor – Licensed Material. Every recipient of the Licensed Material automatically receives an offer from the Licensor to exercise the Licensed Rights under the terms and conditions of this Public License.\nB. Additional offer from the Licensor – Adapted Material. Every recipient of Adapted Material from You automatically receives an offer from the Licensor to exercise the Licensed Rights in the Adapted Material under the conditions of the Adapter’s License You apply.\nC. No downstream restrictions. You may not offer or impose any additional or different terms or conditions on, or apply any Effective Technological Measures to, the Licensed Material if doing so restricts exercise of the Licensed Rights by any recipient of the Licensed Material.\nNo endorsement. Nothing in this Public License constitutes or may be construed as permission to assert or imply that You are, or that Your use of the Licensed Material is, connected with, or sponsored, endorsed, or granted official status by, the Licensor or others designated to receive attribution as provided in Section 3(a)(1)(A)(i).\n\nOther rights.\n\nMoral rights, such as the right of integrity, are not licensed under this Public License, nor are publicity, privacy, and/or other similar personality rights; however, to the extent possible, the Licensor waives and/or agrees not to assert any such rights held by the Licensor to the limited extent necessary to allow You to exercise the Licensed Rights, but not otherwise.\nPatent and trademark rights are not licensed under this Public License.\nTo the extent possible, the Licensor waives any right to collect royalties from You for the exercise of the Licensed Rights, whether directly or through a collecting society under any voluntary or waivable statutory or compulsory licensing scheme. In all other cases the Licensor expressly reserves any right to collect such royalties.\n\n\n\n\nSection 3 – License Conditions.\nYour exercise of the Licensed Rights is expressly made subject to the following conditions.\n\nAttribution.\n\nIf You Share the Licensed Material (including in modified form), You must:\nA. retain the following if it is supplied by the Licensor with the Licensed Material:\n\nidentification of the creator(s) of the Licensed Material and any others designated to receive attribution, in any reasonable manner requested by the Licensor (including by pseudonym if designated);\na copyright notice;\na notice that refers to this Public License;\na notice that refers to the disclaimer of warranties;\na URI or hyperlink to the Licensed Material to the extent reasonably practicable;\n\nB. indicate if You modified the Licensed Material and retain an indication of any previous modifications; and\nC. indicate the Licensed Material is licensed under this Public License, and include the text of, or the URI or hyperlink to, this Public License.\nYou may satisfy the conditions in Section 3(a)(1) in any reasonable manner based on the medium, means, and context in which You Share the Licensed Material. For example, it may be reasonable to satisfy the conditions by providing a URI or hyperlink to a resource that includes the required information.\nIf requested by the Licensor, You must remove any of the information required by Section 3(a)(1)(A) to the extent reasonably practicable.\n\nShareAlike.\n\nIn addition to the conditions in Section 3(a), if You Share Adapted Material You produce, the following conditions also apply.\n\nThe Adapter’s License You apply must be a Creative Commons license with the same License Elements, this version or later, or a BY-SA Compatible License.\nYou must include the text of, or the URI or hyperlink to, the Adapter’s License You apply. You may satisfy this condition in any reasonable manner based on the medium, means, and context in which You Share Adapted Material.\nYou may not offer or impose any additional or different terms or conditions on, or apply any Effective Technological Measures to, Adapted Material that restrict exercise of the rights granted under the Adapter’s License You apply.\n\n\n\nSection 4 – Sui Generis Database Rights.\nWhere the Licensed Rights include Sui Generis Database Rights that apply to Your use of the Licensed Material:\n\nfor the avoidance of doubt, Section 2(a)(1) grants You the right to extract, reuse, reproduce, and Share all or a substantial portion of the contents of the database;\nif You include all or a substantial portion of the database contents in a database in which You have Sui Generis Database Rights, then the database in which You have Sui Generis Database Rights (but not its individual contents) is Adapted Material, including for purposes of Section 3(b); and\nYou must comply with the conditions in Section 3(a) if You Share all or a substantial portion of the contents of the database.\n\nFor the avoidance of doubt, this Section 4 supplements and does not replace Your obligations under this Public License where the Licensed Rights include other Copyright and Similar Rights.\n\n\nSection 5 – Disclaimer of Warranties and Limitation of Liability.\n\nUnless otherwise separately undertaken by the Licensor, to the extent possible, the Licensor offers the Licensed Material as-is and as-available, and makes no representations or warranties of any kind concerning the Licensed Material, whether express, implied, statutory, or other. This includes, without limitation, warranties of title, merchantability, fitness for a particular purpose, non-infringement, absence of latent or other defects, accuracy, or the presence or absence of errors, whether or not known or discoverable. Where disclaimers of warranties are not allowed in full or in part, this disclaimer may not apply to You.\nTo the extent possible, in no event will the Licensor be liable to You on any legal theory (including, without limitation, negligence) or otherwise for any direct, special, indirect, incidental, consequential, punitive, exemplary, or other losses, costs, expenses, or damages arising out of this Public License or use of the Licensed Material, even if the Licensor has been advised of the possibility of such losses, costs, expenses, or damages. Where a limitation of liability is not allowed in full or in part, this limitation may not apply to You.\nThe disclaimer of warranties and limitation of liability provided above shall be interpreted in a manner that, to the extent possible, most closely approximates an absolute disclaimer and waiver of all liability.\n\n\n\nSection 6 – Term and Termination.\n\nThis Public License applies for the term of the Copyright and Similar Rights licensed here. However, if You fail to comply with this Public License, then Your rights under this Public License terminate automatically.\nWhere Your right to use the Licensed Material has terminated under Section 6(a), it reinstates:\n\nautomatically as of the date the violation is cured, provided it is cured within 30 days of Your discovery of the violation; or\nupon express reinstatement by the Licensor.\n\nFor the avoidance of doubt, this Section 6(b) does not affect any right the Licensor may have to seek remedies for Your violations of this Public License.\nFor the avoidance of doubt, the Licensor may also offer the Licensed Material under separate terms or conditions or stop distributing the Licensed Material at any time; however, doing so will not terminate this Public License.\nSections 1, 5, 6, 7, and 8 survive termination of this Public License.\n\n\n\nSection 7 – Other Terms and Conditions.\n\nThe Licensor shall not be bound by any additional or different terms or conditions communicated by You unless expressly agreed.\nAny arrangements, understandings, or agreements regarding the Licensed Material not stated herein are separate from and independent of the terms and conditions of this Public License.\n\n\n\nSection 8 – Interpretation.\n\nFor the avoidance of doubt, this Public License does not, and shall not be interpreted to, reduce, limit, restrict, or impose conditions on any use of the Licensed Material that could lawfully be made without permission under this Public License.\nTo the extent possible, if any provision of this Public License is deemed unenforceable, it shall be automatically reformed to the minimum extent necessary to make it enforceable. If the provision cannot be reformed, it shall be severed from this Public License without affecting the enforceability of the remaining terms and conditions.\nNo term or condition of this Public License will be waived and no failure to comply consented to unless expressly agreed to by the Licensor.\nNothing in this Public License constitutes or may be interpreted as a limitation upon, or waiver of, any privileges and immunities that apply to the Licensor or You, including from the legal processes of any jurisdiction or authority.\n\n\nCreative Commons is not a party to its public licenses. Notwithstanding, Creative Commons may elect to apply one of its public licenses to material it publishes and in those instances will be considered the “Licensor.” The text of the Creative Commons public licenses is dedicated to the public domain under the CC0 Public Domain Dedication. Except for the limited purpose of indicating that material is shared under a Creative Commons public license or as otherwise permitted by the Creative Commons policies published at creativecommons.org/policies, Creative Commons does not authorize the use of the trademark “Creative Commons” or any other trademark or logo of Creative Commons without its prior written consent including, without limitation, in connection with any unauthorized modifications to any of its public licenses or any other arrangements, understandings, or agreements concerning use of licensed material. For the avoidance of doubt, this paragraph does not form part of the public licenses.\nCreative Commons may be contacted at creativecommons.org."
+  },
+  {
+    "objectID": "resources/visualization.html#schilling-data-studio",
+    "href": "resources/visualization.html#schilling-data-studio",
+    "title": "Visualization",
+    "section": "Schilling Data Studio",
+    "text": "Schilling Data Studio\nBy Jenn Schilling\nAdded Sun April 30th, 2023\nWhat is this?\nExcerpt from the channel: From data dread to impactful insights - data visualization tutorials for clearly communicating data.\nWelcome to Schilling Data Studio! We’re here to support your data visualization needs. If you feel overwhelmed by data or don’t know how to create fabulous, impactful data visualizations, you’re in the right place. Our video tutorials and quick tips will help you enhance your data visualizations so you can provide clear insights and make an impact with your data!\n\nLink to YouTube channel: https://www.youtube.com/@schillingdata/videos"
+  },
+  {
+    "objectID": "resources/art.html#art-from-code",
+    "href": "resources/art.html#art-from-code",
+    "title": "Art with R",
+    "section": "Art from Code",
+    "text": "Art from Code\nBy Danielle Navarro\nAdded Sun Apr 30, 2023\nWhat is this?\nExcerpt from workshop site: This workshop provides a hands-on introduction to generative art in R. You'll learn artistic techniques that generative artists use regularly in their work including flow fields, iterative function systems, and more. You'll also learn about R packages specialised for generative art. But more than that, you'll learn how to reuse skills you already have as part of an artistic process: with a little work, ggplot2, dplyr, and Rcpp can become an artist's best friends. The assumed background is that you're reasonably comfortable using R and RStudio, and have experience with tidyverse.\n\nLink to site here: https://art-from-code.netlify.app/\nLink to repo here: https://github.com/rstudio-conf-2022/art-from-code"
+  },
+  {
+    "objectID": "resources/art.html#art-with-r",
+    "href": "resources/art.html#art-with-r",
+    "title": "Art with R",
+    "section": "Art with R",
+    "text": "Art with R\nBy Geert van Geest\nAdded Sun Apr 30, 2023\nWhat is this?\nExcerpt from repo: Playing around with R code to create art. All based on Danielle Navarro’s tutorial: https://art-from-code.netlify.app/.\n\nLink to repo here: https://github.com/GeertvanGeest/art-with-r"
+  },
+  {
+    "objectID": "resources/art.html#schilling-data-studio",
+    "href": "resources/art.html#schilling-data-studio",
+    "title": "Art with R",
+    "section": "Schilling Data Studio",
+    "text": "Schilling Data Studio\nBy Jenn Schilling\nAdded Sun April 30th, 2023\nWhat is this?\nExcerpt from the channel: From data dread to impactful insights - data visualization tutorials for clearly communicating data.\nWelcome to Schilling Data Studio! We’re here to support your data visualization needs. If you feel overwhelmed by data or don’t know how to create fabulous, impactful data visualizations, you’re in the right place. Our video tutorials and quick tips will help you enhance your data visualizations so you can provide clear insights and make an impact with your data!\n\nLink to YouTube channel: https://www.youtube.com/@schillingdata/videos"
+  },
+  {
+    "objectID": "courses_tutorials_only/quarto.html#the-ultimate-guide-to-starting-a-quarto-blog",
+    "href": "courses_tutorials_only/quarto.html#the-ultimate-guide-to-starting-a-quarto-blog",
+    "title": "Quarto",
+    "section": "The ultimate guide to starting a Quarto blog",
+    "text": "The ultimate guide to starting a Quarto blog\nBy Albert Rapp\nAdded Sun April 30th 2023\nWhat is this?\nExcerpt from blog: Today, I want to show you how to build a blog with Quarto. This in-depth guide is the result of hours of working with Quarto's amazingly detailed documentation. Hopefully, it will save you a lot of time and helps you start your own blog. Here's what we will cover:\n\nLink to blog here: https://albert-rapp.de/posts/13_quarto_blog_writing_guide/13_quarto_blog_writing_guide.html"
+  },
+  {
+    "objectID": "courses_tutorials_only/visualization.html#schilling-data-studio",
+    "href": "courses_tutorials_only/visualization.html#schilling-data-studio",
+    "title": "Visualization",
+    "section": "Schilling Data Studio",
+    "text": "Schilling Data Studio\nBy Jenn Schilling\nAdded Sun April 30th, 2023\nWhat is this?\nExcerpt from the channel: From data dread to impactful insights - data visualization tutorials for clearly communicating data.\nWelcome to Schilling Data Studio! We’re here to support your data visualization needs. If you feel overwhelmed by data or don’t know how to create fabulous, impactful data visualizations, you’re in the right place. Our video tutorials and quick tips will help you enhance your data visualizations so you can provide clear insights and make an impact with your data!\n\nLink to YouTube channel: https://www.youtube.com/@schillingdata/videos"
+  },
+  {
+    "objectID": "courses_tutorials_only/quarto.html#creating-a-blog-with-quarto-in-10-steps",
+    "href": "courses_tutorials_only/quarto.html#creating-a-blog-with-quarto-in-10-steps",
+    "title": "Quarto",
+    "section": "Creating a blog with Quarto in 10 steps",
+    "text": "Creating a blog with Quarto in 10 steps\nBy Beatriz Milz\nAdded Sun April 30th 2023\nWhat is this?\nExcerpt from blog: I'm going to write about some of the steps that you need to take to create a blog with Quarto.\n\nLink to blog here: https://beamilz.com/posts/2022-06-05-creating-a-blog-with-quarto/en/"
+  },
+  {
+    "objectID": "courses_tutorials_only/quarto.html#making-shareable-documents-with-quarto",
+    "href": "courses_tutorials_only/quarto.html#making-shareable-documents-with-quarto",
+    "title": "Quarto",
+    "section": "Making shareable documents with Quarto",
+    "text": "Making shareable documents with Quarto\nBy Openscapes\nAdded Sun April 30th 2023\nWhat is this?\nExcerpt from blog: This is a 1-hour tutorial that can be used to teach or as self-paced learning.\nWe introduce Quarto by exploring this tutorial website, and practicing the basic Quarto workflow using different tools (GitHub browser, RStudio, and Jupyter) for editing your website.\nWe'll start off from the browser so you don't need to install any additional software, however this approach is very limited and you will soon outgrow its capabilities. If you don't already have a workflow to edit files and sync to GitHub from your computer, I recommend RStudio. You don't need to know R to use RStudio, and it has powerful editor features that make for happy workflows.\n\nLink to blog here: https://openscapes.github.io/quarto-website-tutorial/"
+  },
+  {
+    "objectID": "resources/quarto.html#creating-a-blog-with-quarto-in-10-steps",
+    "href": "resources/quarto.html#creating-a-blog-with-quarto-in-10-steps",
+    "title": "Quarto",
+    "section": "Creating a blog with Quarto in 10 steps",
+    "text": "Creating a blog with Quarto in 10 steps\nBy Beatriz Milz\nAdded Sun April 30th 2023\nWhat is this?\nExcerpt from blog: I’m going to write about some of the steps that you need to take to create a blog with Quarto.\n\nLink to blog here: https://beamilz.com/posts/2022-06-05-creating-a-blog-with-quarto/en/"
+  },
+  {
+    "objectID": "resources/quarto.html#making-shareable-documents-with-quarto",
+    "href": "resources/quarto.html#making-shareable-documents-with-quarto",
+    "title": "Quarto",
+    "section": "Making shareable documents with Quarto",
+    "text": "Making shareable documents with Quarto\nBy Openscapes\nAdded Sun April 30th 2023\nWhat is this?\nExcerpt from blog: This is a 1-hour tutorial that can be used to teach or as self-paced learning.\nWe introduce Quarto by exploring this tutorial website, and practicing the basic Quarto workflow using different tools (GitHub browser, RStudio, and Jupyter) for editing your website.\nWe’ll start off from the browser so you don’t need to install any additional software, however this approach is very limited and you will soon outgrow its capabilities. If you don’t already have a workflow to edit files and sync to GitHub from your computer, I recommend RStudio. You don’t need to know R to use RStudio, and it has powerful editor features that make for happy workflows.\n\nLink to blog here: https://openscapes.github.io/quarto-website-tutorial/"
+  },
+  {
+    "objectID": "resources/quarto.html#the-ultimate-guide-to-starting-a-quarto-blog",
+    "href": "resources/quarto.html#the-ultimate-guide-to-starting-a-quarto-blog",
+    "title": "Quarto",
+    "section": "The ultimate guide to starting a Quarto blog",
+    "text": "The ultimate guide to starting a Quarto blog\nBy Albert Rapp\nAdded Sun April 30th 2023\nWhat is this?\nExcerpt from blog: Today, I want to show you how to build a blog with Quarto. This in-depth guide is the result of hours of working with Quarto’s amazingly detailed documentation. Hopefully, it will save you a lot of time and helps you start your own blog. Here’s what we will cover:\n\nLink to blog here: https://albert-rapp.de/posts/13_quarto_blog_writing_guide/13_quarto_blog_writing_guide.html"
+  },
+  {
+    "objectID": "resources/making_websites_blogs.html#creating-a-blog-with-quarto-in-10-steps",
+    "href": "resources/making_websites_blogs.html#creating-a-blog-with-quarto-in-10-steps",
+    "title": "Making Websites & Blogs",
+    "section": "Creating a blog with Quarto in 10 steps",
+    "text": "Creating a blog with Quarto in 10 steps\nBy Beatriz Milz\nAdded Sun April 30th 2023\nWhat is this?\nExcerpt from blog: I'm going to write about some of the steps that you need to take to create a blog with Quarto.\n\nLink to blog here: https://beamilz.com/posts/2022-06-05-creating-a-blog-with-quarto/en/"
+  },
+  {
+    "objectID": "resources/making_websites_blogs.html#making-shareable-documents-with-quarto",
+    "href": "resources/making_websites_blogs.html#making-shareable-documents-with-quarto",
+    "title": "Making Websites & Blogs",
+    "section": "Making shareable documents with Quarto",
+    "text": "Making shareable documents with Quarto\nBy Openscapes\nAdded Sun April 30th 2023\nWhat is this?\nExcerpt from blog: This is a 1-hour tutorial that can be used to teach or as self-paced learning.\nWe introduce Quarto by exploring this tutorial website, and practicing the basic Quarto workflow using different tools (GitHub browser, RStudio, and Jupyter) for editing your website.\nWe'll start off from the browser so you don't need to install any additional software, however this approach is very limited and you will soon outgrow its capabilities. If you don't already have a workflow to edit files and sync to GitHub from your computer, I recommend RStudio. You don't need to know R to use RStudio, and it has powerful editor features that make for happy workflows.\n\nLink to blog here: https://openscapes.github.io/quarto-website-tutorial/"
+  },
+  {
+    "objectID": "resources/making_websites_blogs.html#the-ultimate-guide-to-starting-a-quarto-blog",
+    "href": "resources/making_websites_blogs.html#the-ultimate-guide-to-starting-a-quarto-blog",
+    "title": "Making Websites & Blogs",
+    "section": "The ultimate guide to starting a Quarto blog",
+    "text": "The ultimate guide to starting a Quarto blog\nBy Albert Rapp\nAdded Sun April 30th 2023\nWhat is this?\nExcerpt from blog: Today, I want to show you how to build a blog with Quarto. This in-depth guide is the result of hours of working with Quarto's amazingly detailed documentation. Hopefully, it will save you a lot of time and helps you start your own blog. Here's what we will cover:\n\nLink to blog here: https://albert-rapp.de/posts/13_quarto_blog_writing_guide/13_quarto_blog_writing_guide.html"
+  },
+  {
+    "objectID": "blogs_slides_only/quarto.html#creating-a-blog-with-quarto-in-10-steps",
+    "href": "blogs_slides_only/quarto.html#creating-a-blog-with-quarto-in-10-steps",
+    "title": "Quarto",
+    "section": "Creating a blog with Quarto in 10 steps",
+    "text": "Creating a blog with Quarto in 10 steps\nBy Beatriz Milz\nAdded Sun April 30th 2023\nWhat is this?\nExcerpt from blog: I'm going to write about some of the steps that you need to take to create a blog with Quarto.\n\nLink to blog here: https://beamilz.com/posts/2022-06-05-creating-a-blog-with-quarto/en/"
+  },
+  {
+    "objectID": "blogs_slides_only/quarto.html#making-shareable-documents-with-quarto",
+    "href": "blogs_slides_only/quarto.html#making-shareable-documents-with-quarto",
+    "title": "Quarto",
+    "section": "Making shareable documents with Quarto",
+    "text": "Making shareable documents with Quarto\nBy Openscapes\nAdded Sun April 30th 2023\nWhat is this?\nExcerpt from blog: This is a 1-hour tutorial that can be used to teach or as self-paced learning.\nWe introduce Quarto by exploring this tutorial website, and practicing the basic Quarto workflow using different tools (GitHub browser, RStudio, and Jupyter) for editing your website.\nWe'll start off from the browser so you don't need to install any additional software, however this approach is very limited and you will soon outgrow its capabilities. If you don't already have a workflow to edit files and sync to GitHub from your computer, I recommend RStudio. You don't need to know R to use RStudio, and it has powerful editor features that make for happy workflows.\n\nLink to blog here: https://openscapes.github.io/quarto-website-tutorial/"
+  },
+  {
+    "objectID": "blogs_slides_only/quarto.html#the-ultimate-guide-to-starting-a-quarto-blog",
+    "href": "blogs_slides_only/quarto.html#the-ultimate-guide-to-starting-a-quarto-blog",
+    "title": "Quarto",
+    "section": "The ultimate guide to starting a Quarto blog",
+    "text": "The ultimate guide to starting a Quarto blog\nBy Albert Rapp\nAdded Sun April 30th 2023\nWhat is this?\nExcerpt from blog: Today, I want to show you how to build a blog with Quarto. This in-depth guide is the result of hours of working with Quarto's amazingly detailed documentation. Hopefully, it will save you a lot of time and helps you start your own blog. Here's what we will cover:\n\nLink to blog here: https://albert-rapp.de/posts/13_quarto_blog_writing_guide/13_quarto_blog_writing_guide.html"
+  },
+  {
+    "objectID": "blogs_slides_only/making_websites_blogs.html#creating-a-blog-with-quarto-in-10-steps",
+    "href": "blogs_slides_only/making_websites_blogs.html#creating-a-blog-with-quarto-in-10-steps",
+    "title": "Making Websites & Blogs",
+    "section": "Creating a blog with Quarto in 10 steps",
+    "text": "Creating a blog with Quarto in 10 steps\nBy Beatriz Milz\nAdded Sun April 30th 2023\nWhat is this?\nExcerpt from blog: I'm going to write about some of the steps that you need to take to create a blog with Quarto.\n\nLink to blog here: https://beamilz.com/posts/2022-06-05-creating-a-blog-with-quarto/en/"
+  },
+  {
+    "objectID": "blogs_slides_only/making_websites_blogs.html#making-shareable-documents-with-quarto",
+    "href": "blogs_slides_only/making_websites_blogs.html#making-shareable-documents-with-quarto",
+    "title": "Making Websites & Blogs",
+    "section": "Making shareable documents with Quarto",
+    "text": "Making shareable documents with Quarto\nBy Openscapes\nAdded Sun April 30th 2023\nWhat is this?\nExcerpt from blog: This is a 1-hour tutorial that can be used to teach or as self-paced learning.\nWe introduce Quarto by exploring this tutorial website, and practicing the basic Quarto workflow using different tools (GitHub browser, RStudio, and Jupyter) for editing your website.\nWe'll start off from the browser so you don't need to install any additional software, however this approach is very limited and you will soon outgrow its capabilities. If you don't already have a workflow to edit files and sync to GitHub from your computer, I recommend RStudio. You don't need to know R to use RStudio, and it has powerful editor features that make for happy workflows.\n\nLink to blog here: https://openscapes.github.io/quarto-website-tutorial/"
+  },
+  {
+    "objectID": "blogs_slides_only/making_websites_blogs.html#the-ultimate-guide-to-starting-a-quarto-blog",
+    "href": "blogs_slides_only/making_websites_blogs.html#the-ultimate-guide-to-starting-a-quarto-blog",
+    "title": "Making Websites & Blogs",
+    "section": "The ultimate guide to starting a Quarto blog",
+    "text": "The ultimate guide to starting a Quarto blog\nBy Albert Rapp\nAdded Sun April 30th 2023\nWhat is this?\nExcerpt from blog: Today, I want to show you how to build a blog with Quarto. This in-depth guide is the result of hours of working with Quarto's amazingly detailed documentation. Hopefully, it will save you a lot of time and helps you start your own blog. Here's what we will cover:\n\nLink to blog here: https://albert-rapp.de/posts/13_quarto_blog_writing_guide/13_quarto_blog_writing_guide.html"
+  },
+  {
+    "objectID": "resources/quarto.html#getting-started-with-quarto",
+    "href": "resources/quarto.html#getting-started-with-quarto",
+    "title": "Quarto",
+    "section": "Getting Started with Quarto",
+    "text": "Getting Started with Quarto\nBy Tom Mock\nAdded Sun April 30th 2023\nWhat is this?\nExcerpt from workshop site: This workshop is designed for those who have no or little prior experience with Quarto. Quarto is the next generation of RMarkdown for publishing, including dynamic and static documents and multi-lingual programming language support. With Quarto you can create documents, books, presentations, blogs or other online resources.\n\nLink to workshop here: https://jthomasmock.github.io/quarto-2hr-webinar/\nLink to youtube video here: https://www.youtube.com/watch?v=yvi5uXQMvu4"
+  },
+  {
+    "objectID": "resources/statistics.html#introduction-to-multilevel-modelling",
+    "href": "resources/statistics.html#introduction-to-multilevel-modelling",
+    "title": "Statistics",
+    "section": "Introduction to Multilevel Modelling",
+    "text": "Introduction to Multilevel Modelling\nBy Mairead Shaw & Jessica Kay Flake\nAdded Sun April 30th 2023\nWhat is this?\nExcerpt from site: This website will teach you the fundamentals about multilevel modelling, from why and when you would use them and how to do so for various research questions and data structures.\n\nLink to website here: https://www.learn-mlms.com/"
+  },
+  {
+    "objectID": "resources/statistics.html#modern-statistics-with-r-from-wrangling-and-exploring-data-to-inference-and-predictive-modelling",
+    "href": "resources/statistics.html#modern-statistics-with-r-from-wrangling-and-exploring-data-to-inference-and-predictive-modelling",
+    "title": "Statistics",
+    "section": "Modern Statistics with R: From wrangling and exploring data to inference and predictive modelling",
+    "text": "Modern Statistics with R: From wrangling and exploring data to inference and predictive modelling\nBy Måns Thulin\nAdded Sun April 30th 2023\nWhat is this?\nExcerpt from e-book: This is the online version of the book Modern Statistics with R. It is free to use, and always will be. Printed copies are available where books are sold (ISBN 9789152701515).\nThe past decades have transformed the world of statistical data analysis, with new methods, new types of data, and new computational tools. The aim of Modern Statistics with R is to introduce you to key parts of the modern statistical toolkit.\n\nLink to e-book here: https://modernstatisticswithr.com/index.html"
+  },
+  {
+    "objectID": "ebooks_only/statistics.html#modern-statistics-with-r-from-wrangling-and-exploring-data-to-inference-and-predictive-modelling",
+    "href": "ebooks_only/statistics.html#modern-statistics-with-r-from-wrangling-and-exploring-data-to-inference-and-predictive-modelling",
+    "title": "Statistics",
+    "section": "Modern Statistics with R: From wrangling and exploring data to inference and predictive modelling",
+    "text": "Modern Statistics with R: From wrangling and exploring data to inference and predictive modelling\nBy Måns Thulin\nAdded Sun April 30th 2023\nWhat is this?\nExcerpt from e-book: This is the online version of the book Modern Statistics with R. It is free to use, and always will be. Printed copies are available where books are sold (ISBN 9789152701515).\nThe past decades have transformed the world of statistical data analysis, with new methods, new types of data, and new computational tools. The aim of Modern Statistics with R is to introduce you to key parts of the modern statistical toolkit.\n\nLink to e-book here: https://modernstatisticswithr.com/index.html"
+  },
+  {
+    "objectID": "ebooks_only/statistics.html#introduction-to-multilevel-modelling",
+    "href": "ebooks_only/statistics.html#introduction-to-multilevel-modelling",
+    "title": "Statistics",
+    "section": "Introduction to Multilevel Modelling",
+    "text": "Introduction to Multilevel Modelling\nBy Mairead Shaw & Jessica Kay Flake\nAdded Sun April 30th 2023\nWhat is this?\nExcerpt from site: This website will teach you the fundamentals about multilevel modelling, from why and when you would use them and how to do so for various research questions and data structures.\n\nLink to website here: https://www.learn-mlms.com/"
   }
 ]

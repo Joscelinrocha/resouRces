@@ -6,6 +6,31 @@ title: "Quarto"
 
 ------------------------------------------------------------------------
 
+## [Creating a blog with Quarto in 10 steps](https://beamilz.com/posts/2022-06-05-creating-a-blog-with-quarto/en/)
+
+By [Beatriz Milz](https://beamilz.com/posts/2022-06-05-creating-a-blog-with-quarto/en/)
+
+Added Sun April 30th 2023
+
+**What is this?**
+
+**Excerpt from blog:** I'm going to write about some of the steps that you need to take to create a blog with Quarto.
+
+1.  Link to blog here: <https://beamilz.com/posts/2022-06-05-creating-a-blog-with-quarto/en/>
+
+## [Getting Started with Quarto](https://jthomasmock.github.io/quarto-2hr-webinar/)
+
+By [Tom Mock](https://jthomasmock.github.io/quarto-2hr-webinar/)
+
+Added Sun April 30th 2023
+
+**What is this?**
+
+**Excerpt from workshop site:** This workshop is designed for those who have no or little prior experience with Quarto. Quarto is the next generation of RMarkdown for publishing, including dynamic and static documents and multi-lingual programming language support. With Quarto you can create documents, books, presentations, blogs or other online resources.
+
+1.  Link to workshop here: <https://jthomasmock.github.io/quarto-2hr-webinar/>
+2.  Link to youtube video here: <https://www.youtube.com/watch?v=yvi5uXQMvu4>
+
 ## [Quarto demos](https://www.youtube.com/playlist?list=PLDqZV53PcnYxnBYuEdSBxnOwdKLGaoKGg)
 
 By [EEHolmes-DataScience](https://www.youtube.com/playlist?list=PLDqZV53PcnYxnBYuEdSBxnOwdKLGaoKGg)
@@ -15,3 +40,31 @@ By [EEHolmes-DataScience](https://www.youtube.com/playlist?list=PLDqZV53PcnYxnBY
 **Excerpt from site:** Short tutorials on topics around Quarto
 
 1.  Link to tutorials here: <https://www.youtube.com/playlist?list=PLDqZV53PcnYxnBYuEdSBxnOwdKLGaoKGg>
+
+## [Making shareable documents with Quarto](https://openscapes.github.io/quarto-website-tutorial/)
+
+By [Openscapes](https://openscapes.github.io/quarto-website-tutorial/#about)
+
+Added Sun April 30th 2023
+
+**What is this?**
+
+**Excerpt from blog:** This is a 1-hour tutorial that can be used to teach or as self-paced learning.
+
+We introduce Quarto by exploring this tutorial website, and practicing the basic Quarto workflow using different tools (GitHub browser, RStudio, and Jupyter) for editing your website.
+
+We'll start off from the browser so you don't need to install any additional software, however this approach is very limited and you will soon outgrow its capabilities. If you don't already have a workflow to edit files and sync to GitHub from your computer, I recommend RStudio. You don't need to know R to use RStudio, and it has powerful editor features that make for happy workflows.
+
+1.  Link to blog here: <https://openscapes.github.io/quarto-website-tutorial/>
+
+## [The ultimate guide to starting a Quarto blog](https://albert-rapp.de/posts/13_quarto_blog_writing_guide/13_quarto_blog_writing_guide.html)
+
+By [Albert Rapp](https://albert-rapp.de/posts/13_quarto_blog_writing_guide/13_quarto_blog_writing_guide.html)
+
+Added Sun April 30th 2023
+
+**What is this?**
+
+**Excerpt from blog:** Today, I want to show you how to build a blog with Quarto. This in-depth guide is the result of hours of working with Quarto's amazingly detailed [documentation](https://quarto.org/docs/reference/). Hopefully, it will save you a lot of time and helps you start your own blog. Here's what we will cover:
+
+1.  Link to blog here: <https://albert-rapp.de/posts/13_quarto_blog_writing_guide/13_quarto_blog_writing_guide.html>

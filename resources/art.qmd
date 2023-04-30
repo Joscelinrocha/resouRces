@@ -6,6 +6,31 @@ title: "Art with R"
 
 ------------------------------------------------------------------------
 
+## [Art from Code](https://art-from-code.netlify.app/)
+
+By [Danielle Navarro](https://art-from-code.netlify.app/)
+
+Added Sun Apr 30, 2023
+
+**What is this?**
+
+**Excerpt from workshop site:** This workshop provides a hands-on introduction to generative art in R. You\'ll learn artistic techniques that generative artists use regularly in their work including flow fields, iterative function systems, and more. You\'ll also learn about R packages specialised for generative art. But more than that, you\'ll learn how to reuse skills you already have as part of an artistic process: with a little work, ggplot2, dplyr, and Rcpp can become an artist\'s best friends. The assumed background is that you\'re reasonably comfortable using R and RStudio, and have experience with tidyverse.
+
+1.  Link to site here: <https://art-from-code.netlify.app/>
+2.  Link to repo here: <https://github.com/rstudio-conf-2022/art-from-code>
+
+## [Art with R](https://github.com/GeertvanGeest/art-with-r)
+
+By [Geert van Geest](https://github.com/GeertvanGeest/art-with-r)
+
+Added Sun Apr 30, 2023
+
+**What is this?**
+
+**Excerpt from repo:** Playing around with R code to create art. All based on **Danielle Navarro's** tutorial: <https://art-from-code.netlify.app/>.
+
+1.  Link to repo here: <https://github.com/GeertvanGeest/art-with-r>
+
 ## [12 Months of aRt](https://github.com/will-r-chase/aRt)
 
 By [Will Chase](https://github.com/will-r-chase/aRt)

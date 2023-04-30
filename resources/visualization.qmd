@@ -700,6 +700,24 @@ How to resize plots in R markdown
 
 1.  Link to blog: <https://alyssasfu.wordpress.com/2015/04/03/resizing-plots-in-r-markdown/>
 
+## [Schilling Data Studio](https://www.youtube.com/@schillingdata)
+
+By [Jenn Schilling](https://www.youtube.com/@schillingdata)
+
+Added Sun April 30th, 2023
+
+**What is this?**
+
+**Excerpt from the channel:** From data dread to impactful insights - data visualization tutorials for clearly communicating data.
+
+
+Welcome to Schilling Data Studio!
+We're here to support your data visualization needs.
+If you feel overwhelmed by data or don't know how to create fabulous, impactful data visualizations, you're in the right place.
+Our video tutorials and quick tips will help you enhance your data visualizations so you can provide clear insights and make an impact with your data!
+
+1.  Link to YouTube channel: [https://www.youtube.com/\@schillingdata/videos](https://www.youtube.com/@schillingdata/videos){.uri}
+
 ## [The Evolution of a ggplot (Ep. 1)](https://cedricscherer.netlify.app/2019/05/17/the-evolution-of-a-ggplot-ep.-1/)
 
 By [Cédric](https://cedricscherer.netlify.app/2019/05/17/the-evolution-of-a-ggplot-ep.-1/)
