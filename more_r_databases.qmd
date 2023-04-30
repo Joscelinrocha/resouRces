@@ -9,6 +9,18 @@ editor:
 
 ------------------------------------------------------------------------
 
+## [Schilling ](https://www.youtube.com/@schillingdata)[Awesome Quarto](https://github.com/mcanouil/awesome-quarto)[ Studio](https://www.youtube.com/@schillingdata)
+
+By [Mickaël Canouil](https://github.com/mcanouil/awesome-quarto)
+
+Added Sun April 30th, 2023
+
+**What is this?**
+
+**Excerpt from the repo:** The most up to date curated list of [Quarto®](https://quarto.org/) docs, talks, tools, examples & articles the internet has to offer.
+
+1.  Link to YouTube channel: <https://github.com/mcanouil/awesome-quarto>
+
 ## [A curated list of awesome R packages and tools](https://github.com/qinwf/awesome-R)
 
 **What is this?**

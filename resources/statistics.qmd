@@ -245,6 +245,18 @@ In these posts I've introduced the empirical Bayesian approach to estimation, cr
 
 1.  Link to e-book here: <https://gumroad.com/l/empirical-bayes>
 
+## [Introduction to Multilevel Modelling](https://www.learn-mlms.com/)
+
+By [Mairead Shaw & Jessica Kay Flake](https://www.learn-mlms.com/)
+
+Added Sun April 30th 2023
+
+**What is this?**
+
+**Excerpt from site:** This website will teach you the fundamentals about multilevel modelling, from why and when you would use them and how to do so for various research questions and data structures.
+
+1.  Link to website here: <https://www.learn-mlms.com/>
+
 ## [Learn Tidymodels](https://www.tidymodels.org/learn/)
 
 **What is this?**
@@ -326,6 +338,23 @@ They can be saved to HTML, PDF, Text/Markdown, LaTeX, MS Word, RTF, JPG, and PNG
 Tables can easily be embedded in dynamic document pipelines like Rmarkdown, knitr, or Sweave.
 
 1.  Link to site: <https://vincentarelbundock.github.io/modelsummary/>
+
+## [Modern Statistics with R: From wrangling and exploring data to inference and predictive modelling](https://modernstatisticswithr.com/index.html)
+
+By [Måns Thulin](https://modernstatisticswithr.com/index.html)
+
+Added Sun April 30th 2023
+
+**What is this?**
+
+**Excerpt from e-book:** This is the online version of the book *Modern Statistics with R*.
+It is free to use, and always will be.
+Printed copies are available where books are sold (ISBN 9789152701515).
+
+The past decades have transformed the world of statistical data analysis, with new methods, new types of data, and new computational tools.
+The aim of *Modern Statistics with R* is to introduce you to key parts of the modern statistical toolkit.
+
+1.  Link to e-book here: <https://modernstatisticswithr.com/index.html>
 
 ## [Pckages for Exploratory Data Analysis](https://journal.r-project.org/archive/2019/RJ-2019-033/RJ-2019-033.pdf)💯
 
