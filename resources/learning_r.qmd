@@ -103,6 +103,21 @@ Date added: Thu April 15th, 2021
 
 1.  Link to OSF files here: <https://ds112-lendway.netlify.app/>
 
+## [Data Wrangling in the Tidyverse](https://www.youtube.com/watch?v=EOpb3VsWmck) 🌱
+
+By [Nick Huntington-Klein](https://www.youtube.com/watch?v=EOpb3VsWmck)
+
+Date added Fri AprMay 5th, 2023
+
+**What is this?**\
+**Excerpt from the site:** This video series covers the basics of data wrangling using the tidyverse, aimed at my data communications class. I assume some very, very basic R background, but really not much.
+
+This is a simplified and adapted version of my data wrangling workshops, which are available in full on my channel for tidyverse (R), data.table (R), and pandas (Python).
+
+1.  Link to videos are here: <https://www.youtube.com/watch?v=EOpb3VsWmck>
+2.   Slides to follow along with the videos are here: [https://nickch-k.github.io/DataCommSl\...](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqa1RhU0FZOHVrbVlTTXcyUW80OVFPRmFmQTFYd3xBQ3Jtc0tsTkl5MGNhUjFOVWRWT1V1RFBpd2ZwX3JsUjF0Nkg1NVdJZG95Q1RUakt0ZzRzQ1ZHYU43RmdaMTlwQVllMFU5dGZUeTMxOUtSclpXdWhNdkMtZ2lPemZnREJKOWpBSDQ5VGNMTGswTktfZzFSbE9IYw&q=https%3A%2F%2Fnickch-k.github.io%2FDataCommSlides%2FLecture_05_and_06_Data_Wrangling.html%23%2F&v=EOpb3VsWmck)
+3.  Code instructor works on in the videos can be found here: [https://github.com/NickCH-K/DataCommS\...](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbjNhM0FBVkZaVE5SM2w2YWVaYnVLV1Z1V3BhZ3xBQ3Jtc0ttOHc5SEY1Tm5JOGdNUUhzYzVZanRYNTVnM3JjdFh1czRaVmpqRnVJZXl1MlVkZjVzQnVxRTVXMTNObkRnak1Kc2hKSkM2U09Sb0dXeXVtXzRxZGZOTmpVZTRzUWk4bEJkTUM0VGJxVDEzR1MzVmc4OA&q=https%3A%2F%2Fgithub.com%2FNickCH-K%2FDataCommSlides%2Fblob%2Fmaster%2FLecture_05_and_06_example_code.R&v=EOpb3VsWmck)
+
 ## [Efficient R programming](https://bookdown.org/csgillespie/efficientR/) 🌱 & 🌳
 
 By [Colin Gillespie Robin Lovelace](https://bookdown.org/csgillespie/efficientR/)
@@ -186,6 +201,23 @@ By [R Garrett Grolemund](https://rstudio-education.github.io/hopr/)
 1.  Free web-book here: <https://rstudio-education.github.io/hopr/>
 2.  You can buy book here: [Link to Amazon](https://www.amazon.com/Hands-Programming-Write-Functions-Simulations/dp/1449359019)
 
+## [Introduction to data.table](https://cran.r-project.org/web/packages/data.table/vignettes/datatable-intro.html) 🌱
+
+**What is this?**
+
+**Excerpt from site here:** This vignette introduces the data.table syntax, its general form, how to subset rows, select and compute on columns, and perform aggregations by group. Familiarity with data.frame data structure from base R is useful, but not essential to follow this vignette.
+
+1.  Link to site here: <https://cran.r-project.org/web/packages/data.table/vignettes/datatable-intro.html>
+2.  Link to reference semantics here: <https://cran.r-project.org/web/packages/data.table/vignettes/datatable-reference-semantics.html>
+
+## [Introduction to dplyr](https://cran.r-project.org/web/packages/dplyr/vignettes/dplyr.html) 🌱
+
+**What is this?**
+
+**Excerpt from site here:** This document introduces you to dplyr's basic set of tools, and shows you how to apply them to data frames. dplyr also supports databases via the dbplyr package, once you've installed, read vignette("dbplyr") to learn more.
+
+1.  Link to site: <https://cran.r-project.org/web/packages/dplyr/vignettes/dplyr.html>
+
 ## [Introduction to R for Statistics and Data Science](https://www.adventures-in-r.com/) 🌱
 
 By [Dr. Kelly Bodwin](https://www.adventures-in-r.com/)
@@ -197,23 +229,6 @@ By [Dr. Kelly Bodwin](https://www.adventures-in-r.com/)
 This course was created by Dr. Kelly Bodwin. The materials shared here are free and open source, and may be shared and adapted under the Creative Commons license.
 
 1.  Link to course here: <https://www.adventures-in-r.com/>
-
-## [Introduction to dplyr](https://cran.r-project.org/web/packages/dplyr/vignettes/dplyr.html) 🌱
-
-**What is this?**
-
-**Excerpt from site here:** This document introduces you to dplyr's basic set of tools, and shows you how to apply them to data frames. dplyr also supports databases via the dbplyr package, once you've installed, read vignette("dbplyr") to learn more.
-
-1.  Link to site: <https://cran.r-project.org/web/packages/dplyr/vignettes/dplyr.html>
-
-## [Introduction to data.table](https://cran.r-project.org/web/packages/data.table/vignettes/datatable-intro.html) 🌱
-
-**What is this?**
-
-**Excerpt from site here:** This vignette introduces the data.table syntax, its general form, how to subset rows, select and compute on columns, and perform aggregations by group. Familiarity with data.frame data structure from base R is useful, but not essential to follow this vignette.
-
-1.  Link to site here: <https://cran.r-project.org/web/packages/data.table/vignettes/datatable-intro.html>
-2.  Link to reference semantics here: <https://cran.r-project.org/web/packages/data.table/vignettes/datatable-reference-semantics.html>
 
 ## [Intro to R for Biologists](https://hbctraining.github.io/Intro-to-R/lessons/07_ggplot2.html) 🌱
 

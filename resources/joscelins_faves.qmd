@@ -167,6 +167,19 @@ https://github.com/dgrtwo/widyr
 
 <!-- -->
 
+-   ❇️ [pipediff](https://github.com/moodymudskipper/pipediff)💯💯
+    **\[GREAT FOR TEACHING\]**: `pipediff()` Overrides the pipe `%>%` in
+    the caller environment, the newly created pipe displays in the
+    viewer the diffs between steps, then self destruct (so `pipediff()`
+    works \"only once\", a bit like \`debugonce()).
+
+    `pipediff(once = FALSE)` makes the change permanent in the caller
+    environment until `pipediff::pipereset()` is called.
+
+    -   Link to repo: <https://github.com/moodymudskipper/pipediff>
+
+<!-- -->
+
 -   ❇️ [esquisse add-in](https://github.com/dreamRs/esquisse) *Added Feb
     2nd, 2022*\
     Excerpt from site: This addin allows you to interactively explore

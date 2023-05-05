@@ -172,6 +172,21 @@ Added by Tue Oct 12, 2021
 
 1.  Link to repo here: <https://github.com/RoseannaGG/LinearMixedEffectsModels/blob/main/Linear%20Mixed%20Effects%20Models%20-%20R%20Gamlen-Greene.pdf>
 
+## [Open Source Research Methods for the Social Sciences](https://canvas.pitt.edu/courses/124970)
+
+By [Ben Rottman](https://canvas.pitt.edu/courses/124970)
+
+Added Fri May 5th, 2023
+
+**What is this?**
+
+**Excerpt from course:** This website has all the materials I use for teaching research methods within the Psychology major at Pitt.
+I'm making these materials public, and calling this project Open Source Research Methods for the Social Sciences (osRMss).
+I hope that you find the content useful.
+I look forward to getting feedback and suggestions and to continually improve osRMss over time.
+
+1.  Link to course here: <https://canvas.pitt.edu/courses/124970>
+
 ## [Pckages for Exploratory Data Analysis](https://journal.r-project.org/archive/2019/RJ-2019-033/RJ-2019-033.pdf)💯
 
 **What is this?**
