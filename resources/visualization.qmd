@@ -710,7 +710,6 @@ Added Sun April 30th, 2023
 
 **Excerpt from the channel:** From data dread to impactful insights - data visualization tutorials for clearly communicating data.
 
-
 Welcome to Schilling Data Studio!
 We're here to support your data visualization needs.
 If you feel overwhelmed by data or don't know how to create fabulous, impactful data visualizations, you're in the right place.
@@ -818,7 +817,13 @@ Here is a list of resources to create visualizations with maps
 3.  <https://www.r-graph-gallery.com/278-the-maps-library.html>
 4.  <http://www.milanor.net/blog/maps-in-r-introduction-drawing-the-map-of-europe/>
 5.  <https://www.youtube.com/watch?v=wgFVmzSbaQc&list=PL7D2RMSmRO9JOvPC1gbA8Mc3azvSfm8Vv&index=17>
-6.  <https://www.infoworld.com/article/3644848/astonishingly-easy-mapping-in-r-with-mapview.html>
+6.  <https://www.tidyverse.org/blog/2022/06/spatialsample-0-2-0/>
+7.  <https://www.infoworld.com/article/3644848/astonishingly-easy-mapping-in-r-with-mapview.html>
+8.  <https://geobgu.xyz/presentations/p_2021_cbs/main.html>
+9.  <https://r-spatial.github.io/sf/>
+10. <https://cran.r-project.org/web/packages/tmap/vignettes/tmap-getstarted.html>
+11. <https://timogrossenbacher.ch/2016/12/beautiful-thematic-maps-with-ggplot2-only/>
+12. <https://statnmap.com/2018-04-18-draw-maps-like-paintings/>
 
 ## Videos for data visualization
 
@@ -851,3 +856,9 @@ Here is a list of video tutorial by Sharon by categories:
 # Palettes
 
 [PNWColors](https://github.com/jakelawlor/PNWColors): A Pacific Northwest inspired R color palette package 💯
+
+[NatParksPalettes](https://github.com/kevinsblake/NatParksPalettes): is comprised of 30 color palettes, including 12 colorblind-friendly palettes, based on photos of national parks from around the world.
+Compatible with {ggplot2} in R and QGIS.
+
+[nationalparkcolors](https://github.com/katiejolly/nationalparkcolors): The goal of nationalparkcolors is to provide an interface to the beautiful colors in National Park posters and images.
+The posters are a mix of the WPA originals and more modern remakes.

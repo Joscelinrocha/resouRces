@@ -31,7 +31,7 @@ By [S. Mason Garrison](https://datascience4psych.github.io/DataScience4Psych/)
 Added Fri Apr 28th, 2023
 
 **What is this?**\
-**Excerpt from site:** This website is designed to accompany Mason Garrison\'s Data Science for Psychologists (DS4P).
+**Excerpt from site:** This website is designed to accompany Mason Garrison's Data Science for Psychologists (DS4P).
 DS4P is a graduate-level quantitative methods course at Wake Forest University.
 This class assumes zero knowledge of programming, computer science, linear algebra, probability, or really anything fancy.
 I encourage anyone who is quant-curious to work their way through these course notes.
@@ -67,6 +67,23 @@ Students will learn about data visualisation, data tidying and wrangling, archiv
 Learning is reinforced through weekly assignments that involve working with different types of data.
 
 1.  Course here: <https://psyteachr.github.io/msc-data-skills/>
+
+## [Data Wrangling in the Tidyverse](https://www.youtube.com/watch?v=EOpb3VsWmck) 
+
+By [Nick Huntington-Klein](https://www.youtube.com/watch?v=EOpb3VsWmck)
+
+Date added Fri AprMay 5th, 2023
+
+**What is this?**\
+**Excerpt from the site:** This video series covers the basics of data wrangling using the tidyverse, aimed at my data communications class.
+I assume some very, very basic R background, but really not much.
+
+
+This is a simplified and adapted version of my data wrangling workshops, which are available in full on my channel for tidyverse (R), data.table (R), and pandas (Python).
+
+1.  Link to videos are here: <https://www.youtube.com/watch?v=EOpb3VsWmck>
+2.   Slides to follow along with the videos are here: [https://nickch-k.github.io/DataCommSl\...](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqa1RhU0FZOHVrbVlTTXcyUW80OVFPRmFmQTFYd3xBQ3Jtc0tsTkl5MGNhUjFOVWRWT1V1RFBpd2ZwX3JsUjF0Nkg1NVdJZG95Q1RUakt0ZzRzQ1ZHYU43RmdaMTlwQVllMFU5dGZUeTMxOUtSclpXdWhNdkMtZ2lPemZnREJKOWpBSDQ5VGNMTGswTktfZzFSbE9IYw&q=https%3A%2F%2Fnickch-k.github.io%2FDataCommSlides%2FLecture_05_and_06_Data_Wrangling.html%23%2F&v=EOpb3VsWmck)
+3.  Code instructor works on in the videos can be found here: [https://github.com/NickCH-K/DataCommS\...](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbjNhM0FBVkZaVE5SM2w2YWVaYnVLV1Z1V3BhZ3xBQ3Jtc0ttOHc5SEY1Tm5JOGdNUUhzYzVZanRYNTVnM3JjdFh1czRaVmpqRnVJZXl1MlVkZjVzQnVxRTVXMTNObkRnak1Kc2hKSkM2U09Sb0dXeXVtXzRxZGZOTmpVZTRzUWk4bEJkTUM0VGJxVDEzR1MzVmc4OA&q=https%3A%2F%2Fgithub.com%2FNickCH-K%2FDataCommSlides%2Fblob%2Fmaster%2FLecture_05_and_06_example_code.R&v=EOpb3VsWmck)
 
 ## [Introduction to Data Science Fall 2019](https://introds.org/)
 

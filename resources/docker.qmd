@@ -15,3 +15,15 @@ By [Colin Fay](https://colinfay.me/docker-r-reproducibility/)
 **Excerpt from blog:** A quick introduction on using Docker for reproducibility in R. Disclaimer: This blog post is an introduction to Docker for beginners, and will take some shortcuts ;)
 
 1.  Link to blog: <https://colinfay.me/docker-r-reproducibility/>
+
+## [Deploy Flexdashboard on Github Pages with Github Actions and Docker](https://github.com/RamiKrispin/deploy-flex-actions)[ for R Users](https://colinfay.me/docker-r-reproducibility/)
+
+By [Rami Krispin](https://github.com/RamiKrispin/deploy-flex-actions)
+
+Added Fri May 5th, 2023
+
+**What is this?**
+
+**Excerpt from blog:** This repo provides a step-by-step guide and a template for deploying and automating a [flexdashboard](https://pkgs.rstudio.com/flexdashboard/) dashboard on [Github Pages](https://pages.github.com/) with [Docker](https://www.docker.com/) and [Github Actions](https://github.com/features/actions).
+
+1.  Link to tutorial and repo: <https://github.com/RamiKrispin/deploy-flex-actions>
