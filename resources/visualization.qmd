@@ -158,7 +158,7 @@ Added Jun 6th, 2021
 
 **What is this?**
 
-**Excerpt from side:** corrmorant extends ggplot2 by an automated framework for plots of correlation matrices that can be easily modified via regular ggplot2 syntax.
+**Excerpt from site:** corrmorant extends ggplot2 by an automated framework for plots of correlation matrices that can be easily modified via regular ggplot2 syntax.
 In addition, it provides a large set of visualization tools for exploratory data analysis based on correlation matrices.
 
 1.  Link to package here: <https://github.com/r-link/corrmorant>
@@ -171,13 +171,25 @@ Awesome crazy graph!!
 
 1.  Link to site here: <https://paulvanderlaken.com/2018/08/27/xenographics-unusual-charts-and-maps/>
 
+## [Create a ggalluvial plot in R](https://pyoflife.com/create-a-ggalluvial-plot-in-r/)
+
+By [SAROJ](https://pyoflife.com/create-a-ggalluvial-plot-in-r/)
+
+Added Sun May 28th, 2023
+
+**What is this?**
+
+**Excerpt from blog:** A ggalluvial plot, also known as an alluvial diagram, is a [type of visualization](https://pyoflife.com/learn-data-visualization-with-r-pdf/) used to show how categorical data is distributed among different groups.
+It is particularly useful for visualizing how categorical variables are related to each other across different levels of a grouping variable.
+
+1.  Link to blog here: <https://pyoflife.com/create-a-ggalluvial-plot-in-r/>
+
 ## [Create stylish tables in R using formattable](https://www.littlemissdata.com/blog/prettytables)
 
 By [Laura Ellis](https://www.littlemissdata.com/blog/prettytables)
 
 **What is this?**
 
-\
 Blog that uses *formattable* to crate pretty tables.
 
 1.  Link to blog here: <https://www.littlemissdata.com/blog/prettytables>
@@ -246,6 +258,7 @@ The tutorial then walks the reader through how to replicate plots that are commo
 
 1.  Link to site here: <https://psyteachr.github.io/introdataviz/>
 2.  Link to dataset here: <https://osf.io/bj83f/>
+3.  Link to published manuscript here: <https://journals.sagepub.com/doi/10.1177/25152459221074654>
 
 ## [Designing ggplots making clear figures that communicate](https://designing-ggplots.netlify.app/#1)
 
@@ -806,7 +819,7 @@ This allows to draw sketchy, handdrawn-like maps.
 
 1.  Link to blog here: <https://cran.r-project.org/web/packages/roughsf/roughsf.pdf>
 
-## Making map plots
+## Visualizing Spatial Data
 
 **What is this?**
 
@@ -824,6 +837,8 @@ Here is a list of resources to create visualizations with maps
 10. <https://cran.r-project.org/web/packages/tmap/vignettes/tmap-getstarted.html>
 11. <https://timogrossenbacher.ch/2016/12/beautiful-thematic-maps-with-ggplot2-only/>
 12. <https://statnmap.com/2018-04-18-draw-maps-like-paintings/>
+13. <https://medium.com/appsilon-data-science/r-ggmap-how-to-visualize-spatial-data-in-r-c46dcf970095>
+14. <https://carolinamendozab.medium.com/mapping-income-per-capita-by-countries-in-r-using-world-bank-data-cf42eca247c4>
 
 ## Videos for data visualization
 

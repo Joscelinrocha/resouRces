@@ -104,10 +104,11 @@ Added Mon Apr 24, 2023
 
 **What is this?**
 
-**Excerpt from site:** TCreate interactive maps of GIS data with tooltips, hover text, and legends in one short and simple line of code. Plus get extras like side-by-side sliders and multiple maps in sync.
+**Excerpt from site:** TCreate interactive maps of GIS data with tooltips, hover text, and legends in one short and simple line of code.
+Plus get extras like side-by-side sliders and multiple maps in sync.
 
 1.  Post here: <https://www.infoworld.com/article/3644848/astonishingly-easy-mapping-in-r-with-mapview.html>
-1. Video here: <https://www.youtube.com/watch?v=pHOto3VDG9s>
+2.  Video here: <https://www.youtube.com/watch?v=pHOto3VDG9s>
 
 ## [Calendar plot in R using ggplot2](https://r-coder.com/calendar-plot-r/)
 
@@ -119,6 +120,19 @@ In this tutorial you will learn how to create ready to print yearly and monthly 
 
 1.  Link to blog here: <https://r-coder.com/calendar-plot-r/>
 2.  Link to package here: <https://cran.r-project.org/web/packages/calendR/>
+
+## [Create a ggalluvial plot in R](https://pyoflife.com/create-a-ggalluvial-plot-in-r/)
+
+By [SAROJ](https://pyoflife.com/create-a-ggalluvial-plot-in-r/)
+
+Added Sun May 28th, 2023
+
+**What is this?**
+
+**Excerpt from blog:** A ggalluvial plot, also known as an alluvial diagram, is a [type of visualization](https://pyoflife.com/learn-data-visualization-with-r-pdf/) used to show how categorical data is distributed among different groups.
+It is particularly useful for visualizing how categorical variables are related to each other across different levels of a grouping variable.
+
+1.  Link to blog here: <https://pyoflife.com/create-a-ggalluvial-plot-in-r/>
 
 ## [Create stylish tables in R using formattable](https://www.littlemissdata.com/blog/prettytables)
 
@@ -298,7 +312,7 @@ All plots are going to be created with 100% {ggplot2} and 0% Inkscape.
 
 1.  Link to blog here: <https://paulvanderlaken.com/2019/01/25/visualization-innovation-waffleplots-and-swarmplots-aka-beeplots/>
 
-## Making map plots
+## Visualizing Spatial Data
 
 **What is this?**
 
@@ -309,4 +323,6 @@ Here is a list of resources to create visualizations with maps
 3.  <https://www.r-graph-gallery.com/278-the-maps-library.html>
 4.  <http://www.milanor.net/blog/maps-in-r-introduction-drawing-the-map-of-europe/>
 5.  <https://www.youtube.com/watch?v=wgFVmzSbaQc&list=PL7D2RMSmRO9JOvPC1gbA8Mc3azvSfm8Vv&index=17>
-6. <https://www.infoworld.com/article/3644848/astonishingly-easy-mapping-in-r-with-mapview.html>
+6.  <https://www.infoworld.com/article/3644848/astonishingly-easy-mapping-in-r-with-mapview.html>
+7.  <https://medium.com/appsilon-data-science/r-ggmap-how-to-visualize-spatial-data-in-r-c46dcf970095>
+8.  <https://carolinamendozab.medium.com/mapping-income-per-capita-by-countries-in-r-using-world-bank-data-cf42eca247c4>

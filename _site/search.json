@@ -3140,7 +3140,7 @@
     "href": "resources/statistics.html#linear-mixed-effects-models---r",
     "title": "Statistics",
     "section": "Linear Mixed Effects Models - R",
-    "text": "Linear Mixed Effects Models - R\nBy Gamlen-Greene\nAdded by Tue Oct 12, 2021\nWhat is this?\nExcerpt from twitter post: an accessible guide to Linear Mixed Effects Models in R using the lmer package (with background stats intro & coding examples).\n\nLink to repo here: https://github.com/RoseannaGG/LinearMixedEffectsModels/blob/main/Linear%20Mixed%20Effects%20Models%20-%20R%20Gamlen-Greene.pdf"
+    "text": "Linear Mixed Effects Models - R\nBy Gamlen-Greene\nAdded by Tue Oct 12th, 2021\nWhat is this?\nExcerpt from twitter post: an accessible guide to Linear Mixed Effects Models in R using the lmer package (with background stats intro & coding examples).\n\nLink to repo here: https://github.com/RoseannaGG/LinearMixedEffectsModels/blob/main/Linear%20Mixed%20Effects%20Models%20-%20R%20Gamlen-Greene.pdf"
   },
   {
     "objectID": "resources/statistics.html#methods-and-algorithms-for-correlation-analysis-in-r",
@@ -3497,7 +3497,7 @@
     "href": "resources/visualization.html#corrmorant-flexible-correlation-matrices-based-on-ggplot2",
     "title": "Visualization",
     "section": "corrmorant: Flexible Correlation Matrices Based on ggplot2",
-    "text": "corrmorant: Flexible Correlation Matrices Based on ggplot2\nAdded Jun 6th, 2021\nWhat is this?\nExcerpt from side: corrmorant extends ggplot2 by an automated framework for plots of correlation matrices that can be easily modified via regular ggplot2 syntax. In addition, it provides a large set of visualization tools for exploratory data analysis based on correlation matrices.\n\nLink to package here: https://github.com/r-link/corrmorant"
+    "text": "corrmorant: Flexible Correlation Matrices Based on ggplot2\nAdded Jun 6th, 2021\nWhat is this?\nExcerpt from site: corrmorant extends ggplot2 by an automated framework for plots of correlation matrices that can be easily modified via regular ggplot2 syntax. In addition, it provides a large set of visualization tools for exploratory data analysis based on correlation matrices.\n\nLink to package here: https://github.com/r-link/corrmorant"
   },
   {
     "objectID": "resources/visualization.html#crazy-graphs",
@@ -3511,7 +3511,7 @@
     "href": "resources/visualization.html#create-stylish-tables-in-r-using-formattable",
     "title": "Visualization",
     "section": "Create stylish tables in R using formattable",
-    "text": "Create stylish tables in R using formattable\nBy Laura Ellis\nWhat is this?\n\nBlog that uses formattable to crate pretty tables.\n\nLink to blog here: https://www.littlemissdata.com/blog/prettytables\nLink to repo here: https://github.com/lgellis/MiscTutorial/tree/master/Austin"
+    "text": "Create stylish tables in R using formattable\nBy Laura Ellis\nWhat is this?\nBlog that uses formattable to crate pretty tables.\n\nLink to blog here: https://www.littlemissdata.com/blog/prettytables\nLink to repo here: https://github.com/lgellis/MiscTutorial/tree/master/Austin"
   },
   {
     "objectID": "resources/visualization.html#crime-mapping-in-r",
@@ -3546,7 +3546,7 @@
     "href": "resources/visualization.html#data-visualisation-using-r-for-researchers-who-dont-use-r",
     "title": "Visualization",
     "section": "Data visualisation using R, for researchers who don’t use R💯",
-    "text": "Data visualisation using R, for researchers who don’t use R💯\nAdded Fri Feb 18th, 2022\nWhat is this?\nExcerpt from site: In this tutorial, we provide a practical introduction to data visualisation using R, specifically aimed at researchers who have little to no prior experience of using R. First we detail the rationale for using R for data visualisation and introduce the “grammar of graphics” that underlies data visualisation using the ggplot2 package. The tutorial then walks the reader through how to replicate plots that are commonly available in point-and-click software such as histograms and boxplots, as well as showing how the code for these “basic” plots can be easily extended to less commonly available options such as violin-boxplots.\n\nLink to site here: https://psyteachr.github.io/introdataviz/\nLink to dataset here: https://osf.io/bj83f/"
+    "text": "Data visualisation using R, for researchers who don’t use R💯\nAdded Fri Feb 18th, 2022\nWhat is this?\nExcerpt from site: In this tutorial, we provide a practical introduction to data visualisation using R, specifically aimed at researchers who have little to no prior experience of using R. First we detail the rationale for using R for data visualisation and introduce the “grammar of graphics” that underlies data visualisation using the ggplot2 package. The tutorial then walks the reader through how to replicate plots that are commonly available in point-and-click software such as histograms and boxplots, as well as showing how the code for these “basic” plots can be easily extended to less commonly available options such as violin-boxplots.\n\nLink to site here: https://psyteachr.github.io/introdataviz/\nLink to dataset here: https://osf.io/bj83f/\nLink to published manuscript here: https://journals.sagepub.com/doi/10.1177/25152459221074654"
   },
   {
     "objectID": "resources/visualization.html#designing-ggplots-making-clear-figures-that-communicate",
@@ -5213,5 +5213,75 @@
     "title": "Statistics",
     "section": "Open Source Research Methods for the Social Sciences",
     "text": "Open Source Research Methods for the Social Sciences\nBy Ben Rottman\nAdded Fri May 5th, 2023\nWhat is this?\nExcerpt from course: This website has all the materials I use for teaching research methods within the Psychology major at Pitt. I’m making these materials public, and calling this project Open Source Research Methods for the Social Sciences (osRMss). I hope that you find the content useful. I look forward to getting feedback and suggestions and to continually improve osRMss over time.\n\nLink to course here: https://canvas.pitt.edu/courses/124970"
+  },
+  {
+    "objectID": "resources/fun_extra.html#bibliography-management-in-rstudio-with-citedrive-how-to-insert-references-in-r-markdown-documents",
+    "href": "resources/fun_extra.html#bibliography-management-in-rstudio-with-citedrive-how-to-insert-references-in-r-markdown-documents",
+    "title": "Fun extra things that didn’t fit in the other categories",
+    "section": "Bibliography management in RStudio with CiteDrive: how to insert references in R-Markdown documents",
+    "text": "Bibliography management in RStudio with CiteDrive: how to insert references in R-Markdown documents\nBy CiteDrive\nAdded Sun May 28, 2023\nWhat is this?\nExcerpt from the video: This short video clip shows you how to synchronize your bibliographic data from #CiteDrive directly in your #RMarkdown project. Every time you or a member of your team add a new reference or change or delete an old one, “knit” updates the current status from your CiteDrive project directly in your R Markdown document.\n\nSite is here: https://www.youtube.com/watch?v=B91IXlo_DSQ"
+  },
+  {
+    "objectID": "ebooks_only/statistics.html#bayesian-hierarchical-models-in-ecology",
+    "href": "ebooks_only/statistics.html#bayesian-hierarchical-models-in-ecology",
+    "title": "Statistics",
+    "section": "Bayesian Hierarchical Models in Ecology",
+    "text": "Bayesian Hierarchical Models in Ecology\nBy Steve Midway\nAdded Sun May 28th, 2023\nWhat is this?\nLearning objectives from ebook: Welcome to Bayesian Hierarchical Models in Ecology. This is an ebook that is also serving as the course materials for a graduate class of the same name. There will be numerous and on-going changes to this book, so please check back.\n\nLink to site: https://bookdown.org/steve_midway/BHME/"
+  },
+  {
+    "objectID": "resources/statistics.html#bayesian-hierarchical-models-in-ecology",
+    "href": "resources/statistics.html#bayesian-hierarchical-models-in-ecology",
+    "title": "Statistics",
+    "section": "Bayesian Hierarchical Models in Ecology",
+    "text": "Bayesian Hierarchical Models in Ecology\nBy Steve Midway\nAdded Sun May 28th, 2023\nWhat is this?\nLearning objectives from ebook: Welcome to Bayesian Hierarchical Models in Ecology. This is an ebook that is also serving as the course materials for a graduate class of the same name. There will be numerous and on-going changes to this book, so please check back.\n\nLink to site: https://bookdown.org/steve_midway/BHME/"
+  },
+  {
+    "objectID": "blogs_slides_only/visualization.html#visualizing-spatial-data",
+    "href": "blogs_slides_only/visualization.html#visualizing-spatial-data",
+    "title": "Visualization",
+    "section": "Visualizing Spatial Data",
+    "text": "Visualizing Spatial Data\nWhat is this?\nHere is a list of resources to create visualizations with maps\n\nhttps://www.r-spatial.org/r/2018/10/25/ggplot2-sf-2.html\nhttps://rstudio.github.io/leaflet/projections.html\nhttps://www.r-graph-gallery.com/278-the-maps-library.html\nhttp://www.milanor.net/blog/maps-in-r-introduction-drawing-the-map-of-europe/\nhttps://www.youtube.com/watch?v=wgFVmzSbaQc&list=PL7D2RMSmRO9JOvPC1gbA8Mc3azvSfm8Vv&index=17\nhttps://www.infoworld.com/article/3644848/astonishingly-easy-mapping-in-r-with-mapview.html\nhttps://medium.com/appsilon-data-science/r-ggmap-how-to-visualize-spatial-data-in-r-c46dcf970095\nhttps://carolinamendozab.medium.com/mapping-income-per-capita-by-countries-in-r-using-world-bank-data-cf42eca247c4"
+  },
+  {
+    "objectID": "resources/visualization.html#visualizing-spatial-data",
+    "href": "resources/visualization.html#visualizing-spatial-data",
+    "title": "Visualization",
+    "section": "Visualizing Spatial Data",
+    "text": "Visualizing Spatial Data\nWhat is this?\nHere is a list of resources to create visualizations with maps\n\nhttps://www.r-spatial.org/r/2018/10/25/ggplot2-sf-2.html\nhttps://rstudio.github.io/leaflet/projections.html\nhttps://www.r-graph-gallery.com/278-the-maps-library.html\nhttp://www.milanor.net/blog/maps-in-r-introduction-drawing-the-map-of-europe/\nhttps://www.youtube.com/watch?v=wgFVmzSbaQc&list=PL7D2RMSmRO9JOvPC1gbA8Mc3azvSfm8Vv&index=17\nhttps://www.tidyverse.org/blog/2022/06/spatialsample-0-2-0/\nhttps://www.infoworld.com/article/3644848/astonishingly-easy-mapping-in-r-with-mapview.html\nhttps://geobgu.xyz/presentations/p_2021_cbs/main.html\nhttps://r-spatial.github.io/sf/\nhttps://cran.r-project.org/web/packages/tmap/vignettes/tmap-getstarted.html\nhttps://timogrossenbacher.ch/2016/12/beautiful-thematic-maps-with-ggplot2-only/\nhttps://statnmap.com/2018-04-18-draw-maps-like-paintings/\nhttps://medium.com/appsilon-data-science/r-ggmap-how-to-visualize-spatial-data-in-r-c46dcf970095\nhttps://carolinamendozab.medium.com/mapping-income-per-capita-by-countries-in-r-using-world-bank-data-cf42eca247c4"
+  },
+  {
+    "objectID": "resources/learning_r.html#r-crash-course",
+    "href": "resources/learning_r.html#r-crash-course",
+    "title": "Learning R",
+    "section": "R Crash Course 🌱",
+    "text": "R Crash Course 🌱\nBy Rob Colautti\nAdded Sun May 28th, 2023\nWhat is this?\nExcerpt from the course: A Crash Course in R for new students in the Colautti Lab and anyone else who might be interested. Written in RMarkdown (mostly).\n\nLink to repo with naterials: https://github.com/ColauttiLab/RCrashCourse\nLink to Part 1- Fundamentals: https://colauttilab.github.io/RCrashCourse/1_fundamentals.html\nLink to Part 2 - qplot(): https://colauttilab.github.io/RCrashCourse/2_qplot.html\nLink to Part 3 - ggplot(): https://colauttilab.github.io/RCrashCourse/3_ggplot.html\nLink to Part 4 - regex(): https://colauttilab.github.io/RCrashCourse/4_regex.html\nLink to Part 5 - Data Science: https://colauttilab.github.io/RCrashCourse/5_datascience.html\nLink to Part 6 - Advanced: https://colauttilab.github.io/RCrashCourse/6_advanced.html"
+  },
+  {
+    "objectID": "courses_tutorials_only/learning_r.html#r-crash-course",
+    "href": "courses_tutorials_only/learning_r.html#r-crash-course",
+    "title": "Learning R",
+    "section": "R Crash Course 🌱",
+    "text": "R Crash Course 🌱\nBy Rob Colautti\nAdded Sun May 28th, 2023\nWhat is this?\nExcerpt from the course: A Crash Course in R for new students in the Colautti Lab and anyone else who might be interested. Written in RMarkdown (mostly).\n\nLink to repo with naterials: https://github.com/ColauttiLab/RCrashCourse\nLink to Part 1- Fundamentals: https://colauttilab.github.io/RCrashCourse/1_fundamentals.html\nLink to Part 2 - qplot(): https://colauttilab.github.io/RCrashCourse/2_qplot.html\nLink to Part 3 - ggplot(): https://colauttilab.github.io/RCrashCourse/3_ggplot.html\nLink to Part 4 - regex(): https://colauttilab.github.io/RCrashCourse/4_regex.html\nLink to Part 5 - Data Science: https://colauttilab.github.io/RCrashCourse/5_datascience.html\nLink to Part 6 - Advanced: https://colauttilab.github.io/RCrashCourse/6_advanced.html"
+  },
+  {
+    "objectID": "blogs_slides_only/visualization.html#create-a-ggalluvial-plot-in-r",
+    "href": "blogs_slides_only/visualization.html#create-a-ggalluvial-plot-in-r",
+    "title": "Visualization",
+    "section": "Create a ggalluvial plot in R",
+    "text": "Create a ggalluvial plot in R\nBy SAROJ\nAdded Sun May 28th, 2023\nWhat is this?\nExcerpt from blog: A ggalluvial plot, also known as an alluvial diagram, is a type of visualization used to show how categorical data is distributed among different groups. It is particularly useful for visualizing how categorical variables are related to each other across different levels of a grouping variable.\n\nLink to blog here: https://pyoflife.com/create-a-ggalluvial-plot-in-r/"
+  },
+  {
+    "objectID": "resources/visualization.html#create-a-ggalluvial-plot-in-r",
+    "href": "resources/visualization.html#create-a-ggalluvial-plot-in-r",
+    "title": "Visualization",
+    "section": "Create a ggalluvial plot in R",
+    "text": "Create a ggalluvial plot in R\nBy SAROJ\nAdded Sun May 28th, 2023\nWhat is this?\nExcerpt from blog: A ggalluvial plot, also known as an alluvial diagram, is a type of visualization used to show how categorical data is distributed among different groups. It is particularly useful for visualizing how categorical variables are related to each other across different levels of a grouping variable.\n\nLink to blog here: https://pyoflife.com/create-a-ggalluvial-plot-in-r/"
+  },
+  {
+    "objectID": "resources/statistics.html#lm-table-maker",
+    "href": "resources/statistics.html#lm-table-maker",
+    "title": "Statistics",
+    "section": "lm-table-maker",
+    "text": "lm-table-maker\nBy Patrick Monari\nAdded by Sun May 28th, 2023\nWhat is this?\nExcerpt from site: R function to generate publication-ready figures from linear models. Exports as html file\n\nLink to repo and function here: https://github.com/patrickmonari/lm-table-maker"
   }
 ]
