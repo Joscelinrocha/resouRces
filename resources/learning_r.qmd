@@ -115,7 +115,7 @@ Date added Fri AprMay 5th, 2023
 This is a simplified and adapted version of my data wrangling workshops, which are available in full on my channel for tidyverse (R), data.table (R), and pandas (Python).
 
 1.  Link to videos are here: <https://www.youtube.com/watch?v=EOpb3VsWmck>
-2.   Slides to follow along with the videos are here: [https://nickch-k.github.io/DataCommSl\...](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqa1RhU0FZOHVrbVlTTXcyUW80OVFPRmFmQTFYd3xBQ3Jtc0tsTkl5MGNhUjFOVWRWT1V1RFBpd2ZwX3JsUjF0Nkg1NVdJZG95Q1RUakt0ZzRzQ1ZHYU43RmdaMTlwQVllMFU5dGZUeTMxOUtSclpXdWhNdkMtZ2lPemZnREJKOWpBSDQ5VGNMTGswTktfZzFSbE9IYw&q=https%3A%2F%2Fnickch-k.github.io%2FDataCommSlides%2FLecture_05_and_06_Data_Wrangling.html%23%2F&v=EOpb3VsWmck)
+2.  Slides to follow along with the videos are here: [https://nickch-k.github.io/DataCommSl\...](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqa1RhU0FZOHVrbVlTTXcyUW80OVFPRmFmQTFYd3xBQ3Jtc0tsTkl5MGNhUjFOVWRWT1V1RFBpd2ZwX3JsUjF0Nkg1NVdJZG95Q1RUakt0ZzRzQ1ZHYU43RmdaMTlwQVllMFU5dGZUeTMxOUtSclpXdWhNdkMtZ2lPemZnREJKOWpBSDQ5VGNMTGswTktfZzFSbE9IYw&q=https%3A%2F%2Fnickch-k.github.io%2FDataCommSlides%2FLecture_05_and_06_Data_Wrangling.html%23%2F&v=EOpb3VsWmck)
 3.  Code instructor works on in the videos can be found here: [https://github.com/NickCH-K/DataCommS\...](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbjNhM0FBVkZaVE5SM2w2YWVaYnVLV1Z1V3BhZ3xBQ3Jtc0ttOHc5SEY1Tm5JOGdNUUhzYzVZanRYNTVnM3JjdFh1czRaVmpqRnVJZXl1MlVkZjVzQnVxRTVXMTNObkRnak1Kc2hKSkM2U09Sb0dXeXVtXzRxZGZOTmpVZTRzUWk4bEJkTUM0VGJxVDEzR1MzVmc4OA&q=https%3A%2F%2Fgithub.com%2FNickCH-K%2FDataCommSlides%2Fblob%2Fmaster%2FLecture_05_and_06_example_code.R&v=EOpb3VsWmck)
 
 ## [Efficient R programming](https://bookdown.org/csgillespie/efficientR/) 🌱 & 🌳
@@ -347,6 +347,24 @@ By [Ted Laderas & Jessica Minnier](https://r-bootcamp.netlify.app/)
 **Excerpt from the course:** The R-Bootcamp is a gentle and gradual introduction to manipulating and visualizing data in R using the `tidyverse` suite of packages. It is meant for incoming OHSU Bioinformatics and Computational Biomedicine Majors but is appropriate for any beginners wanting to learn elementary data manipulation in R.
 
 1.  Link to course: <https://r-bootcamp.netlify.app/>
+
+## [R Crash Course](https://kirstenmorehouse.wordpress.com/354-2/topic-1-crash-course-in-r/ "https://colauttilab.github.io/RCrashCourse/1_fundamentals.html") 🌱
+
+By [Rob Colautti](https://colauttilab.github.io/RCrashCourse/1_fundamentals.html)
+
+Added Sun May 28th, 2023
+
+**What is this?**
+
+**Excerpt from the course:** A Crash Course in R for new students in the Colautti Lab and anyone else who might be interested. Written in RMarkdown (mostly).
+
+1.  Link to repo with naterials: <https://github.com/ColauttiLab/RCrashCourse>
+2.  Link to Part 1- Fundamentals: <https://colauttilab.github.io/RCrashCourse/1_fundamentals.html>
+3.  Link to Part 2 - qplot(): <https://colauttilab.github.io/RCrashCourse/2_qplot.html>
+4.  Link to Part 3 - ggplot(): <https://colauttilab.github.io/RCrashCourse/3_ggplot.html>
+5.  Link to Part 4 - regex(): <https://colauttilab.github.io/RCrashCourse/4_regex.html>
+6.  Link to Part 5 - Data Science: <https://colauttilab.github.io/RCrashCourse/5_datascience.html>
+7.  Link to Part 6 - Advanced: <https://colauttilab.github.io/RCrashCourse/6_advanced.html>
 
 ## [R Course](https://kirstenmorehouse.wordpress.com/354-2/topic-1-crash-course-in-r/) 🌱
 

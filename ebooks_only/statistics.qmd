@@ -31,6 +31,20 @@ By [Aki Vehtari](https://avehtari.github.io/BDA_course_Aalto/)
 1.  Link to course: <https://avehtari.github.io/BDA_course_Aalto/>
 2.  Electronic book for course here: <https://users.aalto.fi/~ave/BDA3.pdf>
 
+## [Bayesian Hierarchical Models in Ecology](https://bookdown.org/steve_midway/BHME/)
+
+By [Steve Midway](https://bookdown.org/steve_midway/BHME/)
+
+Added Sun May 28th, 2023
+
+**What is this?**
+
+**Learning objectives from ebook:** Welcome to *Bayesian Hierarchical Models in Ecology*.
+This is an ebook that is also serving as the course materials for a graduate class of the same name.
+There will be numerous and on-going changes to this book, so please check back.
+
+1.  Link to site: <https://bookdown.org/steve_midway/BHME/>
+
 ## [Broadening Your Statistical Horizons Generalized Linear Models and Multilevel Models](https://bookdown.org/roback/bookdown-bysh/)
 
 By [Julie Legler & Paul Roback](https://bookdown.org/roback/bookdown-bysh/)
