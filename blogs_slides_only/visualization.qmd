@@ -183,6 +183,19 @@ Here we will see examples of increasing the point size of the legend in a scatte
 
 1.  Link to article here: <https://datavizpyr.com/increase-legend-key-size-in-ggplot2/>
 
+## [How To R: Visualizing Distributions](https://medium.com/@nickmartin812/how-to-r-visualizing-distributions-49ea4141fb32)
+
+By [Nick Martin](https://medium.com/@nickmartin812/how-to-r-visualizing-distributions-49ea4141fb32)
+
+Added Mon May 29th, 2023
+
+**What is this?**
+
+**Excerpt from blog:** Distributions are a very important thing to understand during any EDA process.
+In this article we will look into multiple different ways to visualize distributions and how to create those visuals in R.
+
+1.  Link to blog here: [https://medium.com/\@nickmartin812/how-to-r-visualizing-distributions-49ea4141fb32](https://medium.com/@nickmartin812/how-to-r-visualizing-distributions-49ea4141fb32){.uri}
+
 ## [Image sizes in an R markdown document](https://www.jumpingrivers.com/blog/knitr-rmarkdown-image-size/)
 
 Added Fri Apr 23rd, 2021
@@ -226,6 +239,22 @@ Added Sun Dec 12, 2021
 
 1.  Link to github repo. andcode here: <https://github.com/RamiKrispin/gis-dataviz-workshop>
 2.  Link to slides here: <https://ramikrispin.github.io/gis-dataviz-workshop/#1>
+
+## [Introducing {ggflowchart}](https://nrennie.rbind.io/blog/introducing-ggflowchart/)
+
+By [Nicola Rennie](https://nrennie.rbind.io/blog/introducing-ggflowchart/)
+
+Added Mon May 29, 2023
+
+**What is this?**
+
+**Excerpt from site**: Flowcharts can be a useful way to visualise complex processes, and the new R package {ggflowchart} makes them easy to create in R.
+This blog post shows you how.
+Back in April 2022, I participated in the [#30DayChartChallenge](https://twitter.com/30DayChartChall) and for the *Storytelling* prompt on day 29 in the *Uncertainty* category, I created the **Goldilocks Decision Tree**.
+I also gave a talk to [R-Ladies Nairobi](https://twitter.com/RLadiesNairobi) on the challenge and used the flowchart as a live-coding example.
+A summary of the talk ended up as a [blog post](https://nrennie.rbind.io/blog/2022-06-06-creating-flowcharts-with-ggplot2/).
+
+1.  Link to blog here: <https://nrennie.rbind.io/blog/introducing-ggflowchart/>
 
 ## [Introduction to rbokeh--a vignette](https://hafen.github.io/rbokeh/articles/rbokeh.html)
 

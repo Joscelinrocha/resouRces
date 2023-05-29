@@ -170,6 +170,18 @@ Added Sun Oct 25th, 2020
 
 1.  Link to video: [https://www.youtube.com/watch?v =PXiY8muVUec&feature=youtu.be](https://www.youtube.com/watch?v%20=PXiY8muVUec&feature=youtu.be)
 
+## [stickr](https://github.com/akgold/stickr)
+
+By [Alex Gold](https://github.com/akgold/stickr)
+
+Added Mon May 29, 2023
+
+**What is this?**
+
+**Excerpt from the repo:** The goal of stickr is to make it easier for you to include any R package hex stickers in your work.
+
+1.  Link to repo is here: <https://github.com/akgold/stickr>
+
 ## [Tidy animated verbs](https://github.com/batpigandme/tidyexplain)
 
 By [Garrick Aden‑Buie](https://github.com/batpigandme/tidyexplain)
