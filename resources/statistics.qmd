@@ -549,6 +549,21 @@ Added Sun June 6th, 2021
 
 1.  Link to article here: <https://statisticsglobe.com/r-multiple-regressions-in-for-loop>
 
+## [Spatial Statistics for Data Science: Theory and Practice with R](https://www.paulamoraga.com/book-spatial/)
+
+By [Paula Moraga](https://www.paulamoraga.com/book-spatial/index.html)
+
+Added Tue November 7th, 2023
+
+**What is this?**
+
+**Excerpt from book:** *Spatial Statistics for Data Science: Theory and Practice with R* describes statistical methods, modeling approaches, and visualization techniques to analyze spatial data using R.
+The book starts by providing a comprehensive overview of the types of spatial data and R packages for spatial data retrieval, manipulation, and visualization.
+Then, it provides a detailed explanation of the theoretical concepts of spatial statistics, along with fully reproducible examples demonstrating how to simulate, describe, and analyze areal, geostatistical, and point pattern data in various applications.
+
+1.  Link to free e-book here: <https://www.paulamoraga.com/book-spatial/>
+2.  Link to purchase book here: <https://www.routledge.com/Geospatial-Health-Data-Modeling-and-Visualization-with-R-INLA-and-Shiny/Moraga/p/book/9780367357955>
+
 ## [Statistical Analysis and Visualizations Using R](https://okanbulut.github.io/rbook/)
 
 By [Okan Bulut](https://okanbulut.github.io/rbook/)

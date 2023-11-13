@@ -2013,7 +2013,7 @@
     "href": "resources/fun_extra.html#alignassign",
     "title": "Fun extra things that didn’t fit in the other categories",
     "section": "AlignAssign",
-    "text": "AlignAssign\nWhat is this?\nExcerpt from site: Align the assignment operators (either <- or =) within a highlighted area.\n\nLink to repo here: https://github.com/seasmith/AlignAssign"
+    "text": "AlignAssign\nWhat is this?\nExcerpt from site: Align the assignment operators (either &lt;- or =) within a highlighted area.\n\nLink to repo here: https://github.com/seasmith/AlignAssign"
   },
   {
     "objectID": "resources/fun_extra.html#creating-dynamic-dashboards-with-the-shinydashboard-r-package",
@@ -5318,5 +5318,26 @@
     "title": "Fun extra things that didn’t fit in the other categories",
     "section": "stickr",
     "text": "stickr\nBy Alex Gold\nAdded Mon May 29, 2023\nWhat is this?\nExcerpt from the repo: The goal of stickr is to make it easier for you to include any R package hex stickers in your work.\n\nLink to repo is here: https://github.com/akgold/stickr"
+  },
+  {
+    "objectID": "ebooks_only/visualization.html#spatial-statistics-for-data-science-theory-and-practice-with-r",
+    "href": "ebooks_only/visualization.html#spatial-statistics-for-data-science-theory-and-practice-with-r",
+    "title": "Visualization",
+    "section": "Spatial Statistics for Data Science: Theory and Practice with R",
+    "text": "Spatial Statistics for Data Science: Theory and Practice with R\nBy Paula Moraga\nAdded Tue November 7th, 2023\nWhat is this?\nExcerpt from book: Spatial Statistics for Data Science: Theory and Practice with R describes statistical methods, modeling approaches, and visualization techniques to analyze spatial data using R. The book starts by providing a comprehensive overview of the types of spatial data and R packages for spatial data retrieval, manipulation, and visualization. Then, it provides a detailed explanation of the theoretical concepts of spatial statistics, along with fully reproducible examples demonstrating how to simulate, describe, and analyze areal, geostatistical, and point pattern data in various applications.\n\nLink to free e-book here: https://www.paulamoraga.com/book-spatial/\nLink to purchase book here: https://www.routledge.com/Geospatial-Health-Data-Modeling-and-Visualization-with-R-INLA-and-Shiny/Moraga/p/book/9780367357955"
+  },
+  {
+    "objectID": "ebooks_only/statistics.html#spatial-statistics-for-data-science-theory-and-practice-with-r",
+    "href": "ebooks_only/statistics.html#spatial-statistics-for-data-science-theory-and-practice-with-r",
+    "title": "Statistics",
+    "section": "Spatial Statistics for Data Science: Theory and Practice with R",
+    "text": "Spatial Statistics for Data Science: Theory and Practice with R\nBy Paula Moraga\nAdded Tue November 7th, 2023\nWhat is this?\nExcerpt from book: Spatial Statistics for Data Science: Theory and Practice with R describes statistical methods, modeling approaches, and visualization techniques to analyze spatial data using R. The book starts by providing a comprehensive overview of the types of spatial data and R packages for spatial data retrieval, manipulation, and visualization. Then, it provides a detailed explanation of the theoretical concepts of spatial statistics, along with fully reproducible examples demonstrating how to simulate, describe, and analyze areal, geostatistical, and point pattern data in various applications.\n\nLink to free e-book here: https://www.paulamoraga.com/book-spatial/\nLink to purchase book here: https://www.routledge.com/Geospatial-Health-Data-Modeling-and-Visualization-with-R-INLA-and-Shiny/Moraga/p/book/9780367357955"
+  },
+  {
+    "objectID": "resources/fun_extra.html#blsr-make-requests-from-the-bureau-of-labor-statistics-api",
+    "href": "resources/fun_extra.html#blsr-make-requests-from-the-bureau-of-labor-statistics-api",
+    "title": "Fun extra things that didn’t fit in the other categories",
+    "section": "blsR: Make Requests from the Bureau of Labor Statistics API",
+    "text": "blsR: Make Requests from the Bureau of Labor Statistics API\nBy Guillermo Roditi Dominguez\nAdded Tue Nov 7, 2023\nWhat is this?\nExcerpt from the site: Implements v2 of the B.L.S. API for requests of survey information and time series data through 3-tiered API that allows users to interact with the raw API directly, create queries through a functional interface, and re-shape the data structures returned to fit common uses.\n\nSite is here: https://cran.r-project.org/web/packages/blsR/index.html"
   }
 ]
