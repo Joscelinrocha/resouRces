@@ -180,7 +180,7 @@ Added Sun Oct 25th, 2020
 
 **Excerpt from announcement:** Bryan Jenks made this video as a crash course to RStudio so you can get started on R development :)
 
-1.  Link to video: [https://www.youtube.com/watch?v=PXiY8muVUec&ab_channel=BryanJenks](https://www.youtube.com/watch?v=PXiY8muVUec&ab_channel=BryanJenks)
+1.  Link to video: <https://www.youtube.com/watch?v=PXiY8muVUec&ab_channel=BryanJenks>
 
 ## [stickr](https://github.com/akgold/stickr)
 
