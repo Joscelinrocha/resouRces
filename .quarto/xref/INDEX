@@ -1,0 +1,11 @@
+{
+  "ebooks_only/visualization.qmd": {
+    "visualization.html": "94dcf53b"
+  },
+  "ebooks_only/statistics.qmd": {
+    "statistics.html": "a30e290a"
+  },
+  "resources/fun_extra.qmd": {
+    "fun_extra.html": "42bd3279"
+  }
+}
