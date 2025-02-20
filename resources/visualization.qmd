@@ -672,6 +672,29 @@ Added Sun Dec 12, 2021
 
 1.  Link to site here: <https://tengkuhanis.netlify.app/post/my-first-interactive-map-with-leaflet/>
 
+## [Parameterising a Multi-Part Plot](https://rfortherestofus.com/2024/06/parameterising-a-multi-part-plot) 💯
+
+By Cara Thompson and R for the Rest of Us
+
+Added Thu Feb 20, 2025
+
+**What is this?**
+
+This blog post by Cara Thompson demonstrates how to create parameterized plots in R to avoid repetitive code, especially when generating multiple variants of interactive graphs.
+Using the `ggplot2` package and the `palmerpenguins` dataset, the tutorial guides readers through:
+
+1.  Setting up a custom theme and color palette.
+
+2.  Transforming plotting code into a function that accepts arguments for flexibility.
+
+3.  Incorporating conditional statements within the function to adjust plot elements based on input parameters.
+
+4.  Implementing safety checks to handle potential errors and ensure consistent axis limits.
+
+The approach emphasizes efficient coding practices, reducing redundancy, and enhancing the adaptability of plots to different datasets or groups.
+
+1.  Link to article here: <https://rfortherestofus.com/2024/06/parameterising-a-multi-part-plot>
+
 ## [Penn MUSA Masterclass: 3D Mapping and Visualization with R](https://github.com/tylermorganwall/MusaMasterclass)
 
 By [Rayshader & Tyler Morgan-Wall](https://github.com/tylermorganwall/MusaMasterclass)
