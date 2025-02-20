@@ -115,8 +115,8 @@ Date added Fri AprMay 5th, 2023
 This is a simplified and adapted version of my data wrangling workshops, which are available in full on my channel for tidyverse (R), data.table (R), and pandas (Python).
 
 1.  Link to videos are here: <https://www.youtube.com/watch?v=EOpb3VsWmck>
-2.  Slides to follow along with the videos are here: [https://nickch-k.github.io/DataCommSl\...](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqa1RhU0FZOHVrbVlTTXcyUW80OVFPRmFmQTFYd3xBQ3Jtc0tsTkl5MGNhUjFOVWRWT1V1RFBpd2ZwX3JsUjF0Nkg1NVdJZG95Q1RUakt0ZzRzQ1ZHYU43RmdaMTlwQVllMFU5dGZUeTMxOUtSclpXdWhNdkMtZ2lPemZnREJKOWpBSDQ5VGNMTGswTktfZzFSbE9IYw&q=https%3A%2F%2Fnickch-k.github.io%2FDataCommSlides%2FLecture_05_and_06_Data_Wrangling.html%23%2F&v=EOpb3VsWmck)
-3.  Code instructor works on in the videos can be found here: [https://github.com/NickCH-K/DataCommS\...](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbjNhM0FBVkZaVE5SM2w2YWVaYnVLV1Z1V3BhZ3xBQ3Jtc0ttOHc5SEY1Tm5JOGdNUUhzYzVZanRYNTVnM3JjdFh1czRaVmpqRnVJZXl1MlVkZjVzQnVxRTVXMTNObkRnak1Kc2hKSkM2U09Sb0dXeXVtXzRxZGZOTmpVZTRzUWk4bEJkTUM0VGJxVDEzR1MzVmc4OA&q=https%3A%2F%2Fgithub.com%2FNickCH-K%2FDataCommSlides%2Fblob%2Fmaster%2FLecture_05_and_06_example_code.R&v=EOpb3VsWmck)
+2.  Slides to follow along with the videos are here: [https://nickch-k.github.io/DataCommSl...](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqa1RhU0FZOHVrbVlTTXcyUW80OVFPRmFmQTFYd3xBQ3Jtc0tsTkl5MGNhUjFOVWRWT1V1RFBpd2ZwX3JsUjF0Nkg1NVdJZG95Q1RUakt0ZzRzQ1ZHYU43RmdaMTlwQVllMFU5dGZUeTMxOUtSclpXdWhNdkMtZ2lPemZnREJKOWpBSDQ5VGNMTGswTktfZzFSbE9IYw&q=https%3A%2F%2Fnickch-k.github.io%2FDataCommSlides%2FLecture_05_and_06_Data_Wrangling.html%23%2F&v=EOpb3VsWmck)
+3.  Code instructor works on in the videos can be found here: [https://github.com/NickCH-K/DataCommS...](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbjNhM0FBVkZaVE5SM2w2YWVaYnVLV1Z1V3BhZ3xBQ3Jtc0ttOHc5SEY1Tm5JOGdNUUhzYzVZanRYNTVnM3JjdFh1czRaVmpqRnVJZXl1MlVkZjVzQnVxRTVXMTNObkRnak1Kc2hKSkM2U09Sb0dXeXVtXzRxZGZOTmpVZTRzUWk4bEJkTUM0VGJxVDEzR1MzVmc4OA&q=https%3A%2F%2Fgithub.com%2FNickCH-K%2FDataCommSlides%2Fblob%2Fmaster%2FLecture_05_and_06_example_code.R&v=EOpb3VsWmck)
 
 ## [Efficient R programming](https://bookdown.org/csgillespie/efficientR/) 🌱 & 🌳
 
@@ -317,6 +317,18 @@ Date added: April 15th, 2021.\
 **What is this?** Excerpt from site: Mainly free courses by Harvard university to learn R
 
 1.  Link to site: https: <https://online-learning.harvard.edu/subject/r>
+
+## [Posit Cheat Sheets](https://github.com/adriculous/posit-cheatsheets) 💯
+
+By Adri
+
+Added Thu Feb 20, 2025
+
+**What is this?**
+
+This GitHub repository hosts a collection of cheat sheets for Posit (formerly RStudio) products. These cheat sheets serve as quick references for various R packages and tools, aiding users in efficient coding and data analysis.
+
+1.  Link to repository here: <https://github.com/adriculous/posit-cheatsheets>
 
 ## [Programming with R](https://swcarpentry.github.io/r-novice-inflammation/)
 
