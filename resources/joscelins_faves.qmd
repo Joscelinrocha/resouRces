@@ -12,8 +12,26 @@ width="15" height="21"}Buy me a coffee</a>
 
 ------------------------------------------------------------------------
 
+-   ❇️ [Analyzing International Survey Data with the pewmethods R
+    Package](https://medium.com/pew-research-center-decoded/analyzing-international-survey-data-with-the-pewmethods-r-package-3b0b21cba607)
+    -   Added Thu Feb 20, 2025
+
+This article introduces the **pewmethods** R package, designed to
+facilitate the analysis of international survey data. The package
+streamlines the process of converting individual-level data to
+country-level summaries, enabling researchers to efficiently analyze and
+interpret survey results. By providing tools for data transformation and
+weighting, **pewmethods** enhances the accuracy and comparability of
+cross-national survey analyses.
+
+-   Link to article:
+    <https://medium.com/pew-research-center-decoded/analyzing-international-survey-data-with-the-pewmethods-r-package-3b0b21cba607>
+
+<!-- -->
+
 -   ❇️ [grateful: Facilitate citation of R
     packages](https://pakillo.github.io/grateful/) 💯
+
     -   Added Mon Apr 24, 2023
 
 The goal of **grateful** is to make it very easy to cite R and the R
@@ -171,7 +189,7 @@ https://github.com/dgrtwo/widyr
     **\[GREAT FOR TEACHING\]**: `pipediff()` Overrides the pipe `%>%` in
     the caller environment, the newly created pipe displays in the
     viewer the diffs between steps, then self destruct (so `pipediff()`
-    works \"only once\", a bit like \`debugonce()).
+    works "only once", a bit like \`debugonce()).
 
     `pipediff(once = FALSE)` makes the change permanent in the caller
     environment until `pipediff::pipereset()` is called.
@@ -193,7 +211,7 @@ https://github.com/dgrtwo/widyr
 
 <!-- -->
 
--   ❇️
+-   ❇
     [correlation](https://easystats.github.io/correlation/reference/correlation.html)
     *Added Feb 2nd, 2022*
     -   **Excerpt from site:** Performs a correlation analysis.
