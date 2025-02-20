@@ -12,6 +12,24 @@ width="15" height="21"}Buy me a coffee</a>
 
 ------------------------------------------------------------------------
 
+-   ❇️ [acadyr: Work with Financial and Academic Years in
+    R](https://wurli.github.io/acadyr/) 💯
+
+    -   By Wurli
+    -   Added Thu Feb 20, 2025
+    -   **What is this?**
+    -   The **acadyr** package provides utility functions for creating
+        and working with financial and academic years in R. It addresses
+        challenges associated with non-calendar year types, such as
+        differing start dates and formatting complexities. The package
+        allows users to define financial or academic years with
+        customizable start dates, facilitating seamless integration into
+        data analysis workflows. Additionally, **acadyr** ensures
+        compatibility with visualization tools like **ggplot2**,
+        enabling clear and accurate representation of data categorized
+        by these non-standard years.
+    -   Link to package here: <https://wurli.github.io/acadyr/>
+
 -   ❇️ [Analyzing International Survey Data with the pewmethods R
     Package](https://medium.com/pew-research-center-decoded/analyzing-international-survey-data-with-the-pewmethods-r-package-3b0b21cba607)
 
@@ -98,7 +116,7 @@ width="15" height="21"}Buy me a coffee</a>
 -   ❇️ [The magick package: Advanced Image-Processing in
     R](https://cran.r-project.org/web/packages/magick/vignettes/intro.html#Installing_magick)
 
-    -    The new magick package is an ambitious effort to modernize and
+    -   The new magick package is an ambitious effort to modernize and
         simplify high-quality image processing in R. It wraps the
         ImageMagick STL which is perhaps the most comprehensive
         open-source image processing library available today.

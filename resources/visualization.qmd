@@ -205,6 +205,20 @@ By [Juanjo Medina & Reka Solymosi](https://maczokni.github.io/crimemapping_textb
 
 1.  Link to web-book here: <https://maczokni.github.io/crimemapping_textbook_bookdown/>
 
+## [Dark ggtheme: Publication-Ready Themes and Color Palettes for ggplot2](https://github.com/koundy/ggplot_theme_Publication) 💯
+
+By Koundy
+
+Added Thu Feb 20, 2025
+
+**What is this?**
+
+The **ggplot_theme_Publication** repository offers three custom themes and new color palettes for **ggplot2**, aiming to create clean and simple graphics suitable for publication.
+These themes address common aesthetic concerns such as plot background, title and axis label fonts and sizes, axis appearance, tick marks, colors, and legend positioning.
+By applying these themes, users can enhance the visual appeal and readability of their plots, making them more suitable for inclusion in academic and professional publications.
+
+1.  Link to repository here: <https://github.com/koundy/ggplot_theme_Publication>
+
 ## [Data Visualization: A practical introduction](https://www.data-to-viz.com/)
 
 By [Kieran Healy](https://www.data-to-viz.com/)
@@ -417,6 +431,36 @@ Added Sun June 6th, 2021
 
 1.  Link to site here: <https://github.com/const-ae/ggupset>
 
+## [How to Create Diamond Plots in R](https://thef5.substack.com/p/how-to-diamond-plots-in-r) 💯
+
+By Owen Phillips
+
+Added Thu Feb 20, 2025
+
+**What is this?**
+
+This tutorial provides a comprehensive guide on creating diamond plots in R, a visualization technique that emphasizes confidence intervals over point estimates.
+Diamond plots are particularly useful in meta-analyses and comparative studies, as they focus on the precision of estimates rather than just the estimates themselves.
+The guide walks through the process of constructing diamond plots using the **ufs** package, detailing functions like `meansDiamondPlot()` and `diamondPlot()`.
+It includes practical examples and code snippets, making it accessible for users aiming to enhance their data visualization skills in R.
+
+1.  Link to tutorial here: <https://thef5.substack.com/p/how-to-diamond-plots-in-r>
+
+## [How to Increase Legend Key Size in ggplot2](https://datavizpyr.com/increase-legend-key-size-in-ggplot2/)
+
+By [datavizpyr](https://datavizpyr.com/increase-legend-key-size-in-ggplot2/)
+
+Added Fri Apr 14th, 2023
+
+**What is this?**
+
+**Excerpt from article:** In this tutorial, we will learn how to increase the color legend's point (or legend key) size in ggplot2.
+Often when you make a plot with multiple groups and large number of data points, the legend key for the color variable are small and can be not legible in the plot.
+
+Here we will see examples of increasing the point size of the legend in a scatter plot using guides() function in ggplot2.
+
+1.  Link to article here: <https://datavizpyr.com/increase-legend-key-size-in-ggplot2/>
+
 ## [How to pick more beautiful colors for your data visualizations](https://blog.datawrapper.de/beautifulcolors/)💯 💯
 
 By [Lisa Charlotte Rost](https://blog.datawrapper.de/beautifulcolors/)
@@ -435,22 +479,7 @@ But if you need to find beautiful, distinctive colors for different categories (
 
 1.  Link to blog here: <https://blog.datawrapper.de/beautifulcolors/>
 
-## [How to Increase Legend Key Size in ggplot2](https://datavizpyr.com/increase-legend-key-size-in-ggplot2/)
-
-By [datavizpyr](https://datavizpyr.com/increase-legend-key-size-in-ggplot2/)
-
-Added Fri Apr 14th, 2023
-
-**What is this?**
-
-**Excerpt from article:** In this tutorial, we will learn how to increase the color legend's point (or legend key) size in ggplot2.
-Often when you make a plot with multiple groups and large number of data points, the legend key for the color variable are small and can be not legible in the plot.
-
-Here we will see examples of increasing the point size of the legend in a scatter plot using guides() function in ggplot2.
-
-1.  Link to article here: <https://datavizpyr.com/increase-legend-key-size-in-ggplot2/>
-
-## [How To R: Visualizing Distributions](https://medium.com/@nickmartin812/how-to-r-visualizing-distributions-49ea4141fb32)
+## [How to R: Visualizing Distributions](https://medium.com/@nickmartin812/how-to-r-visualizing-distributions-49ea4141fb32)
 
 By [Nick Martin](https://medium.com/@nickmartin812/how-to-r-visualizing-distributions-49ea4141fb32)
 

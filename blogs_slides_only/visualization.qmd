@@ -168,6 +168,21 @@ I visit it quite often.
 
 1.  Slides here: <https://designing-ggplots.netlify.app/#1>
 
+## [How to Create Diamond Plots in R](https://thef5.substack.com/p/how-to-diamond-plots-in-r) 💯
+
+By Owen Phillips
+
+Added Thu Feb 20, 2025
+
+**What is this?**
+
+This tutorial provides a comprehensive guide on creating diamond plots in R, a visualization technique that emphasizes confidence intervals over point estimates.
+Diamond plots are particularly useful in meta-analyses and comparative studies, as they focus on the precision of estimates rather than just the estimates themselves.
+The guide walks through the process of constructing diamond plots using the **ufs** package, detailing functions like `meansDiamondPlot()` and `diamondPlot()`.
+It includes practical examples and code snippets, making it accessible for users aiming to enhance their data visualization skills in R.
+
+1.  Link to tutorial here: <https://thef5.substack.com/p/how-to-diamond-plots-in-r>
+
 ## [How to Increase Legend Key Size in ggplot2](https://datavizpyr.com/increase-legend-key-size-in-ggplot2/)
 
 By [datavizpyr](https://datavizpyr.com/increase-legend-key-size-in-ggplot2/)
@@ -183,7 +198,7 @@ Here we will see examples of increasing the point size of the legend in a scatte
 
 1.  Link to article here: <https://datavizpyr.com/increase-legend-key-size-in-ggplot2/>
 
-## [How To R: Visualizing Distributions](https://medium.com/@nickmartin812/how-to-r-visualizing-distributions-49ea4141fb32)
+## [How to R: Visualizing Distributions](https://medium.com/@nickmartin812/how-to-r-visualizing-distributions-49ea4141fb32)
 
 By [Nick Martin](https://medium.com/@nickmartin812/how-to-r-visualizing-distributions-49ea4141fb32)
 
