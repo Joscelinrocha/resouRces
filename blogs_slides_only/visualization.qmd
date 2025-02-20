@@ -198,6 +198,20 @@ Here we will see examples of increasing the point size of the legend in a scatte
 
 1.  Link to article here: <https://datavizpyr.com/increase-legend-key-size-in-ggplot2/>
 
+## [How to Make a Diverging Bar Chart in R](https://rfortherestofus.com/2021/10/diverging-bar-chart/) 💯
+
+By R for the Rest of Us
+
+Added Thu Feb 20, 2025
+
+**What is this?**
+
+This tutorial demonstrates how to create diverging bar charts in R using the `ggplot2` package.
+Diverging bar charts are effective for displaying Likert scale data or any dataset with a central neutral point, as they visualize deviations in both directions from a midpoint.
+The article provides step-by-step instructions, including data preparation, plotting, and customization techniques to enhance the clarity and aesthetics of the chart.
+
+1.  Link to tutorial here: <https://rfortherestofus.com/2021/10/diverging-bar-chart/>
+
 ## [How to R: Visualizing Distributions](https://medium.com/@nickmartin812/how-to-r-visualizing-distributions-49ea4141fb32)
 
 By [Nick Martin](https://medium.com/@nickmartin812/how-to-r-visualizing-distributions-49ea4141fb32)
