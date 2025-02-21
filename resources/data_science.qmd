@@ -155,7 +155,7 @@ Learning is reinforced through weekly assignments that involve working with diff
 
 1.  Course here: <https://psyteachr.github.io/msc-data-skills/>
 
-## [Data Wrangling in the Tidyverse](https://www.youtube.com/watch?v=EOpb3VsWmck) 
+## [Data Wrangling in the Tidyverse](https://www.youtube.com/watch?v=EOpb3VsWmck)
 
 By [Nick Huntington-Klein](https://www.youtube.com/watch?v=EOpb3VsWmck)
 
@@ -165,12 +165,11 @@ Date added Fri AprMay 5th, 2023
 **Excerpt from the site:** This video series covers the basics of data wrangling using the tidyverse, aimed at my data communications class.
 I assume some very, very basic R background, but really not much.
 
-
 This is a simplified and adapted version of my data wrangling workshops, which are available in full on my channel for tidyverse (R), data.table (R), and pandas (Python).
 
 1.  Link to videos are here: <https://www.youtube.com/watch?v=EOpb3VsWmck>
-2.   Slides to follow along with the videos are here: [https://nickch-k.github.io/DataCommSl\...](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqa1RhU0FZOHVrbVlTTXcyUW80OVFPRmFmQTFYd3xBQ3Jtc0tsTkl5MGNhUjFOVWRWT1V1RFBpd2ZwX3JsUjF0Nkg1NVdJZG95Q1RUakt0ZzRzQ1ZHYU43RmdaMTlwQVllMFU5dGZUeTMxOUtSclpXdWhNdkMtZ2lPemZnREJKOWpBSDQ5VGNMTGswTktfZzFSbE9IYw&q=https%3A%2F%2Fnickch-k.github.io%2FDataCommSlides%2FLecture_05_and_06_Data_Wrangling.html%23%2F&v=EOpb3VsWmck)
-3.  Code instructor works on in the videos can be found here: [https://github.com/NickCH-K/DataCommS\...](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbjNhM0FBVkZaVE5SM2w2YWVaYnVLV1Z1V3BhZ3xBQ3Jtc0ttOHc5SEY1Tm5JOGdNUUhzYzVZanRYNTVnM3JjdFh1czRaVmpqRnVJZXl1MlVkZjVzQnVxRTVXMTNObkRnak1Kc2hKSkM2U09Sb0dXeXVtXzRxZGZOTmpVZTRzUWk4bEJkTUM0VGJxVDEzR1MzVmc4OA&q=https%3A%2F%2Fgithub.com%2FNickCH-K%2FDataCommSlides%2Fblob%2Fmaster%2FLecture_05_and_06_example_code.R&v=EOpb3VsWmck)
+2.  Slides to follow along with the videos are here: [https://nickch-k.github.io/DataCommSl...](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqa1RhU0FZOHVrbVlTTXcyUW80OVFPRmFmQTFYd3xBQ3Jtc0tsTkl5MGNhUjFOVWRWT1V1RFBpd2ZwX3JsUjF0Nkg1NVdJZG95Q1RUakt0ZzRzQ1ZHYU43RmdaMTlwQVllMFU5dGZUeTMxOUtSclpXdWhNdkMtZ2lPemZnREJKOWpBSDQ5VGNMTGswTktfZzFSbE9IYw&q=https%3A%2F%2Fnickch-k.github.io%2FDataCommSlides%2FLecture_05_and_06_Data_Wrangling.html%23%2F&v=EOpb3VsWmck)
+3.  Code instructor works on in the videos can be found here: [https://github.com/NickCH-K/DataCommS...](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbjNhM0FBVkZaVE5SM2w2YWVaYnVLV1Z1V3BhZ3xBQ3Jtc0ttOHc5SEY1Tm5JOGdNUUhzYzVZanRYNTVnM3JjdFh1czRaVmpqRnVJZXl1MlVkZjVzQnVxRTVXMTNObkRnak1Kc2hKSkM2U09Sb0dXeXVtXzRxZGZOTmpVZTRzUWk4bEJkTUM0VGJxVDEzR1MzVmc4OA&q=https%3A%2F%2Fgithub.com%2FNickCH-K%2FDataCommSlides%2Fblob%2Fmaster%2FLecture_05_and_06_example_code.R&v=EOpb3VsWmck)
 
 ## [Exploratory Data Analysis with R](https://bookdown.org/rdpeng/exdata/) 💯
 
@@ -213,6 +212,23 @@ grateful can then generate a new document with citations in the desired output f
 These references can be formatted for a specific journal, so that we can just paste them directly into our manuscript or report.
 
 1.  Link to package: <https://pakillo.github.io/grateful/>
+
+## [How to Name Files](https://github.com/jennybc/how-to-name-files)
+
+By Jenny Bryan
+
+Added Thu Feb 20, 2025
+
+**What is this?**
+
+This repository offers practical advice on creating effective filenames that are both machine-readable and human-readable, while also ensuring proper default ordering.
+The guidance emphasizes the importance of consistent and descriptive naming conventions to enhance file organization and accessibility.
+Resources include slides from a lightning talk presented at NormConf on December 15, 2022, available in PDF format within the repository.
+Additionally, a pre-recorded video of the talk is accessible, providing further insights into best practices for naming files.
+
+1.  Link to repository: <https://github.com/jennybc/how-to-name-files>
+
+2.  Link to video: <https://www.youtube.com/watch?v=ES1LTlnpLMk&ab_channel=NormConf>
 
 ## [Introduction to Data Science Fall 2019](https://introds.org/)
 
