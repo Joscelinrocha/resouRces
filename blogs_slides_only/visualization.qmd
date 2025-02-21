@@ -168,6 +168,21 @@ I visit it quite often.
 
 1.  Slides here: <https://designing-ggplots.netlify.app/#1>
 
+## [Elevation Maps in R](https://umairdurrani.com/posts/2020-12-25-elevation-maps-in-r/elevation-maps-in-r)
+
+By Dr. U
+
+Added Thu Feb 20, 2025
+
+**What is this?**
+
+This comprehensive tutorial demonstrates how to create aesthetically pleasing and informative elevation maps in R using ground elevation data.
+The author guides readers through the process of obtaining elevation data, processing it, and visualizing it using various R packages.
+
+The tutorial provides detailed code snippets and explanations, making it accessible for users aiming to enhance their geospatial data visualization skills in R.
+
+1.  Link to tutorial here: <https://umairdurrani.com/posts/2020-12-25-elevation-maps-in-r/elevation-maps-in-r>
+
 ## [How to Create Diamond Plots in R](https://thef5.substack.com/p/how-to-diamond-plots-in-r) 💯
 
 By Owen Phillips
@@ -224,6 +239,20 @@ Added Mon May 29th, 2023
 In this article we will look into multiple different ways to visualize distributions and how to create those visuals in R.
 
 1.  Link to blog here: [https://medium.com/\@nickmartin812/how-to-r-visualizing-distributions-49ea4141fb32](https://medium.com/@nickmartin812/how-to-r-visualizing-distributions-49ea4141fb32){.uri}
+
+## [Images as Facet Labels in ggplot2](https://umairdurrani.com/posts/images_in_facets/images_in_facets)
+
+By Dr. U
+
+Added Thu Feb 20, 2025
+
+**What is this?**
+
+This article explores how to replace facet labels in ggplot2 with images, such as country flags, to create more informative and visually appealing plots.
+The author provides a step-by-step guide on obtaining image data, integrating it with existing datasets, and utilizing the ggtext and ggh4x packages to display images as facet labels.
+This technique enhances the interpretability of faceted plots by incorporating visual cues directly into the plot structure.
+
+1.  Link to article here: <https://umairdurrani.com/posts/images_in_facets/images_in_facets>
 
 ## [Image sizes in an R markdown document](https://www.jumpingrivers.com/blog/knitr-rmarkdown-image-size/)
 
@@ -309,6 +338,19 @@ Added Dec 11, 2021
 
 1.  Link to blog here: <https://meghan.rbind.io/blog/introduction-to-tableau/>
 2.  Link to video here: <https://www.youtube.com/watch?v=fN7vAfeN0_E&feature=youtu.be>
+
+## [Making a Custom Arrowhead for ggplot2 Using ggarrow and arrowheadr](https://wjschne.github.io/posts/2023-08-26-making-a-custom-arrowhead-for-ggplot2-using-ggarrow-and-arrowheadr/)
+
+By W. Joel Schneider
+
+Added Thu Feb 20, 2025
+
+**What is this?**
+
+This blog post explores the creation of custom arrowheads in ggplot2 using the ggarrow and arrowheadr packages.
+It provides detailed instructions on designing and implementing custom arrowheads to enhance the clarity and aesthetics of ggplot2 visualizations.
+
+1.  Link to article here: <https://wjschne.github.io/posts/2023-08-26-making-a-custom-arrowhead-for-ggplot2-using-ggarrow-and-arrowheadr/>
 
 ## [Parameterising a Multi-Part Plot](https://rfortherestofus.com/2024/06/parameterising-a-multi-part-plot) 💯
 
