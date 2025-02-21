@@ -2,12 +2,12 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.2.335">
+<meta name="generator" content="quarto-1.5.57">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>../resouRces - Joscelin’s Favorite Packages &amp; Functions</title>
+<title>Joscelin’s Favorite Packages &amp; Functions – resouRces</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -17,7 +17,7 @@ div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
 ul.task-list{list-style: none;}
 ul.task-list li input[type="checkbox"] {
   width: 0.8em;
-  margin: 0 0.8em 0.2em -1.6em;
+  margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
 </style>
@@ -48,7 +48,13 @@ ul.task-list li input[type="checkbox"] {
   "collapse-after": 3,
   "panel-placement": "start",
   "type": "textbox",
-  "limit": 20,
+  "limit": 50,
+  "keyboard-shortcut": [
+    "f",
+    "/",
+    "s"
+  ],
+  "show-item-context": false,
   "language": {
     "search-no-results-text": "No results",
     "search-matching-documents-text": "matching documents",
@@ -57,21 +63,21 @@ ul.task-list li input[type="checkbox"] {
     "search-more-match-text": "more match in this document",
     "search-more-matches-text": "more matches in this document",
     "search-clear-button-title": "Clear",
+    "search-text-placeholder": "",
     "search-detached-cancel-button-title": "Cancel",
-    "search-submit-button-title": "Submit"
+    "search-submit-button-title": "Submit",
+    "search-label": "Search"
   }
 }</script>
 
 
-<meta property="og:title" content="../resouRces - Joscelin’s Favorite Packages &amp; Functions">
-<meta property="og:description" content="Buy me a coffee">
-<meta property="og:site-name" content="../resouRces">
-<meta name="twitter:title" content="../resouRces - Joscelin’s Favorite Packages &amp; Functions">
-<meta name="twitter:description" content="Buy me a coffee">
-<meta name="twitter:image" content="https://www.resourcesdatabase.com/images/twitter-card.png">
+<meta property="og:title" content="Joscelin’s Favorite Packages &amp; Functions – resouRces">
+<meta property="og:description" content="Database of Resources to Learn &amp; Teach R">
+<meta property="og:site_name" content="resouRces">
+<meta name="twitter:title" content="Joscelin’s Favorite Packages &amp; Functions – resouRces">
+<meta name="twitter:description" content="Database of Resources to Learn &amp; Teach R">
+<meta name="twitter:image" content="https://www.resourcesdatabase.com/resources/images/twitter-card.png">
 <meta name="twitter:creator" content="@JoscelinRocha">
-<meta name="twitter:image-height" content="1575">
-<meta name="twitter:image-width" content="2800">
 <meta name="twitter:card" content="summary_large_image">
 </head>
 
@@ -79,11 +85,16 @@ ul.task-list li input[type="checkbox"] {
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
-  <nav class="quarto-secondary-nav" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
-    <div class="container-fluid d-flex justify-content-between">
-      <h1 class="quarto-secondary-nav-title">Joscelin’s Favorite Packages &amp; Functions</h1>
-      <button type="button" class="quarto-btn-toggle btn" aria-label="Show secondary navigation">
-        <i class="bi bi-chevron-right"></i>
+  <nav class="quarto-secondary-nav">
+    <div class="container-fluid d-flex">
+      <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" role="button" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+        <i class="bi bi-layout-text-sidebar-reverse"></i>
+      </button>
+        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../resources/joscelins_faves.html">Extra</a></li><li class="breadcrumb-item"><a href="../resources/joscelins_faves.html">Joscelin’s Fav Packages &amp; Functions</a></li></ol></nav>
+        <a class="flex-grow-1" role="navigation" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
+        </a>
+      <button type="button" class="btn quarto-search-button" aria-label="Search" onclick="window.quartoOpenSearch();">
+        <i class="bi bi-search"></i>
       </button>
     </div>
   </nav>
@@ -91,194 +102,225 @@ ul.task-list li input[type="checkbox"] {
 <!-- content -->
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article">
 <!-- sidebar -->
-  <nav id="quarto-sidebar" class="sidebar collapse sidebar-navigation docked overflow-auto">
+  <nav id="quarto-sidebar" class="sidebar collapse collapse-horizontal quarto-sidebar-collapse-item sidebar-navigation docked overflow-auto">
     <div class="pt-lg-2 mt-2 text-center sidebar-header">
       <a href="../index.html" class="sidebar-logo-link">
       <img src="../images/logo.png" alt="" class="sidebar-logo py-0 d-lg-inline d-none">
       </a>
       <div class="sidebar-tools-main tools-wide">
-    <a href="https://github.com/Joscelinrocha/resouRces" title="GitHub organization" class="sidebar-tool px-1"><i class="bi bi-github"></i></a>
-  <a href="" class="quarto-color-scheme-toggle sidebar-tool" onclick="window.quartoToggleColorScheme(); return false;" title="Toggle dark mode"><i class="bi"></i></a>
-  <a href="" class="quarto-reader-toggle sidebar-tool" onclick="window.quartoToggleReader(); return false;" title="Toggle reader mode">
+    <a href="https://github.com/Joscelinrocha/resouRces" title="GitHub organization" class="quarto-navigation-tool px-1" aria-label="GitHub organization"><i class="bi bi-github"></i></a>
+  <a href="" class="quarto-color-scheme-toggle quarto-navigation-tool  px-1" onclick="window.quartoToggleColorScheme(); return false;" title="Toggle dark mode"><i class="bi"></i></a>
+  <a href="" class="quarto-reader-toggle quarto-navigation-tool px-1" onclick="window.quartoToggleReader(); return false;" title="Toggle reader mode">
   <div class="quarto-reader-toggle-btn">
   <i class="bi"></i>
   </div>
 </a>
 </div>
       </div>
-      <div class="mt-2 flex-shrink-0 align-items-center">
+        <div class="mt-2 flex-shrink-0 align-items-center">
         <div class="sidebar-search">
         <div id="quarto-search" class="" title="Search"></div>
         </div>
-      </div>
+        </div>
     <div class="sidebar-menu-container"> 
     <ul class="list-unstyled mt-1">
         <li class="sidebar-item sidebar-item-section">
       <div class="sidebar-item-container"> 
-            <a class="sidebar-item-text sidebar-link text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-1" aria-expanded="false">About resouRces</a>
-          <a class="sidebar-item-toggle text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-1" aria-expanded="false">
+            <a class="sidebar-item-text sidebar-link text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-1" role="navigation" aria-expanded="false">
+ <span class="menu-text">About resouRces</span></a>
+          <a class="sidebar-item-toggle text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-1" role="navigation" aria-expanded="false" aria-label="Toggle section">
             <i class="bi bi-chevron-right ms-2"></i>
           </a> 
       </div>
       <ul id="quarto-sidebar-section-1" class="collapse list-unstyled sidebar-section depth1 ">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../database-overview.html" class="sidebar-item-text sidebar-link">Overview</a>
+  <a href="../database-overview.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Overview</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../team.html" class="sidebar-item-text sidebar-link">Procurement Team</a>
+  <a href="../team.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Procurement Team</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../database-faq.html" class="sidebar-item-text sidebar-link">FAQs</a>
+  <a href="../database-faq.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">FAQs</span></a>
   </div>
 </li>
       </ul>
   </li>
         <li class="sidebar-item sidebar-item-section">
       <div class="sidebar-item-container"> 
-            <a class="sidebar-item-text sidebar-link text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-2" aria-expanded="false">Topics</a>
-          <a class="sidebar-item-toggle text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-2" aria-expanded="false">
+            <a class="sidebar-item-text sidebar-link text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-2" role="navigation" aria-expanded="false">
+ <span class="menu-text">Topics</span></a>
+          <a class="sidebar-item-toggle text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-2" role="navigation" aria-expanded="false" aria-label="Toggle section">
             <i class="bi bi-chevron-right ms-2"></i>
           </a> 
       </div>
       <ul id="quarto-sidebar-section-2" class="collapse list-unstyled sidebar-section depth1 ">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../resources/art.html" class="sidebar-item-text sidebar-link">Art</a>
+  <a href="../resources/art.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Art</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../resources/dashboards_shiny.html" class="sidebar-item-text sidebar-link">Dashboards/Shiny</a>
+  <a href="../resources/dashboards_shiny.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Dashboards/Shiny</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../resources/data_science.html" class="sidebar-item-text sidebar-link">Data Science</a>
+  <a href="../resources/data_science.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Data Science</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../resources/datasets.html" class="sidebar-item-text sidebar-link">Datasets</a>
+  <a href="../resources/datasets.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Datasets</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../resources/docker.html" class="sidebar-item-text sidebar-link">Docker</a>
+  <a href="../resources/docker.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Docker</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../resources/eyetracking.html" class="sidebar-item-text sidebar-link">Eye-Tracking</a>
+  <a href="../resources/eyetracking.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Eye-Tracking</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../resources/r_to_python.html" class="sidebar-item-text sidebar-link">From R to Python</a>
+  <a href="../resources/r_to_python.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">From R to Python</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../resources/git.html" class="sidebar-item-text sidebar-link">GIT</a>
+  <a href="../resources/git.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">GIT</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../resources/learning_r.html" class="sidebar-item-text sidebar-link">Learning R</a>
+  <a href="../resources/learning_r.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Learning R</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../resources/machine_learning.html" class="sidebar-item-text sidebar-link">Machine Learning</a>
+  <a href="../resources/machine_learning.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Machine Learning</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../resources/making_websites_blogs.html" class="sidebar-item-text sidebar-link">Making Websites/Blogs</a>
+  <a href="../resources/making_websites_blogs.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Making Websites/Blogs</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../resources/meta-analyses_systematic_reviews.html" class="sidebar-item-text sidebar-link">Meta-Analyses &amp; Systematic Reviews</a>
+  <a href="../resources/meta-analyses_systematic_reviews.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Meta-Analyses &amp; Systematic Reviews</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../resources/packages_how_to.html" class="sidebar-item-text sidebar-link">Packages (How to)</a>
+  <a href="../resources/packages_how_to.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Packages (How to)</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../resources/presentations_slides.html" class="sidebar-item-text sidebar-link">Presentations/Slides</a>
+  <a href="../resources/presentations_slides.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Presentations/Slides</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../resources/quarto.html" class="sidebar-item-text sidebar-link">Quarto</a>
+  <a href="../resources/quarto.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Quarto</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../resources/prof_dev.html" class="sidebar-item-text sidebar-link">Resume-CVs-etc</a>
+  <a href="../resources/prof_dev.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Resume-CVs-etc</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../resources/r_for_neuro.html" class="sidebar-item-text sidebar-link">R for Neuro</a>
+  <a href="../resources/r_for_neuro.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">R for Neuro</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../resources/r_markdown.html" class="sidebar-item-text sidebar-link">RMarkdown</a>
+  <a href="../resources/r_markdown.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">RMarkdown</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../resources/statistics.html" class="sidebar-item-text sidebar-link">Statistics</a>
+  <a href="../resources/statistics.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Statistics</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../resources/teaching_r.html" class="sidebar-item-text sidebar-link">Teaching R</a>
+  <a href="../resources/teaching_r.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Teaching R</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../resources/visualization.html" class="sidebar-item-text sidebar-link">Visualization</a>
+  <a href="../resources/visualization.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Visualization</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../resources/workflows.html" class="sidebar-item-text sidebar-link">Workflows</a>
+  <a href="../resources/workflows.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Workflows</span></a>
   </div>
 </li>
       </ul>
   </li>
         <li class="sidebar-item sidebar-item-section">
       <div class="sidebar-item-container"> 
-            <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-3" aria-expanded="true">Extra</a>
-          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-3" aria-expanded="true">
+            <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-3" role="navigation" aria-expanded="true">
+ <span class="menu-text">Extra</span></a>
+          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-3" role="navigation" aria-expanded="true" aria-label="Toggle section">
             <i class="bi bi-chevron-right ms-2"></i>
           </a> 
       </div>
       <ul id="quarto-sidebar-section-3" class="collapse list-unstyled sidebar-section depth1 show">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../resources/joscelins_faves.html" class="sidebar-item-text sidebar-link active">Joscelin’s Fav Packages &amp; Functions</a>
+  <a href="../resources/joscelins_faves.html" class="sidebar-item-text sidebar-link active">
+ <span class="menu-text">Joscelin’s Fav Packages &amp; Functions</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../resources/fun_extra.html" class="sidebar-item-text sidebar-link">Other Fun Stuff</a>
+  <a href="../resources/fun_extra.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Other Fun Stuff</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../more_r_databases.html" class="sidebar-item-text sidebar-link">More R Resources Databases</a>
+  <a href="../more_r_databases.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">More R Resources Databases</span></a>
   </div>
 </li>
       </ul>
@@ -286,16 +328,38 @@ ul.task-list li input[type="checkbox"] {
     </ul>
     </div>
 </nav>
+<div id="quarto-sidebar-glass" class="quarto-sidebar-collapse-item" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item"></div>
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#acadyr-work-with-financial-and-academic-years-in-r" id="toc-acadyr-work-with-financial-and-academic-years-in-r" class="nav-link active" data-scroll-target="#acadyr-work-with-financial-and-academic-years-in-r">acadyr: Work with Financial and Academic Years in R 💯</a></li>
+  <li><a href="#analyzing-international-survey-data-with-the-pewmethods-r-package" id="toc-analyzing-international-survey-data-with-the-pewmethods-r-package" class="nav-link" data-scroll-target="#analyzing-international-survey-data-with-the-pewmethods-r-package">Analyzing International Survey Data with the pewmethods R Package</a></li>
+  <li><a href="#arrow-fast-loading-and-processing-of-large-data" id="toc-arrow-fast-loading-and-processing-of-large-data" class="nav-link" data-scroll-target="#arrow-fast-loading-and-processing-of-large-data">Arrow: Fast Loading and Processing of Large Data</a></li>
+  <li><a href="#colorblindr-by-claire-d.-mcwhite-claus-o.-wilke" id="toc-colorblindr-by-claire-d.-mcwhite-claus-o.-wilke" class="nav-link" data-scroll-target="#colorblindr-by-claire-d.-mcwhite-claus-o.-wilke">colorblindr by Claire D. McWhite &amp; Claus O. Wilke 💯</a></li>
+  <li><a href="#correlation-perform-correlation-analysis" id="toc-correlation-perform-correlation-analysis" class="nav-link" data-scroll-target="#correlation-perform-correlation-analysis">correlation: Perform Correlation Analysis</a></li>
+  <li><a href="#dataeditr-by-dillon-hammill" id="toc-dataeditr-by-dillon-hammill" class="nav-link" data-scroll-target="#dataeditr-by-dillon-hammill">DataEditR by Dillon Hammill 💯</a></li>
+  <li><a href="#ellmer-chat-with-large-language-models" id="toc-ellmer-chat-with-large-language-models" class="nav-link" data-scroll-target="#ellmer-chat-with-large-language-models">ellmer: Chat with Large Language Models 💯</a></li>
+  <li><a href="#esquisse-add-in" id="toc-esquisse-add-in" class="nav-link" data-scroll-target="#esquisse-add-in">esquisse add-in</a></li>
+  <li><a href="#fable-time-series-forecasting-models" id="toc-fable-time-series-forecasting-models" class="nav-link" data-scroll-target="#fable-time-series-forecasting-models">fable: Time Series Forecasting Models</a></li>
+  <li><a href="#funneljoin-time-based-joins-for-event-sequences" id="toc-funneljoin-time-based-joins-for-event-sequences" class="nav-link" data-scroll-target="#funneljoin-time-based-joins-for-event-sequences">funneljoin: Time-Based Joins for Event Sequences</a></li>
+  <li><a href="#grateful-facilitate-citation-of-r-packages" id="toc-grateful-facilitate-citation-of-r-packages" class="nav-link" data-scroll-target="#grateful-facilitate-citation-of-r-packages">grateful: Facilitate Citation of R Packages 💯</a></li>
+  <li><a href="#parameters-process-statistical-model-parameters" id="toc-parameters-process-statistical-model-parameters" class="nav-link" data-scroll-target="#parameters-process-statistical-model-parameters">parameters: Process Statistical Model Parameters 💯</a></li>
+  <li><a href="#pipediff-great-for-teaching" id="toc-pipediff-great-for-teaching" class="nav-link" data-scroll-target="#pipediff-great-for-teaching">pipediff 💯💯 [Great for Teaching]</a></li>
+  <li><a href="#session_info-print-session-information" id="toc-session_info-print-session-information" class="nav-link" data-scroll-target="#session_info-print-session-information">session_info: Print Session Information</a></li>
+  <li><a href="#tidycountries-access-and-manipulate-country-level-data" id="toc-tidycountries-access-and-manipulate-country-level-data" class="nav-link" data-scroll-target="#tidycountries-access-and-manipulate-country-level-data">tidycountries: Access and Manipulate Country-Level Data 💯</a></li>
+  <li><a href="#widyr-widen-process-and-re-tidy-a-dataset" id="toc-widyr-widen-process-and-re-tidy-a-dataset" class="nav-link" data-scroll-target="#widyr-widen-process-and-re-tidy-a-dataset">widyr: Widen, Process, and Re-Tidy a Dataset 💯</a></li>
+  </ul>
+<div class="toc-actions"><ul><li><a href="https://github.com/Joscelinrocha/resouRces/edit/main/resources/joscelins_faves.qmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/Joscelinrocha/resouRces/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li></ul></div></nav>
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
-<header id="title-block-header" class="quarto-title-block default">
+<header id="title-block-header" class="quarto-title-block default"><nav class="quarto-page-breadcrumbs quarto-title-breadcrumbs d-none d-lg-block" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../resources/joscelins_faves.html">Extra</a></li><li class="breadcrumb-item"><a href="../resources/joscelins_faves.html">Joscelin’s Fav Packages &amp; Functions</a></li></ol></nav>
 <div class="quarto-title">
-<h1 class="title d-none d-lg-block">Joscelin’s Favorite Packages &amp; Functions</h1>
+<h1 class="title">Joscelin’s Favorite Packages &amp; Functions</h1>
 </div>
 
 
@@ -308,125 +372,136 @@ ul.task-list li input[type="checkbox"] {
   </div>
   
 
+
 </header>
+
 
 <p><link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/JoscelinRocha"><img src="https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg" alt="Buy me a coffee" width="15" height="21">Buy me a coffee</a></p>
 <hr>
-<ul>
-<li>❇️ <a href="https://pakillo.github.io/grateful/">grateful: Facilitate citation of R packages</a> 💯
-<ul>
-<li>Added Mon Apr 24, 2023</li>
-</ul></li>
-</ul>
-<p>The goal of <strong>grateful</strong> is to make it very easy to cite R and the R packages used in any analyses, so that package authors receive their deserved credit. By calling a single function, <strong>grateful</strong> will scan the project for R packages used and generate a BibTeX file containing all citations for those packages.</p>
-<p><strong>grateful</strong> can then generate a new document with citations in the desired output format (Word, PDF, HTML, Markdown). These references can be formatted for a specific journal, so that we can just paste them directly into our manuscript or report.</p>
-<ul>
-<li>Link to package: <a href="https://pakillo.github.io/grateful/" class="uri">https://pakillo.github.io/grateful/</a></li>
-</ul>
-<!-- -->
-<ul>
-<li>❇️ <a href="https://github.com/dgrtwo/widyr">widyr: Widen, process, and re-tidy a dataset</a> 💯</li>
-</ul>
-<p>This a package developed by David Robinson, Julia Siege and Kanishka Misra that un-tidys the dataset into a wide matrix, performs some processing, then re-tidys the dataset. This package wraps the pattern of un-tidying data into a wide matrix, performing some processing, then turning it back into a tidy form. This is useful for several mathematical operations such as co-occurrence counts, correlations, or clustering that are best done on a wide matrix. 1. Link to repo here: https://github.com/dgrtwo/widyr</p>
-<ul>
-<li>❇️ <a href="http://www.danieldsjoberg.com/rmedicine-gtsummary/#1">Reproducibility with {gtsummary} by Daniel D. Sjoberg and Karissa Whiting</a> 💯
-<ul>
-<li>Link to slides here: <a href="http://www.danieldsjoberg.com/rmedicine-gtsummary/#1" class="uri">http://www.danieldsjoberg.com/rmedicine-gtsummary/#1</a></li>
-</ul></li>
-</ul>
-<!-- -->
-<ul>
-<li><p>❇️ <a href="https://github.com/clauswilke/colorblindr">colorblindr by Claire D. McWhite &amp; Claus O. Wilke</a></p>
+<section id="acadyr-work-with-financial-and-academic-years-in-r" class="level2">
+<h2 class="anchored" data-anchor-id="acadyr-work-with-financial-and-academic-years-in-r">acadyr: Work with Financial and Academic Years in R 💯</h2>
+<p>By Wurli</p>
+<p>Added Thu Feb 20, 2025</p>
 <p><strong>What is this?</strong></p>
-<p>Simulate colorblindness in production-ready R figures. 💯</p>
-<ul>
-<li>Link to repo here: <a href="https://github.com/clauswilke/colorblindr" class="uri">https://github.com/clauswilke/colorblindr</a></li>
-<li>Link to the simulator: <a href="http://hclwizard.org/cvdemulator/" class="uri">http://hclwizard.org/cvdemulator/</a></li>
-</ul></li>
-</ul>
-<!-- -->
-<ul>
-<li><p><a href="https://github.com/jonocarroll/ggeasy">ggeasy</a> 💯 This package makes using ggplot2 way much easier. Check it out.</p></li>
-<li><p>❇️ <a href="https://dillonhammill.github.io/DataEditR/">DataEditR by Dillon Hammill</a>💯 <strong>What is this?</strong> Manual data entry and editing in R can be tedious, especially if you have limited coding experience and are accustomed to using software with a Graphical User Interface (GUI). DataEditR is an R package built on shiny and rhandsontable that makes it easy to interactively view, enter, filter and edit data. If you are new to DataEditR visit https://dillonhammill.github.io/DataEditR/ to get started.</p>
-<ul>
-<li>Link to package’s site here: <a href="https://dillonhammill.github.io/DataEditR/" class="uri">https://dillonhammill.github.io/DataEditR/</a></li>
-</ul></li>
-</ul>
-<!-- -->
-<ul>
-<li><p>❇️ <a href="https://cran.r-project.org/web/packages/magick/vignettes/intro.html#Installing_magick">The magick package: Advanced Image-Processing in R</a>: The new magick package is an ambitious effort to modernize and simplify high-quality image processing in R. It wraps the ImageMagick STL which is perhaps the most comprehensive open-source image processing library available today.</p></li>
-<li><p>❇️ <strong>See slides as tiles!:</strong> if you use xaringan: install {xaringanExtra} and add this chunk to the beginning of your slides to get this nifty tile overview! (press “o” to see it: xaringanExtra::use)_xaringan_extra(c(“title_view”)</p></li>
-<li><p>❇️ <a href="https://www.rdocumentation.org/packages/base/versions/3.6.2/topics/traceback">traceback</a>: By default traceback() prints the call stack of the last uncaught error, i.e., the sequence of calls that lead to the error. This is useful when an error occurs with an unidentifiable error message. It can also be used to print the current stack or arbitrary lists of deparsed calls.</p></li>
-<li><p>❇️ <a href="https://stat.ethz.ch/R-manual/R-devel/library/base/html/debug.html">debug</a>: Set, unset or query the debugging flag on a function. The text and condition arguments are the same as those that can be supplied via a call to browser. They can be retrieved by the user once the browser has been entered, and provide a mechanism to allow users to identify which breakpoint has been activated.</p></li>
-<li><p>❇️ <a href="https://github.com/mtennekes/tmap">tmap</a>: visualizing spatiotemporal data. This package allows you to create thematic maps.</p>
-<ul>
-<li><p>Link to repo: <a href="https://github.com/mtennekes/tmap" class="uri">https://github.com/mtennekes/tmap</a></p></li>
-<li><p>Link to repo: <a href="https://cran.r-project.org/web/packages/tmap/vignettes/tmap-getstarted.html" class="uri">https://cran.r-project.org/web/packages/tmap/vignettes/tmap-getstarted.html</a></p></li>
-</ul></li>
-</ul>
-<!-- -->
-<ul>
-<li>❇️ <a href="https://arrow.apache.org/docs/r/">Arrow</a>: The arrow package, created by Ursa Labs allows for the fast loading and processing of large data.
-<ul>
-<li>Link to repo: <a href="https://arrow.apache.org/docs/r/" class="uri">https://arrow.apache.org/docs/r/</a></li>
-</ul></li>
-</ul>
-<!-- -->
-<ul>
-<li>❇️ <a href="https://github.com/robinsones/funneljoin">funneljoin</a>: allows you to do time-based joins to analyze a sequence of events. With this package you can analyze behavior funnels.
-<ul>
-<li>Link to blog here: <a href="https://hookedondata.org/introducing-the-funneljoin-package/" class="uri">https://hookedondata.org/introducing-the-funneljoin-package/</a></li>
-<li>Link to repo here: <a href="https://github.com/robinsones/funneljoin" class="uri">https://github.com/robinsones/funneljoin</a></li>
-</ul></li>
-</ul>
-<!-- -->
-<ul>
-<li>❇️ <a href="https://github.com/tidyverts/fable">fable</a>: Fable provides a collection of time series forecasting models. According to the fables READ.me on Github, these models work within the fable framework, which provides the tools to evaluate, visualize, and combine models in a workflow consistent with the tidyverse.
-<ul>
-<li>Link to repo: <a href="https://github.com/tidyverts/fable" class="uri">https://github.com/tidyverts/fable</a></li>
-</ul></li>
-</ul>
-<!-- -->
-<ul>
-<li>❇️ <a href="https://easystats.github.io/parameters/index.html">parameters</a>💯: parameters’ primary goal is to provide utilities for processing the parameters of various statistical models (see here for a list of supported models). Beyond computing p-values, CIs, Bayesian indices and other measures for a wide variety of models, this package implements features like bootstrapping of parameters and models, feature reduction (feature extraction and variable selection), or tools for data reduction like functions to perform cluster, factor or principal component analysis.
-<ul>
-<li>Another important goal of the parameters package is to facilitate and streamline the process of reporting results of statistical models, which includes the easy and intuitive calculation of standardized estimates or robust standard errors and p-values. parameters therefor offers a simple and unified syntax to process a large variety of (model) objects from many different packages.</li>
-<li>Link to repo: <a href="https://easystats.github.io/parameters/reference/index.html#section-factors-and-principal-components" class="uri">https://easystats.github.io/parameters/reference/index.html#section-factors-and-principal-components</a></li>
-</ul></li>
-</ul>
-<!-- -->
-<ul>
-<li><p>❇️ <a href="https://github.com/moodymudskipper/pipediff">pipediff</a>💯💯 <strong>[GREAT FOR TEACHING]</strong>: <code>pipediff()</code> Overrides the pipe <code>%&gt;%</code> in the caller environment, the newly created pipe displays in the viewer the diffs between steps, then self destruct (so <code>pipediff()</code> works "only once", a bit like `debugonce()).</p>
-<p><code>pipediff(once = FALSE)</code> makes the change permanent in the caller environment until <code>pipediff::pipereset()</code> is called.</p>
-<ul>
-<li>Link to repo: <a href="https://github.com/moodymudskipper/pipediff" class="uri">https://github.com/moodymudskipper/pipediff</a></li>
-</ul></li>
-</ul>
-<!-- -->
-<ul>
-<li>❇️ <a href="https://github.com/dreamRs/esquisse">esquisse add-in</a> <em>Added Feb 2nd, 2022</em><br>
-Excerpt from site: This addin allows you to interactively explore your data by visualizing it with the ggplot2 package. It allows you to draw bar plots, curves, scatter plots, histograms, boxplot and sf objects, then export the graph or retrieve the code to reproduce the graph.
-<ul>
-<li>See online documentation : <a href="https://dreamrs.github.io/esquisse/index.html" class="uri">https://dreamrs.github.io/esquisse/index.html</a></li>
-</ul></li>
-<li>Link to package here: https://github.com/dreamRs/esquisse</li>
-</ul>
-<!-- -->
-<ul>
-<li>❇️ <a href="https://easystats.github.io/correlation/reference/correlation.html">correlation</a> <em>Added Feb 2nd, 2022</em>
-<ul>
-<li><strong>Excerpt from site:</strong> Performs a correlation analysis.</li>
-<li>Link to package here: <a href="https://easystats.github.io/correlation/reference/correlation.html" class="uri">https://easystats.github.io/correlation/reference/correlation.html</a></li>
-</ul></li>
-</ul>
-<!-- -->
-<ul>
-<li>❇️ <a href="https://rdrr.io/cran/sessioninfo/man/session_info.html">session_info: Print session information</a> <em>Added Feb 2nd, 2022</em>
-<ul>
-<li><strong>Excerpt from site:</strong> Performs a correlation analysis.</li>
-<li>Link to function here: https://rdrr.io/cran/sessioninfo/man/session_info.html</li>
-</ul></li>
-</ul>
+<p>The <strong>acadyr</strong> package provides utility functions for creating and working with financial and academic years in R. It addresses challenges associated with non-calendar year types, such as differing start dates and formatting complexities. The package allows users to define financial or academic years with customizable start dates, facilitating seamless integration into data analysis workflows. Additionally, <strong>acadyr</strong> ensures compatibility with visualization tools like <strong>ggplot2</strong>, enabling clear and accurate representation of data categorized by these non-standard years.</p>
+<ol type="1">
+<li>Link to package here: <a href="https://wurli.github.io/acadyr/" class="uri">https://wurli.github.io/acadyr/</a></li>
+</ol>
+</section>
+<section id="analyzing-international-survey-data-with-the-pewmethods-r-package" class="level2">
+<h2 class="anchored" data-anchor-id="analyzing-international-survey-data-with-the-pewmethods-r-package">Analyzing International Survey Data with the pewmethods R Package</h2>
+<p>Added Thu Feb 20, 2025</p>
+<p><strong>What is this?</strong></p>
+<p>This article introduces the <strong>pewmethods</strong> R package, designed to facilitate the analysis of international survey data. The package streamlines the process of converting individual-level data to country-level summaries, enabling researchers to efficiently analyze and interpret survey results. By providing tools for data transformation and weighting, <strong>pewmethods</strong> enhances the accuracy and comparability of cross-national survey analyses.</p>
+<ol type="1">
+<li>Link to article: <a href="https://medium.com/pew-research-center-decoded/analyzing-international-survey-data-with-the-pewmethods-r-package-3b0b21cba607" class="uri">https://medium.com/pew-research-center-decoded/analyzing-international-survey-data-with-the-pewmethods-r-package-3b0b21cba607</a></li>
+</ol>
+</section>
+<section id="arrow-fast-loading-and-processing-of-large-data" class="level2">
+<h2 class="anchored" data-anchor-id="arrow-fast-loading-and-processing-of-large-data">Arrow: Fast Loading and Processing of Large Data</h2>
+<p>Added Thu Feb 20, 2025</p>
+<p><strong>What is this?</strong></p>
+<p>The <strong>arrow</strong> package, created by Ursa Labs, allows for fast loading and processing of large datasets in R. It supports efficient data interchange, making it an essential tool for handling large-scale data workflows</p>
+<ol type="1">
+<li>Link to package: <a href="https://arrow.apache.org/docs/r/" class="uri">https://arrow.apache.org/docs/r/</a></li>
+</ol>
+</section>
+<section id="colorblindr-by-claire-d.-mcwhite-claus-o.-wilke" class="level2">
+<h2 class="anchored" data-anchor-id="colorblindr-by-claire-d.-mcwhite-claus-o.-wilke">colorblindr by Claire D. McWhite &amp; Claus O. Wilke 💯</h2>
+<p><strong>What is this?</strong></p>
+<p>Simulate colorblindness in production-ready R figures to ensure accessibility in visualizations.</p>
+<ol type="1">
+<li><p>Link to repo: <a href="https://github.com/clauswilke/colorblindr" class="uri">https://github.com/clauswilke/colorblindr</a></p></li>
+<li><p>Link to simulator: <a href="http://hclwizard.org/cvdemulator/" class="uri">http://hclwizard.org/cvdemulator/</a></p></li>
+</ol>
+</section>
+<section id="correlation-perform-correlation-analysis" class="level2">
+<h2 class="anchored" data-anchor-id="correlation-perform-correlation-analysis">correlation: Perform Correlation Analysis</h2>
+<p>Added Feb 2nd, 2022</p>
+<p><strong>What is this?</strong></p>
+<p>Performs a correlation analysis with various statistical measures.</p>
+<ol type="1">
+<li>Link to package: <a href="https://easystats.github.io/correlation/reference/correlation.html" class="uri">https://easystats.github.io/correlation/reference/correlation.html</a></li>
+</ol>
+</section>
+<section id="dataeditr-by-dillon-hammill" class="level2">
+<h2 class="anchored" data-anchor-id="dataeditr-by-dillon-hammill">DataEditR by Dillon Hammill 💯</h2>
+<p><strong>What is this?</strong></p>
+<p><strong>DataEditR</strong> is an interactive tool for manual data entry and editing in R. Built on <strong>shiny</strong> and <strong>rhandsontable</strong>, it makes filtering and editing data easier, especially for users with limited coding experience.</p>
+<ol type="1">
+<li>Link to package: <a href="https://dillonhammill.github.io/DataEditR/" class="uri">https://dillonhammill.github.io/DataEditR/</a></li>
+</ol>
+</section>
+<section id="ellmer-chat-with-large-language-models" class="level2">
+<h2 class="anchored" data-anchor-id="ellmer-chat-with-large-language-models"><a href="https://ellmer.tidyverse.org/">ellmer: Chat with Large Language Models</a> 💯</h2>
+<p>By Hadley Wickham</p>
+<p>Added Thu Feb 20, 2025</p>
+<p><strong>What is this?</strong></p>
+<p><strong>ellmer</strong> is an R package that facilitates interaction with large language models (LLMs) from various providers directly within R. It supports multiple LLM providers, including OpenAI, Anthropic’s Claude, Google Gemini, and more. Key features of ellmer include streaming outputs, tool/function calling, and structured data extraction, enhancing the integration of LLM capabilities into R workflows.</p>
+<ol type="1">
+<li>Link to package here: <a href="https://ellmer.tidyverse.org/" class="uri">https://ellmer.tidyverse.org/</a></li>
+</ol>
+</section>
+<section id="esquisse-add-in" class="level2">
+<h2 class="anchored" data-anchor-id="esquisse-add-in">esquisse add-in</h2>
+<p>Added Feb 2nd, 2022</p>
+<p><strong>What is this?</strong></p>
+<p>An RStudio add-in for interactively exploring and visualizing data with <strong>ggplot2</strong>. Users can create and export plots with ease.</p>
+<ol type="1">
+<li><p>Link to package: <a href="https://github.com/dreamRs/esquisse" class="uri">https://github.com/dreamRs/esquisse</a></p></li>
+<li><p>Online documentation: <a href="https://dreamrs.github.io/esquisse/index.html" class="uri">https://dreamrs.github.io/esquisse/index.html</a></p></li>
+</ol>
+</section>
+<section id="fable-time-series-forecasting-models" class="level2">
+<h2 class="anchored" data-anchor-id="fable-time-series-forecasting-models">fable: Time Series Forecasting Models</h2>
+<p><strong>What is this?</strong></p>
+<p><strong>Fable</strong> provides a collection of time series forecasting models that integrate with the <strong>tidyverse</strong> framework, making model evaluation and visualization straightforward.</p>
+<ol type="1">
+<li>Link to package: <a href="https://github.com/tidyverts/fable" class="uri">https://github.com/tidyverts/fable</a></li>
+</ol>
+</section>
+<section id="funneljoin-time-based-joins-for-event-sequences" class="level2">
+<h2 class="anchored" data-anchor-id="funneljoin-time-based-joins-for-event-sequences">funneljoin: Time-Based Joins for Event Sequences</h2>
+<p><strong>What is this?</strong></p>
+<p>Analyze behavior funnels by performing time-based joins with <strong>funneljoin</strong>.</p>
+<ol type="1">
+<li><p>Link to blog: <a href="https://hookedondata.org/introducing-the-funneljoin-package/" class="uri">https://hookedondata.org/introducing-the-funneljoin-package/</a></p></li>
+<li><p>Link to package: <a href="https://github.com/robinsones/funneljoin" class="uri">https://github.com/robinsones/funneljoin</a></p></li>
+</ol>
+</section>
+<section id="grateful-facilitate-citation-of-r-packages" class="level2">
+<h2 class="anchored" data-anchor-id="grateful-facilitate-citation-of-r-packages">grateful: Facilitate Citation of R Packages 💯</h2>
+<p>Added Mon Apr 24, 2023</p>
+<p><strong>What is this?</strong></p>
+<p><strong>grateful</strong> makes it easy to cite R and its packages in analyses by generating a BibTeX file of citations for used packages.</p>
+<ol type="1">
+<li>Link to package: <a href="https://pakillo.github.io/grateful/" class="uri">https://pakillo.github.io/grateful/</a></li>
+</ol>
+</section>
+<section id="parameters-process-statistical-model-parameters" class="level2">
+<h2 class="anchored" data-anchor-id="parameters-process-statistical-model-parameters">parameters: Process Statistical Model Parameters 💯</h2>
+<p><strong>What is this?</strong></p>
+<p>Provides tools for computing p-values, confidence intervals, Bayesian indices, and variable selection across various statistical models.</p>
+<ol type="1">
+<li>Link to package: <a href="https://easystats.github.io/parameters/" class="uri">https://easystats.github.io/parameters/</a></li>
+</ol>
+</section>
+<section id="pipediff-great-for-teaching" class="level2">
+<h2 class="anchored" data-anchor-id="pipediff-great-for-teaching">pipediff 💯💯 [Great for Teaching]</h2>
+<p><strong>What is this?</strong></p>
+<p>Overrides <code>%&gt;%</code> in the caller environment to display differences between pipe steps. Useful for debugging and teaching.</p>
+<ol type="1">
+<li>Link to package: <a href="https://github.com/moodymudskipper/pipediff" class="uri">https://github.com/moodymudskipper/pipediff</a></li>
+</ol>
+</section>
+<section id="session_info-print-session-information" class="level2">
+<h2 class="anchored" data-anchor-id="session_info-print-session-information">session_info: Print Session Information</h2>
+<p>Added Feb 2nd, 2022</p>
+<p><strong>What is this?</strong></p>
+<p>Provides detailed session information, useful for debugging and reproducibility.</p>
+<ol type="1">
+<li>Link to function: <a href="https://rdrr.io/cran/sessioninfo/man/session_info.html" class="uri">https://rdrr.io/cran/sessioninfo/man/session_info.html</a></li>
+</ol>
 <blockquote class="blockquote">
 <p>*** <em>What I like to use if I want a list of all packages with an asterisk if I have them in this script:</em> library(sessioninfo)</p>
 </blockquote>
@@ -437,8 +512,26 @@ session_info(pkgs="!loaded", to_file = TRUE)</code></pre>
 </blockquote>
 <pre><code>library(sessioninfo)
 session_info(pkgs="!attached", to_file = TRUE)</code></pre>
+</section>
+<section id="tidycountries-access-and-manipulate-country-level-data" class="level2">
+<h2 class="anchored" data-anchor-id="tidycountries-access-and-manipulate-country-level-data">tidycountries: Access and Manipulate Country-Level Data 💯</h2>
+<p>Added Thu Feb 20, 2025</p>
+<p><strong>What is this?</strong></p>
+<p>Provides country-level data (names, regions, populations, etc.) in a <strong>tidy</strong> format for easy integration with <strong>tidyverse</strong> workflows.</p>
+<ol type="1">
+<li>Link to package: <a href="https://denironyx.github.io/tidycountries/" class="uri">https://denironyx.github.io/tidycountries/</a></li>
+</ol>
+</section>
+<section id="widyr-widen-process-and-re-tidy-a-dataset" class="level2">
+<h2 class="anchored" data-anchor-id="widyr-widen-process-and-re-tidy-a-dataset">widyr: Widen, Process, and Re-Tidy a Dataset 💯</h2>
+<p><strong>What is this?</strong></p>
+<p>Transforms datasets between wide and tidy formats, enabling co-occurrence counts, correlations, and clustering operations.</p>
+<ol type="1">
+<li>Link to package: <a href="https://github.com/dgrtwo/widyr" class="uri">https://github.com/dgrtwo/widyr</a></li>
+</ol>
 
 
+</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
@@ -482,6 +575,33 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       } else {
         el.classList.add('notransition');
       }
+    }
+  }
+  const toggleGiscusIfUsed = (isAlternate, darkModeDefault) => {
+    const baseTheme = document.querySelector('#giscus-base-theme')?.value ?? 'light';
+    const alternateTheme = document.querySelector('#giscus-alt-theme')?.value ?? 'dark';
+    let newTheme = '';
+    if(darkModeDefault) {
+      newTheme = isAlternate ? baseTheme : alternateTheme;
+    } else {
+      newTheme = isAlternate ? alternateTheme : baseTheme;
+    }
+    const changeGiscusTheme = () => {
+      // From: https://github.com/giscus/giscus/issues/336
+      const sendMessage = (message) => {
+        const iframe = document.querySelector('iframe.giscus-frame');
+        if (!iframe) return;
+        iframe.contentWindow.postMessage({ giscus: message }, 'https://giscus.app');
+      }
+      sendMessage({
+        setConfig: {
+          theme: newTheme
+        }
+      });
+    }
+    const isGiscussLoaded = window.document.querySelector('iframe.giscus-frame') !== null;
+    if (isGiscussLoaded) {
+      changeGiscusTheme();
     }
   }
   const toggleColorMode = (alternate) => {
@@ -550,13 +670,15 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       return localAlternateSentinel;
     }
   }
-  let localAlternateSentinel = 'default';
+  const darkModeDefault = false;
+  let localAlternateSentinel = darkModeDefault ? 'alternate' : 'default';
   // Dark / light mode switch
   window.quartoToggleColorScheme = () => {
     // Read the current dark / light value 
     let toAlternate = !hasAlternateSentinel();
     toggleColorMode(toAlternate);
     setStyleSentinel(toAlternate);
+    toggleGiscusIfUsed(toAlternate, darkModeDefault);
   };
   // Ensure there is a toggle, if there isn't float one in the top right
   if (window.document.querySelector('.quarto-color-scheme-toggle') === null) {
@@ -583,12 +705,15 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     icon: icon
   };
   anchorJS.add('.anchored');
-  const clipboard = new window.ClipboardJS('.code-copy-button', {
-    target: function(trigger) {
-      return trigger.previousElementSibling;
+  const isCodeAnnotation = (el) => {
+    for (const clz of el.classList) {
+      if (clz.startsWith('code-annotation-')) {                     
+        return true;
+      }
     }
-  });
-  clipboard.on('success', function(e) {
+    return false;
+  }
+  const onCopySuccess = function(e) {
     // button target
     const button = e.trigger;
     // don't keep focus
@@ -620,11 +745,50 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     }, 1000);
     // clear code selection
     e.clearSelection();
+  }
+  const getTextToCopy = function(trigger) {
+      const codeEl = trigger.previousElementSibling.cloneNode(true);
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
+        }
+      }
+      return codeEl.innerText;
+  }
+  const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
+    text: getTextToCopy
   });
-  function tippyHover(el, contentFn) {
+  clipboard.on('success', onCopySuccess);
+  if (window.document.getElementById('quarto-embedded-source-code-modal')) {
+    // For code content inside modals, clipBoardJS needs to be initialized with a container option
+    // TODO: Check when it could be a function (https://github.com/zenorocha/clipboard.js/issues/860)
+    const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
+      text: getTextToCopy,
+      container: window.document.getElementById('quarto-embedded-source-code-modal')
+    });
+    clipboardModal.on('success', onCopySuccess);
+  }
+    var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
+    var mailtoRegex = new RegExp(/^mailto:/);
+      var filterRegex = new RegExp("https:\/\/www\.resourcesdatabase\.com\/");
+    var isInternal = (href) => {
+        return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
+    }
+    // Inspect non-navigation links and adorn them if external
+ 	var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool):not(.about-link)');
+    for (var i=0; i<links.length; i++) {
+      const link = links[i];
+      if (!isInternal(link.href)) {
+        // undo the damage that might have been done by quarto-nav.js in the case of
+        // links that we want to consider external
+        if (link.dataset.originalHref !== undefined) {
+          link.href = link.dataset.originalHref;
+        }
+      }
+    }
+  function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
     const config = {
       allowHTML: true,
-      content: contentFn,
       maxWidth: 500,
       delay: 100,
       arrow: false,
@@ -634,8 +798,17 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       interactive: true,
       interactiveBorder: 10,
       theme: 'quarto',
-      placement: 'bottom-start'
+      placement: 'bottom-start',
     };
+    if (contentFn) {
+      config.content = contentFn;
+    }
+    if (onTriggerFn) {
+      config.onTrigger = onTriggerFn;
+    }
+    if (onUntriggerFn) {
+      config.onUntrigger = onUntriggerFn;
+    }
     window.tippy(el, config); 
   }
   const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
@@ -647,9 +820,245 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       try { href = new URL(href).hash; } catch {}
       const id = href.replace(/^#\/?/, "");
       const note = window.document.getElementById(id);
-      return note.innerHTML;
+      if (note) {
+        return note.innerHTML;
+      } else {
+        return "";
+      }
     });
   }
+  const xrefs = window.document.querySelectorAll('a.quarto-xref');
+  const processXRef = (id, note) => {
+    // Strip column container classes
+    const stripColumnClz = (el) => {
+      el.classList.remove("page-full", "page-columns");
+      if (el.children) {
+        for (const child of el.children) {
+          stripColumnClz(child);
+        }
+      }
+    }
+    stripColumnClz(note)
+    if (id === null || id.startsWith('sec-')) {
+      // Special case sections, only their first couple elements
+      const container = document.createElement("div");
+      if (note.children && note.children.length > 2) {
+        container.appendChild(note.children[0].cloneNode(true));
+        for (let i = 1; i < note.children.length; i++) {
+          const child = note.children[i];
+          if (child.tagName === "P" && child.innerText === "") {
+            continue;
+          } else {
+            container.appendChild(child.cloneNode(true));
+            break;
+          }
+        }
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(container);
+        }
+        return container.innerHTML
+      } else {
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(note);
+        }
+        return note.innerHTML;
+      }
+    } else {
+      // Remove any anchor links if they are present
+      const anchorLink = note.querySelector('a.anchorjs-link');
+      if (anchorLink) {
+        anchorLink.remove();
+      }
+      if (window.Quarto?.typesetMath) {
+        window.Quarto.typesetMath(note);
+      }
+      // TODO in 1.5, we should make sure this works without a callout special case
+      if (note.classList.contains("callout")) {
+        return note.outerHTML;
+      } else {
+        return note.innerHTML;
+      }
+    }
+  }
+  for (var i=0; i<xrefs.length; i++) {
+    const xref = xrefs[i];
+    tippyHover(xref, undefined, function(instance) {
+      instance.disable();
+      let url = xref.getAttribute('href');
+      let hash = undefined; 
+      if (url.startsWith('#')) {
+        hash = url;
+      } else {
+        try { hash = new URL(url).hash; } catch {}
+      }
+      if (hash) {
+        const id = hash.replace(/^#\/?/, "");
+        const note = window.document.getElementById(id);
+        if (note !== null) {
+          try {
+            const html = processXRef(id, note.cloneNode(true));
+            instance.setContent(html);
+          } finally {
+            instance.enable();
+            instance.show();
+          }
+        } else {
+          // See if we can fetch this
+          fetch(url.split('#')[0])
+          .then(res => res.text())
+          .then(html => {
+            const parser = new DOMParser();
+            const htmlDoc = parser.parseFromString(html, "text/html");
+            const note = htmlDoc.getElementById(id);
+            if (note !== null) {
+              const html = processXRef(id, note);
+              instance.setContent(html);
+            } 
+          }).finally(() => {
+            instance.enable();
+            instance.show();
+          });
+        }
+      } else {
+        // See if we can fetch a full url (with no hash to target)
+        // This is a special case and we should probably do some content thinning / targeting
+        fetch(url)
+        .then(res => res.text())
+        .then(html => {
+          const parser = new DOMParser();
+          const htmlDoc = parser.parseFromString(html, "text/html");
+          const note = htmlDoc.querySelector('main.content');
+          if (note !== null) {
+            // This should only happen for chapter cross references
+            // (since there is no id in the URL)
+            // remove the first header
+            if (note.children.length > 0 && note.children[0].tagName === "HEADER") {
+              note.children[0].remove();
+            }
+            const html = processXRef(null, note);
+            instance.setContent(html);
+          } 
+        }).finally(() => {
+          instance.enable();
+          instance.show();
+        });
+      }
+    }, function(instance) {
+    });
+  }
+      let selectedAnnoteEl;
+      const selectorForAnnotation = ( cell, annotation) => {
+        let cellAttr = 'data-code-cell="' + cell + '"';
+        let lineAttr = 'data-code-annotation="' +  annotation + '"';
+        const selector = 'span[' + cellAttr + '][' + lineAttr + ']';
+        return selector;
+      }
+      const selectCodeLines = (annoteEl) => {
+        const doc = window.document;
+        const targetCell = annoteEl.getAttribute("data-target-cell");
+        const targetAnnotation = annoteEl.getAttribute("data-target-annotation");
+        const annoteSpan = window.document.querySelector(selectorForAnnotation(targetCell, targetAnnotation));
+        const lines = annoteSpan.getAttribute("data-code-lines").split(",");
+        const lineIds = lines.map((line) => {
+          return targetCell + "-" + line;
+        })
+        let top = null;
+        let height = null;
+        let parent = null;
+        if (lineIds.length > 0) {
+            //compute the position of the single el (top and bottom and make a div)
+            const el = window.document.getElementById(lineIds[0]);
+            top = el.offsetTop;
+            height = el.offsetHeight;
+            parent = el.parentElement.parentElement;
+          if (lineIds.length > 1) {
+            const lastEl = window.document.getElementById(lineIds[lineIds.length - 1]);
+            const bottom = lastEl.offsetTop + lastEl.offsetHeight;
+            height = bottom - top;
+          }
+          if (top !== null && height !== null && parent !== null) {
+            // cook up a div (if necessary) and position it 
+            let div = window.document.getElementById("code-annotation-line-highlight");
+            if (div === null) {
+              div = window.document.createElement("div");
+              div.setAttribute("id", "code-annotation-line-highlight");
+              div.style.position = 'absolute';
+              parent.appendChild(div);
+            }
+            div.style.top = top - 2 + "px";
+            div.style.height = height + 4 + "px";
+            div.style.left = 0;
+            let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
+            if (gutterDiv === null) {
+              gutterDiv = window.document.createElement("div");
+              gutterDiv.setAttribute("id", "code-annotation-line-highlight-gutter");
+              gutterDiv.style.position = 'absolute';
+              const codeCell = window.document.getElementById(targetCell);
+              const gutter = codeCell.querySelector('.code-annotation-gutter');
+              gutter.appendChild(gutterDiv);
+            }
+            gutterDiv.style.top = top - 2 + "px";
+            gutterDiv.style.height = height + 4 + "px";
+          }
+          selectedAnnoteEl = annoteEl;
+        }
+      };
+      const unselectCodeLines = () => {
+        const elementsIds = ["code-annotation-line-highlight", "code-annotation-line-highlight-gutter"];
+        elementsIds.forEach((elId) => {
+          const div = window.document.getElementById(elId);
+          if (div) {
+            div.remove();
+          }
+        });
+        selectedAnnoteEl = undefined;
+      };
+        // Handle positioning of the toggle
+    window.addEventListener(
+      "resize",
+      throttle(() => {
+        elRect = undefined;
+        if (selectedAnnoteEl) {
+          selectCodeLines(selectedAnnoteEl);
+        }
+      }, 10)
+    );
+    function throttle(fn, ms) {
+    let throttle = false;
+    let timer;
+      return (...args) => {
+        if(!throttle) { // first call gets through
+            fn.apply(this, args);
+            throttle = true;
+        } else { // all the others get throttled
+            if(timer) clearTimeout(timer); // cancel #2
+            timer = setTimeout(() => {
+              fn.apply(this, args);
+              timer = throttle = false;
+            }, ms);
+        }
+      };
+    }
+      // Attach click handler to the DT
+      const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
+      for (const annoteDlNode of annoteDls) {
+        annoteDlNode.addEventListener('click', (event) => {
+          const clickedEl = event.target;
+          if (clickedEl !== selectedAnnoteEl) {
+            unselectCodeLines();
+            const activeEl = window.document.querySelector('dt[data-target-cell].code-annotation-active');
+            if (activeEl) {
+              activeEl.classList.remove('code-annotation-active');
+            }
+            selectCodeLines(clickedEl);
+            clickedEl.classList.add('code-annotation-active');
+          } else {
+            // Unselect the line
+            unselectCodeLines();
+            clickedEl.classList.remove('code-annotation-active');
+          }
+        });
+      }
   const findCites = (el) => {
     const parentEl = el.parentElement;
     if (parentEl) {
@@ -691,12 +1100,12 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 </script>
 <nav class="page-navigation">
   <div class="nav-page nav-page-previous">
-      <a href="../resources/workflows.html" class="pagination-link">
+      <a href="../resources/workflows.html" class="pagination-link" aria-label="Workflows">
         <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text">Workflows</span>
       </a>          
   </div>
   <div class="nav-page nav-page-next">
-      <a href="../resources/fun_extra.html" class="pagination-link">
+      <a href="../resources/fun_extra.html" class="pagination-link" aria-label="Other Fun Stuff">
         <span class="nav-page-text">Other Fun Stuff</span> <i class="bi bi-arrow-right-short"></i>
       </a>
   </div>
@@ -704,10 +1113,18 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 </div> <!-- /content -->
 <footer class="footer">
   <div class="nav-footer">
-    <div class="nav-footer-left">© Copyright 2023, Joscelin Rocha-Hidalgo</div>   
-    <div class="nav-footer-right">This page is built with <a href="https://quarto.org/">Quarto</a>.</div>
+    <div class="nav-footer-left">
+<p>© Copyright 2025, Joscelin Rocha-Hidalgo</p>
+</div>   
+    <div class="nav-footer-center">
+      &nbsp;
+    <div class="toc-actions d-sm-block d-md-none"><ul><li><a href="https://github.com/Joscelinrocha/resouRces/edit/main/resources/joscelins_faves.qmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/Joscelinrocha/resouRces/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li></ul></div></div>
+    <div class="nav-footer-right">
+<p>This page is built with <a href="https://quarto.org/">Quarto</a>.</p>
+</div>
   </div>
 </footer>
+
 
 
 

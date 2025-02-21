@@ -2,12 +2,12 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.2.335">
+<meta name="generator" content="quarto-1.5.57">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>../resouRces - Datasets</title>
+<title>Datasets – resouRces</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -17,7 +17,7 @@ div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
 ul.task-list{list-style: none;}
 ul.task-list li input[type="checkbox"] {
   width: 0.8em;
-  margin: 0 0.8em 0.2em -1.6em;
+  margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
 </style>
@@ -48,7 +48,13 @@ ul.task-list li input[type="checkbox"] {
   "collapse-after": 3,
   "panel-placement": "start",
   "type": "textbox",
-  "limit": 20,
+  "limit": 50,
+  "keyboard-shortcut": [
+    "f",
+    "/",
+    "s"
+  ],
+  "show-item-context": false,
   "language": {
     "search-no-results-text": "No results",
     "search-matching-documents-text": "matching documents",
@@ -57,21 +63,21 @@ ul.task-list li input[type="checkbox"] {
     "search-more-match-text": "more match in this document",
     "search-more-matches-text": "more matches in this document",
     "search-clear-button-title": "Clear",
+    "search-text-placeholder": "",
     "search-detached-cancel-button-title": "Cancel",
-    "search-submit-button-title": "Submit"
+    "search-submit-button-title": "Submit",
+    "search-label": "Search"
   }
 }</script>
 
 
-<meta property="og:title" content="../resouRces - Datasets">
-<meta property="og:description" content="Buy me a coffee">
-<meta property="og:site-name" content="../resouRces">
-<meta name="twitter:title" content="../resouRces - Datasets">
-<meta name="twitter:description" content="Buy me a coffee">
-<meta name="twitter:image" content="https://www.resourcesdatabase.com/images/twitter-card.png">
+<meta property="og:title" content="Datasets – resouRces">
+<meta property="og:description" content="Database of Resources to Learn &amp; Teach R">
+<meta property="og:site_name" content="resouRces">
+<meta name="twitter:title" content="Datasets – resouRces">
+<meta name="twitter:description" content="Database of Resources to Learn &amp; Teach R">
+<meta name="twitter:image" content="https://www.resourcesdatabase.com/resources/images/twitter-card.png">
 <meta name="twitter:creator" content="@JoscelinRocha">
-<meta name="twitter:image-height" content="1575">
-<meta name="twitter:image-width" content="2800">
 <meta name="twitter:card" content="summary_large_image">
 </head>
 
@@ -79,11 +85,16 @@ ul.task-list li input[type="checkbox"] {
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
-  <nav class="quarto-secondary-nav" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
-    <div class="container-fluid d-flex justify-content-between">
-      <h1 class="quarto-secondary-nav-title">Datasets</h1>
-      <button type="button" class="quarto-btn-toggle btn" aria-label="Show secondary navigation">
-        <i class="bi bi-chevron-right"></i>
+  <nav class="quarto-secondary-nav">
+    <div class="container-fluid d-flex">
+      <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" role="button" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+        <i class="bi bi-layout-text-sidebar-reverse"></i>
+      </button>
+        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../resources/art.html">Topics</a></li><li class="breadcrumb-item"><a href="../resources/datasets.html">Datasets</a></li></ol></nav>
+        <a class="flex-grow-1" role="navigation" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
+        </a>
+      <button type="button" class="btn quarto-search-button" aria-label="Search" onclick="window.quartoOpenSearch();">
+        <i class="bi bi-search"></i>
       </button>
     </div>
   </nav>
@@ -91,194 +102,225 @@ ul.task-list li input[type="checkbox"] {
 <!-- content -->
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article">
 <!-- sidebar -->
-  <nav id="quarto-sidebar" class="sidebar collapse sidebar-navigation docked overflow-auto">
+  <nav id="quarto-sidebar" class="sidebar collapse collapse-horizontal quarto-sidebar-collapse-item sidebar-navigation docked overflow-auto">
     <div class="pt-lg-2 mt-2 text-center sidebar-header">
       <a href="../index.html" class="sidebar-logo-link">
       <img src="../images/logo.png" alt="" class="sidebar-logo py-0 d-lg-inline d-none">
       </a>
       <div class="sidebar-tools-main tools-wide">
-    <a href="https://github.com/Joscelinrocha/resouRces" title="GitHub organization" class="sidebar-tool px-1"><i class="bi bi-github"></i></a>
-  <a href="" class="quarto-color-scheme-toggle sidebar-tool" onclick="window.quartoToggleColorScheme(); return false;" title="Toggle dark mode"><i class="bi"></i></a>
-  <a href="" class="quarto-reader-toggle sidebar-tool" onclick="window.quartoToggleReader(); return false;" title="Toggle reader mode">
+    <a href="https://github.com/Joscelinrocha/resouRces" title="GitHub organization" class="quarto-navigation-tool px-1" aria-label="GitHub organization"><i class="bi bi-github"></i></a>
+  <a href="" class="quarto-color-scheme-toggle quarto-navigation-tool  px-1" onclick="window.quartoToggleColorScheme(); return false;" title="Toggle dark mode"><i class="bi"></i></a>
+  <a href="" class="quarto-reader-toggle quarto-navigation-tool px-1" onclick="window.quartoToggleReader(); return false;" title="Toggle reader mode">
   <div class="quarto-reader-toggle-btn">
   <i class="bi"></i>
   </div>
 </a>
 </div>
       </div>
-      <div class="mt-2 flex-shrink-0 align-items-center">
+        <div class="mt-2 flex-shrink-0 align-items-center">
         <div class="sidebar-search">
         <div id="quarto-search" class="" title="Search"></div>
         </div>
-      </div>
+        </div>
     <div class="sidebar-menu-container"> 
     <ul class="list-unstyled mt-1">
         <li class="sidebar-item sidebar-item-section">
       <div class="sidebar-item-container"> 
-            <a class="sidebar-item-text sidebar-link text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-1" aria-expanded="false">About resouRces</a>
-          <a class="sidebar-item-toggle text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-1" aria-expanded="false">
+            <a class="sidebar-item-text sidebar-link text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-1" role="navigation" aria-expanded="false">
+ <span class="menu-text">About resouRces</span></a>
+          <a class="sidebar-item-toggle text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-1" role="navigation" aria-expanded="false" aria-label="Toggle section">
             <i class="bi bi-chevron-right ms-2"></i>
           </a> 
       </div>
       <ul id="quarto-sidebar-section-1" class="collapse list-unstyled sidebar-section depth1 ">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../database-overview.html" class="sidebar-item-text sidebar-link">Overview</a>
+  <a href="../database-overview.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Overview</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../team.html" class="sidebar-item-text sidebar-link">Procurement Team</a>
+  <a href="../team.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Procurement Team</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../database-faq.html" class="sidebar-item-text sidebar-link">FAQs</a>
+  <a href="../database-faq.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">FAQs</span></a>
   </div>
 </li>
       </ul>
   </li>
         <li class="sidebar-item sidebar-item-section">
       <div class="sidebar-item-container"> 
-            <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-2" aria-expanded="true">Topics</a>
-          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-2" aria-expanded="true">
+            <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-2" role="navigation" aria-expanded="true">
+ <span class="menu-text">Topics</span></a>
+          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-2" role="navigation" aria-expanded="true" aria-label="Toggle section">
             <i class="bi bi-chevron-right ms-2"></i>
           </a> 
       </div>
       <ul id="quarto-sidebar-section-2" class="collapse list-unstyled sidebar-section depth1 show">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../resources/art.html" class="sidebar-item-text sidebar-link">Art</a>
+  <a href="../resources/art.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Art</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../resources/dashboards_shiny.html" class="sidebar-item-text sidebar-link">Dashboards/Shiny</a>
+  <a href="../resources/dashboards_shiny.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Dashboards/Shiny</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../resources/data_science.html" class="sidebar-item-text sidebar-link">Data Science</a>
+  <a href="../resources/data_science.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Data Science</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../resources/datasets.html" class="sidebar-item-text sidebar-link active">Datasets</a>
+  <a href="../resources/datasets.html" class="sidebar-item-text sidebar-link active">
+ <span class="menu-text">Datasets</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../resources/docker.html" class="sidebar-item-text sidebar-link">Docker</a>
+  <a href="../resources/docker.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Docker</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../resources/eyetracking.html" class="sidebar-item-text sidebar-link">Eye-Tracking</a>
+  <a href="../resources/eyetracking.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Eye-Tracking</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../resources/r_to_python.html" class="sidebar-item-text sidebar-link">From R to Python</a>
+  <a href="../resources/r_to_python.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">From R to Python</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../resources/git.html" class="sidebar-item-text sidebar-link">GIT</a>
+  <a href="../resources/git.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">GIT</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../resources/learning_r.html" class="sidebar-item-text sidebar-link">Learning R</a>
+  <a href="../resources/learning_r.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Learning R</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../resources/machine_learning.html" class="sidebar-item-text sidebar-link">Machine Learning</a>
+  <a href="../resources/machine_learning.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Machine Learning</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../resources/making_websites_blogs.html" class="sidebar-item-text sidebar-link">Making Websites/Blogs</a>
+  <a href="../resources/making_websites_blogs.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Making Websites/Blogs</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../resources/meta-analyses_systematic_reviews.html" class="sidebar-item-text sidebar-link">Meta-Analyses &amp; Systematic Reviews</a>
+  <a href="../resources/meta-analyses_systematic_reviews.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Meta-Analyses &amp; Systematic Reviews</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../resources/packages_how_to.html" class="sidebar-item-text sidebar-link">Packages (How to)</a>
+  <a href="../resources/packages_how_to.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Packages (How to)</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../resources/presentations_slides.html" class="sidebar-item-text sidebar-link">Presentations/Slides</a>
+  <a href="../resources/presentations_slides.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Presentations/Slides</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../resources/quarto.html" class="sidebar-item-text sidebar-link">Quarto</a>
+  <a href="../resources/quarto.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Quarto</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../resources/prof_dev.html" class="sidebar-item-text sidebar-link">Resume-CVs-etc</a>
+  <a href="../resources/prof_dev.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Resume-CVs-etc</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../resources/r_for_neuro.html" class="sidebar-item-text sidebar-link">R for Neuro</a>
+  <a href="../resources/r_for_neuro.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">R for Neuro</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../resources/r_markdown.html" class="sidebar-item-text sidebar-link">RMarkdown</a>
+  <a href="../resources/r_markdown.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">RMarkdown</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../resources/statistics.html" class="sidebar-item-text sidebar-link">Statistics</a>
+  <a href="../resources/statistics.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Statistics</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../resources/teaching_r.html" class="sidebar-item-text sidebar-link">Teaching R</a>
+  <a href="../resources/teaching_r.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Teaching R</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../resources/visualization.html" class="sidebar-item-text sidebar-link">Visualization</a>
+  <a href="../resources/visualization.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Visualization</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../resources/workflows.html" class="sidebar-item-text sidebar-link">Workflows</a>
+  <a href="../resources/workflows.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Workflows</span></a>
   </div>
 </li>
       </ul>
   </li>
         <li class="sidebar-item sidebar-item-section">
       <div class="sidebar-item-container"> 
-            <a class="sidebar-item-text sidebar-link text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-3" aria-expanded="false">Extra</a>
-          <a class="sidebar-item-toggle text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-3" aria-expanded="false">
+            <a class="sidebar-item-text sidebar-link text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-3" role="navigation" aria-expanded="false">
+ <span class="menu-text">Extra</span></a>
+          <a class="sidebar-item-toggle text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-3" role="navigation" aria-expanded="false" aria-label="Toggle section">
             <i class="bi bi-chevron-right ms-2"></i>
           </a> 
       </div>
       <ul id="quarto-sidebar-section-3" class="collapse list-unstyled sidebar-section depth1 ">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../resources/joscelins_faves.html" class="sidebar-item-text sidebar-link">Joscelin’s Fav Packages &amp; Functions</a>
+  <a href="../resources/joscelins_faves.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Joscelin’s Fav Packages &amp; Functions</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../resources/fun_extra.html" class="sidebar-item-text sidebar-link">Other Fun Stuff</a>
+  <a href="../resources/fun_extra.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Other Fun Stuff</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../more_r_databases.html" class="sidebar-item-text sidebar-link">More R Resources Databases</a>
+  <a href="../more_r_databases.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">More R Resources Databases</span></a>
   </div>
 </li>
       </ul>
@@ -286,6 +328,7 @@ ul.task-list li input[type="checkbox"] {
     </ul>
     </div>
 </nav>
+<div id="quarto-sidebar-glass" class="quarto-sidebar-collapse-item" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item"></div>
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
         <nav id="TOC" role="doc-toc" class="toc-active">
@@ -301,6 +344,7 @@ ul.task-list li input[type="checkbox"] {
   <li><a href="#child-and-familia-data-archive-beta" id="toc-child-and-familia-data-archive-beta" class="nav-link" data-scroll-target="#child-and-familia-data-archive-beta">Child and Familia Data Archive (Beta)</a></li>
   <li><a href="#chicago-council-survey" id="toc-chicago-council-survey" class="nav-link" data-scroll-target="#chicago-council-survey">Chicago Council Survey</a></li>
   <li><a href="#cooperative-election-study-formerly-the-cooperative-congressional-election-study" id="toc-cooperative-election-study-formerly-the-cooperative-congressional-election-study" class="nav-link" data-scroll-target="#cooperative-election-study-formerly-the-cooperative-congressional-election-study">Cooperative Election Study: Formerly the Cooperative Congressional Election Study</a></li>
+  <li><a href="#crimedatasets-a-comprehensive-collection-of-crime-related-datasets" id="toc-crimedatasets-a-comprehensive-collection-of-crime-related-datasets" class="nav-link" data-scroll-target="#crimedatasets-a-comprehensive-collection-of-crime-related-datasets">crimedatasets: A Comprehensive Collection of Crime-Related Datasets 💯</a></li>
   <li><a href="#data-is-plural-archive" id="toc-data-is-plural-archive" class="nav-link" data-scroll-target="#data-is-plural-archive">Data is Plural archive</a></li>
   <li><a href="#data.gov" id="toc-data.gov" class="nav-link" data-scroll-target="#data.gov">Data.gov</a></li>
   <li><a href="#datasets-machine-learning-datasets" id="toc-datasets-machine-learning-datasets" class="nav-link" data-scroll-target="#datasets-machine-learning-datasets">Datasets: Machine learning datasets</a></li>
@@ -316,7 +360,7 @@ ul.task-list li input[type="checkbox"] {
   <li><a href="#nationals-center-for-education-statistics-longitudinal-studies" id="toc-nationals-center-for-education-statistics-longitudinal-studies" class="nav-link" data-scroll-target="#nationals-center-for-education-statistics-longitudinal-studies">Nationals Center for Education Statistics: Longitudinal Studies</a></li>
   <li><a href="#national-longitudinal-surveys--a-program-of-the-u.s.-bureau-of-labor-statistics" id="toc-national-longitudinal-surveys--a-program-of-the-u.s.-bureau-of-labor-statistics" class="nav-link" data-scroll-target="#national-longitudinal-surveys--a-program-of-the-u.s.-bureau-of-labor-statistics">National Longitudinal Surveys- A program of the U.S. Bureau of Labor Statistics</a></li>
   <li><a href="#national-epidemiologic-survey-on-alcohol-and-related-conditions-iii-nesarc-iii" id="toc-national-epidemiologic-survey-on-alcohol-and-related-conditions-iii-nesarc-iii" class="nav-link" data-scroll-target="#national-epidemiologic-survey-on-alcohol-and-related-conditions-iii-nesarc-iii">National Epidemiologic Survey on Alcohol and Related Conditions-III (NESARC-III)</a></li>
-  <li><a href="#national-couples-health-and-time-study-nchat" id="toc-national-couples-health-and-time-study-nchat" class="nav-link" data-scroll-target="#national-couples-health-and-time-study-nchat">National Couples' Health and Time Study (NCHAT)</a></li>
+  <li><a href="#national-couples-health-and-time-study-nchat" id="toc-national-couples-health-and-time-study-nchat" class="nav-link" data-scroll-target="#national-couples-health-and-time-study-nchat">National Couples’ Health and Time Study (NCHAT)</a></li>
   <li><a href="#open-data-from-city-of-new-york" id="toc-open-data-from-city-of-new-york" class="nav-link" data-scroll-target="#open-data-from-city-of-new-york">Open Data from city of New York</a></li>
   <li><a href="#open-datasets" id="toc-open-datasets" class="nav-link" data-scroll-target="#open-datasets">Open Datasets</a></li>
   <li><a href="#package-pain21" id="toc-package-pain21" class="nav-link" data-scroll-target="#package-pain21">Package “pain21”</a></li>
@@ -326,14 +370,14 @@ ul.task-list li input[type="checkbox"] {
   <li><a href="#survey-data-driving-the-insights" id="toc-survey-data-driving-the-insights" class="nav-link" data-scroll-target="#survey-data-driving-the-insights">Survey Data Driving the Insights</a></li>
   <li><a href="#world-population-data-sheet" id="toc-world-population-data-sheet" class="nav-link" data-scroll-target="#world-population-data-sheet">2022- World Population Data Sheet</a></li>
   </ul>
-<div class="toc-actions"><div><i class="bi bi-github"></i></div><div class="action-links"><p><a href="https://github.com/Joscelinrocha/resouRces/edit/main/resources/datasets.qmd" class="toc-action">Edit this page</a></p><p><a href="https://github.com/Joscelinrocha/resouRces/issues/new" class="toc-action">Report an issue</a></p></div></div></nav>
+<div class="toc-actions"><ul><li><a href="https://github.com/Joscelinrocha/resouRces/edit/main/resources/datasets.qmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/Joscelinrocha/resouRces/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li></ul></div></nav>
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
-<header id="title-block-header" class="quarto-title-block default">
+<header id="title-block-header" class="quarto-title-block default"><nav class="quarto-page-breadcrumbs quarto-title-breadcrumbs d-none d-lg-block" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../resources/art.html">Topics</a></li><li class="breadcrumb-item"><a href="../resources/datasets.html">Datasets</a></li></ol></nav>
 <div class="quarto-title">
-<h1 class="title d-none d-lg-block">Datasets</h1>
+<h1 class="title">Datasets</h1>
 </div>
 
 
@@ -346,7 +390,9 @@ ul.task-list li input[type="checkbox"] {
   </div>
   
 
+
 </header>
+
 
 <p><link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/JoscelinRocha"><img src="https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg" alt="Buy me a coffee" width="15" height="21">Buy me a coffee</a></p>
 <hr>
@@ -420,7 +466,7 @@ There are 1,236 data files included in the ARDA collection. You can browse files
 <h2 class="anchored" data-anchor-id="chicago-council-survey"><a href="https://globalaffairs.org/research/lester-crown-center-us-foreign-policy/chicago-council-survey">Chicago Council Survey</a></h2>
 <p>Added Fri Apr 28th, 2023</p>
 <p><strong>What is this?</strong><br>
-<strong>Excerpt from site:</strong> The Chicago Council Survey provides the most comprehensive view of&nbsp;American&nbsp;public opinion on critical US foreign policy issues,&nbsp;highlighting&nbsp;critical&nbsp;trends and&nbsp;shifts&nbsp;in thinking&nbsp;over time since 1974. The Council's polling experts,&nbsp;their annual&nbsp;report, and related&nbsp;topical briefs compose&nbsp;the Council's most recognized area of research. A&nbsp;signature area of study under the Lester Crown Center on US Foreign Policy, the Chicago Council Survey&nbsp;provides the public with a mechanism for sharing views with politicians and decision makers who each year cite the survey as a valuable resource for influencing policy debates.</p>
+<strong>Excerpt from site:</strong> The Chicago Council Survey provides the most comprehensive view of&nbsp;American&nbsp;public opinion on critical US foreign policy issues,&nbsp;highlighting&nbsp;critical&nbsp;trends and&nbsp;shifts&nbsp;in thinking&nbsp;over time since 1974. The Council’s polling experts,&nbsp;their annual&nbsp;report, and related&nbsp;topical briefs compose&nbsp;the Council’s most recognized area of research. A&nbsp;signature area of study under the Lester Crown Center on US Foreign Policy, the Chicago Council Survey&nbsp;provides the public with a mechanism for sharing views with politicians and decision makers who each year cite the survey as a valuable resource for influencing policy debates.</p>
 <ol type="1">
 <li>Link to the datasets: <a href="https://globalaffairs.org/research/lester-crown-center-us-foreign-policy/chicago-council-survey" class="uri">https://globalaffairs.org/research/lester-crown-center-us-foreign-policy/chicago-council-survey</a></li>
 </ol>
@@ -432,6 +478,16 @@ There are 1,236 data files included in the ARDA collection. You can browse files
 <p><strong>Excerpt from site:</strong> The CCES is a 50,000+ person national stratified sample survey administered by YouGov. Half of the questionnaire consists of&nbsp;<a href="http://projects.iq.harvard.edu/cces/book/common-content">Common Content</a>&nbsp;asked of all 50,000+ people, and half of the questionnaire consists of Team Content designed by each individual participating team and asked of a subset of 1,000 people.</p>
 <ol type="1">
 <li>Link to datasets here: <a href="https://cces.gov.harvard.edu/" class="uri">https://cces.gov.harvard.edu/</a></li>
+</ol>
+</section>
+<section id="crimedatasets-a-comprehensive-collection-of-crime-related-datasets" class="level2">
+<h2 class="anchored" data-anchor-id="crimedatasets-a-comprehensive-collection-of-crime-related-datasets"><a href="https://lightbluetitan.github.io/crimedatasets/">crimedatasets: A Comprehensive Collection of Crime-Related Datasets</a> 💯</h2>
+<p>By Renzo Caceres Rossi</p>
+<p>Added Thu Feb 20, 2025</p>
+<p><strong>What is this?</strong></p>
+<p>The <strong>crimedatasets</strong> package offers a comprehensive collection of datasets focused on crimes, criminal activities, and related topics. It serves as a valuable resource for researchers, analysts, and students interested in crime analysis, criminology, and socio-economic studies related to criminal behavior. The package includes datasets spanning global and local contexts, available in various structures such as tibbles, data frames, tables, and spatial data (simple features). Each dataset is named with a suffix indicating its structure, facilitating easy identification and usage.</p>
+<ol type="1">
+<li>Link to package here: <a href="https://lightbluetitan.github.io/crimedatasets/" class="uri">https://lightbluetitan.github.io/crimedatasets/</a></li>
 </ol>
 </section>
 <section id="data-is-plural-archive" class="level2">
@@ -570,10 +626,10 @@ There are 1,236 data files included in the ARDA collection. You can browse files
 </ol>
 </section>
 <section id="national-couples-health-and-time-study-nchat" class="level2">
-<h2 class="anchored" data-anchor-id="national-couples-health-and-time-study-nchat"><a href="https://pop.umn.edu/data/nchat">National Couples' Health and Time Study (NCHAT)</a></h2>
+<h2 class="anchored" data-anchor-id="national-couples-health-and-time-study-nchat"><a href="https://pop.umn.edu/data/nchat">National Couples’ Health and Time Study (NCHAT)</a></h2>
 <p>Added Fri Apr 28th, 2023</p>
 <p><strong>What is this?</strong></p>
-<p><strong>Excerpt from site:</strong> The National Couples' Health and Time Study (NCHAT) is a nationally-representative, multi-method study of cohabiting and married individuals ages 20 to 60 who were in a same- or different-gender couple in the United States during the COVID-19 pandemic. The sample includes 3,642 main respondents and 1,515 spouses/partners. The survey and time diary with experience sampling methods focus on relationship functioning, emotion regulation, discrimination, racial trauma, physical health, psychological well-being, health behaviors, stressors, and time use.</p>
+<p><strong>Excerpt from site:</strong> The National Couples’ Health and Time Study (NCHAT) is a nationally-representative, multi-method study of cohabiting and married individuals ages 20 to 60 who were in a same- or different-gender couple in the United States during the COVID-19 pandemic. The sample includes 3,642 main respondents and 1,515 spouses/partners. The survey and time diary with experience sampling methods focus on relationship functioning, emotion regulation, discrimination, racial trauma, physical health, psychological well-being, health behaviors, stressors, and time use.</p>
 <ol type="1">
 <li>Link to dataset here: <a href="https://pop.umn.edu/data/nchat" class="uri">https://pop.umn.edu/data/nchat</a></li>
 </ol>
@@ -645,7 +701,7 @@ There are 1,236 data files included in the ARDA collection. You can browse files
 <h2 class="anchored" data-anchor-id="world-population-data-sheet"><a href="https://2022-wpds.prb.org/">2022- World Population Data Sheet</a></h2>
 <p>Added Fri Apr 28th, 2023</p>
 <p><strong>What is this?</strong><br>
-<strong>Excerpt from site:</strong> The <em>2022 World Population Data Sheet</em> provides the latest population, health, and environment indicators for more than 200 countries and territories, each carefully researched by PRB's expert team of demographers and analysts.</p>
+<strong>Excerpt from site:</strong> The <em>2022 World Population Data Sheet</em> provides the latest population, health, and environment indicators for more than 200 countries and territories, each carefully researched by PRB’s expert team of demographers and analysts.</p>
 <ol type="1">
 <li>Link to documentation: <a href="https://2022-wpds.prb.org/" class="uri">https://2022-wpds.prb.org/</a></li>
 </ol>
@@ -695,6 +751,33 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       } else {
         el.classList.add('notransition');
       }
+    }
+  }
+  const toggleGiscusIfUsed = (isAlternate, darkModeDefault) => {
+    const baseTheme = document.querySelector('#giscus-base-theme')?.value ?? 'light';
+    const alternateTheme = document.querySelector('#giscus-alt-theme')?.value ?? 'dark';
+    let newTheme = '';
+    if(darkModeDefault) {
+      newTheme = isAlternate ? baseTheme : alternateTheme;
+    } else {
+      newTheme = isAlternate ? alternateTheme : baseTheme;
+    }
+    const changeGiscusTheme = () => {
+      // From: https://github.com/giscus/giscus/issues/336
+      const sendMessage = (message) => {
+        const iframe = document.querySelector('iframe.giscus-frame');
+        if (!iframe) return;
+        iframe.contentWindow.postMessage({ giscus: message }, 'https://giscus.app');
+      }
+      sendMessage({
+        setConfig: {
+          theme: newTheme
+        }
+      });
+    }
+    const isGiscussLoaded = window.document.querySelector('iframe.giscus-frame') !== null;
+    if (isGiscussLoaded) {
+      changeGiscusTheme();
     }
   }
   const toggleColorMode = (alternate) => {
@@ -763,13 +846,15 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       return localAlternateSentinel;
     }
   }
-  let localAlternateSentinel = 'default';
+  const darkModeDefault = false;
+  let localAlternateSentinel = darkModeDefault ? 'alternate' : 'default';
   // Dark / light mode switch
   window.quartoToggleColorScheme = () => {
     // Read the current dark / light value 
     let toAlternate = !hasAlternateSentinel();
     toggleColorMode(toAlternate);
     setStyleSentinel(toAlternate);
+    toggleGiscusIfUsed(toAlternate, darkModeDefault);
   };
   // Ensure there is a toggle, if there isn't float one in the top right
   if (window.document.querySelector('.quarto-color-scheme-toggle') === null) {
@@ -796,12 +881,15 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     icon: icon
   };
   anchorJS.add('.anchored');
-  const clipboard = new window.ClipboardJS('.code-copy-button', {
-    target: function(trigger) {
-      return trigger.previousElementSibling;
+  const isCodeAnnotation = (el) => {
+    for (const clz of el.classList) {
+      if (clz.startsWith('code-annotation-')) {                     
+        return true;
+      }
     }
-  });
-  clipboard.on('success', function(e) {
+    return false;
+  }
+  const onCopySuccess = function(e) {
     // button target
     const button = e.trigger;
     // don't keep focus
@@ -833,11 +921,50 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     }, 1000);
     // clear code selection
     e.clearSelection();
+  }
+  const getTextToCopy = function(trigger) {
+      const codeEl = trigger.previousElementSibling.cloneNode(true);
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
+        }
+      }
+      return codeEl.innerText;
+  }
+  const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
+    text: getTextToCopy
   });
-  function tippyHover(el, contentFn) {
+  clipboard.on('success', onCopySuccess);
+  if (window.document.getElementById('quarto-embedded-source-code-modal')) {
+    // For code content inside modals, clipBoardJS needs to be initialized with a container option
+    // TODO: Check when it could be a function (https://github.com/zenorocha/clipboard.js/issues/860)
+    const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
+      text: getTextToCopy,
+      container: window.document.getElementById('quarto-embedded-source-code-modal')
+    });
+    clipboardModal.on('success', onCopySuccess);
+  }
+    var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
+    var mailtoRegex = new RegExp(/^mailto:/);
+      var filterRegex = new RegExp("https:\/\/www\.resourcesdatabase\.com\/");
+    var isInternal = (href) => {
+        return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
+    }
+    // Inspect non-navigation links and adorn them if external
+ 	var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool):not(.about-link)');
+    for (var i=0; i<links.length; i++) {
+      const link = links[i];
+      if (!isInternal(link.href)) {
+        // undo the damage that might have been done by quarto-nav.js in the case of
+        // links that we want to consider external
+        if (link.dataset.originalHref !== undefined) {
+          link.href = link.dataset.originalHref;
+        }
+      }
+    }
+  function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
     const config = {
       allowHTML: true,
-      content: contentFn,
       maxWidth: 500,
       delay: 100,
       arrow: false,
@@ -847,8 +974,17 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       interactive: true,
       interactiveBorder: 10,
       theme: 'quarto',
-      placement: 'bottom-start'
+      placement: 'bottom-start',
     };
+    if (contentFn) {
+      config.content = contentFn;
+    }
+    if (onTriggerFn) {
+      config.onTrigger = onTriggerFn;
+    }
+    if (onUntriggerFn) {
+      config.onUntrigger = onUntriggerFn;
+    }
     window.tippy(el, config); 
   }
   const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
@@ -860,9 +996,245 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       try { href = new URL(href).hash; } catch {}
       const id = href.replace(/^#\/?/, "");
       const note = window.document.getElementById(id);
-      return note.innerHTML;
+      if (note) {
+        return note.innerHTML;
+      } else {
+        return "";
+      }
     });
   }
+  const xrefs = window.document.querySelectorAll('a.quarto-xref');
+  const processXRef = (id, note) => {
+    // Strip column container classes
+    const stripColumnClz = (el) => {
+      el.classList.remove("page-full", "page-columns");
+      if (el.children) {
+        for (const child of el.children) {
+          stripColumnClz(child);
+        }
+      }
+    }
+    stripColumnClz(note)
+    if (id === null || id.startsWith('sec-')) {
+      // Special case sections, only their first couple elements
+      const container = document.createElement("div");
+      if (note.children && note.children.length > 2) {
+        container.appendChild(note.children[0].cloneNode(true));
+        for (let i = 1; i < note.children.length; i++) {
+          const child = note.children[i];
+          if (child.tagName === "P" && child.innerText === "") {
+            continue;
+          } else {
+            container.appendChild(child.cloneNode(true));
+            break;
+          }
+        }
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(container);
+        }
+        return container.innerHTML
+      } else {
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(note);
+        }
+        return note.innerHTML;
+      }
+    } else {
+      // Remove any anchor links if they are present
+      const anchorLink = note.querySelector('a.anchorjs-link');
+      if (anchorLink) {
+        anchorLink.remove();
+      }
+      if (window.Quarto?.typesetMath) {
+        window.Quarto.typesetMath(note);
+      }
+      // TODO in 1.5, we should make sure this works without a callout special case
+      if (note.classList.contains("callout")) {
+        return note.outerHTML;
+      } else {
+        return note.innerHTML;
+      }
+    }
+  }
+  for (var i=0; i<xrefs.length; i++) {
+    const xref = xrefs[i];
+    tippyHover(xref, undefined, function(instance) {
+      instance.disable();
+      let url = xref.getAttribute('href');
+      let hash = undefined; 
+      if (url.startsWith('#')) {
+        hash = url;
+      } else {
+        try { hash = new URL(url).hash; } catch {}
+      }
+      if (hash) {
+        const id = hash.replace(/^#\/?/, "");
+        const note = window.document.getElementById(id);
+        if (note !== null) {
+          try {
+            const html = processXRef(id, note.cloneNode(true));
+            instance.setContent(html);
+          } finally {
+            instance.enable();
+            instance.show();
+          }
+        } else {
+          // See if we can fetch this
+          fetch(url.split('#')[0])
+          .then(res => res.text())
+          .then(html => {
+            const parser = new DOMParser();
+            const htmlDoc = parser.parseFromString(html, "text/html");
+            const note = htmlDoc.getElementById(id);
+            if (note !== null) {
+              const html = processXRef(id, note);
+              instance.setContent(html);
+            } 
+          }).finally(() => {
+            instance.enable();
+            instance.show();
+          });
+        }
+      } else {
+        // See if we can fetch a full url (with no hash to target)
+        // This is a special case and we should probably do some content thinning / targeting
+        fetch(url)
+        .then(res => res.text())
+        .then(html => {
+          const parser = new DOMParser();
+          const htmlDoc = parser.parseFromString(html, "text/html");
+          const note = htmlDoc.querySelector('main.content');
+          if (note !== null) {
+            // This should only happen for chapter cross references
+            // (since there is no id in the URL)
+            // remove the first header
+            if (note.children.length > 0 && note.children[0].tagName === "HEADER") {
+              note.children[0].remove();
+            }
+            const html = processXRef(null, note);
+            instance.setContent(html);
+          } 
+        }).finally(() => {
+          instance.enable();
+          instance.show();
+        });
+      }
+    }, function(instance) {
+    });
+  }
+      let selectedAnnoteEl;
+      const selectorForAnnotation = ( cell, annotation) => {
+        let cellAttr = 'data-code-cell="' + cell + '"';
+        let lineAttr = 'data-code-annotation="' +  annotation + '"';
+        const selector = 'span[' + cellAttr + '][' + lineAttr + ']';
+        return selector;
+      }
+      const selectCodeLines = (annoteEl) => {
+        const doc = window.document;
+        const targetCell = annoteEl.getAttribute("data-target-cell");
+        const targetAnnotation = annoteEl.getAttribute("data-target-annotation");
+        const annoteSpan = window.document.querySelector(selectorForAnnotation(targetCell, targetAnnotation));
+        const lines = annoteSpan.getAttribute("data-code-lines").split(",");
+        const lineIds = lines.map((line) => {
+          return targetCell + "-" + line;
+        })
+        let top = null;
+        let height = null;
+        let parent = null;
+        if (lineIds.length > 0) {
+            //compute the position of the single el (top and bottom and make a div)
+            const el = window.document.getElementById(lineIds[0]);
+            top = el.offsetTop;
+            height = el.offsetHeight;
+            parent = el.parentElement.parentElement;
+          if (lineIds.length > 1) {
+            const lastEl = window.document.getElementById(lineIds[lineIds.length - 1]);
+            const bottom = lastEl.offsetTop + lastEl.offsetHeight;
+            height = bottom - top;
+          }
+          if (top !== null && height !== null && parent !== null) {
+            // cook up a div (if necessary) and position it 
+            let div = window.document.getElementById("code-annotation-line-highlight");
+            if (div === null) {
+              div = window.document.createElement("div");
+              div.setAttribute("id", "code-annotation-line-highlight");
+              div.style.position = 'absolute';
+              parent.appendChild(div);
+            }
+            div.style.top = top - 2 + "px";
+            div.style.height = height + 4 + "px";
+            div.style.left = 0;
+            let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
+            if (gutterDiv === null) {
+              gutterDiv = window.document.createElement("div");
+              gutterDiv.setAttribute("id", "code-annotation-line-highlight-gutter");
+              gutterDiv.style.position = 'absolute';
+              const codeCell = window.document.getElementById(targetCell);
+              const gutter = codeCell.querySelector('.code-annotation-gutter');
+              gutter.appendChild(gutterDiv);
+            }
+            gutterDiv.style.top = top - 2 + "px";
+            gutterDiv.style.height = height + 4 + "px";
+          }
+          selectedAnnoteEl = annoteEl;
+        }
+      };
+      const unselectCodeLines = () => {
+        const elementsIds = ["code-annotation-line-highlight", "code-annotation-line-highlight-gutter"];
+        elementsIds.forEach((elId) => {
+          const div = window.document.getElementById(elId);
+          if (div) {
+            div.remove();
+          }
+        });
+        selectedAnnoteEl = undefined;
+      };
+        // Handle positioning of the toggle
+    window.addEventListener(
+      "resize",
+      throttle(() => {
+        elRect = undefined;
+        if (selectedAnnoteEl) {
+          selectCodeLines(selectedAnnoteEl);
+        }
+      }, 10)
+    );
+    function throttle(fn, ms) {
+    let throttle = false;
+    let timer;
+      return (...args) => {
+        if(!throttle) { // first call gets through
+            fn.apply(this, args);
+            throttle = true;
+        } else { // all the others get throttled
+            if(timer) clearTimeout(timer); // cancel #2
+            timer = setTimeout(() => {
+              fn.apply(this, args);
+              timer = throttle = false;
+            }, ms);
+        }
+      };
+    }
+      // Attach click handler to the DT
+      const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
+      for (const annoteDlNode of annoteDls) {
+        annoteDlNode.addEventListener('click', (event) => {
+          const clickedEl = event.target;
+          if (clickedEl !== selectedAnnoteEl) {
+            unselectCodeLines();
+            const activeEl = window.document.querySelector('dt[data-target-cell].code-annotation-active');
+            if (activeEl) {
+              activeEl.classList.remove('code-annotation-active');
+            }
+            selectCodeLines(clickedEl);
+            clickedEl.classList.add('code-annotation-active');
+          } else {
+            // Unselect the line
+            unselectCodeLines();
+            clickedEl.classList.remove('code-annotation-active');
+          }
+        });
+      }
   const findCites = (el) => {
     const parentEl = el.parentElement;
     if (parentEl) {
@@ -904,12 +1276,12 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 </script>
 <nav class="page-navigation">
   <div class="nav-page nav-page-previous">
-      <a href="../resources/data_science.html" class="pagination-link">
+      <a href="../resources/data_science.html" class="pagination-link" aria-label="Data Science">
         <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text">Data Science</span>
       </a>          
   </div>
   <div class="nav-page nav-page-next">
-      <a href="../resources/docker.html" class="pagination-link">
+      <a href="../resources/docker.html" class="pagination-link" aria-label="Docker">
         <span class="nav-page-text">Docker</span> <i class="bi bi-arrow-right-short"></i>
       </a>
   </div>
@@ -917,10 +1289,18 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 </div> <!-- /content -->
 <footer class="footer">
   <div class="nav-footer">
-    <div class="nav-footer-left">© Copyright 2023, Joscelin Rocha-Hidalgo</div>   
-    <div class="nav-footer-right">This page is built with <a href="https://quarto.org/">Quarto</a>.</div>
+    <div class="nav-footer-left">
+<p>© Copyright 2025, Joscelin Rocha-Hidalgo</p>
+</div>   
+    <div class="nav-footer-center">
+      &nbsp;
+    <div class="toc-actions d-sm-block d-md-none"><ul><li><a href="https://github.com/Joscelinrocha/resouRces/edit/main/resources/datasets.qmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/Joscelinrocha/resouRces/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li></ul></div></div>
+    <div class="nav-footer-right">
+<p>This page is built with <a href="https://quarto.org/">Quarto</a>.</p>
+</div>
   </div>
 </footer>
+
 
 
 

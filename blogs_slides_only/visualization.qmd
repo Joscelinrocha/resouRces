@@ -46,6 +46,20 @@ Wonderful introductory tutorial to ggplot2 and the wonderful things you could do
 
 1.  Link to blog here: <https://cedricscherer.netlify.app/2019/08/05/a-ggplot2-tutorial-for-beautiful-plotting-in-r/#titles>
 
+## [Adding Sparklines to gt Tables](https://rfortherestofus.com/2024/02/sparklines-gt)
+
+By R for the Rest of Us
+
+Added Thu Feb 20, 2025
+
+**What is this?**
+
+This tutorial shows how to add sparklines—small line charts—to **gt** tables in R using the **gtExtras** package, making tables more visually informative.
+
+1.  Link to tutorial: <https://rfortherestofus.com/2024/02/sparklines-gt>
+
+2.  Link to video here: <https://www.youtube.com/watch?v=ipUCv49Slag&ab_channel=RfortheRestofUs>
+
 ## [Align the assignment operators within a highlighted area](https://github.com/seasmith/AlignAssign)
 
 **What is this?**
@@ -168,6 +182,123 @@ I visit it quite often.
 
 1.  Slides here: <https://designing-ggplots.netlify.app/#1>
 
+## [Elevation Maps in R](https://umairdurrani.com/posts/2020-12-25-elevation-maps-in-r/elevation-maps-in-r)
+
+By Dr. U
+
+Added Thu Feb 20, 2025
+
+**What is this?**
+
+This comprehensive tutorial demonstrates how to create aesthetically pleasing and informative elevation maps in R using ground elevation data.
+The author guides readers through the process of obtaining elevation data, processing it, and visualizing it using various R packages.
+
+The tutorial provides detailed code snippets and explanations, making it accessible for users aiming to enhance their geospatial data visualization skills in R.
+
+1.  Link to tutorial here: <https://umairdurrani.com/posts/2020-12-25-elevation-maps-in-r/elevation-maps-in-r>
+
+## [Friends Don't Let Friends Make Bad Graphs](https://github.com/cxli233/FriendsDontLetFriends) 💯
+
+By Chenxin Li, Ph.D.
+
+Added Thu Feb 20, 2025
+
+**What is this?**
+
+This repository offers an opinionated essay on effective and ineffective data visualization practices.
+Authored by Dr. Chenxin Li, it provides examples and explanations of common pitfalls in data visualization, such as using bar plots for mean separation or inappropriate color scales.
+The repository includes R Markdown scripts to reproduce the discussed visualizations, serving as a practical guide for creating accurate and insightful data representations.
+
+1.  Link to repository here: <https://github.com/cxli233/FriendsDontLetFriends>
+
+## [ggplot_tricks: A Collection of ggplot2 Tips](https://github.com/teunbrand/ggplot_tricks) 💯
+
+By Teun van den Brand
+
+Added Thu Feb 20, 2025
+
+**What is this?**
+
+**ggplot_tricks** is a repository that compiles various tips and techniques for enhancing data visualizations using **ggplot2** in R.
+It covers topics such as splicing aesthetics, creating half-geoms, setting midpoints in diverging scales, labeling points, and recycling plots.
+Here is a list of them to this date:
+
+-   [Splicing aesthetics](https://github.com/teunbrand/ggplot_tricks?ck_subscriber_id=589816646&utm_source=convertkit&utm_medium=email&utm_campaign=What%27s+New+in+R%3A+January+24%2C+2024%20-%2012885358#splicing-aesthetics)
+    1.  [Colour-fill relations](https://github.com/teunbrand/ggplot_tricks?ck_subscriber_id=589816646&utm_source=convertkit&utm_medium=email&utm_campaign=What%27s+New+in+R%3A+January+24%2C+2024%20-%2012885358#relating-colour-and-fill)
+
+    2.  [Text contrast](https://github.com/teunbrand/ggplot_tricks?ck_subscriber_id=589816646&utm_source=convertkit&utm_medium=email&utm_campaign=What%27s+New+in+R%3A+January+24%2C+2024%20-%2012885358#text-contrast)
+-   [Half-geoms](https://github.com/teunbrand/ggplot_tricks?ck_subscriber_id=589816646&utm_source=convertkit&utm_medium=email&utm_campaign=What%27s+New+in+R%3A+January+24%2C+2024%20-%2012885358#half-geoms)
+    1.  [Half-boxplots](https://github.com/teunbrand/ggplot_tricks?ck_subscriber_id=589816646&utm_source=convertkit&utm_medium=email&utm_campaign=What%27s+New+in+R%3A+January+24%2C+2024%20-%2012885358#half-boxplots)
+
+    2.  [Half-errorbars](https://github.com/teunbrand/ggplot_tricks?ck_subscriber_id=589816646&utm_source=convertkit&utm_medium=email&utm_campaign=What%27s+New+in+R%3A+January+24%2C+2024%20-%2012885358#half-errorbars)
+
+    3.  [Half-violin](https://github.com/teunbrand/ggplot_tricks?ck_subscriber_id=589816646&utm_source=convertkit&utm_medium=email&utm_campaign=What%27s+New+in+R%3A+January+24%2C+2024%20-%2012885358#half-violin)
+
+    4.  [Combining](https://github.com/teunbrand/ggplot_tricks?ck_subscriber_id=589816646&utm_source=convertkit&utm_medium=email&utm_campaign=What%27s+New+in+R%3A+January+24%2C+2024%20-%2012885358#combining)
+-   [Midpoints in diverging scales](https://github.com/teunbrand/ggplot_tricks?ck_subscriber_id=589816646&utm_source=convertkit&utm_medium=email&utm_campaign=What%27s+New+in+R%3A+January+24%2C+2024%20-%2012885358#setting-midpoints-in-divergent-scales)
+-   [Labels as text](https://github.com/teunbrand/ggplot_tricks?ck_subscriber_id=589816646&utm_source=convertkit&utm_medium=email&utm_campaign=What%27s+New+in+R%3A+January+24%2C+2024%20-%2012885358#labels-as-text)
+    1.  [Labelling points](https://github.com/teunbrand/ggplot_tricks?ck_subscriber_id=589816646&utm_source=convertkit&utm_medium=email&utm_campaign=What%27s+New+in+R%3A+January+24%2C+2024%20-%2012885358#labelling-points)
+
+    2.  (Outdated)[Facetted tags](https://github.com/teunbrand/ggplot_tricks?ck_subscriber_id=589816646&utm_source=convertkit&utm_medium=email&utm_campaign=What%27s+New+in+R%3A+January+24%2C+2024%20-%2012885358#facetted-tags)
+-   [Recycling plots](https://github.com/teunbrand/ggplot_tricks?ck_subscriber_id=589816646&utm_source=convertkit&utm_medium=email&utm_campaign=What%27s+New+in+R%3A+January+24%2C+2024%20-%2012885358#recycling-plots)
+    1.  [Functions](https://github.com/teunbrand/ggplot_tricks?ck_subscriber_id=589816646&utm_source=convertkit&utm_medium=email&utm_campaign=What%27s+New+in+R%3A+January+24%2C+2024%20-%2012885358#functions)
+
+    2.  [Skeletons](https://github.com/teunbrand/ggplot_tricks?ck_subscriber_id=589816646&utm_source=convertkit&utm_medium=email&utm_campaign=What%27s+New+in+R%3A+January+24%2C+2024%20-%2012885358#skeletons)
+
+    3.  [Ribcage](https://github.com/teunbrand/ggplot_tricks?ck_subscriber_id=589816646&utm_source=convertkit&utm_medium=email&utm_campaign=What%27s+New+in+R%3A+January+24%2C+2024%20-%2012885358#ribcage)
+
+1.  Link to repository: <https://github.com/teunbrand/ggplot_tricks>
+
+## [ggreveal: Incremental ggplot2 Presentations](https://www.weverthon.com/ggreveal/) 💯
+
+By Weverthon Machado
+
+Added Thu Feb 20, 2025
+
+**What is this?**
+
+**ggreveal** is an R package that enables the incremental presentation of **ggplot2** graphs.
+It allows users to break down a plot into a series of intermediary plots, which can be displayed sequentially, making it particularly useful for teaching and presentations.
+The package offers functions such as `reveal_groups()`, `reveal_layers()`, and `reveal_aes()` to incrementally reveal different aspects of a plot.
+
+1.  Link to package: <https://www.weverthon.com/ggreveal/>
+
+## [How to Create Diamond Plots in R](https://thef5.substack.com/p/how-to-diamond-plots-in-r) 💯
+
+By Owen Phillips
+
+Added Thu Feb 20, 2025
+
+**What is this?**
+
+This tutorial provides a comprehensive guide on creating diamond plots in R, a visualization technique that emphasizes confidence intervals over point estimates.
+Diamond plots are particularly useful in meta-analyses and comparative studies, as they focus on the precision of estimates rather than just the estimates themselves.
+The guide walks through the process of constructing diamond plots using the **ufs** package, detailing functions like `meansDiamondPlot()` and `diamondPlot()`.
+It includes practical examples and code snippets, making it accessible for users aiming to enhance their data visualization skills in R.
+
+1.  Link to tutorial here: <https://thef5.substack.com/p/how-to-diamond-plots-in-r>
+
+## [How to Fill Maps with Density Gradients Using R, ggplot2, and sf](https://www.andrewheiss.com/blog/2023/07/28/gradient-map-fills-r-sf/)
+
+By Andrew Heiss
+
+Added Thu Feb 20, 2025
+
+**What is this?**
+
+This tutorial addresses the challenge of overplotting in maps with numerous data points.
+It explores methods to visualize point density by:
+
+-   Aggregating data within geographic boundaries.
+
+-   Creating grids to summarize point counts.
+
+-   Applying density gradients for smoother visual representation.
+
+The guide provides practical examples using R packages **ggplot2** and **sf**.
+
+1.  Link to tutorial: <https://www.andrewheiss.com/blog/2023/07/28/gradient-map-fills-r-sf/>
+
 ## [How to Increase Legend Key Size in ggplot2](https://datavizpyr.com/increase-legend-key-size-in-ggplot2/)
 
 By [datavizpyr](https://datavizpyr.com/increase-legend-key-size-in-ggplot2/)
@@ -183,7 +314,21 @@ Here we will see examples of increasing the point size of the legend in a scatte
 
 1.  Link to article here: <https://datavizpyr.com/increase-legend-key-size-in-ggplot2/>
 
-## [How To R: Visualizing Distributions](https://medium.com/@nickmartin812/how-to-r-visualizing-distributions-49ea4141fb32)
+## [How to Make a Diverging Bar Chart in R](https://rfortherestofus.com/2021/10/diverging-bar-chart/) 💯
+
+By R for the Rest of Us
+
+Added Thu Feb 20, 2025
+
+**What is this?**
+
+This tutorial demonstrates how to create diverging bar charts in R using the `ggplot2` package.
+Diverging bar charts are effective for displaying Likert scale data or any dataset with a central neutral point, as they visualize deviations in both directions from a midpoint.
+The article provides step-by-step instructions, including data preparation, plotting, and customization techniques to enhance the clarity and aesthetics of the chart.
+
+1.  Link to tutorial here: <https://rfortherestofus.com/2021/10/diverging-bar-chart/>
+
+## [How to R: Visualizing Distributions](https://medium.com/@nickmartin812/how-to-r-visualizing-distributions-49ea4141fb32)
 
 By [Nick Martin](https://medium.com/@nickmartin812/how-to-r-visualizing-distributions-49ea4141fb32)
 
@@ -195,6 +340,20 @@ Added Mon May 29th, 2023
 In this article we will look into multiple different ways to visualize distributions and how to create those visuals in R.
 
 1.  Link to blog here: [https://medium.com/\@nickmartin812/how-to-r-visualizing-distributions-49ea4141fb32](https://medium.com/@nickmartin812/how-to-r-visualizing-distributions-49ea4141fb32){.uri}
+
+## [Images as Facet Labels in ggplot2](https://umairdurrani.com/posts/images_in_facets/images_in_facets)
+
+By Dr. U
+
+Added Thu Feb 20, 2025
+
+**What is this?**
+
+This article explores how to replace facet labels in ggplot2 with images, such as country flags, to create more informative and visually appealing plots.
+The author provides a step-by-step guide on obtaining image data, integrating it with existing datasets, and utilizing the ggtext and ggh4x packages to display images as facet labels.
+This technique enhances the interpretability of faceted plots by incorporating visual cues directly into the plot structure.
+
+1.  Link to article here: <https://umairdurrani.com/posts/images_in_facets/images_in_facets>
 
 ## [Image sizes in an R markdown document](https://www.jumpingrivers.com/blog/knitr-rmarkdown-image-size/)
 
@@ -281,6 +440,42 @@ Added Dec 11, 2021
 1.  Link to blog here: <https://meghan.rbind.io/blog/introduction-to-tableau/>
 2.  Link to video here: <https://www.youtube.com/watch?v=fN7vAfeN0_E&feature=youtu.be>
 
+## [Making a Custom Arrowhead for ggplot2 Using ggarrow and arrowheadr](https://wjschne.github.io/posts/2023-08-26-making-a-custom-arrowhead-for-ggplot2-using-ggarrow-and-arrowheadr/)
+
+By W. Joel Schneider
+
+Added Thu Feb 20, 2025
+
+**What is this?**
+
+This blog post explores the creation of custom arrowheads in ggplot2 using the ggarrow and arrowheadr packages.
+It provides detailed instructions on designing and implementing custom arrowheads to enhance the clarity and aesthetics of ggplot2 visualizations.
+
+1.  Link to article here: <https://wjschne.github.io/posts/2023-08-26-making-a-custom-arrowhead-for-ggplot2-using-ggarrow-and-arrowheadr/>
+
+## [Parameterising a Multi-Part Plot](https://rfortherestofus.com/2024/06/parameterising-a-multi-part-plot) 💯
+
+By Cara Thompson and R for the Rest of Us
+
+Added Thu Feb 20, 2025
+
+**What is this?**
+
+This blog post by Cara Thompson demonstrates how to create parameterized plots in R to avoid repetitive code, especially when generating multiple variants of interactive graphs.
+Using the `ggplot2` package and the `palmerpenguins` dataset, the tutorial guides readers through:
+
+1.  Setting up a custom theme and color palette.
+
+2.  Transforming plotting code into a function that accepts arguments for flexibility.
+
+3.  Incorporating conditional statements within the function to adjust plot elements based on input parameters.
+
+4.  Implementing safety checks to handle potential errors and ensure consistent axis limits.
+
+The approach emphasizes efficient coding practices, reducing redundancy, and enhancing the adaptability of plots to different datasets or groups.
+
+1.  Link to article here: <https://rfortherestofus.com/2024/06/parameterising-a-multi-part-plot>
+
 ## [Principles & Practice of Data Visualization](https://apreshill.github.io/data-vis-labs-2018/index.html)
 
 By [Alison Hill](https://apreshill.github.io/data-vis-labs-2018/index.html)
@@ -340,6 +535,21 @@ All plots are going to be created with 100% {ggplot2} and 0% Inkscape.
 **What is this?** Fun blog about how to make Waffleplots and swarmplots.
 
 1.  Link to blog here: <https://paulvanderlaken.com/2019/01/25/visualization-innovation-waffleplots-and-swarmplots-aka-beeplots/>
+
+## [Where are the 4+-Car Households?](https://haraldkliems.netlify.app/posts/2024-02-29-where-are-the-4-car-households/)
+
+By Harald Kliems
+
+Added Thu Feb 20, 2025
+
+**What is this?**
+
+This article explores the distribution of households in the United States that own four or more vehicles.
+Utilizing data from the American Community Survey, the author presents maps and analyses to identify regions with high concentrations of such households.
+The study provides insights into transportation patterns, urban planning, and the socio-economic factors influencing vehicle ownership across different areas.
+This is great for visualization examples (code is within the blog).
+
+1.  Link to article here: <https://haraldkliems.netlify.app/posts/2024-02-29-where-are-the-4-car-households/>
 
 ## Visualizing Spatial Data
 

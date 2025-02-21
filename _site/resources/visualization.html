@@ -2,12 +2,12 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.2.475">
+<meta name="generator" content="quarto-1.5.57">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>../resouRces - Visualization</title>
+<title>Visualization – resouRces</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -17,7 +17,7 @@ div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
 ul.task-list{list-style: none;}
 ul.task-list li input[type="checkbox"] {
   width: 0.8em;
-  margin: 0 0.8em 0.2em -1.6em;
+  margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
 </style>
@@ -48,7 +48,13 @@ ul.task-list li input[type="checkbox"] {
   "collapse-after": 3,
   "panel-placement": "start",
   "type": "textbox",
-  "limit": 20,
+  "limit": 50,
+  "keyboard-shortcut": [
+    "f",
+    "/",
+    "s"
+  ],
+  "show-item-context": false,
   "language": {
     "search-no-results-text": "No results",
     "search-matching-documents-text": "matching documents",
@@ -57,21 +63,21 @@ ul.task-list li input[type="checkbox"] {
     "search-more-match-text": "more match in this document",
     "search-more-matches-text": "more matches in this document",
     "search-clear-button-title": "Clear",
+    "search-text-placeholder": "",
     "search-detached-cancel-button-title": "Cancel",
-    "search-submit-button-title": "Submit"
+    "search-submit-button-title": "Submit",
+    "search-label": "Search"
   }
 }</script>
 
 
-<meta property="og:title" content="../resouRces - Visualization">
-<meta property="og:description" content="Buy me a coffee">
-<meta property="og:site-name" content="../resouRces">
-<meta name="twitter:title" content="../resouRces - Visualization">
-<meta name="twitter:description" content="Buy me a coffee">
-<meta name="twitter:image" content="https://www.resourcesdatabase.com/images/twitter-card.png">
+<meta property="og:title" content="Visualization – resouRces">
+<meta property="og:description" content="Database of Resources to Learn &amp; Teach R">
+<meta property="og:site_name" content="resouRces">
+<meta name="twitter:title" content="Visualization – resouRces">
+<meta name="twitter:description" content="Database of Resources to Learn &amp; Teach R">
+<meta name="twitter:image" content="https://www.resourcesdatabase.com/resources/images/twitter-card.png">
 <meta name="twitter:creator" content="@JoscelinRocha">
-<meta name="twitter:image-height" content="1575">
-<meta name="twitter:image-width" content="2800">
 <meta name="twitter:card" content="summary_large_image">
 </head>
 
@@ -79,11 +85,16 @@ ul.task-list li input[type="checkbox"] {
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
-  <nav class="quarto-secondary-nav" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
-    <div class="container-fluid d-flex justify-content-between">
-      <h1 class="quarto-secondary-nav-title">Visualization</h1>
-      <button type="button" class="quarto-btn-toggle btn" aria-label="Show secondary navigation">
-        <i class="bi bi-chevron-right"></i>
+  <nav class="quarto-secondary-nav">
+    <div class="container-fluid d-flex">
+      <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" role="button" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+        <i class="bi bi-layout-text-sidebar-reverse"></i>
+      </button>
+        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../resources/art.html">Topics</a></li><li class="breadcrumb-item"><a href="../resources/visualization.html">Visualization</a></li></ol></nav>
+        <a class="flex-grow-1" role="navigation" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
+        </a>
+      <button type="button" class="btn quarto-search-button" aria-label="Search" onclick="window.quartoOpenSearch();">
+        <i class="bi bi-search"></i>
       </button>
     </div>
   </nav>
@@ -91,194 +102,225 @@ ul.task-list li input[type="checkbox"] {
 <!-- content -->
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article">
 <!-- sidebar -->
-  <nav id="quarto-sidebar" class="sidebar collapse sidebar-navigation docked overflow-auto">
+  <nav id="quarto-sidebar" class="sidebar collapse collapse-horizontal quarto-sidebar-collapse-item sidebar-navigation docked overflow-auto">
     <div class="pt-lg-2 mt-2 text-center sidebar-header">
       <a href="../index.html" class="sidebar-logo-link">
       <img src="../images/logo.png" alt="" class="sidebar-logo py-0 d-lg-inline d-none">
       </a>
       <div class="sidebar-tools-main tools-wide">
-    <a href="https://github.com/Joscelinrocha/resouRces" title="GitHub organization" class="sidebar-tool px-1"><i class="bi bi-github"></i></a>
-  <a href="" class="quarto-color-scheme-toggle sidebar-tool" onclick="window.quartoToggleColorScheme(); return false;" title="Toggle dark mode"><i class="bi"></i></a>
-  <a href="" class="quarto-reader-toggle sidebar-tool" onclick="window.quartoToggleReader(); return false;" title="Toggle reader mode">
+    <a href="https://github.com/Joscelinrocha/resouRces" title="GitHub organization" class="quarto-navigation-tool px-1" aria-label="GitHub organization"><i class="bi bi-github"></i></a>
+  <a href="" class="quarto-color-scheme-toggle quarto-navigation-tool  px-1" onclick="window.quartoToggleColorScheme(); return false;" title="Toggle dark mode"><i class="bi"></i></a>
+  <a href="" class="quarto-reader-toggle quarto-navigation-tool px-1" onclick="window.quartoToggleReader(); return false;" title="Toggle reader mode">
   <div class="quarto-reader-toggle-btn">
   <i class="bi"></i>
   </div>
 </a>
 </div>
       </div>
-      <div class="mt-2 flex-shrink-0 align-items-center">
+        <div class="mt-2 flex-shrink-0 align-items-center">
         <div class="sidebar-search">
         <div id="quarto-search" class="" title="Search"></div>
         </div>
-      </div>
+        </div>
     <div class="sidebar-menu-container"> 
     <ul class="list-unstyled mt-1">
         <li class="sidebar-item sidebar-item-section">
       <div class="sidebar-item-container"> 
-            <a class="sidebar-item-text sidebar-link text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-1" aria-expanded="false">About resouRces</a>
-          <a class="sidebar-item-toggle text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-1" aria-expanded="false">
+            <a class="sidebar-item-text sidebar-link text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-1" role="navigation" aria-expanded="false">
+ <span class="menu-text">About resouRces</span></a>
+          <a class="sidebar-item-toggle text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-1" role="navigation" aria-expanded="false" aria-label="Toggle section">
             <i class="bi bi-chevron-right ms-2"></i>
           </a> 
       </div>
       <ul id="quarto-sidebar-section-1" class="collapse list-unstyled sidebar-section depth1 ">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../database-overview.html" class="sidebar-item-text sidebar-link">Overview</a>
+  <a href="../database-overview.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Overview</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../team.html" class="sidebar-item-text sidebar-link">Procurement Team</a>
+  <a href="../team.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Procurement Team</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../database-faq.html" class="sidebar-item-text sidebar-link">FAQs</a>
+  <a href="../database-faq.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">FAQs</span></a>
   </div>
 </li>
       </ul>
   </li>
         <li class="sidebar-item sidebar-item-section">
       <div class="sidebar-item-container"> 
-            <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-2" aria-expanded="true">Topics</a>
-          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-2" aria-expanded="true">
+            <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-2" role="navigation" aria-expanded="true">
+ <span class="menu-text">Topics</span></a>
+          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-2" role="navigation" aria-expanded="true" aria-label="Toggle section">
             <i class="bi bi-chevron-right ms-2"></i>
           </a> 
       </div>
       <ul id="quarto-sidebar-section-2" class="collapse list-unstyled sidebar-section depth1 show">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../resources/art.html" class="sidebar-item-text sidebar-link">Art</a>
+  <a href="../resources/art.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Art</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../resources/dashboards_shiny.html" class="sidebar-item-text sidebar-link">Dashboards/Shiny</a>
+  <a href="../resources/dashboards_shiny.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Dashboards/Shiny</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../resources/data_science.html" class="sidebar-item-text sidebar-link">Data Science</a>
+  <a href="../resources/data_science.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Data Science</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../resources/datasets.html" class="sidebar-item-text sidebar-link">Datasets</a>
+  <a href="../resources/datasets.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Datasets</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../resources/docker.html" class="sidebar-item-text sidebar-link">Docker</a>
+  <a href="../resources/docker.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Docker</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../resources/eyetracking.html" class="sidebar-item-text sidebar-link">Eye-Tracking</a>
+  <a href="../resources/eyetracking.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Eye-Tracking</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../resources/r_to_python.html" class="sidebar-item-text sidebar-link">From R to Python</a>
+  <a href="../resources/r_to_python.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">From R to Python</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../resources/git.html" class="sidebar-item-text sidebar-link">GIT</a>
+  <a href="../resources/git.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">GIT</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../resources/learning_r.html" class="sidebar-item-text sidebar-link">Learning R</a>
+  <a href="../resources/learning_r.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Learning R</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../resources/machine_learning.html" class="sidebar-item-text sidebar-link">Machine Learning</a>
+  <a href="../resources/machine_learning.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Machine Learning</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../resources/making_websites_blogs.html" class="sidebar-item-text sidebar-link">Making Websites/Blogs</a>
+  <a href="../resources/making_websites_blogs.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Making Websites/Blogs</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../resources/meta-analyses_systematic_reviews.html" class="sidebar-item-text sidebar-link">Meta-Analyses &amp; Systematic Reviews</a>
+  <a href="../resources/meta-analyses_systematic_reviews.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Meta-Analyses &amp; Systematic Reviews</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../resources/packages_how_to.html" class="sidebar-item-text sidebar-link">Packages (How to)</a>
+  <a href="../resources/packages_how_to.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Packages (How to)</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../resources/presentations_slides.html" class="sidebar-item-text sidebar-link">Presentations/Slides</a>
+  <a href="../resources/presentations_slides.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Presentations/Slides</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../resources/quarto.html" class="sidebar-item-text sidebar-link">Quarto</a>
+  <a href="../resources/quarto.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Quarto</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../resources/prof_dev.html" class="sidebar-item-text sidebar-link">Resume-CVs-etc</a>
+  <a href="../resources/prof_dev.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Resume-CVs-etc</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../resources/r_for_neuro.html" class="sidebar-item-text sidebar-link">R for Neuro</a>
+  <a href="../resources/r_for_neuro.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">R for Neuro</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../resources/r_markdown.html" class="sidebar-item-text sidebar-link">RMarkdown</a>
+  <a href="../resources/r_markdown.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">RMarkdown</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../resources/statistics.html" class="sidebar-item-text sidebar-link">Statistics</a>
+  <a href="../resources/statistics.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Statistics</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../resources/teaching_r.html" class="sidebar-item-text sidebar-link">Teaching R</a>
+  <a href="../resources/teaching_r.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Teaching R</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../resources/visualization.html" class="sidebar-item-text sidebar-link active">Visualization</a>
+  <a href="../resources/visualization.html" class="sidebar-item-text sidebar-link active">
+ <span class="menu-text">Visualization</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../resources/workflows.html" class="sidebar-item-text sidebar-link">Workflows</a>
+  <a href="../resources/workflows.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Workflows</span></a>
   </div>
 </li>
       </ul>
   </li>
         <li class="sidebar-item sidebar-item-section">
       <div class="sidebar-item-container"> 
-            <a class="sidebar-item-text sidebar-link text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-3" aria-expanded="false">Extra</a>
-          <a class="sidebar-item-toggle text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-3" aria-expanded="false">
+            <a class="sidebar-item-text sidebar-link text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-3" role="navigation" aria-expanded="false">
+ <span class="menu-text">Extra</span></a>
+          <a class="sidebar-item-toggle text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-3" role="navigation" aria-expanded="false" aria-label="Toggle section">
             <i class="bi bi-chevron-right ms-2"></i>
           </a> 
       </div>
       <ul id="quarto-sidebar-section-3" class="collapse list-unstyled sidebar-section depth1 ">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../resources/joscelins_faves.html" class="sidebar-item-text sidebar-link">Joscelin’s Fav Packages &amp; Functions</a>
+  <a href="../resources/joscelins_faves.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Joscelin’s Fav Packages &amp; Functions</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../resources/fun_extra.html" class="sidebar-item-text sidebar-link">Other Fun Stuff</a>
+  <a href="../resources/fun_extra.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Other Fun Stuff</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../more_r_databases.html" class="sidebar-item-text sidebar-link">More R Resources Databases</a>
+  <a href="../more_r_databases.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">More R Resources Databases</span></a>
   </div>
 </li>
       </ul>
@@ -286,6 +328,7 @@ ul.task-list li input[type="checkbox"] {
     </ul>
     </div>
 </nav>
+<div id="quarto-sidebar-glass" class="quarto-sidebar-collapse-item" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item"></div>
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
         <nav id="TOC" role="doc-toc" class="toc-active">
@@ -295,6 +338,7 @@ ul.task-list li input[type="checkbox"] {
   <li><a href="#a-gentle-guide-to-the-grammar-of-graphics-with-ggplot2" id="toc-a-gentle-guide-to-the-grammar-of-graphics-with-ggplot2" class="nav-link active" data-scroll-target="#a-gentle-guide-to-the-grammar-of-graphics-with-ggplot2">A Gentle Guide to the Grammar of Graphics with ggplot2💯</a></li>
   <li><a href="#a-ggplot2-grammar-guide" id="toc-a-ggplot2-grammar-guide" class="nav-link" data-scroll-target="#a-ggplot2-grammar-guide">A ggplot2 grammar guide💯</a></li>
   <li><a href="#a-ggplot2-tutorial-for-beautiful-plotting-in-r" id="toc-a-ggplot2-tutorial-for-beautiful-plotting-in-r" class="nav-link" data-scroll-target="#a-ggplot2-tutorial-for-beautiful-plotting-in-r">A ggplot2 Tutorial for Beautiful Plotting in R💯</a></li>
+  <li><a href="#adding-sparklines-to-gt-tables" id="toc-adding-sparklines-to-gt-tables" class="nav-link" data-scroll-target="#adding-sparklines-to-gt-tables">Adding Sparklines to gt Tables</a></li>
   <li><a href="#align-the-assignment-operators-within-a-highlighted-area" id="toc-align-the-assignment-operators-within-a-highlighted-area" class="nav-link" data-scroll-target="#align-the-assignment-operators-within-a-highlighted-area">Align the assignment operators within a highlighted area</a></li>
   <li><a href="#alternatives-to-simple-color-legends-in-ggplot2" id="toc-alternatives-to-simple-color-legends-in-ggplot2" class="nav-link" data-scroll-target="#alternatives-to-simple-color-legends-in-ggplot2">Alternatives to Simple Color Legends in ggplot2</a></li>
   <li><a href="#an-introduction-to-hierarchical-modeling" id="toc-an-introduction-to-hierarchical-modeling" class="nav-link" data-scroll-target="#an-introduction-to-hierarchical-modeling">An Introduction to Hierarchical Modeling</a></li>
@@ -310,6 +354,7 @@ ul.task-list li input[type="checkbox"] {
   <li><a href="#create-a-ggalluvial-plot-in-r" id="toc-create-a-ggalluvial-plot-in-r" class="nav-link" data-scroll-target="#create-a-ggalluvial-plot-in-r">Create a ggalluvial plot in R</a></li>
   <li><a href="#create-stylish-tables-in-r-using-formattable" id="toc-create-stylish-tables-in-r-using-formattable" class="nav-link" data-scroll-target="#create-stylish-tables-in-r-using-formattable">Create stylish tables in R using formattable</a></li>
   <li><a href="#crime-mapping-in-r" id="toc-crime-mapping-in-r" class="nav-link" data-scroll-target="#crime-mapping-in-r">Crime Mapping in R</a></li>
+  <li><a href="#dark-ggtheme-publication-ready-themes-and-color-palettes-for-ggplot2" id="toc-dark-ggtheme-publication-ready-themes-and-color-palettes-for-ggplot2" class="nav-link" data-scroll-target="#dark-ggtheme-publication-ready-themes-and-color-palettes-for-ggplot2">Dark ggtheme: Publication-Ready Themes and Color Palettes for ggplot2 💯</a></li>
   <li><a href="#data-visualization-a-practical-introduction" id="toc-data-visualization-a-practical-introduction" class="nav-link" data-scroll-target="#data-visualization-a-practical-introduction">Data Visualization: A practical introduction</a></li>
   <li><a href="#data-visualization-course" id="toc-data-visualization-course" class="nav-link" data-scroll-target="#data-visualization-course">Data Visualization course</a></li>
   <li><a href="#data-visualization-for-educational-data-science" id="toc-data-visualization-for-educational-data-science" class="nav-link" data-scroll-target="#data-visualization-for-educational-data-science">Data Visualization for Educational Data Science💯</a></li>
@@ -317,20 +362,28 @@ ul.task-list li input[type="checkbox"] {
   <li><a href="#designing-ggplots-making-clear-figures-that-communicate" id="toc-designing-ggplots-making-clear-figures-that-communicate" class="nav-link" data-scroll-target="#designing-ggplots-making-clear-figures-that-communicate">Designing ggplots making clear figures that communicate</a></li>
   <li><a href="#drawing-anything-with-ggplot" id="toc-drawing-anything-with-ggplot" class="nav-link" data-scroll-target="#drawing-anything-with-ggplot">Drawing Anything with ggplot</a></li>
   <li><a href="#educational-apps-for-ggplot2" id="toc-educational-apps-for-ggplot2" class="nav-link" data-scroll-target="#educational-apps-for-ggplot2">Educational Apps for ggplot2</a></li>
+  <li><a href="#elevation-maps-in-r" id="toc-elevation-maps-in-r" class="nav-link" data-scroll-target="#elevation-maps-in-r">Elevation Maps in R</a></li>
   <li><a href="#esquisse-add-in" id="toc-esquisse-add-in" class="nav-link" data-scroll-target="#esquisse-add-in">esquisse add-in</a></li>
   <li><a href="#first-steps-in-spatial-handling-and-visualization" id="toc-first-steps-in-spatial-handling-and-visualization" class="nav-link" data-scroll-target="#first-steps-in-spatial-handling-and-visualization">First steps in spatial handling and visualization</a></li>
+  <li><a href="#friends-dont-let-friends-make-bad-graphs" id="toc-friends-dont-let-friends-make-bad-graphs" class="nav-link" data-scroll-target="#friends-dont-let-friends-make-bad-graphs">Friends Don’t Let Friends Make Bad Graphs 💯</a></li>
   <li><a href="#geocomputation-with-r" id="toc-geocomputation-with-r" class="nav-link" data-scroll-target="#geocomputation-with-r">Geocomputation with R</a></li>
   <li><a href="#ggeasy" id="toc-ggeasy" class="nav-link" data-scroll-target="#ggeasy">ggeasy 💯</a></li>
   <li><a href="#geomtextpath" id="toc-geomtextpath" class="nav-link" data-scroll-target="#geomtextpath">geomtextpath</a></li>
+  <li><a href="#ggplot_tricks-a-collection-of-ggplot2-tips" id="toc-ggplot_tricks-a-collection-of-ggplot2-tips" class="nav-link" data-scroll-target="#ggplot_tricks-a-collection-of-ggplot2-tips">ggplot_tricks: A Collection of ggplot2 Tips 💯</a></li>
   <li><a href="#ggplot-wizardry-my-favorite-tricks-and-secrets-for-beautiful-plots-in-r" id="toc-ggplot-wizardry-my-favorite-tricks-and-secrets-for-beautiful-plots-in-r" class="nav-link" data-scroll-target="#ggplot-wizardry-my-favorite-tricks-and-secrets-for-beautiful-plots-in-r">ggplot Wizardry: My Favorite Tricks and Secrets for Beautiful Plots in R</a></li>
   <li><a href="#ggplot2-elegant-graphics-for-data-analysis" id="toc-ggplot2-elegant-graphics-for-data-analysis" class="nav-link" data-scroll-target="#ggplot2-elegant-graphics-for-data-analysis">ggplot2: Elegant Graphics for Data Analysis💯 💯</a></li>
   <li><a href="#ggplot2tor" id="toc-ggplot2tor" class="nav-link" data-scroll-target="#ggplot2tor">Ggplot2tor</a></li>
+  <li><a href="#ggreveal-incremental-ggplot2-presentations" id="toc-ggreveal-incremental-ggplot2-presentations" class="nav-link" data-scroll-target="#ggreveal-incremental-ggplot2-presentations">ggreveal: Incremental ggplot2 Presentations 💯</a></li>
   <li><a href="#ggsignif-significance-brackets-for-ggplot2" id="toc-ggsignif-significance-brackets-for-ggplot2" class="nav-link" data-scroll-target="#ggsignif-significance-brackets-for-ggplot2">ggsignif: Significance Brackets for ‘ggplot2’</a></li>
   <li><a href="#ggupset" id="toc-ggupset" class="nav-link" data-scroll-target="#ggupset">ggupset</a></li>
-  <li><a href="#how-to-pick-more-beautiful-colors-for-your-data-visualizations" id="toc-how-to-pick-more-beautiful-colors-for-your-data-visualizations" class="nav-link" data-scroll-target="#how-to-pick-more-beautiful-colors-for-your-data-visualizations">How to pick more beautiful colors for your data visualizations💯 💯</a></li>
+  <li><a href="#how-to-create-diamond-plots-in-r" id="toc-how-to-create-diamond-plots-in-r" class="nav-link" data-scroll-target="#how-to-create-diamond-plots-in-r">How to Create Diamond Plots in R 💯</a></li>
+  <li><a href="#how-to-fill-maps-with-density-gradients-using-r-ggplot2-and-sf" id="toc-how-to-fill-maps-with-density-gradients-using-r-ggplot2-and-sf" class="nav-link" data-scroll-target="#how-to-fill-maps-with-density-gradients-using-r-ggplot2-and-sf">How to Fill Maps with Density Gradients Using R, ggplot2, and sf</a></li>
   <li><a href="#how-to-increase-legend-key-size-in-ggplot2" id="toc-how-to-increase-legend-key-size-in-ggplot2" class="nav-link" data-scroll-target="#how-to-increase-legend-key-size-in-ggplot2">How to Increase Legend Key Size in ggplot2</a></li>
-  <li><a href="#how-to-r-visualizing-distributions" id="toc-how-to-r-visualizing-distributions" class="nav-link" data-scroll-target="#how-to-r-visualizing-distributions">How To R: Visualizing Distributions</a></li>
+  <li><a href="#how-to-make-a-diverging-bar-chart-in-r" id="toc-how-to-make-a-diverging-bar-chart-in-r" class="nav-link" data-scroll-target="#how-to-make-a-diverging-bar-chart-in-r">How to Make a Diverging Bar Chart in R 💯</a></li>
+  <li><a href="#how-to-pick-more-beautiful-colors-for-your-data-visualizations" id="toc-how-to-pick-more-beautiful-colors-for-your-data-visualizations" class="nav-link" data-scroll-target="#how-to-pick-more-beautiful-colors-for-your-data-visualizations">How to pick more beautiful colors for your data visualizations💯 💯</a></li>
+  <li><a href="#how-to-r-visualizing-distributions" id="toc-how-to-r-visualizing-distributions" class="nav-link" data-scroll-target="#how-to-r-visualizing-distributions">How to R: Visualizing Distributions</a></li>
   <li><a href="#how-to-visualize-models-part-1-multiple-linear-models-all-assumptions-post-hocs" id="toc-how-to-visualize-models-part-1-multiple-linear-models-all-assumptions-post-hocs" class="nav-link" data-scroll-target="#how-to-visualize-models-part-1-multiple-linear-models-all-assumptions-post-hocs">How to visualize models Part 1 | multiple linear models, all assumptions &amp; post-hocs💯</a></li>
+  <li><a href="#images-as-facet-labels-in-ggplot2" id="toc-images-as-facet-labels-in-ggplot2" class="nav-link" data-scroll-target="#images-as-facet-labels-in-ggplot2">Images as Facet Labels in ggplot2</a></li>
   <li><a href="#image-sizes-in-an-r-markdown-document" id="toc-image-sizes-in-an-r-markdown-document" class="nav-link" data-scroll-target="#image-sizes-in-an-r-markdown-document">Image sizes in an R markdown document</a></li>
   <li><a href="#improving-ggplots-with-text-color" id="toc-improving-ggplots-with-text-color" class="nav-link" data-scroll-target="#improving-ggplots-with-text-color">Improving ggplots with Text Color</a></li>
   <li><a href="#interactive-web-based-data-visualization-with-r-plotly-and-shiny" id="toc-interactive-web-based-data-visualization-with-r-plotly-and-shiny" class="nav-link" data-scroll-target="#interactive-web-based-data-visualization-with-r-plotly-and-shiny">Interactive web-based data visualization with R, plotly, and shiny</a></li>
@@ -340,16 +393,21 @@ ul.task-list li input[type="checkbox"] {
   <li><a href="#introduction-to-rbokeha-vignette" id="toc-introduction-to-rbokeha-vignette" class="nav-link" data-scroll-target="#introduction-to-rbokeha-vignette">Introduction to rbokeh–a vignette</a></li>
   <li><a href="#introduction-to-tableau" id="toc-introduction-to-tableau" class="nav-link" data-scroll-target="#introduction-to-tableau">Introduction to Tableau</a></li>
   <li><a href="#leaflet-for-ra-vignette" id="toc-leaflet-for-ra-vignette" class="nav-link" data-scroll-target="#leaflet-for-ra-vignette">Leaflet for R–a vignette</a></li>
+  <li><a href="#legendry-enhancing-ggplot2-guides" id="toc-legendry-enhancing-ggplot2-guides" class="nav-link" data-scroll-target="#legendry-enhancing-ggplot2-guides">legendry: Enhancing ggplot2 Guides</a></li>
+  <li><a href="#making-a-custom-arrowhead-for-ggplot2-using-ggarrow-and-arrowheadr" id="toc-making-a-custom-arrowhead-for-ggplot2-using-ggarrow-and-arrowheadr" class="nav-link" data-scroll-target="#making-a-custom-arrowhead-for-ggplot2-using-ggarrow-and-arrowheadr">Making a Custom Arrowhead for ggplot2 Using ggarrow and arrowheadr</a></li>
   <li><a href="#making-flipbooks" id="toc-making-flipbooks" class="nav-link" data-scroll-target="#making-flipbooks">Making Flipbooks</a></li>
+  <li><a href="#maze-generator-built-in-r" id="toc-maze-generator-built-in-r" class="nav-link" data-scroll-target="#maze-generator-built-in-r">Maze Generator Built in R</a></li>
   <li><a href="#metbrewer-palettes" id="toc-metbrewer-palettes" class="nav-link" data-scroll-target="#metbrewer-palettes">MetBrewer Palettes</a></li>
   <li><a href="#modify-components-of-a-theme" id="toc-modify-components-of-a-theme" class="nav-link" data-scroll-target="#modify-components-of-a-theme">Modify components of a theme</a></li>
   <li><a href="#my-first-interactive-map-with-leaflet" id="toc-my-first-interactive-map-with-leaflet" class="nav-link" data-scroll-target="#my-first-interactive-map-with-leaflet">My first interactive map with {leaflet}</a></li>
+  <li><a href="#oklch-smooth-a-smooth-full-spectrum-srgb-colour-palette-for-data-visualisation" id="toc-oklch-smooth-a-smooth-full-spectrum-srgb-colour-palette-for-data-visualisation" class="nav-link" data-scroll-target="#oklch-smooth-a-smooth-full-spectrum-srgb-colour-palette-for-data-visualisation">OKLCH-Smooth: A Smooth, Full Spectrum sRGB Colour Palette for Data Visualisation 💯</a></li>
+  <li><a href="#parameterising-a-multi-part-plot" id="toc-parameterising-a-multi-part-plot" class="nav-link" data-scroll-target="#parameterising-a-multi-part-plot">Parameterising a Multi-Part Plot 💯</a></li>
   <li><a href="#penn-musa-masterclass-3d-mapping-and-visualization-with-r" id="toc-penn-musa-masterclass-3d-mapping-and-visualization-with-r" class="nav-link" data-scroll-target="#penn-musa-masterclass-3d-mapping-and-visualization-with-r">Penn MUSA Masterclass: 3D Mapping and Visualization with R</a></li>
   <li><a href="#plotly-r-open-source-graphing-library" id="toc-plotly-r-open-source-graphing-library" class="nav-link" data-scroll-target="#plotly-r-open-source-graphing-library">Plotly R Open Source Graphing Library 💯</a></li>
   <li><a href="#plotting-timeseries-objects" id="toc-plotting-timeseries-objects" class="nav-link" data-scroll-target="#plotting-timeseries-objects">Plotting ‘timeSeries’ Objects</a></li>
   <li><a href="#principles-practice-of-data-visualization" id="toc-principles-practice-of-data-visualization" class="nav-link" data-scroll-target="#principles-practice-of-data-visualization">Principles &amp; Practice of Data Visualization</a></li>
   <li><a href="#r-graphics-cookbook-2nd-edition" id="toc-r-graphics-cookbook-2nd-edition" class="nav-link" data-scroll-target="#r-graphics-cookbook-2nd-edition">R Graphics Cookbook, 2nd edition</a></li>
-  <li><a href="#r-graphics-with-ggplot2-workshop-notes" id="toc-r-graphics-with-ggplot2-workshop-notes" class="nav-link" data-scroll-target="#r-graphics-with-ggplot2-workshop-notes">R graphics with ggplot2 workshop notes</a></li>
+  <li><a href="#r-graphics-with-ggplot2-workshop-notes" id="toc-r-graphics-with-ggplot2-workshop-notes" class="nav-link" data-scroll-target="#r-graphics-with-ggplot2-workshop-notes">R Graphics with ggplot2 Workshop notes</a></li>
   <li><a href="#r-you-ready-to-make-charts" id="toc-r-you-ready-to-make-charts" class="nav-link" data-scroll-target="#r-you-ready-to-make-charts">R you ready to make charts?</a></li>
   <li><a href="#raincloud-vignette" id="toc-raincloud-vignette" class="nav-link" data-scroll-target="#raincloud-vignette">Raincloud vignette 💯💯💯</a></li>
   <li><a href="#resizing-plots" id="toc-resizing-plots" class="nav-link" data-scroll-target="#resizing-plots">Resizing plots</a></li>
@@ -362,18 +420,19 @@ ul.task-list li input[type="checkbox"] {
   <li><a href="#tidyx-youtube-channel-hosted" id="toc-tidyx-youtube-channel-hosted" class="nav-link" data-scroll-target="#tidyx-youtube-channel-hosted">TidyX YouTube channel hosted</a></li>
   <li><a href="#visualization-innovations-waffleplots-and-swarmplots" id="toc-visualization-innovations-waffleplots-and-swarmplots" class="nav-link" data-scroll-target="#visualization-innovations-waffleplots-and-swarmplots">Visualization innovations: Waffleplots and Swarmplots</a></li>
   <li><a href="#visualize-spatial-data-using-roughjs" id="toc-visualize-spatial-data-using-roughjs" class="nav-link" data-scroll-target="#visualize-spatial-data-using-roughjs">Visualize Spatial Data using ‘roughjs’</a></li>
+  <li><a href="#where-are-the-4-car-households" id="toc-where-are-the-4-car-households" class="nav-link" data-scroll-target="#where-are-the-4-car-households">Where are the 4+-Car Households?</a></li>
   <li><a href="#visualizing-spatial-data" id="toc-visualizing-spatial-data" class="nav-link" data-scroll-target="#visualizing-spatial-data">Visualizing Spatial Data</a></li>
   <li><a href="#videos-for-data-visualization" id="toc-videos-for-data-visualization" class="nav-link" data-scroll-target="#videos-for-data-visualization">Videos for data visualization</a></li>
   <li><a href="#palettes" id="toc-palettes" class="nav-link" data-scroll-target="#palettes">Palettes</a></li>
   </ul>
-<div class="toc-actions"><div><i class="bi bi-github"></i></div><div class="action-links"><p><a href="https://github.com/Joscelinrocha/resouRces/edit/main/resources/visualization.qmd" class="toc-action">Edit this page</a></p><p><a href="https://github.com/Joscelinrocha/resouRces/issues/new" class="toc-action">Report an issue</a></p></div></div></nav>
+<div class="toc-actions"><ul><li><a href="https://github.com/Joscelinrocha/resouRces/edit/main/resources/visualization.qmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/Joscelinrocha/resouRces/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li></ul></div></nav>
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
-<header id="title-block-header" class="quarto-title-block default">
+<header id="title-block-header" class="quarto-title-block default"><nav class="quarto-page-breadcrumbs quarto-title-breadcrumbs d-none d-lg-block" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../resources/art.html">Topics</a></li><li class="breadcrumb-item"><a href="../resources/visualization.html">Visualization</a></li></ol></nav>
 <div class="quarto-title">
-<h1 class="title d-none d-lg-block">Visualization</h1>
+<h1 class="title">Visualization</h1>
 </div>
 
 
@@ -386,7 +445,9 @@ ul.task-list li input[type="checkbox"] {
   </div>
   
 
+
 </header>
+
 
 <p><link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/JoscelinRocha"><img src="https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg" alt="Buy me a coffee" width="15" height="21">Buy me a coffee</a></p>
 <hr>
@@ -418,6 +479,17 @@ This guide isn’t comprehensive, and it will likely continue to evolve. But it�
 <p>Wonderful introductory tutorial to ggplot2 and the wonderful things you could do with it.</p>
 <ol type="1">
 <li>Link to blog here: <a href="https://cedricscherer.netlify.app/2019/08/05/a-ggplot2-tutorial-for-beautiful-plotting-in-r/#titles" class="uri">https://cedricscherer.netlify.app/2019/08/05/a-ggplot2-tutorial-for-beautiful-plotting-in-r/#titles</a></li>
+</ol>
+</section>
+<section id="adding-sparklines-to-gt-tables" class="level2">
+<h2 class="anchored" data-anchor-id="adding-sparklines-to-gt-tables"><a href="https://rfortherestofus.com/2024/02/sparklines-gt">Adding Sparklines to gt Tables</a></h2>
+<p>By R for the Rest of Us</p>
+<p>Added Thu Feb 20, 2025</p>
+<p><strong>What is this?</strong></p>
+<p>This tutorial shows how to add sparklines—small line charts—to <strong>gt</strong> tables in R using the <strong>gtExtras</strong> package, making tables more visually informative.</p>
+<ol type="1">
+<li><p>Link to tutorial: <a href="https://rfortherestofus.com/2024/02/sparklines-gt" class="uri">https://rfortherestofus.com/2024/02/sparklines-gt</a></p></li>
+<li><p>Link to video here: <a href="https://www.youtube.com/watch?v=ipUCv49Slag&amp;ab_channel=RfortheRestofUs" class="uri">https://www.youtube.com/watch?v=ipUCv49Slag&amp;ab_channel=RfortheRestofUs</a></p></li>
 </ol>
 </section>
 <section id="align-the-assignment-operators-within-a-highlighted-area" class="level2">
@@ -558,6 +630,16 @@ This guide isn’t comprehensive, and it will likely continue to evolve. But it�
 <li>Link to web-book here: <a href="https://maczokni.github.io/crimemapping_textbook_bookdown/" class="uri">https://maczokni.github.io/crimemapping_textbook_bookdown/</a></li>
 </ol>
 </section>
+<section id="dark-ggtheme-publication-ready-themes-and-color-palettes-for-ggplot2" class="level2">
+<h2 class="anchored" data-anchor-id="dark-ggtheme-publication-ready-themes-and-color-palettes-for-ggplot2"><a href="https://github.com/koundy/ggplot_theme_Publication">Dark ggtheme: Publication-Ready Themes and Color Palettes for ggplot2</a> 💯</h2>
+<p>By Koundy</p>
+<p>Added Thu Feb 20, 2025</p>
+<p><strong>What is this?</strong></p>
+<p>The <strong>ggplot_theme_Publication</strong> repository offers three custom themes and new color palettes for <strong>ggplot2</strong>, aiming to create clean and simple graphics suitable for publication. These themes address common aesthetic concerns such as plot background, title and axis label fonts and sizes, axis appearance, tick marks, colors, and legend positioning. By applying these themes, users can enhance the visual appeal and readability of their plots, making them more suitable for inclusion in academic and professional publications.</p>
+<ol type="1">
+<li>Link to repository here: <a href="https://github.com/koundy/ggplot_theme_Publication" class="uri">https://github.com/koundy/ggplot_theme_Publication</a></li>
+</ol>
+</section>
 <section id="data-visualization-a-practical-introduction" class="level2">
 <h2 class="anchored" data-anchor-id="data-visualization-a-practical-introduction"><a href="https://www.data-to-viz.com/">Data Visualization: A practical introduction</a></h2>
 <p>By <a href="https://www.data-to-viz.com/">Kieran Healy</a></p>
@@ -625,7 +707,24 @@ This guide isn’t comprehensive, and it will likely continue to evolve. But it�
 <p>By <a href="https://ggplot2tor.com/apps">Christian Burkhart</a></p>
 <p>Added Mon Apr 24th, 2023</p>
 <p><strong>What is this?</strong></p>
-<p><strong>Excerpt from site:</strong> A list of educational apps that make it easy to create data visualizations in ggplot2. 1. Link to all apps here: <a href="https://ggplot2tor.com/apps" class="uri">https://ggplot2tor.com/apps</a> 1. Link to Aesthetics finder here: <a href="https://ggplot2tor.com/aesthetics" class="uri">https://ggplot2tor.com/aesthetics</a> 1. Link to Scales finder here: <a href="https://ggplot2tor.com/scales" class="uri">https://ggplot2tor.com/scales</a> 1. Link to Theme finder: <a href="https://ggplot2tor.com/theme" class="uri">https://ggplot2tor.com/theme</a></p>
+<p><strong>Excerpt from site:</strong> A list of educational apps that make it easy to create data visualizations in ggplot2.</p>
+<ol type="1">
+<li>Link to all apps here: <a href="https://ggplot2tor.com/apps" class="uri">https://ggplot2tor.com/apps</a></li>
+<li>Link to Aesthetics finder here: <a href="https://ggplot2tor.com/aesthetics" class="uri">https://ggplot2tor.com/aesthetics</a></li>
+<li>Link to Scales finder here: <a href="https://ggplot2tor.com/scales" class="uri">https://ggplot2tor.com/scales</a></li>
+<li>Link to Theme finder: <a href="https://ggplot2tor.com/theme" class="uri">https://ggplot2tor.com/theme</a></li>
+</ol>
+</section>
+<section id="elevation-maps-in-r" class="level2">
+<h2 class="anchored" data-anchor-id="elevation-maps-in-r"><a href="https://umairdurrani.com/posts/2020-12-25-elevation-maps-in-r/elevation-maps-in-r">Elevation Maps in R</a></h2>
+<p>By Dr.&nbsp;U</p>
+<p>Added Thu Feb 20, 2025</p>
+<p><strong>What is this?</strong></p>
+<p>This comprehensive tutorial demonstrates how to create aesthetically pleasing and informative elevation maps in R using ground elevation data. The author guides readers through the process of obtaining elevation data, processing it, and visualizing it using various R packages.</p>
+<p>The tutorial provides detailed code snippets and explanations, making it accessible for users aiming to enhance their geospatial data visualization skills in R.</p>
+<ol type="1">
+<li>Link to tutorial here: <a href="https://umairdurrani.com/posts/2020-12-25-elevation-maps-in-r/elevation-maps-in-r" class="uri">https://umairdurrani.com/posts/2020-12-25-elevation-maps-in-r/elevation-maps-in-r</a></li>
+</ol>
 </section>
 <section id="esquisse-add-in" class="level2">
 <h2 class="anchored" data-anchor-id="esquisse-add-in"><a href="https://github.com/dreamRs/esquisse">esquisse add-in</a></h2>
@@ -645,6 +744,16 @@ This guide isn’t comprehensive, and it will likely continue to evolve. But it�
 <ol type="1">
 <li>Link to tutorial video here: <a href="https://youtu.be/1Hp8MO82t4g" class="uri">https://youtu.be/1Hp8MO82t4g</a></li>
 <li>Link to github repo here: <a href="https://github.com/statnmap/user2020_rspatial_tutorial" class="uri">https://github.com/statnmap/user2020_rspatial_tutorial</a></li>
+</ol>
+</section>
+<section id="friends-dont-let-friends-make-bad-graphs" class="level2">
+<h2 class="anchored" data-anchor-id="friends-dont-let-friends-make-bad-graphs"><a href="https://github.com/cxli233/FriendsDontLetFriends">Friends Don’t Let Friends Make Bad Graphs</a> 💯</h2>
+<p>By Chenxin Li, Ph.D.</p>
+<p>Added Thu Feb 20, 2025</p>
+<p><strong>What is this?</strong></p>
+<p>This repository offers an opinionated essay on effective and ineffective data visualization practices. Authored by Dr.&nbsp;Chenxin Li, it provides examples and explanations of common pitfalls in data visualization, such as using bar plots for mean separation or inappropriate color scales. The repository includes R Markdown scripts to reproduce the discussed visualizations, serving as a practical guide for creating accurate and insightful data representations.</p>
+<ol type="1">
+<li>Link to repository here: <a href="https://github.com/cxli233/FriendsDontLetFriends" class="uri">https://github.com/cxli233/FriendsDontLetFriends</a></li>
 </ol>
 </section>
 <section id="geocomputation-with-r" class="level2">
@@ -674,6 +783,42 @@ I added this one here because it is a nice resource to make map but it teaches w
 <p><strong>Excerpt from site:</strong> “The existing text-based geom layers in ggplot2 (geom_text and geom_label) are ideal for the majority of plots, since typically textual annotations are short, straight and in line with the axes of the plot. However, there are some occasions when it is useful to have text follow a curved path. This may be to create or recreate a specific visual effect, or it may be to label a circular / polar plot in a more”natural” way.”</p>
 <ol type="1">
 <li>Link to package’s site here: <a href="https://github.com/AllanCameron/geomtextpath" class="uri">https://github.com/AllanCameron/geomtextpath</a></li>
+</ol>
+</section>
+<section id="ggplot_tricks-a-collection-of-ggplot2-tips" class="level2">
+<h2 class="anchored" data-anchor-id="ggplot_tricks-a-collection-of-ggplot2-tips"><a href="https://github.com/teunbrand/ggplot_tricks">ggplot_tricks: A Collection of ggplot2 Tips</a> 💯</h2>
+<p>By Teun van den Brand</p>
+<p>Added Thu Feb 20, 2025</p>
+<p><strong>What is this?</strong></p>
+<p><strong>ggplot_tricks</strong> is a repository that compiles various tips and techniques for enhancing data visualizations using <strong>ggplot2</strong> in R. It covers topics such as splicing aesthetics, creating half-geoms, setting midpoints in diverging scales, labeling points, and recycling plots. Here is a list of them to this date:</p>
+<ul>
+<li><a href="https://github.com/teunbrand/ggplot_tricks?ck_subscriber_id=589816646&amp;utm_source=convertkit&amp;utm_medium=email&amp;utm_campaign=What%27s+New+in+R%3A+January+24%2C+2024%20-%2012885358#splicing-aesthetics">Splicing aesthetics</a>
+<ol type="1">
+<li><p><a href="https://github.com/teunbrand/ggplot_tricks?ck_subscriber_id=589816646&amp;utm_source=convertkit&amp;utm_medium=email&amp;utm_campaign=What%27s+New+in+R%3A+January+24%2C+2024%20-%2012885358#relating-colour-and-fill">Colour-fill relations</a></p></li>
+<li><p><a href="https://github.com/teunbrand/ggplot_tricks?ck_subscriber_id=589816646&amp;utm_source=convertkit&amp;utm_medium=email&amp;utm_campaign=What%27s+New+in+R%3A+January+24%2C+2024%20-%2012885358#text-contrast">Text contrast</a></p></li>
+</ol></li>
+<li><a href="https://github.com/teunbrand/ggplot_tricks?ck_subscriber_id=589816646&amp;utm_source=convertkit&amp;utm_medium=email&amp;utm_campaign=What%27s+New+in+R%3A+January+24%2C+2024%20-%2012885358#half-geoms">Half-geoms</a>
+<ol type="1">
+<li><p><a href="https://github.com/teunbrand/ggplot_tricks?ck_subscriber_id=589816646&amp;utm_source=convertkit&amp;utm_medium=email&amp;utm_campaign=What%27s+New+in+R%3A+January+24%2C+2024%20-%2012885358#half-boxplots">Half-boxplots</a></p></li>
+<li><p><a href="https://github.com/teunbrand/ggplot_tricks?ck_subscriber_id=589816646&amp;utm_source=convertkit&amp;utm_medium=email&amp;utm_campaign=What%27s+New+in+R%3A+January+24%2C+2024%20-%2012885358#half-errorbars">Half-errorbars</a></p></li>
+<li><p><a href="https://github.com/teunbrand/ggplot_tricks?ck_subscriber_id=589816646&amp;utm_source=convertkit&amp;utm_medium=email&amp;utm_campaign=What%27s+New+in+R%3A+January+24%2C+2024%20-%2012885358#half-violin">Half-violin</a></p></li>
+<li><p><a href="https://github.com/teunbrand/ggplot_tricks?ck_subscriber_id=589816646&amp;utm_source=convertkit&amp;utm_medium=email&amp;utm_campaign=What%27s+New+in+R%3A+January+24%2C+2024%20-%2012885358#combining">Combining</a></p></li>
+</ol></li>
+<li><a href="https://github.com/teunbrand/ggplot_tricks?ck_subscriber_id=589816646&amp;utm_source=convertkit&amp;utm_medium=email&amp;utm_campaign=What%27s+New+in+R%3A+January+24%2C+2024%20-%2012885358#setting-midpoints-in-divergent-scales">Midpoints in diverging scales</a></li>
+<li><a href="https://github.com/teunbrand/ggplot_tricks?ck_subscriber_id=589816646&amp;utm_source=convertkit&amp;utm_medium=email&amp;utm_campaign=What%27s+New+in+R%3A+January+24%2C+2024%20-%2012885358#labels-as-text">Labels as text</a>
+<ol type="1">
+<li><p><a href="https://github.com/teunbrand/ggplot_tricks?ck_subscriber_id=589816646&amp;utm_source=convertkit&amp;utm_medium=email&amp;utm_campaign=What%27s+New+in+R%3A+January+24%2C+2024%20-%2012885358#labelling-points">Labelling points</a></p></li>
+<li><p>(Outdated)<a href="https://github.com/teunbrand/ggplot_tricks?ck_subscriber_id=589816646&amp;utm_source=convertkit&amp;utm_medium=email&amp;utm_campaign=What%27s+New+in+R%3A+January+24%2C+2024%20-%2012885358#facetted-tags">Facetted tags</a></p></li>
+</ol></li>
+<li><a href="https://github.com/teunbrand/ggplot_tricks?ck_subscriber_id=589816646&amp;utm_source=convertkit&amp;utm_medium=email&amp;utm_campaign=What%27s+New+in+R%3A+January+24%2C+2024%20-%2012885358#recycling-plots">Recycling plots</a>
+<ol type="1">
+<li><p><a href="https://github.com/teunbrand/ggplot_tricks?ck_subscriber_id=589816646&amp;utm_source=convertkit&amp;utm_medium=email&amp;utm_campaign=What%27s+New+in+R%3A+January+24%2C+2024%20-%2012885358#functions">Functions</a></p></li>
+<li><p><a href="https://github.com/teunbrand/ggplot_tricks?ck_subscriber_id=589816646&amp;utm_source=convertkit&amp;utm_medium=email&amp;utm_campaign=What%27s+New+in+R%3A+January+24%2C+2024%20-%2012885358#skeletons">Skeletons</a></p></li>
+<li><p><a href="https://github.com/teunbrand/ggplot_tricks?ck_subscriber_id=589816646&amp;utm_source=convertkit&amp;utm_medium=email&amp;utm_campaign=What%27s+New+in+R%3A+January+24%2C+2024%20-%2012885358#ribcage">Ribcage</a></p></li>
+</ol></li>
+</ul>
+<ol type="1">
+<li>Link to repository: <a href="https://github.com/teunbrand/ggplot_tricks" class="uri">https://github.com/teunbrand/ggplot_tricks</a></li>
 </ol>
 </section>
 <section id="ggplot-wizardry-my-favorite-tricks-and-secrets-for-beautiful-plots-in-r" class="level2">
@@ -707,6 +852,16 @@ I added this one here because it is a nice resource to make map but it teaches w
 <li>Link to site here: <a href="https://ggplot2tutor.com" class="uri">https://ggplot2tutor.com</a></li>
 </ol>
 </section>
+<section id="ggreveal-incremental-ggplot2-presentations" class="level2">
+<h2 class="anchored" data-anchor-id="ggreveal-incremental-ggplot2-presentations"><a href="https://www.weverthon.com/ggreveal/">ggreveal: Incremental ggplot2 Presentations</a> 💯</h2>
+<p>By Weverthon Machado</p>
+<p>Added Thu Feb 20, 2025</p>
+<p><strong>What is this?</strong></p>
+<p><strong>ggreveal</strong> is an R package that enables the incremental presentation of <strong>ggplot2</strong> graphs. It allows users to break down a plot into a series of intermediary plots, which can be displayed sequentially, making it particularly useful for teaching and presentations. The package offers functions such as <code>reveal_groups()</code>, <code>reveal_layers()</code>, and <code>reveal_aes()</code> to incrementally reveal different aspects of a plot.</p>
+<ol type="1">
+<li>Link to package: <a href="https://www.weverthon.com/ggreveal/" class="uri">https://www.weverthon.com/ggreveal/</a></li>
+</ol>
+</section>
 <section id="ggsignif-significance-brackets-for-ggplot2" class="level2">
 <h2 class="anchored" data-anchor-id="ggsignif-significance-brackets-for-ggplot2"><a href="https://github.com/const-ae/ggsignif">ggsignif: Significance Brackets for ‘ggplot2’</a></h2>
 <p>By <a href="https://github.com/const-ae/ggsignif">Ahlmann-Eltze C. &amp; Patil I</a></p>
@@ -725,15 +880,30 @@ I added this one here because it is a nice resource to make map but it teaches w
 <li>Link to site here: <a href="https://github.com/const-ae/ggupset" class="uri">https://github.com/const-ae/ggupset</a></li>
 </ol>
 </section>
-<section id="how-to-pick-more-beautiful-colors-for-your-data-visualizations" class="level2">
-<h2 class="anchored" data-anchor-id="how-to-pick-more-beautiful-colors-for-your-data-visualizations"><a href="https://blog.datawrapper.de/beautifulcolors/">How to pick more beautiful colors for your data visualizations</a>💯 💯</h2>
-<p>By <a href="https://blog.datawrapper.de/beautifulcolors/">Lisa Charlotte Rost</a></p>
+<section id="how-to-create-diamond-plots-in-r" class="level2">
+<h2 class="anchored" data-anchor-id="how-to-create-diamond-plots-in-r"><a href="https://thef5.substack.com/p/how-to-diamond-plots-in-r">How to Create Diamond Plots in R</a> 💯</h2>
+<p>By Owen Phillips</p>
+<p>Added Thu Feb 20, 2025</p>
 <p><strong>What is this?</strong></p>
-<p><strong>Excerpt from blog:</strong> Choosing good colors for your charts is hard. This article tries to make it easier.</p>
-<p>I want you to feel more confident in your color choices. And if you have no sense for colors at all, here’s my attempt to help you find good ones anyway. We’ll talk about common color mistakes I see out there in the wild, and how to avoid them.</p>
-<p>This is not the right article for you if you’re trying to find good gradients or shades. But if you need to find beautiful, distinctive colors for different categories (e.g.&nbsp;continents, industries, bird species) for your line charts, pie charts, stacked bar charts, etc., read on.</p>
+<p>This tutorial provides a comprehensive guide on creating diamond plots in R, a visualization technique that emphasizes confidence intervals over point estimates. Diamond plots are particularly useful in meta-analyses and comparative studies, as they focus on the precision of estimates rather than just the estimates themselves. The guide walks through the process of constructing diamond plots using the <strong>ufs</strong> package, detailing functions like <code>meansDiamondPlot()</code> and <code>diamondPlot()</code>. It includes practical examples and code snippets, making it accessible for users aiming to enhance their data visualization skills in R.</p>
 <ol type="1">
-<li>Link to blog here: <a href="https://blog.datawrapper.de/beautifulcolors/" class="uri">https://blog.datawrapper.de/beautifulcolors/</a></li>
+<li>Link to tutorial here: <a href="https://thef5.substack.com/p/how-to-diamond-plots-in-r" class="uri">https://thef5.substack.com/p/how-to-diamond-plots-in-r</a></li>
+</ol>
+</section>
+<section id="how-to-fill-maps-with-density-gradients-using-r-ggplot2-and-sf" class="level2">
+<h2 class="anchored" data-anchor-id="how-to-fill-maps-with-density-gradients-using-r-ggplot2-and-sf"><a href="https://www.andrewheiss.com/blog/2023/07/28/gradient-map-fills-r-sf/">How to Fill Maps with Density Gradients Using R, ggplot2, and sf</a></h2>
+<p>By Andrew Heiss</p>
+<p>Added Thu Feb 20, 2025</p>
+<p><strong>What is this?</strong></p>
+<p>This tutorial addresses the challenge of overplotting in maps with numerous data points. It explores methods to visualize point density by:</p>
+<ul>
+<li><p>Aggregating data within geographic boundaries.</p></li>
+<li><p>Creating grids to summarize point counts.</p></li>
+<li><p>Applying density gradients for smoother visual representation.</p></li>
+</ul>
+<p>The guide provides practical examples using R packages <strong>ggplot2</strong> and <strong>sf</strong>.</p>
+<ol type="1">
+<li>Link to tutorial: <a href="https://www.andrewheiss.com/blog/2023/07/28/gradient-map-fills-r-sf/" class="uri">https://www.andrewheiss.com/blog/2023/07/28/gradient-map-fills-r-sf/</a></li>
 </ol>
 </section>
 <section id="how-to-increase-legend-key-size-in-ggplot2" class="level2">
@@ -747,8 +917,29 @@ I added this one here because it is a nice resource to make map but it teaches w
 <li>Link to article here: <a href="https://datavizpyr.com/increase-legend-key-size-in-ggplot2/" class="uri">https://datavizpyr.com/increase-legend-key-size-in-ggplot2/</a></li>
 </ol>
 </section>
+<section id="how-to-make-a-diverging-bar-chart-in-r" class="level2">
+<h2 class="anchored" data-anchor-id="how-to-make-a-diverging-bar-chart-in-r"><a href="https://rfortherestofus.com/2021/10/diverging-bar-chart/">How to Make a Diverging Bar Chart in R</a> 💯</h2>
+<p>By R for the Rest of Us</p>
+<p>Added Thu Feb 20, 2025</p>
+<p><strong>What is this?</strong></p>
+<p>This tutorial demonstrates how to create diverging bar charts in R using the <code>ggplot2</code> package. Diverging bar charts are effective for displaying Likert scale data or any dataset with a central neutral point, as they visualize deviations in both directions from a midpoint. The article provides step-by-step instructions, including data preparation, plotting, and customization techniques to enhance the clarity and aesthetics of the chart.</p>
+<ol type="1">
+<li>Link to tutorial here: <a href="https://rfortherestofus.com/2021/10/diverging-bar-chart/" class="uri">https://rfortherestofus.com/2021/10/diverging-bar-chart/</a></li>
+</ol>
+</section>
+<section id="how-to-pick-more-beautiful-colors-for-your-data-visualizations" class="level2">
+<h2 class="anchored" data-anchor-id="how-to-pick-more-beautiful-colors-for-your-data-visualizations"><a href="https://blog.datawrapper.de/beautifulcolors/">How to pick more beautiful colors for your data visualizations</a>💯 💯</h2>
+<p>By <a href="https://blog.datawrapper.de/beautifulcolors/">Lisa Charlotte Rost</a></p>
+<p><strong>What is this?</strong></p>
+<p><strong>Excerpt from blog:</strong> Choosing good colors for your charts is hard. This article tries to make it easier.</p>
+<p>I want you to feel more confident in your color choices. And if you have no sense for colors at all, here’s my attempt to help you find good ones anyway. We’ll talk about common color mistakes I see out there in the wild, and how to avoid them.</p>
+<p>This is not the right article for you if you’re trying to find good gradients or shades. But if you need to find beautiful, distinctive colors for different categories (e.g.&nbsp;continents, industries, bird species) for your line charts, pie charts, stacked bar charts, etc., read on.</p>
+<ol type="1">
+<li>Link to blog here: <a href="https://blog.datawrapper.de/beautifulcolors/" class="uri">https://blog.datawrapper.de/beautifulcolors/</a></li>
+</ol>
+</section>
 <section id="how-to-r-visualizing-distributions" class="level2">
-<h2 class="anchored" data-anchor-id="how-to-r-visualizing-distributions"><a href="https://medium.com/@nickmartin812/how-to-r-visualizing-distributions-49ea4141fb32">How To R: Visualizing Distributions</a></h2>
+<h2 class="anchored" data-anchor-id="how-to-r-visualizing-distributions"><a href="https://medium.com/@nickmartin812/how-to-r-visualizing-distributions-49ea4141fb32">How to R: Visualizing Distributions</a></h2>
 <p>By <a href="https://medium.com/@nickmartin812/how-to-r-visualizing-distributions-49ea4141fb32">Nick Martin</a></p>
 <p>Added Mon May 29th, 2023</p>
 <p><strong>What is this?</strong></p>
@@ -771,6 +962,16 @@ I added this one here because it is a nice resource to make map but it teaches w
 </ul>
 <ol type="1">
 <li>Link to video demo here: <a href="https://www.youtube.com/watch?v=BNTn_f43U04&amp;feature=youtu.be" class="uri">https://www.youtube.com/watch?v=BNTn_f43U04&amp;feature=youtu.be</a></li>
+</ol>
+</section>
+<section id="images-as-facet-labels-in-ggplot2" class="level2">
+<h2 class="anchored" data-anchor-id="images-as-facet-labels-in-ggplot2"><a href="https://umairdurrani.com/posts/images_in_facets/images_in_facets">Images as Facet Labels in ggplot2</a></h2>
+<p>By Dr.&nbsp;U</p>
+<p>Added Thu Feb 20, 2025</p>
+<p><strong>What is this?</strong></p>
+<p>This article explores how to replace facet labels in ggplot2 with images, such as country flags, to create more informative and visually appealing plots. The author provides a step-by-step guide on obtaining image data, integrating it with existing datasets, and utilizing the ggtext and ggh4x packages to display images as facet labels. This technique enhances the interpretability of faceted plots by incorporating visual cues directly into the plot structure.</p>
+<ol type="1">
+<li>Link to article here: <a href="https://umairdurrani.com/posts/images_in_facets/images_in_facets" class="uri">https://umairdurrani.com/posts/images_in_facets/images_in_facets</a></li>
 </ol>
 </section>
 <section id="image-sizes-in-an-r-markdown-document" class="level2">
@@ -863,12 +1064,42 @@ I added this one here because it is a nice resource to make map but it teaches w
 <li>Link to vignette here: <a href="https://rstudio.github.io/leaflet/" class="uri">https://rstudio.github.io/leaflet/</a></li>
 </ol>
 </section>
+<section id="legendry-enhancing-ggplot2-guides" class="level2">
+<h2 class="anchored" data-anchor-id="legendry-enhancing-ggplot2-guides"><a href="https://teunbrand.github.io/teunbrand_blog/posts/2024-11-01-legendry-0-1-0/">legendry: Enhancing ggplot2 Guides</a></h2>
+<p>By Teun van den Brand</p>
+<p>Added Thu Feb 20, 2025</p>
+<p><strong>What is this?</strong></p>
+<p>The <strong>legendry</strong> package extends <strong>ggplot2</strong> by introducing new guide functions, enabling more flexible and customizable legends and axes. It allows for stacked and composite guides, improving the clarity of visualizations.</p>
+<ol type="1">
+<li>Link to package announcement: <a href="https://teunbrand.github.io/teunbrand_blog/posts/2024-11-01-legendry-0-1-0/" class="uri">https://teunbrand.github.io/teunbrand_blog/posts/2024-11-01-legendry-0-1-0/</a></li>
+</ol>
+</section>
+<section id="making-a-custom-arrowhead-for-ggplot2-using-ggarrow-and-arrowheadr" class="level2">
+<h2 class="anchored" data-anchor-id="making-a-custom-arrowhead-for-ggplot2-using-ggarrow-and-arrowheadr"><a href="https://wjschne.github.io/posts/2023-08-26-making-a-custom-arrowhead-for-ggplot2-using-ggarrow-and-arrowheadr/">Making a Custom Arrowhead for ggplot2 Using ggarrow and arrowheadr</a></h2>
+<p>By W. Joel Schneider</p>
+<p>Added Thu Feb 20, 2025</p>
+<p><strong>What is this?</strong></p>
+<p>This blog post explores the creation of custom arrowheads in ggplot2 using the ggarrow and arrowheadr packages. It provides detailed instructions on designing and implementing custom arrowheads to enhance the clarity and aesthetics of ggplot2 visualizations.</p>
+<ol type="1">
+<li>Link to article here: <a href="https://wjschne.github.io/posts/2023-08-26-making-a-custom-arrowhead-for-ggplot2-using-ggarrow-and-arrowheadr/" class="uri">https://wjschne.github.io/posts/2023-08-26-making-a-custom-arrowhead-for-ggplot2-using-ggarrow-and-arrowheadr/</a></li>
+</ol>
+</section>
 <section id="making-flipbooks" class="level2">
 <h2 class="anchored" data-anchor-id="making-flipbooks"><a href="https://apreshill.github.io/rmd4cdc/#1">Making Flipbooks</a></h2>
 <p><strong>What is this?</strong></p>
 <p>Intro to what Flipbooks are and how to make them in R.</p>
 <ol type="1">
 <li>Link to website: <a href="https://evamaerey.github.io/flipbooks/about" class="uri">https://evamaerey.github.io/flipbooks/about</a></li>
+</ol>
+</section>
+<section id="maze-generator-built-in-r" class="level2">
+<h2 class="anchored" data-anchor-id="maze-generator-built-in-r"><a href="https://github.com/matfmc/mazegenerator">Maze Generator Built in R</a></h2>
+<p>By Matheus Ferreira</p>
+<p>Added Thu Feb 20, 2025</p>
+<p><strong>What is this?</strong></p>
+<p>This repository features an R-based maze generator that employs a random walk algorithm to create mazes of customizable sizes. It offers visualization capabilities for both static mazes and animated generation processes, allowing users to observe the maze construction step by step. The project includes functions to adjust wall thickness, path appearance, and options to display node numbers and path progression. Additionally, it provides export features for both static images and animated mazes.</p>
+<ol type="1">
+<li>Link to repository here: <a href="https://github.com/matfmc/mazegenerator" class="uri">https://github.com/matfmc/mazegenerator</a></li>
 </ol>
 </section>
 <section id="metbrewer-palettes" class="level2">
@@ -897,6 +1128,33 @@ I added this one here because it is a nice resource to make map but it teaches w
 <p><strong>Excerpt from site:</strong> “In this post, I will try to create an interactive map using leaflet package in R.”</p>
 <ol type="1">
 <li>Link to site here: <a href="https://tengkuhanis.netlify.app/post/my-first-interactive-map-with-leaflet/" class="uri">https://tengkuhanis.netlify.app/post/my-first-interactive-map-with-leaflet/</a></li>
+</ol>
+</section>
+<section id="oklch-smooth-a-smooth-full-spectrum-srgb-colour-palette-for-data-visualisation" class="level2">
+<h2 class="anchored" data-anchor-id="oklch-smooth-a-smooth-full-spectrum-srgb-colour-palette-for-data-visualisation"><a href="https://www.s-ings.com/scratchpad/oklch-smooth/">OKLCH-Smooth: A Smooth, Full Spectrum sRGB Colour Palette for Data Visualisation</a> 💯</h2>
+<p>By Stephen Hutchings</p>
+<p>Added Thu Feb 20, 2025</p>
+<p><strong>What is this?</strong></p>
+<p><strong>OKLCH-Smooth</strong> is a meticulously designed sRGB color palette tailored for data visualization. It encompasses 16 hues, each with nine shades, along with a set of neutral greys, totaling 153 colors. The palette ensures smooth transitions across the OKLCH color model components, making it ideal for visualizing complex datasets with multiple dimensions. Its structured approach to color selection aids in creating clear and aesthetically pleasing visual representations of data.</p>
+<ol type="1">
+<li>Link to palette here: <a href="https://www.s-ings.com/scratchpad/oklch-smooth/" class="uri">https://www.s-ings.com/scratchpad/oklch-smooth/</a></li>
+</ol>
+</section>
+<section id="parameterising-a-multi-part-plot" class="level2">
+<h2 class="anchored" data-anchor-id="parameterising-a-multi-part-plot"><a href="https://rfortherestofus.com/2024/06/parameterising-a-multi-part-plot">Parameterising a Multi-Part Plot</a> 💯</h2>
+<p>By Cara Thompson and R for the Rest of Us</p>
+<p>Added Thu Feb 20, 2025</p>
+<p><strong>What is this?</strong></p>
+<p>This blog post by Cara Thompson demonstrates how to create parameterized plots in R to avoid repetitive code, especially when generating multiple variants of interactive graphs. Using the <code>ggplot2</code> package and the <code>palmerpenguins</code> dataset, the tutorial guides readers through:</p>
+<ol type="1">
+<li><p>Setting up a custom theme and color palette.</p></li>
+<li><p>Transforming plotting code into a function that accepts arguments for flexibility.</p></li>
+<li><p>Incorporating conditional statements within the function to adjust plot elements based on input parameters.</p></li>
+<li><p>Implementing safety checks to handle potential errors and ensure consistent axis limits.</p></li>
+</ol>
+<p>The approach emphasizes efficient coding practices, reducing redundancy, and enhancing the adaptability of plots to different datasets or groups.</p>
+<ol type="1">
+<li>Link to article here: <a href="https://rfortherestofus.com/2024/06/parameterising-a-multi-part-plot" class="uri">https://rfortherestofus.com/2024/06/parameterising-a-multi-part-plot</a></li>
 </ol>
 </section>
 <section id="penn-musa-masterclass-3d-mapping-and-visualization-with-r" class="level2">
@@ -945,7 +1203,7 @@ I added this one here because it is a nice resource to make map but it teaches w
 </ol>
 </section>
 <section id="r-graphics-with-ggplot2-workshop-notes" class="level2">
-<h2 class="anchored" data-anchor-id="r-graphics-with-ggplot2-workshop-notes"><a href="http://tutorials.iq.harvard.edu/R/Rgraphics/Rgraphics.html#geometric_objects_and_aesthetics">R graphics with ggplot2 workshop notes</a></h2>
+<h2 class="anchored" data-anchor-id="r-graphics-with-ggplot2-workshop-notes"><a href="http://tutorials.iq.harvard.edu/R/Rgraphics/Rgraphics.html#geometric_objects_and_aesthetics">R Graphics with ggplot2 Workshop notes</a></h2>
 <p>Added Mon Sep 14th, 2020</p>
 <p><strong>What is this?</strong></p>
 <p>Workshop listed in Harvard’s resources. Materials can be downloaded.</p>
@@ -1065,6 +1323,16 @@ I added this one here because it is a nice resource to make map but it teaches w
 <li>Link to blog here: <a href="https://cran.r-project.org/web/packages/roughsf/roughsf.pdf" class="uri">https://cran.r-project.org/web/packages/roughsf/roughsf.pdf</a></li>
 </ol>
 </section>
+<section id="where-are-the-4-car-households" class="level2">
+<h2 class="anchored" data-anchor-id="where-are-the-4-car-households"><a href="https://haraldkliems.netlify.app/posts/2024-02-29-where-are-the-4-car-households/">Where are the 4+-Car Households?</a></h2>
+<p>By Harald Kliems</p>
+<p>Added Thu Feb 20, 2025</p>
+<p><strong>What is this?</strong></p>
+<p>This article explores the distribution of households in the United States that own four or more vehicles. Utilizing data from the American Community Survey, the author presents maps and analyses to identify regions with high concentrations of such households. The study provides insights into transportation patterns, urban planning, and the socio-economic factors influencing vehicle ownership across different areas. This is great for visualization examples (code is within the blog).</p>
+<ol type="1">
+<li>Link to article here: <a href="https://haraldkliems.netlify.app/posts/2024-02-29-where-are-the-4-car-households/" class="uri">https://haraldkliems.netlify.app/posts/2024-02-29-where-are-the-4-car-households/</a></li>
+</ol>
+</section>
 <section id="visualizing-spatial-data" class="level2">
 <h2 class="anchored" data-anchor-id="visualizing-spatial-data">Visualizing Spatial Data</h2>
 <p><strong>What is this?</strong></p>
@@ -1084,6 +1352,7 @@ I added this one here because it is a nice resource to make map but it teaches w
 <li><a href="https://statnmap.com/2018-04-18-draw-maps-like-paintings/" class="uri">https://statnmap.com/2018-04-18-draw-maps-like-paintings/</a></li>
 <li><a href="https://medium.com/appsilon-data-science/r-ggmap-how-to-visualize-spatial-data-in-r-c46dcf970095" class="uri">https://medium.com/appsilon-data-science/r-ggmap-how-to-visualize-spatial-data-in-r-c46dcf970095</a></li>
 <li><a href="https://carolinamendozab.medium.com/mapping-income-per-capita-by-countries-in-r-using-world-bank-data-cf42eca247c4" class="uri">https://carolinamendozab.medium.com/mapping-income-per-capita-by-countries-in-r-using-world-bank-data-cf42eca247c4</a></li>
+<li><a href="https://umairdurrani.com/posts/2020-12-25-elevation-maps-in-r/elevation-maps-in-r" class="uri">https://umairdurrani.com/posts/2020-12-25-elevation-maps-in-r/elevation-maps-in-r</a></li>
 </ol>
 </section>
 <section id="videos-for-data-visualization" class="level2">
@@ -1109,6 +1378,7 @@ I added this one here because it is a nice resource to make map but it teaches w
 <p><a href="https://github.com/jakelawlor/PNWColors">PNWColors</a>: A Pacific Northwest inspired R color palette package 💯</p>
 <p><a href="https://github.com/kevinsblake/NatParksPalettes">NatParksPalettes</a>: is comprised of 30 color palettes, including 12 colorblind-friendly palettes, based on photos of national parks from around the world. Compatible with {ggplot2} in R and QGIS.</p>
 <p><a href="https://github.com/katiejolly/nationalparkcolors">nationalparkcolors</a>: The goal of nationalparkcolors is to provide an interface to the beautiful colors in National Park posters and images. The posters are a mix of the WPA originals and more modern remakes.</p>
+<p><a href="https://www.s-ings.com/scratchpad/oklch-smooth/">OKLCH-Smooth: A Smooth, Full Spectrum sRGB Colour Palette for Data Visualisation</a>: is a meticulously designed sRGB color palette tailored for data visualization. It encompasses 16 hues, each with nine shades, along with a set of neutral greys, totaling 153 colors. The palette ensures smooth transitions across the OKLCH color model components, making it ideal for visualizing complex datasets with multiple dimensions. Its structured approach to color selection aids in creating clear and aesthetically pleasing visual representations of data.</p>
 
 
 </section>
@@ -1155,6 +1425,33 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       } else {
         el.classList.add('notransition');
       }
+    }
+  }
+  const toggleGiscusIfUsed = (isAlternate, darkModeDefault) => {
+    const baseTheme = document.querySelector('#giscus-base-theme')?.value ?? 'light';
+    const alternateTheme = document.querySelector('#giscus-alt-theme')?.value ?? 'dark';
+    let newTheme = '';
+    if(darkModeDefault) {
+      newTheme = isAlternate ? baseTheme : alternateTheme;
+    } else {
+      newTheme = isAlternate ? alternateTheme : baseTheme;
+    }
+    const changeGiscusTheme = () => {
+      // From: https://github.com/giscus/giscus/issues/336
+      const sendMessage = (message) => {
+        const iframe = document.querySelector('iframe.giscus-frame');
+        if (!iframe) return;
+        iframe.contentWindow.postMessage({ giscus: message }, 'https://giscus.app');
+      }
+      sendMessage({
+        setConfig: {
+          theme: newTheme
+        }
+      });
+    }
+    const isGiscussLoaded = window.document.querySelector('iframe.giscus-frame') !== null;
+    if (isGiscussLoaded) {
+      changeGiscusTheme();
     }
   }
   const toggleColorMode = (alternate) => {
@@ -1223,13 +1520,15 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       return localAlternateSentinel;
     }
   }
-  let localAlternateSentinel = 'default';
+  const darkModeDefault = false;
+  let localAlternateSentinel = darkModeDefault ? 'alternate' : 'default';
   // Dark / light mode switch
   window.quartoToggleColorScheme = () => {
     // Read the current dark / light value 
     let toAlternate = !hasAlternateSentinel();
     toggleColorMode(toAlternate);
     setStyleSentinel(toAlternate);
+    toggleGiscusIfUsed(toAlternate, darkModeDefault);
   };
   // Ensure there is a toggle, if there isn't float one in the top right
   if (window.document.querySelector('.quarto-color-scheme-toggle') === null) {
@@ -1256,12 +1555,15 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     icon: icon
   };
   anchorJS.add('.anchored');
-  const clipboard = new window.ClipboardJS('.code-copy-button', {
-    target: function(trigger) {
-      return trigger.previousElementSibling;
+  const isCodeAnnotation = (el) => {
+    for (const clz of el.classList) {
+      if (clz.startsWith('code-annotation-')) {                     
+        return true;
+      }
     }
-  });
-  clipboard.on('success', function(e) {
+    return false;
+  }
+  const onCopySuccess = function(e) {
     // button target
     const button = e.trigger;
     // don't keep focus
@@ -1293,11 +1595,50 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     }, 1000);
     // clear code selection
     e.clearSelection();
+  }
+  const getTextToCopy = function(trigger) {
+      const codeEl = trigger.previousElementSibling.cloneNode(true);
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
+        }
+      }
+      return codeEl.innerText;
+  }
+  const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
+    text: getTextToCopy
   });
-  function tippyHover(el, contentFn) {
+  clipboard.on('success', onCopySuccess);
+  if (window.document.getElementById('quarto-embedded-source-code-modal')) {
+    // For code content inside modals, clipBoardJS needs to be initialized with a container option
+    // TODO: Check when it could be a function (https://github.com/zenorocha/clipboard.js/issues/860)
+    const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
+      text: getTextToCopy,
+      container: window.document.getElementById('quarto-embedded-source-code-modal')
+    });
+    clipboardModal.on('success', onCopySuccess);
+  }
+    var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
+    var mailtoRegex = new RegExp(/^mailto:/);
+      var filterRegex = new RegExp("https:\/\/www\.resourcesdatabase\.com\/");
+    var isInternal = (href) => {
+        return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
+    }
+    // Inspect non-navigation links and adorn them if external
+ 	var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool):not(.about-link)');
+    for (var i=0; i<links.length; i++) {
+      const link = links[i];
+      if (!isInternal(link.href)) {
+        // undo the damage that might have been done by quarto-nav.js in the case of
+        // links that we want to consider external
+        if (link.dataset.originalHref !== undefined) {
+          link.href = link.dataset.originalHref;
+        }
+      }
+    }
+  function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
     const config = {
       allowHTML: true,
-      content: contentFn,
       maxWidth: 500,
       delay: 100,
       arrow: false,
@@ -1307,8 +1648,17 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       interactive: true,
       interactiveBorder: 10,
       theme: 'quarto',
-      placement: 'bottom-start'
+      placement: 'bottom-start',
     };
+    if (contentFn) {
+      config.content = contentFn;
+    }
+    if (onTriggerFn) {
+      config.onTrigger = onTriggerFn;
+    }
+    if (onUntriggerFn) {
+      config.onUntrigger = onUntriggerFn;
+    }
     window.tippy(el, config); 
   }
   const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
@@ -1320,9 +1670,245 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       try { href = new URL(href).hash; } catch {}
       const id = href.replace(/^#\/?/, "");
       const note = window.document.getElementById(id);
-      return note.innerHTML;
+      if (note) {
+        return note.innerHTML;
+      } else {
+        return "";
+      }
     });
   }
+  const xrefs = window.document.querySelectorAll('a.quarto-xref');
+  const processXRef = (id, note) => {
+    // Strip column container classes
+    const stripColumnClz = (el) => {
+      el.classList.remove("page-full", "page-columns");
+      if (el.children) {
+        for (const child of el.children) {
+          stripColumnClz(child);
+        }
+      }
+    }
+    stripColumnClz(note)
+    if (id === null || id.startsWith('sec-')) {
+      // Special case sections, only their first couple elements
+      const container = document.createElement("div");
+      if (note.children && note.children.length > 2) {
+        container.appendChild(note.children[0].cloneNode(true));
+        for (let i = 1; i < note.children.length; i++) {
+          const child = note.children[i];
+          if (child.tagName === "P" && child.innerText === "") {
+            continue;
+          } else {
+            container.appendChild(child.cloneNode(true));
+            break;
+          }
+        }
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(container);
+        }
+        return container.innerHTML
+      } else {
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(note);
+        }
+        return note.innerHTML;
+      }
+    } else {
+      // Remove any anchor links if they are present
+      const anchorLink = note.querySelector('a.anchorjs-link');
+      if (anchorLink) {
+        anchorLink.remove();
+      }
+      if (window.Quarto?.typesetMath) {
+        window.Quarto.typesetMath(note);
+      }
+      // TODO in 1.5, we should make sure this works without a callout special case
+      if (note.classList.contains("callout")) {
+        return note.outerHTML;
+      } else {
+        return note.innerHTML;
+      }
+    }
+  }
+  for (var i=0; i<xrefs.length; i++) {
+    const xref = xrefs[i];
+    tippyHover(xref, undefined, function(instance) {
+      instance.disable();
+      let url = xref.getAttribute('href');
+      let hash = undefined; 
+      if (url.startsWith('#')) {
+        hash = url;
+      } else {
+        try { hash = new URL(url).hash; } catch {}
+      }
+      if (hash) {
+        const id = hash.replace(/^#\/?/, "");
+        const note = window.document.getElementById(id);
+        if (note !== null) {
+          try {
+            const html = processXRef(id, note.cloneNode(true));
+            instance.setContent(html);
+          } finally {
+            instance.enable();
+            instance.show();
+          }
+        } else {
+          // See if we can fetch this
+          fetch(url.split('#')[0])
+          .then(res => res.text())
+          .then(html => {
+            const parser = new DOMParser();
+            const htmlDoc = parser.parseFromString(html, "text/html");
+            const note = htmlDoc.getElementById(id);
+            if (note !== null) {
+              const html = processXRef(id, note);
+              instance.setContent(html);
+            } 
+          }).finally(() => {
+            instance.enable();
+            instance.show();
+          });
+        }
+      } else {
+        // See if we can fetch a full url (with no hash to target)
+        // This is a special case and we should probably do some content thinning / targeting
+        fetch(url)
+        .then(res => res.text())
+        .then(html => {
+          const parser = new DOMParser();
+          const htmlDoc = parser.parseFromString(html, "text/html");
+          const note = htmlDoc.querySelector('main.content');
+          if (note !== null) {
+            // This should only happen for chapter cross references
+            // (since there is no id in the URL)
+            // remove the first header
+            if (note.children.length > 0 && note.children[0].tagName === "HEADER") {
+              note.children[0].remove();
+            }
+            const html = processXRef(null, note);
+            instance.setContent(html);
+          } 
+        }).finally(() => {
+          instance.enable();
+          instance.show();
+        });
+      }
+    }, function(instance) {
+    });
+  }
+      let selectedAnnoteEl;
+      const selectorForAnnotation = ( cell, annotation) => {
+        let cellAttr = 'data-code-cell="' + cell + '"';
+        let lineAttr = 'data-code-annotation="' +  annotation + '"';
+        const selector = 'span[' + cellAttr + '][' + lineAttr + ']';
+        return selector;
+      }
+      const selectCodeLines = (annoteEl) => {
+        const doc = window.document;
+        const targetCell = annoteEl.getAttribute("data-target-cell");
+        const targetAnnotation = annoteEl.getAttribute("data-target-annotation");
+        const annoteSpan = window.document.querySelector(selectorForAnnotation(targetCell, targetAnnotation));
+        const lines = annoteSpan.getAttribute("data-code-lines").split(",");
+        const lineIds = lines.map((line) => {
+          return targetCell + "-" + line;
+        })
+        let top = null;
+        let height = null;
+        let parent = null;
+        if (lineIds.length > 0) {
+            //compute the position of the single el (top and bottom and make a div)
+            const el = window.document.getElementById(lineIds[0]);
+            top = el.offsetTop;
+            height = el.offsetHeight;
+            parent = el.parentElement.parentElement;
+          if (lineIds.length > 1) {
+            const lastEl = window.document.getElementById(lineIds[lineIds.length - 1]);
+            const bottom = lastEl.offsetTop + lastEl.offsetHeight;
+            height = bottom - top;
+          }
+          if (top !== null && height !== null && parent !== null) {
+            // cook up a div (if necessary) and position it 
+            let div = window.document.getElementById("code-annotation-line-highlight");
+            if (div === null) {
+              div = window.document.createElement("div");
+              div.setAttribute("id", "code-annotation-line-highlight");
+              div.style.position = 'absolute';
+              parent.appendChild(div);
+            }
+            div.style.top = top - 2 + "px";
+            div.style.height = height + 4 + "px";
+            div.style.left = 0;
+            let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
+            if (gutterDiv === null) {
+              gutterDiv = window.document.createElement("div");
+              gutterDiv.setAttribute("id", "code-annotation-line-highlight-gutter");
+              gutterDiv.style.position = 'absolute';
+              const codeCell = window.document.getElementById(targetCell);
+              const gutter = codeCell.querySelector('.code-annotation-gutter');
+              gutter.appendChild(gutterDiv);
+            }
+            gutterDiv.style.top = top - 2 + "px";
+            gutterDiv.style.height = height + 4 + "px";
+          }
+          selectedAnnoteEl = annoteEl;
+        }
+      };
+      const unselectCodeLines = () => {
+        const elementsIds = ["code-annotation-line-highlight", "code-annotation-line-highlight-gutter"];
+        elementsIds.forEach((elId) => {
+          const div = window.document.getElementById(elId);
+          if (div) {
+            div.remove();
+          }
+        });
+        selectedAnnoteEl = undefined;
+      };
+        // Handle positioning of the toggle
+    window.addEventListener(
+      "resize",
+      throttle(() => {
+        elRect = undefined;
+        if (selectedAnnoteEl) {
+          selectCodeLines(selectedAnnoteEl);
+        }
+      }, 10)
+    );
+    function throttle(fn, ms) {
+    let throttle = false;
+    let timer;
+      return (...args) => {
+        if(!throttle) { // first call gets through
+            fn.apply(this, args);
+            throttle = true;
+        } else { // all the others get throttled
+            if(timer) clearTimeout(timer); // cancel #2
+            timer = setTimeout(() => {
+              fn.apply(this, args);
+              timer = throttle = false;
+            }, ms);
+        }
+      };
+    }
+      // Attach click handler to the DT
+      const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
+      for (const annoteDlNode of annoteDls) {
+        annoteDlNode.addEventListener('click', (event) => {
+          const clickedEl = event.target;
+          if (clickedEl !== selectedAnnoteEl) {
+            unselectCodeLines();
+            const activeEl = window.document.querySelector('dt[data-target-cell].code-annotation-active');
+            if (activeEl) {
+              activeEl.classList.remove('code-annotation-active');
+            }
+            selectCodeLines(clickedEl);
+            clickedEl.classList.add('code-annotation-active');
+          } else {
+            // Unselect the line
+            unselectCodeLines();
+            clickedEl.classList.remove('code-annotation-active');
+          }
+        });
+      }
   const findCites = (el) => {
     const parentEl = el.parentElement;
     if (parentEl) {
@@ -1364,12 +1950,12 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 </script>
 <nav class="page-navigation">
   <div class="nav-page nav-page-previous">
-      <a href="../resources/teaching_r.html" class="pagination-link">
+      <a href="../resources/teaching_r.html" class="pagination-link" aria-label="Teaching R">
         <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text">Teaching R</span>
       </a>          
   </div>
   <div class="nav-page nav-page-next">
-      <a href="../resources/workflows.html" class="pagination-link">
+      <a href="../resources/workflows.html" class="pagination-link" aria-label="Workflows">
         <span class="nav-page-text">Workflows</span> <i class="bi bi-arrow-right-short"></i>
       </a>
   </div>
@@ -1377,10 +1963,18 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 </div> <!-- /content -->
 <footer class="footer">
   <div class="nav-footer">
-    <div class="nav-footer-left">© Copyright 2023, Joscelin Rocha-Hidalgo</div>   
-    <div class="nav-footer-right">This page is built with <a href="https://quarto.org/">Quarto</a>.</div>
+    <div class="nav-footer-left">
+<p>© Copyright 2025, Joscelin Rocha-Hidalgo</p>
+</div>   
+    <div class="nav-footer-center">
+      &nbsp;
+    <div class="toc-actions d-sm-block d-md-none"><ul><li><a href="https://github.com/Joscelinrocha/resouRces/edit/main/resources/visualization.qmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/Joscelinrocha/resouRces/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li></ul></div></div>
+    <div class="nav-footer-right">
+<p>This page is built with <a href="https://quarto.org/">Quarto</a>.</p>
+</div>
   </div>
 </footer>
+
 
 
 

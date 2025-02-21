@@ -185,6 +185,20 @@ Moreover, externally created simulations, e.g. posterior predictive simulations 
 
 1.  Link to repo here: <https://github.com/florianhartig/DHARMa>
 
+## [Estimating Correlations Adjusted for Group Membership](https://www.pipinghotdata.com/posts/2021-10-11-estimating-correlations-adjusted-for-group-membership/)
+
+By Shannon Pileggi
+
+Added Thu Feb 20, 2025
+
+**What is this?**
+
+This article discusses how to obtain accurate correlation estimates in the presence of underlying groups or related observations.
+It demonstrates the use of linear mixed models to adjust correlation estimates, providing sensible overall correlations across subgroups.
+The article includes applied examples using the Palmer penguins dataset and TidyTuesday Spotify songs to illustrate the approach.
+
+1.  Link to article: <https://www.pipinghotdata.com/posts/2021-10-11-estimating-correlations-adjusted-for-group-membership/>
+
 ## [Five different "Cohen's d" statistics for within-subject designs](http://jakewestfall.org/blog/index.php/2016/03/25/five-different-cohens-d-statistics-for-within-subject-designs/)
 
 By [Cookie Scientist](http://jakewestfall.org/blog/index.php/2016/03/25/five-different-cohens-d-statistics-for-within-subject-designs/)
@@ -652,6 +666,20 @@ Demonstrations are provided including power, data screening, analysis, write up 
 Help guides and course materials are also provided!
 
 1.  Link to Youtube Channel here: <https://www.youtube.com/c/StatisticsofDOOM/videos>
+
+## [Structural Equation Modeling (SEM) in R](https://kevintshoemaker.github.io/NRES-746/SEM.RMarkdown.html) 💯
+
+By Jeremy Adkins
+
+Added Thu Feb 20, 2025
+
+**What is this?**
+
+This resource provides an in-depth introduction to Structural Equation Modeling (SEM) tailored for ecologists.
+It covers the fundamentals of SEM, including its relevance in ecological research, key definitions, types of SEMs, and practical examples.
+The tutorial emphasizes the use of SEM to model complex networks of causal relationships between observed and latent variables, offering intuitive interpretations of ecological data.
+
+1.  Link to tutorial here: <https://kevintshoemaker.github.io/NRES-746/SEM.RMarkdown.html>
 
 ## [Summary and Analysis of Extension Program Evaluation in R](https://rcompanion.org/handbook/index.html)
 

@@ -20,6 +20,18 @@ Excerpt from site: This is the website for 2nd edition of "Advanced R", a book i
 1.  Free web-book here: [https://adv-r.hadley.nz/ or http://adv-r.had.co.nz/Introduction.html](https://adv-r.hadley.nz/%20or%20http://adv-r.had.co.nz/Introduction.html)
 2.  Buy book here: [Link to Amazon](https://www.amazon.com/dp/0815384572/ref=cm_sw_su_dp?tag=devtools-20)
 
+## [An Introduction to R](https://intro2r.com/)  🌱
+
+By Alex Douglas, Deon Roos, Francesca Mancini, Ana Couto & David Lusseau
+
+Added Thu Feb 20, 2025
+
+**What is this?**
+
+**An Introduction to R** is a comprehensive online book aimed at beginners in R programming. It covers essential topics such as installing R and RStudio, understanding RStudio's interface, working with data structures, creating visualizations, and basic programming concepts. The book is structured to provide practical guidance, making it a valuable resource for those new to R.
+
+1.  Link to book here: <https://intro2r.com/>
+
 ## [Coding togetheR](https://ab604.github.io/docs/coding-together-2019/)
 
 By [Alistair Bailey](https://ab604.github.io/docs/coding-together-2019/)
@@ -92,9 +104,7 @@ Added Fri Apr 14th, 2023
 
 **What is this?**
 
-**Excerpt from e-book:** The purpose of this book is to inspire and enable anyone who reads it to reconsider the methods they currently employ to analyse data.
-This is not to suggest that the methodologies outlined will be useful or sufficient for everyone who reads it.
-Some analyses can be performed quickly without the need for additional computation while others will require advanced analytics techniques not outlined in this book; however, the aspiration is that all will be equipped with novel tools and ideas for approaching data analysis.
+**Excerpt from e-book:** The purpose of this book is to inspire and enable anyone who reads it to reconsider the methods they currently employ to analyse data. This is not to suggest that the methodologies outlined will be useful or sufficient for everyone who reads it. Some analyses can be performed quickly without the need for additional computation while others will require advanced analytics techniques not outlined in this book; however, the aspiration is that all will be equipped with novel tools and ideas for approaching data analysis.
 
 1.  Link to e-book here: https://trevorfrench.github.io/R-for-Data-Analysis/?es_id=aaa755b1d8
 
@@ -117,6 +127,18 @@ By [Hasse Walum & Desirée De Leon](https://tinystats.github.io/teacups-giraffes
 The site's purpose is to introduce you to statistics with R but the first module gives you a really concise introduction of R.
 
 1.  Link to module: <https://tinystats.github.io/teacups-giraffes-and-statistics/01_introToR.html>
+
+## [The R Workshop Book](https://www.r-workshop.org/)
+
+By Rebecca L. Barter
+
+Added Thu Feb 20, 2025
+
+**What is this?**
+
+**The R Workshop Book** is designed to help beginners learn R for data analysis, focusing on tabular data manipulation and visualization using the tidyverse. It serves as a companion to workshops originally developed and taught at the University of Utah, covering R fundamentals, data frames, and visualization with ggplot2.
+
+1.  Link to book here: <https://www.r-workshop.org/>
 
 ## [The Tidyverse Cookbook](https://rstudio-education.github.io/tidyverse-cookbook/)
 

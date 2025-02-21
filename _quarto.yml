@@ -19,7 +19,7 @@ website:
 
   page-footer:
     right: "This page is built with [Quarto](https://quarto.org/)."
-    left: "&copy; Copyright 2023, Joscelin Rocha-Hidalgo"
+    left: "&copy; Copyright 2025, Joscelin Rocha-Hidalgo"
     background: "#D9E3E4"
 
   sidebar:

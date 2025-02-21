@@ -155,7 +155,7 @@ Learning is reinforced through weekly assignments that involve working with diff
 
 1.  Course here: <https://psyteachr.github.io/msc-data-skills/>
 
-## [Data Wrangling in the Tidyverse](https://www.youtube.com/watch?v=EOpb3VsWmck) 
+## [Data Wrangling in the Tidyverse](https://www.youtube.com/watch?v=EOpb3VsWmck)
 
 By [Nick Huntington-Klein](https://www.youtube.com/watch?v=EOpb3VsWmck)
 
@@ -165,12 +165,11 @@ Date added Fri AprMay 5th, 2023
 **Excerpt from the site:** This video series covers the basics of data wrangling using the tidyverse, aimed at my data communications class.
 I assume some very, very basic R background, but really not much.
 
-
 This is a simplified and adapted version of my data wrangling workshops, which are available in full on my channel for tidyverse (R), data.table (R), and pandas (Python).
 
 1.  Link to videos are here: <https://www.youtube.com/watch?v=EOpb3VsWmck>
-2.   Slides to follow along with the videos are here: [https://nickch-k.github.io/DataCommSl\...](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqa1RhU0FZOHVrbVlTTXcyUW80OVFPRmFmQTFYd3xBQ3Jtc0tsTkl5MGNhUjFOVWRWT1V1RFBpd2ZwX3JsUjF0Nkg1NVdJZG95Q1RUakt0ZzRzQ1ZHYU43RmdaMTlwQVllMFU5dGZUeTMxOUtSclpXdWhNdkMtZ2lPemZnREJKOWpBSDQ5VGNMTGswTktfZzFSbE9IYw&q=https%3A%2F%2Fnickch-k.github.io%2FDataCommSlides%2FLecture_05_and_06_Data_Wrangling.html%23%2F&v=EOpb3VsWmck)
-3.  Code instructor works on in the videos can be found here: [https://github.com/NickCH-K/DataCommS\...](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbjNhM0FBVkZaVE5SM2w2YWVaYnVLV1Z1V3BhZ3xBQ3Jtc0ttOHc5SEY1Tm5JOGdNUUhzYzVZanRYNTVnM3JjdFh1czRaVmpqRnVJZXl1MlVkZjVzQnVxRTVXMTNObkRnak1Kc2hKSkM2U09Sb0dXeXVtXzRxZGZOTmpVZTRzUWk4bEJkTUM0VGJxVDEzR1MzVmc4OA&q=https%3A%2F%2Fgithub.com%2FNickCH-K%2FDataCommSlides%2Fblob%2Fmaster%2FLecture_05_and_06_example_code.R&v=EOpb3VsWmck)
+2.  Slides to follow along with the videos are here: [https://nickch-k.github.io/DataCommSl...](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqa1RhU0FZOHVrbVlTTXcyUW80OVFPRmFmQTFYd3xBQ3Jtc0tsTkl5MGNhUjFOVWRWT1V1RFBpd2ZwX3JsUjF0Nkg1NVdJZG95Q1RUakt0ZzRzQ1ZHYU43RmdaMTlwQVllMFU5dGZUeTMxOUtSclpXdWhNdkMtZ2lPemZnREJKOWpBSDQ5VGNMTGswTktfZzFSbE9IYw&q=https%3A%2F%2Fnickch-k.github.io%2FDataCommSlides%2FLecture_05_and_06_Data_Wrangling.html%23%2F&v=EOpb3VsWmck)
+3.  Code instructor works on in the videos can be found here: [https://github.com/NickCH-K/DataCommS...](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbjNhM0FBVkZaVE5SM2w2YWVaYnVLV1Z1V3BhZ3xBQ3Jtc0ttOHc5SEY1Tm5JOGdNUUhzYzVZanRYNTVnM3JjdFh1czRaVmpqRnVJZXl1MlVkZjVzQnVxRTVXMTNObkRnak1Kc2hKSkM2U09Sb0dXeXVtXzRxZGZOTmpVZTRzUWk4bEJkTUM0VGJxVDEzR1MzVmc4OA&q=https%3A%2F%2Fgithub.com%2FNickCH-K%2FDataCommSlides%2Fblob%2Fmaster%2FLecture_05_and_06_example_code.R&v=EOpb3VsWmck)
 
 ## [Exploratory Data Analysis with R](https://bookdown.org/rdpeng/exdata/) 💯
 
@@ -213,6 +212,37 @@ grateful can then generate a new document with citations in the desired output f
 These references can be formatted for a specific journal, so that we can just paste them directly into our manuscript or report.
 
 1.  Link to package: <https://pakillo.github.io/grateful/>
+
+## [How I Structure My RStudio Projects](https://rfortherestofus.com/2021/08/rstudio-project-structure/) 💯
+
+By David Keyes
+
+Added Thu Feb 20, 2025
+
+**What is this?**
+
+In this article, David Keyes shares his standardized approach to organizing RStudio projects to enhance efficiency and collaboration.
+He emphasizes the importance of a consistent file structure, detailing the use of specific folders such as `data-raw` for raw data, `data` for processed data, and `R` for functions.
+By adopting this structure, Keyes reduces decision fatigue and streamlines project workflows, making it easier for both individual and collaborative work.
+
+1.  Link to article here: <https://rfortherestofus.com/2021/08/rstudio-project-structure/>
+
+## [How to Name Files](https://github.com/jennybc/how-to-name-files)
+
+By Jenny Bryan
+
+Added Thu Feb 20, 2025
+
+**What is this?**
+
+This repository offers practical advice on creating effective filenames that are both machine-readable and human-readable, while also ensuring proper default ordering.
+The guidance emphasizes the importance of consistent and descriptive naming conventions to enhance file organization and accessibility.
+Resources include slides from a lightning talk presented at NormConf on December 15, 2022, available in PDF format within the repository.
+Additionally, a pre-recorded video of the talk is accessible, providing further insights into best practices for naming files.
+
+1.  Link to repository: <https://github.com/jennybc/how-to-name-files>
+
+2.  Link to video: <https://www.youtube.com/watch?v=ES1LTlnpLMk&ab_channel=NormConf>
 
 ## [Introduction to Data Science Fall 2019](https://introds.org/)
 
@@ -276,6 +306,55 @@ You will get started with the basics of the language, learn how to manipulate da
 With the fundamentals provided in this book, you will have a solid foundation on which to build your data science toolbox.
 
 1.  Web-book here: <https://bookdown.org/rdpeng/rprogdatascience/>
+
+## [Reproducible Data Science in R: Iterate, Don't Duplicate](https://waterdata.usgs.gov/blog/rds-iterate/)
+
+By Anthony Martinez
+
+Added Thu Feb 20, 2025
+
+**What is this?**
+
+This article, part of the "Reproducible Data Science with R" series, emphasizes the importance of iteration over code duplication in R programming.
+It introduces the `purrr::map_*()` family of functions, which help avoid repetitive code by programmatically applying operations over data structures.
+The tutorial covers:
+
+-   **Drawbacks of Code Duplication**: Highlighting errors and maintenance challenges associated with copying and pasting code.
+
+-   **Introduction to For Loops**: Discussing basic iteration techniques in R.
+
+-   **Mapping with `purrr`**: Demonstrating how to use `purrr`'s mapping functions for efficient and readable code.
+
+The article provides practical examples, particularly using the `dataRetrieval` package to fetch and process water data, showcasing how iteration enhances code efficiency and reproducibility.
+
+1.  Link to article here: <https://waterdata.usgs.gov/blog/rds-iterate/>
+
+## [Reproducible Data Science in R: Flexible Functions Using Tidy Evaluation](https://waterdata.usgs.gov/blog/rds-function-evaluation/)
+
+By Elise Hinman
+
+Added Thu Feb 20, 2025
+
+**What is this?**
+
+This article addresses the challenges of writing flexible data-wrangling functions in R's tidyverse ecosystem.
+It introduces tidy evaluation techniques, such as data masking and tidy selection, to enhance function flexibility.
+The tutorial provides practical examples to help R programmers create adaptable and efficient functions.
+
+1.  Link to article here: <https://waterdata.usgs.gov/blog/rds-function-evaluation/>
+
+## [Reproducible Data Science in R: Writing Better Functions](https://waterdata.usgs.gov/blog/rds-better-functions/)
+
+By Anthony Martinez and Elise Hinman
+
+Added Thu Feb 20, 2025
+
+**What is this?**
+
+This article explores best practices for writing clear and efficient functions in R.
+It covers function names, arguments, return values, and documentation, using examples from the `dataRetrieval` package to improve code structure and reusability.
+
+1.  Link to article here: <https://waterdata.usgs.gov/blog/rds-better-functions/>
 
 ## [Reproducible science workshop: A one-day workshop with R and RStudio](https://oliviergimenez.github.io/reproducible-science-workshop/)
 

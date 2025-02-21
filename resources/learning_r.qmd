@@ -53,16 +53,17 @@ Added Fri April 28th, 2023
 
 1.  Course materials here: <https://github.com/seanchrismurphy/A-Guided-Tour-of-R>
 
-## [An Introduction to R](https://intro2r.com/)
+## [An Introduction to R](https://intro2r.com/)  🌱
 
-By [Alex Douglas](https://www.abdn.ac.uk/people/a.douglas/), [Deon Roos](https://twitter.com/DeonRoos88), [Francesca Mancini](https://francescamancini.github.io/), [Ana Couto](https://www.researchgate.net/profile/Ana-Couto-5) & [David Lusseau](https://twitter.com/lusseau)
+By Alex Douglas, Deon Roos, Francesca Mancini, Ana Couto & David Lusseau
 
-Added Mon Feb, 2024.\
-**What is this?**\
-**Excerpt from site:** "The aim of this book is to introduce you to using R, a powerful and flexible interactive environment for statistical computing and research. R in itself is not difficult to learn, but as with learning any new language (spoken or computer) the initial learning curve can be a little steep and somewhat daunting. We have tried to simplify the content of this book as much as possible and have based it on our own personal experience of teaching (and learning) R over the last 15 years. It is not intended to cover everything there is to know about R - that would be an impossible task. Neither is it intended to be an introductory statistics course, although you will be using some simple statistics to highlight some of R’s capabilities. The main aim of this book is to help you climb the initial learning curve and provide you with the basic skills and experience (and confidence!) to enable you to further your experience in using R.".
+Added Thu Feb 20, 2025
 
-1.  Link to ebook here: <https://intro2r.com/>
-2.  Link to code and repo here: <https://github.com/alexd106/Rbook>
+**What is this?**
+
+**An Introduction to R** is a comprehensive online book aimed at beginners in R programming. It covers essential topics such as installing R and RStudio, understanding RStudio's interface, working with data structures, creating visualizations, and basic programming concepts. The book is structured to provide practical guidance, making it a valuable resource for those new to R.
+
+1.  Link to book here: <https://intro2r.com/>
 
 ## [An Introduction to R With Hockey Data](https://meghan.rbind.io/blog/r-tutorial/) 🌱
 
@@ -126,8 +127,8 @@ Date added Fri AprMay 5th, 2023
 This is a simplified and adapted version of my data wrangling workshops, which are available in full on my channel for tidyverse (R), data.table (R), and pandas (Python).
 
 1.  Link to videos are here: <https://www.youtube.com/watch?v=EOpb3VsWmck>
-2.  Slides to follow along with the videos are here: [https://nickch-k.github.io/DataCommSl\...](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqa1RhU0FZOHVrbVlTTXcyUW80OVFPRmFmQTFYd3xBQ3Jtc0tsTkl5MGNhUjFOVWRWT1V1RFBpd2ZwX3JsUjF0Nkg1NVdJZG95Q1RUakt0ZzRzQ1ZHYU43RmdaMTlwQVllMFU5dGZUeTMxOUtSclpXdWhNdkMtZ2lPemZnREJKOWpBSDQ5VGNMTGswTktfZzFSbE9IYw&q=https%3A%2F%2Fnickch-k.github.io%2FDataCommSlides%2FLecture_05_and_06_Data_Wrangling.html%23%2F&v=EOpb3VsWmck)
-3.  Code instructor works on in the videos can be found here: [https://github.com/NickCH-K/DataCommS\...](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbjNhM0FBVkZaVE5SM2w2YWVaYnVLV1Z1V3BhZ3xBQ3Jtc0ttOHc5SEY1Tm5JOGdNUUhzYzVZanRYNTVnM3JjdFh1czRaVmpqRnVJZXl1MlVkZjVzQnVxRTVXMTNObkRnak1Kc2hKSkM2U09Sb0dXeXVtXzRxZGZOTmpVZTRzUWk4bEJkTUM0VGJxVDEzR1MzVmc4OA&q=https%3A%2F%2Fgithub.com%2FNickCH-K%2FDataCommSlides%2Fblob%2Fmaster%2FLecture_05_and_06_example_code.R&v=EOpb3VsWmck)
+2.  Slides to follow along with the videos are here: [https://nickch-k.github.io/DataCommSl...](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqa1RhU0FZOHVrbVlTTXcyUW80OVFPRmFmQTFYd3xBQ3Jtc0tsTkl5MGNhUjFOVWRWT1V1RFBpd2ZwX3JsUjF0Nkg1NVdJZG95Q1RUakt0ZzRzQ1ZHYU43RmdaMTlwQVllMFU5dGZUeTMxOUtSclpXdWhNdkMtZ2lPemZnREJKOWpBSDQ5VGNMTGswTktfZzFSbE9IYw&q=https%3A%2F%2Fnickch-k.github.io%2FDataCommSlides%2FLecture_05_and_06_Data_Wrangling.html%23%2F&v=EOpb3VsWmck)
+3.  Code instructor works on in the videos can be found here: [https://github.com/NickCH-K/DataCommS...](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbjNhM0FBVkZaVE5SM2w2YWVaYnVLV1Z1V3BhZ3xBQ3Jtc0ttOHc5SEY1Tm5JOGdNUUhzYzVZanRYNTVnM3JjdFh1czRaVmpqRnVJZXl1MlVkZjVzQnVxRTVXMTNObkRnak1Kc2hKSkM2U09Sb0dXeXVtXzRxZGZOTmpVZTRzUWk4bEJkTUM0VGJxVDEzR1MzVmc4OA&q=https%3A%2F%2Fgithub.com%2FNickCH-K%2FDataCommSlides%2Fblob%2Fmaster%2FLecture_05_and_06_example_code.R&v=EOpb3VsWmck)
 
 ## [Efficient R programming](https://bookdown.org/csgillespie/efficientR/) 🌱 & 🌳
 
@@ -274,6 +275,26 @@ By [Damie Pak](https://dpak.shinyapps.io/LEARNR/) (\@pakdamie)
 
 1.  Link to interactive site here: <https://dpak.shinyapps.io/LEARNR/>
 
+## [Learning R as a SAS User](https://hutchdatascience.org/data_snacks/r_snacks/sas2r.html) 💯
+
+By Ted Laderas
+
+Added Thu Feb 20, 2025
+
+**What is this?**
+
+This comprehensive guide is tailored for individuals transitioning from SAS to R. It offers a wealth of resources, including:
+
+-   **Useful Packages**: Introduction to the Sassy system of packages, which replicate familiar SAS outputs in R.
+
+-   **Articles, Videos, and Cheat Sheets**: Curated list of materials to aid learning, such as Brendan O’Dowd’s "SAS to R Cheat Sheet."
+
+-   **Practical Tips**: Insights on data loading, execution, coding practices, handling missing values, understanding the variety of R packages, programming nuances, performance considerations, and statistical modeling.
+
+The guide emphasizes the differences between SAS and R, providing actionable advice to make the learning curve more manageable.
+
+1.  Link to guide here: <https://hutchdatascience.org/data_snacks/r_snacks/sas2r.html>
+
 ## [Learning R with Hockey Data and learnr](https://meghan.rbind.io/blog/learnr/) 🌱
 
 By [Meghan Hall](https://meghan.rbind.io/blog/learnr/)
@@ -328,6 +349,18 @@ Date added: April 15th, 2021.\
 **What is this?** Excerpt from site: Mainly free courses by Harvard university to learn R
 
 1.  Link to site: https: <https://online-learning.harvard.edu/subject/r>
+
+## [Posit Cheat Sheets](https://github.com/adriculous/posit-cheatsheets) 💯
+
+By Adri
+
+Added Thu Feb 20, 2025
+
+**What is this?**
+
+This GitHub repository hosts a collection of cheat sheets for Posit (formerly RStudio) products. These cheat sheets serve as quick references for various R packages and tools, aiding users in efficient coding and data analysis.
+
+1.  Link to repository here: <https://github.com/adriculous/posit-cheatsheets>
 
 ## [Programming with R](https://swcarpentry.github.io/r-novice-inflammation/)
 
@@ -496,6 +529,18 @@ The site's purpose is to introduce you to statistics with R but the first module
 
 1.  Link to module: <https://tinystats.github.io/teacups-giraffes-and-statistics/01_introToR.html>
 
+## [The R Workshop Book](https://www.r-workshop.org/)
+
+By Rebecca L. Barter
+
+Added Thu Feb 20, 2025
+
+**What is this?**
+
+**The R Workshop Book** is designed to help beginners learn R for data analysis, focusing on tabular data manipulation and visualization using the tidyverse. It serves as a companion to workshops originally developed and taught at the University of Utah, covering R fundamentals, data frames, and visualization with ggplot2.
+
+1.  Link to book here: <https://www.r-workshop.org/>
+
 ## [The Tidyverse Cookbook](https://rstudio-education.github.io/tidyverse-cookbook/)
 
 By [Garrett Grolemund](https://rstudio-education.github.io/tidyverse-cookbook/)
@@ -506,7 +551,7 @@ By [Garrett Grolemund](https://rstudio-education.github.io/tidyverse-cookbook/)
 
 1.  Link to the ebook here: <https://rstudio-education.github.io/tidyverse-cookbook/>
 
-## [The tidyverse style guide](https://style.tidyverse.org/)
+## [The Tidyverse Style Guide](https://style.tidyverse.org/)
 
 By [Hadley Wickham](https://style.tidyverse.org/)
 

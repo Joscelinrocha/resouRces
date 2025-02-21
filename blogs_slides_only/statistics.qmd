@@ -22,6 +22,20 @@ Added Sun Dec 12, 2021
 
 1.  Link to guide here: <https://www.andrewheiss.com/blog/2021/12/01/multilevel-models-panel-data-guide/>
 
+## [Estimating Correlations Adjusted for Group Membership](https://www.pipinghotdata.com/posts/2021-10-11-estimating-correlations-adjusted-for-group-membership/)
+
+By Shannon Pileggi
+
+Added Thu Feb 20, 2025
+
+**What is this?**
+
+This article discusses how to obtain accurate correlation estimates in the presence of underlying groups or related observations.
+It demonstrates the use of linear mixed models to adjust correlation estimates, providing sensible overall correlations across subgroups.
+The article includes applied examples using the Palmer penguins dataset and TidyTuesday Spotify songs to illustrate the approach.
+
+1.  Link to article: <https://www.pipinghotdata.com/posts/2021-10-11-estimating-correlations-adjusted-for-group-membership/>
+
 ## [Five different "Cohen's d" statistics for within-subject designs](http://jakewestfall.org/blog/index.php/2016/03/25/five-different-cohens-d-statistics-for-within-subject-designs/)
 
 By [Cookie Scientist](http://jakewestfall.org/blog/index.php/2016/03/25/five-different-cohens-d-statistics-for-within-subject-designs/)
