@@ -213,6 +213,20 @@ These references can be formatted for a specific journal, so that we can just pa
 
 1.  Link to package: <https://pakillo.github.io/grateful/>
 
+## [How I Structure My RStudio Projects](https://rfortherestofus.com/2021/08/rstudio-project-structure/) 💯
+
+By David Keyes
+
+Added Thu Feb 20, 2025
+
+**What is this?**
+
+In this article, David Keyes shares his standardized approach to organizing RStudio projects to enhance efficiency and collaboration.
+He emphasizes the importance of a consistent file structure, detailing the use of specific folders such as `data-raw` for raw data, `data` for processed data, and `R` for functions.
+By adopting this structure, Keyes reduces decision fatigue and streamlines project workflows, making it easier for both individual and collaborative work.
+
+1.  Link to article here: <https://rfortherestofus.com/2021/08/rstudio-project-structure/>
+
 ## [How to Name Files](https://github.com/jennybc/how-to-name-files)
 
 By Jenny Bryan

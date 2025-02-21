@@ -80,3 +80,20 @@ accomplish the various tasks.
 
 3.  Link to slides in pdf here:
     <https://github.com/jthomasmock/radix_themockup/blob/master/_posts/2020-07-25-meta-rmarkdown/rmd-slides.pdf>
+
+## [Using Word Reference Documents with RMarkdown to Create Custom Reports](https://rfortherestofus.com/2020/07/word-reference-documents-rmarkdown/)
+
+By David Keyes
+
+Added Thu Feb 20, 2025
+
+**What is this?**
+
+This tutorial demonstrates how to customize the appearance
+of Word documents generated from RMarkdown by utilizing
+reference documents. By creating a Word template with
+desired styles and specifying it in the RMarkdown YAML
+header, users can ensure consistent and personalized
+formatting in their reports.
+
+1.  

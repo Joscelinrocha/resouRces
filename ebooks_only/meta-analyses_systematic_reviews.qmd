@@ -43,9 +43,3 @@ Ebert.
 
 1.  Link to ebook:
     <https://bookdown.org/MathiasHarrer/Doing_Meta_Analysis_in_R/>
-
-2.  <div>
-
-    ## 
-
-    </div>

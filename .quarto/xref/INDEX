@@ -7,5 +7,230 @@
   },
   "resources/fun_extra.qmd": {
     "fun_extra.html": "42bd3279"
+  },
+  "LICENSE.md": {
+    "LICENSE.html": "abd39415"
+  },
+  "database-faq.qmd": {
+    "database-faq.html": "187d4e7d"
+  },
+  "404.qmd": {
+    "404.html": "d84a3b52"
+  },
+  "resources/prof_dev.qmd": {
+    "prof_dev.html": "35423d44"
+  },
+  "resources/r_to_python.qmd": {
+    "r_to_python.html": "85b6ca18"
+  },
+  "resources/workflows.qmd": {
+    "workflows.html": "859c4802"
+  },
+  "resources/packages_how_to.qmd": {
+    "packages_how_to.html": "dd0931d9"
+  },
+  "resources/dashboards_shiny.qmd": {
+    "dashboards_shiny.html": "e1f10dc6"
+  },
+  "resources/learning_r.qmd": {
+    "learning_r.html": "d4058068"
+  },
+  "resources/eyetracking.qmd": {
+    "eyetracking.html": "347949f2"
+  },
+  "resources/meta-analyses_systematic_reviews.qmd": {
+    "meta-analyses_systematic_reviews.html": "0b713e4a"
+  },
+  "resources/docker.qmd": {
+    "docker.html": "4deda12f"
+  },
+  "resources/git.qmd": {
+    "git.html": "964fd491"
+  },
+  "resources/quarto.qmd": {
+    "quarto.html": "fd7f5f51"
+  },
+  "resources/presentations_slides.qmd": {
+    "presentations_slides.html": "b7ff3b26"
+  },
+  "resources/teaching_r.qmd": {
+    "teaching_r.html": "82e50e07"
+  },
+  "resources/visualization.qmd": {
+    "visualization.html": "56fc60a3"
+  },
+  "resources/art.qmd": {
+    "art.html": "48160bfb"
+  },
+  "resources/r_markdown.qmd": {
+    "r_markdown.html": "eb15cd15"
+  },
+  "resources/machine_learning.qmd": {
+    "machine_learning.html": "6c9de805"
+  },
+  "resources/datasets.qmd": {
+    "datasets.html": "01373c32"
+  },
+  "resources/making_websites_blogs.qmd": {
+    "making_websites_blogs.html": "68e4b3ac"
+  },
+  "resources/data_science.qmd": {
+    "data_science.html": "279c1459"
+  },
+  "resources/joscelins_faves.qmd": {
+    "joscelins_faves.html": "960c1e8f"
+  },
+  "resources/statistics.qmd": {
+    "statistics.html": "2a3adea2"
+  },
+  "resources/r_for_neuro.qmd": {
+    "r_for_neuro.html": "6a012c08"
+  },
+  "courses_tutorials_only/r_to_python.qmd": {
+    "r_to_python.html": "bc1a4699"
+  },
+  "courses_tutorials_only/packages_how_to.qmd": {
+    "packages_how_to.html": "fc1fb7fd"
+  },
+  "courses_tutorials_only/learning_r.qmd": {
+    "learning_r.html": "20263abe"
+  },
+  "courses_tutorials_only/meta-analyses_systematic_reviews.qmd": {
+    "meta-analyses_systematic_reviews.html": "70210935"
+  },
+  "courses_tutorials_only/git.qmd": {
+    "git.html": "f338e46e"
+  },
+  "courses_tutorials_only/quarto.qmd": {
+    "quarto.html": "cf35e277"
+  },
+  "courses_tutorials_only/teaching_r.qmd": {
+    "teaching_r.html": "4c542f8d"
+  },
+  "courses_tutorials_only/visualization.qmd": {
+    "visualization.html": "1e20d1eb"
+  },
+  "courses_tutorials_only/r_markdown.qmd": {
+    "r_markdown.html": "817511da"
+  },
+  "courses_tutorials_only/machine_learning.qmd": {
+    "machine_learning.html": "e55ad064"
+  },
+  "courses_tutorials_only/making_websites_blogs.qmd": {
+    "making_websites_blogs.html": "11fac64d"
+  },
+  "courses_tutorials_only/data_science.qmd": {
+    "data_science.html": "902a0d93"
+  },
+  "courses_tutorials_only/statistics.qmd": {
+    "statistics.html": "d380422f"
+  },
+  "courses_tutorials_only/r_for_neuro.qmd": {
+    "r_for_neuro.html": "7681477f"
+  },
+  "team.qmd": {
+    "team.html": "66f07ac3"
+  },
+  "database-overview.qmd": {
+    "database-overview.html": "ccc787e9"
+  },
+  "index.qmd": {
+    "index.html": "ce6cb81a"
+  },
+  "more_r_databases.qmd": {
+    "more_r_databases.html": "72fb94ae"
+  },
+  "blogs_slides_only/prof_dev.qmd": {
+    "prof_dev.html": "58dc05fd"
+  },
+  "blogs_slides_only/r_to_python.qmd": {
+    "r_to_python.html": "59bad7ad"
+  },
+  "blogs_slides_only/workflows.qmd": {
+    "workflows.html": "a26b0f26"
+  },
+  "blogs_slides_only/packages_how_to.qmd": {
+    "packages_how_to.html": "16a68b8a"
+  },
+  "blogs_slides_only/dashboards_shiny.qmd": {
+    "dashboards_shiny.html": "c4e9f3ee"
+  },
+  "blogs_slides_only/learning_r.qmd": {
+    "learning_r.html": "e6ecf414"
+  },
+  "blogs_slides_only/meta-analyses_systematic_reviews.qmd": {
+    "meta-analyses_systematic_reviews.html": "c926d49f"
+  },
+  "blogs_slides_only/docker.qmd": {
+    "docker.html": "89036830"
+  },
+  "blogs_slides_only/git.qmd": {
+    "git.html": "058e353d"
+  },
+  "blogs_slides_only/quarto.qmd": {
+    "quarto.html": "b6e94249"
+  },
+  "blogs_slides_only/presentations_slides.qmd": {
+    "presentations_slides.html": "65a54f89"
+  },
+  "blogs_slides_only/teaching_r.qmd": {
+    "teaching_r.html": "34b5623e"
+  },
+  "blogs_slides_only/visualization.qmd": {
+    "visualization.html": "35eb9734"
+  },
+  "blogs_slides_only/art.qmd": {
+    "art.html": "2d97cf59"
+  },
+  "blogs_slides_only/r_markdown.qmd": {
+    "r_markdown.html": "5f3c4133"
+  },
+  "blogs_slides_only/machine_learning.qmd": {
+    "machine_learning.html": "e4e08efc"
+  },
+  "blogs_slides_only/making_websites_blogs.qmd": {
+    "making_websites_blogs.html": "868eaef7"
+  },
+  "blogs_slides_only/data_science.qmd": {
+    "data_science.html": "603a1d65"
+  },
+  "blogs_slides_only/statistics.qmd": {
+    "statistics.html": "5478c4c8"
+  },
+  "blogs_slides_only/r_for_neuro.qmd": {
+    "r_for_neuro.html": "d2074378"
+  },
+  "ebooks_only/r_to_python.qmd": {
+    "r_to_python.html": "ffa603ac"
+  },
+  "ebooks_only/fun_extra.qmd": {
+    "fun_extra.html": "de2adc41"
+  },
+  "ebooks_only/packages_how_to.qmd": {
+    "packages_how_to.html": "1d2f9b8a"
+  },
+  "ebooks_only/dashboards_shiny.qmd": {
+    "dashboards_shiny.html": "c75d1591"
+  },
+  "ebooks_only/learning_r.qmd": {
+    "learning_r.html": "222fa1f2"
+  },
+  "ebooks_only/eyetracking.qmd": {
+    "eyetracking.html": "c560e613"
+  },
+  "ebooks_only/meta-analyses_systematic_reviews.qmd": {
+    "meta-analyses_systematic_reviews.html": "6b328076"
+  },
+  "ebooks_only/docker.qmd": {
+    "docker.html": "f7e035e0"
+  },
+  "ebooks_only/git.qmd": {
+    "git.html": "d5eb9afa"
+  },
+  "ebooks_only/quarto.qmd": {
+    "quarto.html": "167f647b"
+  },
+  "ebooks_only/presentations_slides.qmd": {
+    "presentations_slides.html": "8940b87d"
   }
 }
