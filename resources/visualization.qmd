@@ -308,11 +308,26 @@ Added Mon Apr 24th, 2023
 **What is this?**
 
 **Excerpt from site:** A list of educational apps that make it easy to create data visualizations in ggplot2.
-1.
-Link to all apps here: <https://ggplot2tor.com/apps> 1.
-Link to Aesthetics finder here: <https://ggplot2tor.com/aesthetics> 1.
-Link to Scales finder here: <https://ggplot2tor.com/scales> 1.
-Link to Theme finder: <https://ggplot2tor.com/theme>
+
+1.  Link to all apps here: <https://ggplot2tor.com/apps>
+2.  Link to Aesthetics finder here: <https://ggplot2tor.com/aesthetics>
+3.  Link to Scales finder here: <https://ggplot2tor.com/scales>
+4.  Link to Theme finder: <https://ggplot2tor.com/theme>
+
+## [Elevation Maps in R](https://umairdurrani.com/posts/2020-12-25-elevation-maps-in-r/elevation-maps-in-r)
+
+By Dr. U
+
+Added Thu Feb 20, 2025
+
+**What is this?**
+
+This comprehensive tutorial demonstrates how to create aesthetically pleasing and informative elevation maps in R using ground elevation data.
+The author guides readers through the process of obtaining elevation data, processing it, and visualizing it using various R packages.
+
+The tutorial provides detailed code snippets and explanations, making it accessible for users aiming to enhance their geospatial data visualization skills in R.
+
+1.  Link to tutorial here: <https://umairdurrani.com/posts/2020-12-25-elevation-maps-in-r/elevation-maps-in-r>
 
 ## [esquisse add-in](https://github.com/dreamRs/esquisse)
 
@@ -523,6 +538,20 @@ Added Thu Dec 31st, 2020
 
 1.  Link to video demo here: <https://www.youtube.com/watch?v=BNTn_f43U04&feature=youtu.be>
 
+## [Images as Facet Labels in ggplot2](https://umairdurrani.com/posts/images_in_facets/images_in_facets)
+
+By Dr. U
+
+Added Thu Feb 20, 2025
+
+**What is this?**
+
+This article explores how to replace facet labels in ggplot2 with images, such as country flags, to create more informative and visually appealing plots.
+The author provides a step-by-step guide on obtaining image data, integrating it with existing datasets, and utilizing the ggtext and ggh4x packages to display images as facet labels.
+This technique enhances the interpretability of faceted plots by incorporating visual cues directly into the plot structure.
+
+1.  Link to article here: <https://umairdurrani.com/posts/images_in_facets/images_in_facets>
+
 ## [Image sizes in an R markdown document](https://www.jumpingrivers.com/blog/knitr-rmarkdown-image-size/)
 
 Added Fri Apr 23rd, 2021
@@ -641,6 +670,19 @@ It's used by websites ranging from The New York Times and The Washington Post to
 This R package makes it easy to integrate and control Leaflet maps in R.
 
 1.  Link to vignette here: <https://rstudio.github.io/leaflet/>
+
+## [Making a Custom Arrowhead for ggplot2 Using ggarrow and arrowheadr](https://wjschne.github.io/posts/2023-08-26-making-a-custom-arrowhead-for-ggplot2-using-ggarrow-and-arrowheadr/)
+
+By W. Joel Schneider
+
+Added Thu Feb 20, 2025
+
+**What is this?**
+
+This blog post explores the creation of custom arrowheads in ggplot2 using the ggarrow and arrowheadr packages.
+It provides detailed instructions on designing and implementing custom arrowheads to enhance the clarity and aesthetics of ggplot2 visualizations.
+
+1.  Link to article here: <https://wjschne.github.io/posts/2023-08-26-making-a-custom-arrowhead-for-ggplot2-using-ggarrow-and-arrowheadr/>
 
 ## [Making Flipbooks](https://apreshill.github.io/rmd4cdc/#1)
 
@@ -778,7 +820,7 @@ Each recipe tackles a specific problem with a solution you can apply to your own
 1.  Link to free ebook here: <https://r-graphics.org/>
 2.  Link to buy it: [Amazon link](https://www.amazon.com/dp/1491978600)
 
-## [R graphics with ggplot2 workshop notes](http://tutorials.iq.harvard.edu/R/Rgraphics/Rgraphics.html#geometric_objects_and_aesthetics)
+## [R Graphics with ggplot2 Workshop notes](http://tutorials.iq.harvard.edu/R/Rgraphics/Rgraphics.html#geometric_objects_and_aesthetics)
 
 Added Mon Sep 14th, 2020
 
@@ -949,6 +991,7 @@ Here is a list of resources to create visualizations with maps
 12. <https://statnmap.com/2018-04-18-draw-maps-like-paintings/>
 13. <https://medium.com/appsilon-data-science/r-ggmap-how-to-visualize-spatial-data-in-r-c46dcf970095>
 14. <https://carolinamendozab.medium.com/mapping-income-per-capita-by-countries-in-r-using-world-bank-data-cf42eca247c4>
+15. <https://umairdurrani.com/posts/2020-12-25-elevation-maps-in-r/elevation-maps-in-r>
 
 ## Videos for data visualization
 
