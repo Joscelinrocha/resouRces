@@ -9,16 +9,15 @@ subtitle: "Blogs & Slides Only"
 -   Intermediate 🌳\
 -   Advanced 🌳🌳
 
-## [An Introduction to R With Hockey Data](https://meghan.rbind.io/blog/r-tutorial/) 🌱
+## [An Introduction to R With Hockey Data](https://meghan.rbind.io/slides/ucsas/hall_ucsas_2021#1) 🌱
 
-By [Meghan Hall](https://meghan.rbind.io/blog/r-tutorial/)
+By [Meghan Hall](https://meghan.rbind.io/slides/ucsas/hall_ucsas_2021#1)
 
-Added Sat Dec, 2021.\
+Updated Mon Feb 24, 2025\
 **What is this?**\
 **Excerpt from site:** "We'll go through the steps of downloading and setting up R and then, with the use of a sample hockey data set, learn the very basics of R for exploring and visualizing data".
 
-1.  Link to post here: <https://meghan.rbind.io/blog/r-tutorial/>
-2.  Link to code and repo here: <https://github.com/hockey-graphs/HG_intro_tutorial/blob/master/HG_tutorial_code.R>
+1.  Link to slides here: <https://meghan.rbind.io/slides/ucsas/hall_ucsas_2021#51>
 
 ## [Exploring tidymodels With Hockey Data](https://meghan.rbind.io/blog/tidymodels-intro/)🌱
 
