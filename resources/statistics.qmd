@@ -132,19 +132,21 @@ Added Sun Sep 13th, 2020
 
 1.  Link to site here: <https://www.datanovia.com/en/lessons/repeated-measures-anova-in-r/>
 
-## [Conversion in Psychology-MsC course](https://psyteachr.github.io/msc-conv-f2f/)
+## [Conversion Research Methods 1 and 2 courses at the University of Glasgow School of Psychology & Neuroscience](https://psyteachr.github.io/quant-fun-v3/)  
+
+By James Bartlett and Wil Toivo. This version of the book was adapted from a previous version written by Emily Nordmann and Phil McAleer.      
+
+Added Thu Mar 27th, 2025
 
 **What is this?**
 
-**Excerpt from site:** This book contains the quantitative research methods materials for students on the MSc Conversion in Psychological Studies/Science.
-The students are typically a diverse cohort and range from those with no STEM or programming background to engineering and computing science graduates.
-Compared to the undergraduate degree, the students are older, and there is a greater incidence of computer anxiety.
+**Excerpt from site:** 
 
-The focus for the MSc is to provide a basic but solid competency in core data skills and statistics that can be built on in further study.
-Students who wish to push themselves beyond the core competencies are encouraged to consult the MSc Data Skills course where they can learn about e.g., simulation and custom functions.
-To support those students who may have very limited computer literacy, the beginning stages are more supported than in the undergraduate programme e.g., with an increased use of screenshots and explanations for terminology.
+Summary: Materials for the MSc Conversion Research Methods 1 and 2 courses at the University of Glasgow School of Psychology & Neuroscience.        
 
-1.  Course is here: <https://psyteachr.github.io/msc-conv-f2f/>
+Aim: This course covers data skills such as creating reproducible documents with R Markdown, data wrangling, and data visualisation with the tidyverse family of packages. It also introduces statistical concepts such as Null Hypothesis Significance Testing (NHST), as well as demonstrating how to perform numerous analyses based around the general linear model including regression and ANOVA.
+
+1.  Course is here: <https://psyteachr.github.io/quant-fun-v3/>
 
 ## [Computational Toolkit for Educational Scientists](https://zief0002.github.io/toolkit/statistical-computation.html#statistical-computation)
 
