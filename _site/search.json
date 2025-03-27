@@ -42,11 +42,11 @@
     "text": "Comparing Multiple Means in R: Repeated Measures ANOVA in R\nAdded Sun Sep 13th, 2020\nWhat is this?\nExcerpt from site: This chapter describes the different types of repeated measures ANOVA, including: One-way repeated-measures ANOVA, two-way repeated-measures ANOVA, three-way repeated-measures ANOVA.\n\nLink to site here: https://www.datanovia.com/en/lessons/repeated-measures-anova-in-r/"
   },
   {
-    "objectID": "ebooks_only/statistics.html#conversion-in-psychology-msc-course",
-    "href": "ebooks_only/statistics.html#conversion-in-psychology-msc-course",
+    "objectID": "ebooks_only/statistics.html#conversion-research-methods-1-and-2-courses-at-the-university-of-glasgow-school-of-psychology-neuroscience",
+    "href": "ebooks_only/statistics.html#conversion-research-methods-1-and-2-courses-at-the-university-of-glasgow-school-of-psychology-neuroscience",
     "title": "Statistics",
-    "section": "Conversion in Psychology-MsC course",
-    "text": "Conversion in Psychology-MsC course\nWhat is this?\nExcerpt from site: This book contains the quantitative research methods materials for students on the MSc Conversion in Psychological Studies/Science. The students are typically a diverse cohort and range from those with no STEM or programming background to engineering and computing science graduates. Compared to the undergraduate degree, the students are older, and there is a greater incidence of computer anxiety.\nThe focus for the MSc is to provide a basic but solid competency in core data skills and statistics that can be built on in further study. Students who wish to push themselves beyond the core competencies are encouraged to consult the MSc Data Skills course where they can learn about e.g., simulation and custom functions. To support those students who may have very limited computer literacy, the beginning stages are more supported than in the undergraduate programme e.g., with an increased use of screenshots and explanations for terminology.\n\nCourse is here: https://psyteachr.github.io/msc-conv-f2f/"
+    "section": "Conversion Research Methods 1 and 2 courses at the University of Glasgow School of Psychology & Neuroscience",
+    "text": "Conversion Research Methods 1 and 2 courses at the University of Glasgow School of Psychology & Neuroscience\nBy James Bartlett and Wil Toivo. This version of the book was adapted from a previous version written by Emily Nordmann and Phil McAleer.\nAdded Thu Mar 27th, 2025\nWhat is this?\nExcerpt from site:\nSummary: Materials for the MSc Conversion Research Methods 1 and 2 courses at the University of Glasgow School of Psychology & Neuroscience.\nAim: This course covers data skills such as creating reproducible documents with R Markdown, data wrangling, and data visualisation with the tidyverse family of packages. It also introduces statistical concepts such as Null Hypothesis Significance Testing (NHST), as well as demonstrating how to perform numerous analyses based around the general linear model including regression and ANOVA.\n\nCourse is here: https://psyteachr.github.io/quant-fun-v3/"
   },
   {
     "objectID": "ebooks_only/statistics.html#computational-toolkit-for-educational-scientists",
@@ -1918,11 +1918,11 @@
     ]
   },
   {
-    "objectID": "resources/statistics.html#conversion-in-psychology-msc-course",
-    "href": "resources/statistics.html#conversion-in-psychology-msc-course",
+    "objectID": "resources/statistics.html#conversion-research-methods-1-and-2-courses-at-the-university-of-glasgow-school-of-psychology-neuroscience",
+    "href": "resources/statistics.html#conversion-research-methods-1-and-2-courses-at-the-university-of-glasgow-school-of-psychology-neuroscience",
     "title": "Statistics",
-    "section": "Conversion in Psychology-MsC course",
-    "text": "Conversion in Psychology-MsC course\nWhat is this?\nExcerpt from site: This book contains the quantitative research methods materials for students on the MSc Conversion in Psychological Studies/Science. The students are typically a diverse cohort and range from those with no STEM or programming background to engineering and computing science graduates. Compared to the undergraduate degree, the students are older, and there is a greater incidence of computer anxiety.\nThe focus for the MSc is to provide a basic but solid competency in core data skills and statistics that can be built on in further study. Students who wish to push themselves beyond the core competencies are encouraged to consult the MSc Data Skills course where they can learn about e.g., simulation and custom functions. To support those students who may have very limited computer literacy, the beginning stages are more supported than in the undergraduate programme e.g., with an increased use of screenshots and explanations for terminology.\n\nCourse is here: https://psyteachr.github.io/msc-conv-f2f/",
+    "section": "Conversion Research Methods 1 and 2 courses at the University of Glasgow School of Psychology & Neuroscience",
+    "text": "Conversion Research Methods 1 and 2 courses at the University of Glasgow School of Psychology & Neuroscience\nBy James Bartlett and Wil Toivo. This version of the book was adapted from a previous version written by Emily Nordmann and Phil McAleer.\nAdded Thu Mar 27th, 2025\nWhat is this?\nExcerpt from site:\nSummary: Materials for the MSc Conversion Research Methods 1 and 2 courses at the University of Glasgow School of Psychology & Neuroscience.\nAim: This course covers data skills such as creating reproducible documents with R Markdown, data wrangling, and data visualisation with the tidyverse family of packages. It also introduces statistical concepts such as Null Hypothesis Significance Testing (NHST), as well as demonstrating how to perform numerous analyses based around the general linear model including regression and ANOVA.\n\nCourse is here: https://psyteachr.github.io/quant-fun-v3/",
     "crumbs": [
       "Topics",
       "Statistics"
