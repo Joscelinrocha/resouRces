@@ -915,6 +915,19 @@ Plotly.R is free and open source and you can view the source, report issues or c
 
 1.  Link to site: <https://plotly.com/r/>
 
+## [Plotting Age Pyramids with ggplot](https://jmsallan.netlify.app/blog/plotting-age-pyramids-with-ggplot/)
+
+By Jose M Sallan
+
+Added Thu Apr 17, 2025
+
+**What is this?**
+
+This tutorial demonstrates how to create population pyramids in R using **ggplot2** and **tidyverse**.
+It covers data preparation, formatting, and visualization techniques to effectively represent age and gender distributions.​
+
+1.  Link to tutorial: <https://jmsallan.netlify.app/blog/plotting-age-pyramids-with-ggplot/>
+
 ## [Plotting 'timeSeries' Objects](https://cran.r-project.org/web/packages/timeSeries/vignettes/timeSeriesPlot.pdf)
 
 By [Diethelm Wurtz and Tobias Setz](https://cran.r-project.org/web/packages/timeSeries/vignettes/timeSeriesPlot.pdf)

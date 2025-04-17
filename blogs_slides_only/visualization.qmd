@@ -476,6 +476,19 @@ The approach emphasizes efficient coding practices, reducing redundancy, and enh
 
 1.  Link to article here: <https://rfortherestofus.com/2024/06/parameterising-a-multi-part-plot>
 
+## [Plotting Age Pyramids with ggplot](https://jmsallan.netlify.app/blog/plotting-age-pyramids-with-ggplot/)
+
+By Jose M Sallan
+
+Added Thu Apr 17, 2025
+
+**What is this?**
+
+This tutorial demonstrates how to create population pyramids in R using **ggplot2** and **tidyverse**.
+It covers data preparation, formatting, and visualization techniques to effectively represent age and gender distributions.​
+
+1.  Link to tutorial: <https://jmsallan.netlify.app/blog/plotting-age-pyramids-with-ggplot/>
+
 ## [Principles & Practice of Data Visualization](https://apreshill.github.io/data-vis-labs-2018/index.html)
 
 By [Alison Hill](https://apreshill.github.io/data-vis-labs-2018/index.html)
