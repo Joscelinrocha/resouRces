@@ -110,6 +110,21 @@ Added Sat Dec 11, 2021
 
 1.  Post and course here: <https://meghan.rbind.io/blog/cowplot/>
 
+## [An Introduction to the {gganimate} Package](https://rfortherestofus.com/2024/11/gganimate-intro)
+
+By David Keyes
+
+Added Thu Apr 17, 2025
+
+**What is this?**
+
+This tutorial introduces the {gganimate} package, which enables the creation of animated plots in R.
+Using data from the UNHCR's {refugees} package, it demonstrates how to animate a line chart showing the percentage of refugees in Syria over time.
+The tutorial also covers creating an animated map of refugee populations in Western Asia, utilizing geospatial data and the {sf} package.
+Key functions highlighted include `transition_reveal()` for line animations and `transition_manual()` for map animations.
+
+1.  Link to tutorial: <https://rfortherestofus.com/2024/11/gganimate-intro>
+
 ## [Astonishingly easy mapping in R with mapview](https://www.infoworld.com/article/3644848/astonishingly-easy-mapping-in-r-with-mapview.html)
 
 By [Sharon Machlis](https://www.infoworld.com/article/3644848/astonishingly-easy-mapping-in-r-with-mapview.html)
@@ -327,6 +342,19 @@ Diverging bar charts are effective for displaying Likert scale data or any datas
 The article provides step-by-step instructions, including data preparation, plotting, and customization techniques to enhance the clarity and aesthetics of the chart.
 
 1.  Link to tutorial here: <https://rfortherestofus.com/2021/10/diverging-bar-chart/>
+
+## [How to Preview Plots at Specific Dimensions in RStudio](https://rfortherestofus.com/2024/09/preview-plots)
+
+By David Keyes
+
+Added Thu Apr 17, 2025
+
+**What is this?**
+
+This tutorial demonstrates how to use the `gg_record()` function from the **camcorder** package to preview plots in RStudio with the exact dimensions intended for saving.
+By specifying the desired width and height, you can ensure that the on-screen plot matches the saved output, facilitating consistent and accurate visualizations.​[[R for the Rest of Us+1R for the Rest of Us+1]{.underline}](https://rfortherestofus.com/2024/09/preview-plots?utm_source=chatgpt.com)
+
+1.  Link to tutorial: <https://rfortherestofus.com/2024/09/preview-plots>
 
 ## [How to R: Visualizing Distributions](https://medium.com/@nickmartin812/how-to-r-visualizing-distributions-49ea4141fb32)
 
