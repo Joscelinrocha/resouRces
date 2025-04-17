@@ -266,6 +266,13 @@
     "text": "Buy me a coffee"
   },
   {
+    "objectID": "ebooks_only/visualization.html#best-practices-for-data-visualisation",
+    "href": "ebooks_only/visualization.html#best-practices-for-data-visualisation",
+    "title": "Visualization",
+    "section": "Best Practices for Data Visualisation 💯",
+    "text": "Best Practices for Data Visualisation 💯\nBy Andreas Krause, Nicola Rennie, and Brian Tarran\nAdded Thu Apr 17, 2025\nWhat is this?\nThis comprehensive guide by the Royal Statistical Society offers insights and advice on creating effective data visualisations. It covers both the art and science of data presentation, aiming to make data outputs more readable, accessible, and impactful. The guide includes principles of visualisation, choosing appropriate chart types, styling for accessibility, and tailoring visuals for RSS publications. It also provides references and resources for further learning.​\n\nLink to guide: https://royal-statistical-society.github.io/datavisguide/"
+  },
+  {
     "objectID": "ebooks_only/visualization.html#crime-mapping-in-r",
     "href": "ebooks_only/visualization.html#crime-mapping-in-r",
     "title": "Visualization",
@@ -784,6 +791,13 @@
     "text": "An introduction to cowplot\nBy Meghan Hall\nAdded Sat Dec 11, 2021\nWhat is this?\nExcerpt from site: “This week’s #TidyTuesday data set is all about lemurs (with data from the Duke Lemur Center), so I figured I would stick with the animal theme and discuss a few functions from Claus Wilke’s cowplot package, which is my personal favorite package for arranging plots made in R”.\n\nPost and course here: https://meghan.rbind.io/blog/cowplot/"
   },
   {
+    "objectID": "blogs_slides_only/visualization.html#an-introduction-to-the-gganimate-package",
+    "href": "blogs_slides_only/visualization.html#an-introduction-to-the-gganimate-package",
+    "title": "Visualization",
+    "section": "An Introduction to the {gganimate} Package",
+    "text": "An Introduction to the {gganimate} Package\nBy David Keyes\nAdded Thu Apr 17, 2025\nWhat is this?\nThis tutorial introduces the {gganimate} package, which enables the creation of animated plots in R. Using data from the UNHCR’s {refugees} package, it demonstrates how to animate a line chart showing the percentage of refugees in Syria over time. The tutorial also covers creating an animated map of refugee populations in Western Asia, utilizing geospatial data and the {sf} package. Key functions highlighted include transition_reveal() for line animations and transition_manual() for map animations.\n\nLink to tutorial: https://rfortherestofus.com/2024/11/gganimate-intro"
+  },
+  {
     "objectID": "blogs_slides_only/visualization.html#astonishingly-easy-mapping-in-r-with-mapview",
     "href": "blogs_slides_only/visualization.html#astonishingly-easy-mapping-in-r-with-mapview",
     "title": "Visualization",
@@ -882,6 +896,13 @@
     "text": "How to Make a Diverging Bar Chart in R 💯\nBy R for the Rest of Us\nAdded Thu Feb 20, 2025\nWhat is this?\nThis tutorial demonstrates how to create diverging bar charts in R using the ggplot2 package. Diverging bar charts are effective for displaying Likert scale data or any dataset with a central neutral point, as they visualize deviations in both directions from a midpoint. The article provides step-by-step instructions, including data preparation, plotting, and customization techniques to enhance the clarity and aesthetics of the chart.\n\nLink to tutorial here: https://rfortherestofus.com/2021/10/diverging-bar-chart/"
   },
   {
+    "objectID": "blogs_slides_only/visualization.html#how-to-preview-plots-at-specific-dimensions-in-rstudio",
+    "href": "blogs_slides_only/visualization.html#how-to-preview-plots-at-specific-dimensions-in-rstudio",
+    "title": "Visualization",
+    "section": "How to Preview Plots at Specific Dimensions in RStudio",
+    "text": "How to Preview Plots at Specific Dimensions in RStudio\nBy David Keyes\nAdded Thu Apr 17, 2025\nWhat is this?\nThis tutorial demonstrates how to use the gg_record() function from the camcorder package to preview plots in RStudio with the exact dimensions intended for saving. By specifying the desired width and height, you can ensure that the on-screen plot matches the saved output, facilitating consistent and accurate visualizations.​R for the Rest of Us+1R for the Rest of Us+1\n\nLink to tutorial: https://rfortherestofus.com/2024/09/preview-plots"
+  },
+  {
     "objectID": "blogs_slides_only/visualization.html#how-to-r-visualizing-distributions",
     "href": "blogs_slides_only/visualization.html#how-to-r-visualizing-distributions",
     "title": "Visualization",
@@ -952,6 +973,13 @@
     "text": "Parameterising a Multi-Part Plot 💯\nBy Cara Thompson and R for the Rest of Us\nAdded Thu Feb 20, 2025\nWhat is this?\nThis blog post by Cara Thompson demonstrates how to create parameterized plots in R to avoid repetitive code, especially when generating multiple variants of interactive graphs. Using the ggplot2 package and the palmerpenguins dataset, the tutorial guides readers through:\n\nSetting up a custom theme and color palette.\nTransforming plotting code into a function that accepts arguments for flexibility.\nIncorporating conditional statements within the function to adjust plot elements based on input parameters.\nImplementing safety checks to handle potential errors and ensure consistent axis limits.\n\nThe approach emphasizes efficient coding practices, reducing redundancy, and enhancing the adaptability of plots to different datasets or groups.\n\nLink to article here: https://rfortherestofus.com/2024/06/parameterising-a-multi-part-plot"
   },
   {
+    "objectID": "blogs_slides_only/visualization.html#plotting-age-pyramids-with-ggplot",
+    "href": "blogs_slides_only/visualization.html#plotting-age-pyramids-with-ggplot",
+    "title": "Visualization",
+    "section": "Plotting Age Pyramids with ggplot",
+    "text": "Plotting Age Pyramids with ggplot\nBy Jose M Sallan\nAdded Thu Apr 17, 2025\nWhat is this?\nThis tutorial demonstrates how to create population pyramids in R using ggplot2 and tidyverse. It covers data preparation, formatting, and visualization techniques to effectively represent age and gender distributions.​\n\nLink to tutorial: https://jmsallan.netlify.app/blog/plotting-age-pyramids-with-ggplot/"
+  },
+  {
     "objectID": "blogs_slides_only/visualization.html#principles-practice-of-data-visualization",
     "href": "blogs_slides_only/visualization.html#principles-practice-of-data-visualization",
     "title": "Visualization",
@@ -985,6 +1013,13 @@
     "title": "Visualization",
     "section": "The Evolution of a ggplot (Ep. 1)",
     "text": "The Evolution of a ggplot (Ep. 1)\nBy Cédric\nWhat is this?\nExcerpt from the blog: In this series of blog posts, I aim to show you how to turn a default ggplot into a plot that visualizes information in an appealing and easily understandable way. The goal of each blog post is to provide a step-by-step tutorial explaining how my visualization have evolved from a typical basic ggplot. All plots are going to be created with 100% {ggplot2} and 0% Inkscape.\n\nLink to blog: https://cedricscherer.netlify.app/2019/05/17/the-evolution-of-a-ggplot-ep.-1/"
+  },
+  {
+    "objectID": "blogs_slides_only/visualization.html#use-geom_ribbon-to-highlight-the-gap-between-two-lines",
+    "href": "blogs_slides_only/visualization.html#use-geom_ribbon-to-highlight-the-gap-between-two-lines",
+    "title": "Visualization",
+    "section": "Use geom_ribbon() to Highlight the Gap Between Two Lines",
+    "text": "Use geom_ribbon() to Highlight the Gap Between Two Lines\nBy David Keyes & Joseph Barbier\nAdded Thu Apr 17, 2025\nWhat is this?\nA short tutorial on using geom_ribbon() in ggplot2 to shade the area between two lines—great for emphasizing differences between groups across time.\n\nLink to tutorial: https://rfortherestofus.com/2024/12/area-and-line-chart"
   },
   {
     "objectID": "blogs_slides_only/visualization.html#visualization-innovations-waffleplots-and-swarmplots",
@@ -3337,6 +3372,17 @@
     ]
   },
   {
+    "objectID": "resources/visualization.html#daychartchallenge-steven-ponces-contributions",
+    "href": "resources/visualization.html#daychartchallenge-steven-ponces-contributions",
+    "title": "Visualization",
+    "section": "30DayChartChallenge: Steven Ponce’s Contributions",
+    "text": "30DayChartChallenge: Steven Ponce’s Contributions\nBy Steven Ponce\nAdded Thu Apr 17, 2025\nWhat is this?\nThis repository showcases Steven Ponce’s participation in the annual #30DayChartChallenge, a community-driven data visualization event held every April. Each day features a prompt across five key categories: comparisons, distributions, relationships, time series, and uncertainties. Steven’s contributions include R scripts and visualizations for each prompt, organized into folders for the 2024 and 2025 challenges. The repository also contains a summary folder, fonts, and a renv environment for reproducibility.​\n\nLink to repository: https://github.com/poncest/30DayChartChallenge",
+    "crumbs": [
+      "Topics",
+      "Visualization"
+    ]
+  },
+  {
     "objectID": "resources/visualization.html#a-gentle-guide-to-the-grammar-of-graphics-with-ggplot2",
     "href": "resources/visualization.html#a-gentle-guide-to-the-grammar-of-graphics-with-ggplot2",
     "title": "Visualization",
@@ -3436,6 +3482,17 @@
     ]
   },
   {
+    "objectID": "resources/visualization.html#an-introduction-to-the-gganimate-package",
+    "href": "resources/visualization.html#an-introduction-to-the-gganimate-package",
+    "title": "Visualization",
+    "section": "An Introduction to the {gganimate} Package",
+    "text": "An Introduction to the {gganimate} Package\nBy David Keyes\nAdded Thu Apr 17, 2025\nWhat is this?\nThis tutorial introduces the {gganimate} package, which enables the creation of animated plots in R. Using data from the UNHCR’s {refugees} package, it demonstrates how to animate a line chart showing the percentage of refugees in Syria over time. The tutorial also covers creating an animated map of refugee populations in Western Asia, utilizing geospatial data and the {sf} package. Key functions highlighted include transition_reveal() for line animations and transition_manual() for map animations.\n\nLink to tutorial: https://rfortherestofus.com/2024/11/gganimate-intro",
+    "crumbs": [
+      "Topics",
+      "Visualization"
+    ]
+  },
+  {
     "objectID": "resources/visualization.html#astonishingly-easy-mapping-in-r-with-mapview",
     "href": "resources/visualization.html#astonishingly-easy-mapping-in-r-with-mapview",
     "title": "Visualization",
@@ -3452,6 +3509,17 @@
     "title": "Visualization",
     "section": "Basic usage of tidycensus–a vignette",
     "text": "Basic usage of tidycensus–a vignette\nWhat is this?\nExcerpt from vignette: There are two major functions implemented in tidycensus: get_decennial, which grants access to the 1990, 2000, and 2010 decennial US Census APIs, and get_acs, which grants access to the 5-year American Community Survey APIs.\n\nLink to vignette here: https://walker-data.com/tidycensus/articles/basic-usage.html",
+    "crumbs": [
+      "Topics",
+      "Visualization"
+    ]
+  },
+  {
+    "objectID": "resources/visualization.html#best-practices-for-data-visualisation",
+    "href": "resources/visualization.html#best-practices-for-data-visualisation",
+    "title": "Visualization",
+    "section": "Best Practices for Data Visualisation 💯",
+    "text": "Best Practices for Data Visualisation 💯\nBy Andreas Krause, Nicola Rennie, and Brian Tarran\nAdded Thu Apr 17, 2025\nWhat is this?\nThis comprehensive guide by the Royal Statistical Society offers insights and advice on creating effective data visualisations. It covers both the art and science of data presentation, aiming to make data outputs more readable, accessible, and impactful. The guide includes principles of visualisation, choosing appropriate chart types, styling for accessibility, and tailoring visuals for RSS publications. It also provides references and resources for further learning.​\n\nLink to guide: https://royal-statistical-society.github.io/datavisguide/",
     "crumbs": [
       "Topics",
       "Visualization"
@@ -3843,6 +3911,17 @@
     ]
   },
   {
+    "objectID": "resources/visualization.html#how-to-preview-plots-at-specific-dimensions-in-rstudio",
+    "href": "resources/visualization.html#how-to-preview-plots-at-specific-dimensions-in-rstudio",
+    "title": "Visualization",
+    "section": "How to Preview Plots at Specific Dimensions in RStudio",
+    "text": "How to Preview Plots at Specific Dimensions in RStudio\nBy David Keyes\nAdded Thu Apr 17, 2025\nWhat is this?\nThis tutorial demonstrates how to use the gg_record() function from the camcorder package to preview plots in RStudio with the exact dimensions intended for saving. By specifying the desired width and height, you can ensure that the on-screen plot matches the saved output, facilitating consistent and accurate visualizations.​R for the Rest of Us+1R for the Rest of Us+1\n\nLink to tutorial: https://rfortherestofus.com/2024/09/preview-plots",
+    "crumbs": [
+      "Topics",
+      "Visualization"
+    ]
+  },
+  {
     "objectID": "resources/visualization.html#how-to-r-visualizing-distributions",
     "href": "resources/visualization.html#how-to-r-visualizing-distributions",
     "title": "Visualization",
@@ -4096,6 +4175,17 @@
     ]
   },
   {
+    "objectID": "resources/visualization.html#plotting-age-pyramids-with-ggplot",
+    "href": "resources/visualization.html#plotting-age-pyramids-with-ggplot",
+    "title": "Visualization",
+    "section": "Plotting Age Pyramids with ggplot",
+    "text": "Plotting Age Pyramids with ggplot\nBy Jose M Sallan\nAdded Thu Apr 17, 2025\nWhat is this?\nThis tutorial demonstrates how to create population pyramids in R using ggplot2 and tidyverse. It covers data preparation, formatting, and visualization techniques to effectively represent age and gender distributions.​\n\nLink to tutorial: https://jmsallan.netlify.app/blog/plotting-age-pyramids-with-ggplot/",
+    "crumbs": [
+      "Topics",
+      "Visualization"
+    ]
+  },
+  {
     "objectID": "resources/visualization.html#plotting-timeseries-objects",
     "href": "resources/visualization.html#plotting-timeseries-objects",
     "title": "Visualization",
@@ -4184,6 +4274,17 @@
     ]
   },
   {
+    "objectID": "resources/visualization.html#tidyplots-publication-ready-plots-for-scientific-papers",
+    "href": "resources/visualization.html#tidyplots-publication-ready-plots-for-scientific-papers",
+    "title": "Visualization",
+    "section": "tidyplots: Publication-Ready Plots for Scientific Papers 💯",
+    "text": "tidyplots: Publication-Ready Plots for Scientific Papers 💯\nBy Jan Broder Engler\nAdded Thu Apr 17, 2025\nWhat is this?\ntidyplots is an R package designed to streamline the creation of publication-ready plots for scientific papers. It offers a consistent and intuitive syntax to gradually add, remove, and adjust plot components. The package includes functionalities for visualizing data, advanced plotting techniques, and color schemes optimized for color vision deficiency.​\n\nLink to package: https://jbengler.github.io/tidyplots/\nLink to examples: https://tidyplots.org/use-cases/",
+    "crumbs": [
+      "Topics",
+      "Visualization"
+    ]
+  },
+  {
     "objectID": "resources/visualization.html#the-evolution-of-a-ggplot-ep.-1",
     "href": "resources/visualization.html#the-evolution-of-a-ggplot-ep.-1",
     "title": "Visualization",
@@ -4244,6 +4345,17 @@
     "title": "Visualization",
     "section": "TidyX YouTube channel hosted",
     "text": "TidyX YouTube channel hosted\nBy Ellis Hughes & Patrick Ward\nWhat is this?\nExcerpt from channel: TidyX is a screen cast where we select a person’s code from the TidyTuesday project and go through their code line-by-line, explaining what they did and how the functions they used work. We also break down the visualizations they create and talk about how to apply similar approaches to other data sets. The objective is to help more people learn R and get involved in the TidyTuesday community.\n\nLink to YouTube channel here: https://www.youtube.com/channel/UCP8l94xtoemCH_GxByvTuFQ/featured",
+    "crumbs": [
+      "Topics",
+      "Visualization"
+    ]
+  },
+  {
+    "objectID": "resources/visualization.html#use-geom_ribbon-to-highlight-the-gap-between-two-lines",
+    "href": "resources/visualization.html#use-geom_ribbon-to-highlight-the-gap-between-two-lines",
+    "title": "Visualization",
+    "section": "Use geom_ribbon() to Highlight the Gap Between Two Lines",
+    "text": "Use geom_ribbon() to Highlight the Gap Between Two Lines\nBy David Keyes & Joseph Barbier\nAdded Thu Apr 17, 2025\nWhat is this?\nA short tutorial on using geom_ribbon() in ggplot2 to shade the area between two lines—great for emphasizing differences between groups across time.\n\nLink to tutorial: https://rfortherestofus.com/2024/12/area-and-line-chart",
     "crumbs": [
       "Topics",
       "Visualization"
