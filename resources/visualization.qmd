@@ -1123,6 +1123,18 @@ The objective is to help more people learn R and get involved in the TidyTuesday
 
 1.  Link to YouTube channel here: <https://www.youtube.com/channel/UCP8l94xtoemCH_GxByvTuFQ/featured>
 
+## [Use geom_ribbon() to Highlight the Gap Between Two Lines](https://rfortherestofus.com/2024/12/area-and-line-chart)
+
+By David Keyes & Joseph Barbier
+
+Added Thu Apr 17, 2025
+
+**What is this?**
+
+A short tutorial on using `geom_ribbon()` in **ggplot2** to shade the area between two lines—great for emphasizing differences between groups across time.
+
+1.  Link to tutorial: <https://rfortherestofus.com/2024/12/area-and-line-chart>
+
 ## [Visualization innovations: Waffleplots and Swarmplots](https://paulvanderlaken.com/2019/01/25/visualization-innovation-waffleplots-and-swarmplots-aka-beeplots/)
 
 **What is this?**
