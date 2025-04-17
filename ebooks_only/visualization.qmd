@@ -10,6 +10,21 @@ editor:
 
 ------------------------------------------------------------------------
 
+## [Best Practices for Data Visualisation](https://royal-statistical-society.github.io/datavisguide/) 💯
+
+By Andreas Krause, Nicola Rennie, and Brian Tarran
+
+Added Thu Apr 17, 2025
+
+**What is this?**
+
+This comprehensive guide by the Royal Statistical Society offers insights and advice on creating effective data visualisations.
+It covers both the art and science of data presentation, aiming to make data outputs more readable, accessible, and impactful.
+The guide includes principles of visualisation, choosing appropriate chart types, styling for accessibility, and tailoring visuals for RSS publications.
+It also provides references and resources for further learning.​
+
+1.  Link to guide: <https://royal-statistical-society.github.io/datavisguide/>
+
 ## [Crime Mapping in R](https://maczokni.github.io/crimemapping_textbook_bookdown/)
 
 By [Juanjo Medina & Reka Solymosi](https://maczokni.github.io/crimemapping_textbook_bookdown/)

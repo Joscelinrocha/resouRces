@@ -131,6 +131,21 @@ Plus get extras like side-by-side sliders and multiple maps in sync.
 
 1.  Link to vignette here: <https://walker-data.com/tidycensus/articles/basic-usage.html>
 
+## [Best Practices for Data Visualisation](https://royal-statistical-society.github.io/datavisguide/) 💯
+
+By Andreas Krause, Nicola Rennie, and Brian Tarran
+
+Added Thu Apr 17, 2025
+
+**What is this?**
+
+This comprehensive guide by the Royal Statistical Society offers insights and advice on creating effective data visualisations.
+It covers both the art and science of data presentation, aiming to make data outputs more readable, accessible, and impactful.
+The guide includes principles of visualisation, choosing appropriate chart types, styling for accessibility, and tailoring visuals for RSS publications.
+It also provides references and resources for further learning.​
+
+1.  Link to guide: <https://royal-statistical-society.github.io/datavisguide/>
+
 ## [Calendar plot in R using ggplot2](https://r-coder.com/calendar-plot-r/)
 
 **What is this?**
@@ -1023,6 +1038,22 @@ If you feel overwhelmed by data or don't know how to create fabulous, impactful 
 Our video tutorials and quick tips will help you enhance your data visualizations so you can provide clear insights and make an impact with your data!
 
 1.  Link to YouTube channel: [https://www.youtube.com/\@schillingdata/videos](https://www.youtube.com/@schillingdata/videos){.uri}
+
+## [tidyplots: Publication-Ready Plots for Scientific Papers](https://jbengler.github.io/tidyplots/) 💯
+
+By Jan Broder Engler
+
+Added Thu Apr 17, 2025
+
+**What is this?**
+
+**tidyplots** is an R package designed to streamline the creation of publication-ready plots for scientific papers.
+It offers a consistent and intuitive syntax to gradually add, remove, and adjust plot components.
+The package includes functionalities for visualizing data, advanced plotting techniques, and color schemes optimized for color vision deficiency.​
+
+1.  Link to package: <https://jbengler.github.io/tidyplots/>
+
+2.  Link to examples: <https://tidyplots.org/use-cases/>
 
 ## [The Evolution of a ggplot (Ep. 1)](https://cedricscherer.netlify.app/2019/05/17/the-evolution-of-a-ggplot-ep.-1/)
 
