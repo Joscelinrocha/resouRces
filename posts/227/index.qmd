@@ -1,0 +1,105 @@
+---
+title: "Hello Quarto"
+date: "2025-04-22"
+categories: [neuro]
+image: featured.png
+image-alt: "Illustration of two penguins, one blue and one orange, taking a selfie with a selfie stick. The moon in the background looks like the Quarto logo."
+---
+
+
+<link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/JoscelinRocha">![Buy me a coffee](https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg){alt="Buy me a coffee" width="15" height="21"}Buy me a coffee</a>
+
+------------------------------------------------------------------------
+
+
+## [Neuroimaging Analysis within R](https://johnmuschelli.com/imaging_in_r/)
+
+Added Sunday Dec 13th, 2020**What is this?**
+
+Series of slides with code for course on Neuroimaging Analysis: All the
+PDF slides are located in a zip file here.
+
+-   Introduction and R
+    [Slides](https://johnmuschelli.com/imaging_in_r/intro/index.html),
+    [PDF
+    Slides](https://johnmuschelli.com/imaging_in_r/intro/index.pdf), [R
+    Code](https://johnmuschelli.com/imaging_in_r/intro/index.R),
+    [Source](https://johnmuschelli.com/imaging_in_r/intro/index.Rmd)
+-   General R (not covered at ENAR)
+    [Slides](https://johnmuschelli.com/imaging_in_r/general_r/index.html),
+    [PDF
+    Slides](https://johnmuschelli.com/imaging_in_r/general_r/index.pdf),
+    [R Code](https://johnmuschelli.com/imaging_in_r/general_r/index.R),
+    [Source](https://johnmuschelli.com/imaging_in_r/general_r/index.Rmd)
+-   Imaging Packages in R
+    [Slides](https://johnmuschelli.com/imaging_in_r/imaging_r_packages/index.html)
+    [PDF
+    Slides](https://johnmuschelli.com/imaging_in_r/imaging_r_packages/index.pdf),
+    [R
+    Code](https://johnmuschelli.com/imaging_in_r/imaging_r_packages/index.R),
+    [Source](https://johnmuschelli.com/imaging_in_r/imaging_r_packages/index.Rmd)
+-   Visualization of Images
+    [Slides](https://johnmuschelli.com/imaging_in_r/visualization/index.html)
+    [PDF
+    Slides](https://johnmuschelli.com/imaging_in_r/visualization/index.pdf),
+    [R
+    Code](https://johnmuschelli.com/imaging_in_r/visualization/index.R),
+    [Source](https://johnmuschelli.com/imaging_in_r/visualization/index.Rmd)
+-   Inhomogeneity Correction
+    [Slides](https://johnmuschelli.com/imaging_in_r/inhomogeneity_correction_ms/index.html),
+    [PDF
+    Slides](https://johnmuschelli.com/imaging_in_r/inhomogeneity_correction_ms/index.pdf),
+    [R
+    Code](https://johnmuschelli.com/imaging_in_r/inhomogeneity_correction_ms/index.R)
+    [Source](https://johnmuschelli.com/imaging_in_r/inhomogeneity_correction_ms/index.Rmd)
+-   Brain Extraction/Segmentation
+    [Slides](https://johnmuschelli.com/imaging_in_r/brain_extraction_malf/index.html),
+    [PDF
+    Slides](https://johnmuschelli.com/imaging_in_r/brain_extraction_malf/index.pdf),
+    [R
+    Code](https://johnmuschelli.com/imaging_in_r/brain_extraction_malf/index.R),
+    [Source](https://johnmuschelli.com/imaging_in_r/brain_extraction_malf/index.Rmd)
+-   Image Registration
+    [Slides](https://johnmuschelli.com/imaging_in_r/coregistration/index.html)
+    [PDF
+    Slides](https://johnmuschelli.com/imaging_in_r/coregistration/index.pdf),
+    [R
+    Code](https://johnmuschelli.com/imaging_in_r/coregistration/index.R),
+    [Source](https://johnmuschelli.com/imaging_in_r/coregistration/index.Rmd)
+-   Tissue-Class Segmentation
+    [Slides](https://johnmuschelli.com/imaging_in_r/segmentation/index.html)
+    [PDF
+    Slides](https://johnmuschelli.com/imaging_in_r/segmentation/index.pdf),
+    [R
+    Code](https://johnmuschelli.com/imaging_in_r/segmentation/index.R),
+    [Source](https://johnmuschelli.com/imaging_in_r/segmentation/index.Rmd)
+-   Intensity Normalization
+    [Slides](https://johnmuschelli.com/imaging_in_r/intensity_normalization/index.html),
+    [PDF
+    Slides](https://johnmuschelli.com/imaging_in_r/intensity_normalization/index.pdf),
+    [R
+    Code](https://johnmuschelli.com/imaging_in_r/intensity_normalization/index.R),
+    [Source](https://johnmuschelli.com/imaging_in_r/intensity_normalization/index.Rmd)
+-   Segmentation of MS Lesions
+    [Slides](https://johnmuschelli.com/imaging_in_r/ms_lesion_segmentation/index.html),
+    [PDF
+    Slides](https://johnmuschelli.com/imaging_in_r/ms_lesion_segmentation/index.pdf),
+    [R
+    Code](https://johnmuschelli.com/imaging_in_r/ms_lesion_segmentation/index.R),
+    [Source](https://johnmuschelli.com/imaging_in_r/ms_lesion_segmentation/index.Rmd)
+-   Image Harmonization
+    [Slides](https://johnmuschelli.com/imaging_in_r/image_harmonization/index.html)
+    [PDF
+    Slides](https://johnmuschelli.com/imaging_in_r/ms_lesion_segmentation/index.pdf),
+    [R
+    Code](https://johnmuschelli.com/imaging_in_r/image_harmonization/index.R),
+    [Source](https://johnmuschelli.com/imaging_in_r/image_harmonization/index.Rmd)
+-   Starting with Raw (DICOM) Data (not covered)
+    [Slides](https://johnmuschelli.com/imaging_in_r/starting_with_raw_data/index.html),
+    [PDF
+    Slides](https://johnmuschelli.com/imaging_in_r/starting_with_raw_data/index.pdf),
+    [R
+    Code](https://johnmuschelli.com/imaging_in_r/starting_with_raw_data/index.R),
+    [Source](https://johnmuschelli.com/imaging_in_r/starting_with_raw_data/index.Rmd)
+
+1.  Link to site here: <https://johnmuschelli.com/imaging_in_r/>

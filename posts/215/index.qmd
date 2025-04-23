@@ -1,0 +1,30 @@
+---
+title: "Hello Quarto"
+date: "2025-04-22"
+categories: [neuro]
+image: featured.png
+image-alt: "Illustration of two penguins, one blue and one orange, taking a selfie with a selfie stick. The moon in the background looks like the Quarto logo."
+---
+
+
+<link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/JoscelinRocha">![Buy me a coffee](https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg){alt="Buy me a coffee" width="15" height="21"}Buy me a coffee</a>
+
+------------------------------------------------------------------------
+
+
+## [Visualization of MRI data in R](https://www.alexejgossmann.com/MRI_viz/)
+
+Added Sunday Dec 13th, 2020
+
+**What is this?**
+
+**Description from site:** In this blog post I present some functions
+which I was able to find for MRI visualization in R, and which I found
+to be very useful. All functions presented below presuppose an image in
+the NIfTI data format as input, and are very user-friendly.
+
+Uses the ***oro.nifti*** package
+
+1.  Link to blog here: <https://www.alexejgossmann.com/MRI_viz/>
+2.  Same blog difference place:
+    <https://www.r-bloggers.com/2017/01/visualization-of-mri-data-in-r/>

@@ -1,0 +1,31 @@
+---
+title: "Hello Quarto"
+date: "2025-04-22"
+categories: [neuro]
+image: featured.png
+image-alt: "Illustration of two penguins, one blue and one orange, taking a selfie with a selfie stick. The moon in the background looks like the Quarto logo."
+---
+
+
+<link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/JoscelinRocha">![Buy me a coffee](https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg){alt="Buy me a coffee" width="15" height="21"}Buy me a coffee</a>
+
+------------------------------------------------------------------------
+
+
+## [Package 'brainGraph'](https://cran.r-project.org/web/packages/brainGraph/brainGraph.pdf)
+
+Added Sunday Dec 13th, 2020**What is this?**
+
+**Description from site:** A set of tools for performing graph theory
+analysis of brain MRI data. It works with data from a Freesurfer
+analysis (cortical thickness, volumes, local gyrification index, surface
+area), diffusion tensor tractography data (e.g., from FSL) and
+resting-state fMRI data (e.g., from DPABI). It contains a graphical user
+interface for graph visualization and data exploration, along with
+several functions for generating useful figures.
+
+1.  Link to documentation:
+    <https://cran.r-project.org/web/packages/brainGraph/brainGraph.pdf>
+2.  Link to repo: <https://github.com/cwatson/brainGraph>
+3.  Link to User Guide:
+    <https://cwatson.github.io/files/brainGraph_UserGuide.pdf>

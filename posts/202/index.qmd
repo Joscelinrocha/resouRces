@@ -1,0 +1,23 @@
+---
+title: "Hello Quarto"
+date: "2025-04-22"
+categories: [cv]
+image: featured.png
+image-alt: "Illustration of two penguins, one blue and one orange, taking a selfie with a selfie stick. The moon in the background looks like the Quarto logo."
+---
+
+
+<link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/JoscelinRocha">![Buy me a coffee](https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg){alt="Buy me a coffee" width="15" height="21"}Buy me a coffee</a>
+
+------------------------------------------------------------------------
+
+
+## [Building a data-driven CV with R](https://livefreeordichotomize.com/2019/09/04/building_a_data_driven_cv_with_r/)
+
+By [Nick Strayer](https://livefreeordichotomize.com/2019/09/04/building_a_data_driven_cv_with_r/)
+
+**What is this?**
+
+I really enjoy putting everything I can on tables so here is my dream way to store my CV information on a table that would automatically be converted into a CV or Resume using R. Check it out!
+
+1.  Post link here: <https://livefreeordichotomize.com/2019/09/04/building_a_data_driven_cv_with_r/>

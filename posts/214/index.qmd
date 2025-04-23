@@ -1,0 +1,32 @@
+---
+title: "Hello Quarto"
+date: "2025-04-22"
+categories: [neuro]
+image: featured.png
+image-alt: "Illustration of two penguins, one blue and one orange, taking a selfie with a selfie stick. The moon in the background looks like the Quarto logo."
+---
+
+
+<link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/JoscelinRocha">![Buy me a coffee](https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg){alt="Buy me a coffee" width="15" height="21"}Buy me a coffee</a>
+
+------------------------------------------------------------------------
+
+
+## [Methods for Quantitative Magnetic Resonance Imaging ('qMRI')](https://cloud.r-project.org/web/packages/qMRI/index.html)
+
+Added Sunday Dec 13th, 2020**What is this?**
+
+Description from site: Implementation of methods for estimation of
+quantitative maps from Multi-Parameter Mapping (MPM) acquisitions
+(Weiskopf et al. (2013) ) including adaptive smoothing methods in the
+framework of the ESTATICS model (Estimating the apparent transverse
+relaxation time (R2\*) from images with different contrasts, Weiskopf et
+al. (2014) ). The smoothing method is described in Mohammadi et al.
+(2017). . Usage of the package is also described in Polzehl and Tabelow
+(2019), Magnetic Resonance Brain Imaging, Chapter 6, Springer, Use R!
+Series.
+
+1.  Link to package:
+    <https://cloud.r-project.org/web/packages/qMRI/index.html>
+2.  Link to manual:
+    <https://cloud.r-project.org/web/packages/qMRI/qMRI.pdf>

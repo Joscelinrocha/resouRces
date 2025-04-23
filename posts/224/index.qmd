@@ -1,0 +1,31 @@
+---
+title: "Hello Quarto"
+date: "2025-04-22"
+categories: [neuro]
+image: featured.png
+image-alt: "Illustration of two penguins, one blue and one orange, taking a selfie with a selfie stick. The moon in the background looks like the Quarto logo."
+---
+
+
+<link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/JoscelinRocha">![Buy me a coffee](https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg){alt="Buy me a coffee" width="15" height="21"}Buy me a coffee</a>
+
+------------------------------------------------------------------------
+
+
+## [Plotting brain atlases in ggplot](https://lcbc-uio.github.io/ggseg/articles/ggseg.html)
+
+Added Sunday Dec 13th, 2020**What is this?**
+
+**Description from site:** Plotting regions from different brain atlases
+ggplot2 is a handy way of displaying results or grouping of aparc data.
+
+The function ggseg(), is based in the ggplot2 format, it is recommended
+to get familiarized with plotting data with ggplot2.
+
+Out-of-the-box, ggseg() works without supplying any extra information.
+It will create a base plot of the aparc brain segmentations.
+
+1.  Link to site: <https://lcbc-uio.github.io/ggseg/articles/ggseg.html>
+2.  Link to ggseg vignette:
+    <https://github.com/LCBC-UiO/ggseg/blob/master/vignettes/ggseg.Rmd>
+3.  Link to ggseg repo: <https://github.com/LCBC-UiO/ggseg>

@@ -1,0 +1,15 @@
+---
+title: "Exploratory Data Analysis with R"
+date: "2025-04-21"
+categories: [book,statistics,tidyverse]
+image: "https://bookdown.org/rdpeng/exdata/cover_sm.png"
+image-alt: "Book cover for “Exploratory Data Analysis with R” by Roger D. Peng. The title is written in large black font at the top. Below the title is a centered photo of a scruffy, gray dog with large ears looking directly at the camera, standing on a hardwood floor in a warmly lit room. The author’s name appears in smaller text at the bottom."
+---
+
+By [Roger D. Peng](https://bookdown.org/rdpeng/exdata/)
+
+**Excerpt from e-booK:** This book covers the essential exploratory techniques for summarizing data with R. These techniques are typically applied before formal modeling commences and can help inform the development of more complex statistical models. Exploratory techniques are also important for eliminating or sharpening potential hypotheses about the world that can be addressed by the data you have. We will cover in detail the plotting systems in R as well as some of the basic principles of constructing informative data graphics. We will also cover some of the common multivariate statistical techniques used to visualize high-dimensional data.
+
+1.  <https://bookdown.org/rdpeng/exdata/>
+
+![](https://bookdown.org/rdpeng/exdata/cover_sm.png)

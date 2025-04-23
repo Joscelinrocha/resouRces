@@ -1,0 +1,34 @@
+---
+title: "Hello Quarto"
+date: "2025-04-22"
+categories: [neuro]
+image: featured.png
+image-alt: "Illustration of two penguins, one blue and one orange, taking a selfie with a selfie stick. The moon in the background looks like the Quarto logo."
+---
+
+
+<link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/JoscelinRocha">![Buy me a coffee](https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg){alt="Buy me a coffee" width="15" height="21"}Buy me a coffee</a>
+
+------------------------------------------------------------------------
+
+
+## [Neuroconductor](https://neuroconductor.org/)
+
+Added Sunday Dec 13th, 2020**What is this?**
+
+**Description from site:** Neuroconductor is an open-source platform for
+rapid testing and dissemination of reproducible computational imaging
+software. The goals of the project are to:
+
+provide a centralized repository of R software dedicated to image
+analysis; disseminate quickly software updates; educate a large, diverse
+community of scientists using detailed tutorials and short courses;
+ensure quality via automatic and manual quality controls; and promote
+reproducibility of image data analysis. Based on the programming
+language R, Neuroconductor started with 51 inter-operable packages that
+cover multiple areas of imaging including visualization, data processing
+and storage, and statistical inference. Neuroconductor accepts new R
+package submissions, which are subject to a formal review and continuous
+automated testing.
+
+1.  Link to site here: <https://neuroconductor.org/>

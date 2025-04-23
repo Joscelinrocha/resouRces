@@ -1,0 +1,27 @@
+---
+title: "Hello Quarto"
+date: "2025-04-22"
+categories: [slides]
+image: featured.png
+image-alt: "Illustration of two penguins, one blue and one orange, taking a selfie with a selfie stick. The moon in the background looks like the Quarto logo."
+---
+
+
+<link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/JoscelinRocha">![Buy me a coffee](https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg){alt="Buy me a coffee" width="15" height="21"}Buy me a coffee</a>
+
+------------------------------------------------------------------------
+
+
+## [Sharing Your xaringan Slides](https://www.garrickadenbuie.com/blog/sharing-xaringan-slides/)
+
+By [Garrick
+Aden-Buie](https://www.garrickadenbuie.com/blog/sharing-xaringan-slides/)
+
+**What is this?**
+
+**Excerpt from blog:** Showcase your presentations in style with
+great-looking social media cards and responsive, seamlessly embedded
+slides in web pages.
+
+1\. Link to blog here:
+<https://www.garrickadenbuie.com/blog/sharing-xaringan-slides/>

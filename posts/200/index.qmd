@@ -1,0 +1,32 @@
+---
+title: "Hello Quarto"
+date: "2025-04-22"
+categories: [slides]
+image: featured.png
+image-alt: "Illustration of two penguins, one blue and one orange, taking a selfie with a selfie stick. The moon in the background looks like the Quarto logo."
+---
+
+
+<link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/JoscelinRocha">![Buy me a coffee](https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg){alt="Buy me a coffee" width="15" height="21"}Buy me a coffee</a>
+
+------------------------------------------------------------------------
+
+
+## [XaringanExtra: See slides as tiles & more](https://github.com/gadenbuie/xaringanExtra#-tile-view)
+
+**What is this?**
+
+if you use xaringan: install {xaringanExtra} and add this chunk to the
+beginning of your slides to get this nifty tile overview! (press "o" to
+see it: xaringanExtra::use)\_xaringan_extra(c("title_view")
+
+1.  Link to package repo here:
+    <https://github.com/gadenbuie/xaringanExtra>
+2.  Link to see slides as tiles here:
+    <https://github.com/gadenbuie/xaringanExtra#-tile-view>
+3.  Link to make slides editable here:
+    <https://github.com/gadenbuie/xaringanExtra#-editable-demo>
+4.  Link to add a share bar to slides here:
+    <https://github.com/gadenbuie/xaringanExtra#-share-again-1>
+5.  Link to add sound when changing slides (requested by blind R user):
+    <https://github.com/gadenbuie/xaringanExtra#-slide-tone-demo>

@@ -1,0 +1,28 @@
+---
+title: "Hello Quarto"
+date: "2025-04-22"
+categories: [slides]
+image: featured.png
+image-alt: "Illustration of two penguins, one blue and one orange, taking a selfie with a selfie stick. The moon in the background looks like the Quarto logo."
+---
+
+
+<link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/JoscelinRocha">![Buy me a coffee](https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg){alt="Buy me a coffee" width="15" height="21"}Buy me a coffee</a>
+
+------------------------------------------------------------------------
+
+
+## [PowerPoint presentations generation Vignettes](https://davidgohel.github.io/officer/articles/offcran/powerpoint.html)
+
+**What is this?**
+
+**Excerpt from vignette:** Use the function read_pptx() to create an R
+object representing a PowerPoint document. The initial PowerPoint file
+can be specified with the path argument. If none is provided, this file
+will be an empty document located in the package directory. Formats and
+available slide layouts will be those available in the template file.
+The content of original document is also preserved (but can be
+manipulated, i.e. delete a slide).
+
+1.  Link to vignette here:
+    <https://davidgohel.github.io/officer/articles/offcran/powerpoint.html>

@@ -1,0 +1,26 @@
+---
+title: "Hello Quarto"
+date: "2025-04-22"
+categories: [slides]
+image: featured.png
+image-alt: "Illustration of two penguins, one blue and one orange, taking a selfie with a selfie stick. The moon in the background looks like the Quarto logo."
+---
+
+
+<link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/JoscelinRocha">![Buy me a coffee](https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg){alt="Buy me a coffee" width="15" height="21"}Buy me a coffee</a>
+
+------------------------------------------------------------------------
+
+
+## [Make your slides extra special](https://slides.garrickadenbuie.com/extra-special-xaringan/#1)💯
+
+By [Garrick
+Aden‑Buie](https://slides.garrickadenbuie.com/extra-special-xaringan/#1)
+
+**What is this?**
+
+Fun slides walking you through how to can make your slides made through
+xaringan a little more fun!
+
+1.  Slides link here:
+    <https://slides.garrickadenbuie.com/extra-special-xaringan/#1>

@@ -1,0 +1,43 @@
+---
+title: "Hello Quarto"
+date: "2025-04-22"
+categories: [neuro]
+image: featured.png
+image-alt: "Illustration of two penguins, one blue and one orange, taking a selfie with a selfie stick. The moon in the background looks like the Quarto logo."
+---
+
+
+<link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/JoscelinRocha">![Buy me a coffee](https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg){alt="Buy me a coffee" width="15" height="21"}Buy me a coffee</a>
+
+------------------------------------------------------------------------
+
+
+## [NIRStat: Novel Statistical Methods for Studying Near-Infrared Spectroscopy (NIRS) Time Series Data](https://cran.r-project.org/web/packages/NIRStat/index.html)
+
+Added Sunday Dec 13th, 2020**What is this?**
+
+**Description from site:** Provides transfusion-related differential
+tests on Near-infrared spectroscopy (NIRS) time series with detection
+limit, which contains two testing statistics: Mean Area Under the Curve
+(MAUC) and slope statistic. This package applied a penalized spline
+method within imputation setting. Testing is conducted by a nested
+permutation approach within imputation. Refer to Guo et al (2018)
+<doi:10.1177/0962280218786302> for further details.
+
+1.  Link to package here:
+    <https://cran.r-project.org/web/packages/NIRStat/index.html>
+2.  Reference Manual:
+    <https://cran.r-project.org/web/packages/NIRStat/NIRStat.pdf>
+    
+Cool functions from package:
+
+1.  **MAUCtest**: MAUC statistics based Analysis for NIRS time series.
+    Estimate the Mean Area Under the Curve (MAUC) statistics and conduct
+    a nonparametric test on the MAUC difference before transfusion and
+    after transfusion. If detection limit occurs at 15.
+2.  **plotNIRS**: This function visualizes the NIRS time series data and
+    estimates the underlying smoothed trend of the NRIS based on a
+    nonparametric regression approach.
+3.  **Slopetest**: Estimate the slope statistics and conduct a
+    nonparametric based test on the slope difference before transfuion
+    and after trasfusion. If detection limit occurs at 15

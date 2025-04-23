@@ -1,0 +1,23 @@
+---
+title: "Hello Quarto"
+date: "2025-04-22"
+categories: [packages]
+image: featured.png
+image-alt: "Illustration of two penguins, one blue and one orange, taking a selfie with a selfie stick. The moon in the background looks like the Quarto logo."
+---
+
+
+<link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/JoscelinRocha">![Buy me a coffee](https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg){alt="Buy me a coffee" width="15" height="21"}Buy me a coffee</a>
+
+------------------------------------------------------------------------
+
+
+## [Understanding the Basics of Package Writing in R](https://cosimameyer.com/post/understanding-the-basics-of-package-writing-in-r/)
+
+By Cosima Meyer
+
+Added Fri Apr 28th, 2023
+
+**What is this?****Excerpt from site:** Writing a package sounds big - and it can for sure be. But in its simplest form, it's not that much more than putting a function in a package structure. The R community is great and came up with multiple great helpers that make your life easier!
+
+1.  Link to the datasets: <https://cosimameyer.com/post/understanding-the-basics-of-package-writing-in-r/>

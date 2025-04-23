@@ -1,0 +1,29 @@
+---
+title: "Hello Quarto"
+date: "2025-04-22"
+categories: [neuro]
+image: featured.png
+image-alt: "Illustration of two penguins, one blue and one orange, taking a selfie with a selfie stick. The moon in the background looks like the Quarto logo."
+---
+
+
+<link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/JoscelinRocha">![Buy me a coffee](https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg){alt="Buy me a coffee" width="15" height="21"}Buy me a coffee</a>
+
+------------------------------------------------------------------------
+
+
+## [Processing fMRI Data in R](https://johnmuschelli.com/Neuroimaging_in_R/fmri_proc.html#1)
+
+By [John
+Muschelli](https://johnmuschelli.com/Neuroimaging_in_R/fmri_proc.html#1)
+
+Added Sunday Dec 13th, 2020**What is this?**
+
+Slides created by John Muschelli for processing fMRI Data in R.
+
+1.  Link to slides here:
+    <https://johnmuschelli.com/Neuroimaging_in_R/fmri_proc.html#1>
+2.  Link to repo here:
+    <https://github.com/muschellij2/Neuroimaging_in_R>
+    
+# EEG

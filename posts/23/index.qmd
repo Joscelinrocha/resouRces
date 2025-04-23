@@ -1,0 +1,19 @@
+---
+title: "How I Structure My RStudio Projects"
+date: "2025-02-20"
+categories: [data science, organization]
+image: https://rfortherestofus.com/img/containers/images/2021/08/api-food-map-rds-files.png/b5cf020e917082fa205d57d3d65fd1d4.webp
+image-alt: "A slide with no title but slide ID and data-menu-title defined. Arrows point to where these pieces of information go on the slide URL and presentation outline. The screenshots are from Slide 3 of the example in the blog post, where the complete code can be found."
+---
+
+<link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/JoscelinRocha">![Buy me a coffee](https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg){alt="Buy me a coffee" width="15" height="21"}Buy me a coffee</a>
+
+------------------------------------------------------------------------
+
+By David Keyes
+
+In this article, David Keyes shares his standardized approach to organizing RStudio projects to enhance efficiency and collaboration. He emphasizes the importance of a consistent file structure, detailing the use of specific folders such as `data-raw` for raw data, `data` for processed data, and `R` for functions. By adopting this structure, Keyes reduces decision fatigue and streamlines project workflows, making it easier for both individual and collaborative work.
+
+1.  Link to article here: <https://rfortherestofus.com/2021/08/rstudio-project-structure/>
+
+![](https://rfortherestofus.com/img/containers/images/2021/08/api-food-map-rds-files.png/b5cf020e917082fa205d57d3d65fd1d4.webp)
