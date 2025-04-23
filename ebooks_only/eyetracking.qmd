@@ -1,9 +1,0 @@
----
-title: "Eye-Tracking"
-subtitle: "E-books Only"
----
-
-<link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/JoscelinRocha">![Buy me a coffee](https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg){alt="Buy me a coffee" width="15" height="21"}Buy me a coffee</a>
-
-------------------------------------------------------------------------
-None (yet!)
