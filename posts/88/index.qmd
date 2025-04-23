@@ -1,0 +1,24 @@
+---
+title: "Hello Quarto"
+date: "2025-04-22"
+categories: []
+image: featured.png
+image-alt: "Illustration of two penguins, one blue and one orange, taking a selfie with a selfie stick. The moon in the background looks like the Quarto logo."
+---
+
+
+<link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/JoscelinRocha">![Buy me a coffee](https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg){alt="Buy me a coffee" width="15" height="21"}Buy me a coffee</a>
+
+------------------------------------------------------------------------
+
+
+## [Tidy animated verbs](https://github.com/batpigandme/tidyexplain)
+
+By [Garrick Aden‑Buie](https://github.com/batpigandme/tidyexplain)
+
+**What is this?**
+
+Wonderful animations of Tidy verbs.
+I have these animations on my phone because I use them so much!
+
+1.  Link to the animations: <https://github.com/batpigandme/tidyexplain>

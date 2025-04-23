@@ -1,0 +1,27 @@
+---
+title: "Hello Quarto"
+date: "2025-04-22"
+categories: []
+image: featured.png
+image-alt: "Illustration of two penguins, one blue and one orange, taking a selfie with a selfie stick. The moon in the background looks like the Quarto logo."
+---
+
+
+<link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/JoscelinRocha">![Buy me a coffee](https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg){alt="Buy me a coffee" width="15" height="21"}Buy me a coffee</a>
+
+------------------------------------------------------------------------
+
+
+## Videos by Sharon Machlis for fun things:
+
+**What is this?**
+
+Here is a list of video tutorials by Sharon for fun things to do with R that didn't fit in the other categories:
+
+1.  [How to send Text Messages?](https://www.infoworld.com/article/3513359/how-to-send-text-messages-from-r.html)
+2.  [How to Slack from R?](https://www.infoworld.com/article/3402657/how-to-slack-from-r.html)
+3.  [How to send email from r and gmail?](https://www.infoworld.com/article/3398701/how-to-send-email-from-r-and-gmail.html)
+4.  [Keep passwords and tokens secure with the keyring package](https://www.youtube.com/watch?v=Q8Cilx-MOsU&list=PL7D2RMSmRO9JOvPC1gbA8Mc3azvSfm8Vv&index=44)
+5.  [Schedule R scripts on a Mac](https://www.youtube.com/watch?v=w2Ka5u5jlJU&list=PL7D2RMSmRO9JOvPC1gbA8Mc3azvSfm8Vv&index=25)
+6.  Creating Studio addins or plugins: [Option 1](https://www.youtube.com/watch?v=zAtf9NkSOUg&list=PL7D2RMSmRO9JOvPC1gbA8Mc3azvSfm8Vv&index=35) or [Option 2](https://www.youtube.com/watch?v=539uKwD6NKE&list=PL7D2RMSmRO9JOvPC1gbA8Mc3azvSfm8Vv&index=33)
+7.  [Run Python in R](https://www.youtube.com/watch?v=m_MAYRDIuN4&list=PL7D2RMSmRO9JOvPC1gbA8Mc3azvSfm8Vv&index=32)
