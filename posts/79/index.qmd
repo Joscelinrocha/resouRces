@@ -1,0 +1,29 @@
+---
+title: "Hello Quarto"
+date: "2025-04-22"
+categories: []
+image: featured.png
+image-alt: "Illustration of two penguins, one blue and one orange, taking a selfie with a selfie stick. The moon in the background looks like the Quarto logo."
+---
+
+
+<link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/JoscelinRocha">![Buy me a coffee](https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg){alt="Buy me a coffee" width="15" height="21"}Buy me a coffee</a>
+
+------------------------------------------------------------------------
+
+
+## [Creating dynamic dashboards with the shinydashboard R package](https://leanpub.com/c/shinydashboard)💯
+
+By [Lucy D'Agostino McGowan](https://leanpub.com/c/shinydashboard)
+
+Added Mon Sep 14th, 2020
+
+**What is this?**
+
+This course teaches how to use the shinydashboard R package.
+To get the most out of this course, open an R Session and follow the lessons.
+In each lesson you will see the shell of some code to copy into your R Session and edit to complete the tasks.
+At the end of each chapter is an application with the full solutions.
+By the end you should be able to build a simple dynamic dashboard!
+
+1.  Link to course here: <https://leanpub.com/c/shinydashboard>

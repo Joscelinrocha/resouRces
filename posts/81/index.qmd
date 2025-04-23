@@ -1,0 +1,23 @@
+---
+title: "Hello Quarto"
+date: "2025-04-22"
+categories: []
+image: featured.png
+image-alt: "Illustration of two penguins, one blue and one orange, taking a selfie with a selfie stick. The moon in the background looks like the Quarto logo."
+---
+
+
+<link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/JoscelinRocha">![Buy me a coffee](https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg){alt="Buy me a coffee" width="15" height="21"}Buy me a coffee</a>
+
+------------------------------------------------------------------------
+
+
+## [gm: Generating music easily](https://www.r-bloggers.com/2021/04/handling-missing-values-in-r/)
+
+Added Sun June 6th, 2021
+
+**What is this?**
+
+**Excerpt from site:** Create music easily, and show musical scores and audio files in R Markdown documents, R Jupyter Notebooks and RStudio.
+
+1.  Link to site: <https://www.r-bloggers.com/2021/04/handling-missing-values-in-r/>

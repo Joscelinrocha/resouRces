@@ -1,0 +1,29 @@
+---
+title: "Hello Quarto"
+date: "2025-04-22"
+categories: []
+image: featured.png
+image-alt: "Illustration of two penguins, one blue and one orange, taking a selfie with a selfie stick. The moon in the background looks like the Quarto logo."
+---
+
+
+<link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/JoscelinRocha">![Buy me a coffee](https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg){alt="Buy me a coffee" width="15" height="21"}Buy me a coffee</a>
+
+------------------------------------------------------------------------
+
+
+## [Text Mining with R: A Tidy Approach](https://www.tidytextmining.com/)
+
+By [Julia Silge & David Robinson](https://www.tidytextmining.com/)
+
+Added Mon Sep 14th, 2020
+
+**What is this?**
+
+**Excerpt from ebook:** This book serves as an introduction of text mining using the tidytext package and other tidy tools in R.
+The functions provided by the tidytext package are relatively simple; what is important are the possible applications.
+Thus, this book provides compelling examples of real text mining problems.
+
+1.  Link to ebook site here: <https://www.tidytextmining.com/>
+2.  Link to repo here: <https://github.com/dgrtwo/tidy-text-mining>
+3.  Buy the book here: [O'Reilly](http://www.jdoqocy.com/click-4428796-11290546?url=http%3A%2F%2Fshop.oreilly.com%2Fproduct%2F0636920067153.do%3Fcmp%3Daf-strata-books-video-product_cj_0636920067153_%25zp&cjsku=0636920067153) or [Amazon](http://amzn.to/2tZkmxG)
