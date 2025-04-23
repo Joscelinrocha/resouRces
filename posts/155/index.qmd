@@ -1,0 +1,23 @@
+---
+title: "Hello Quarto"
+date: "2025-04-22"
+categories: [Learning R]
+image: featured.png
+image-alt: "Illustration of two penguins, one blue and one orange, taking a selfie with a selfie stick. The moon in the background looks like the Quarto logo."
+---
+
+
+<link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/JoscelinRocha">![Buy me a coffee](https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg){alt="Buy me a coffee" width="15" height="21"}Buy me a coffee</a>
+
+------------------------------------------------------------------------
+
+
+## [R Tutorial](https://www.cyclismo.org/tutorial/R/index.html)🌱
+
+By [Kelly Black](https://www.cyclismo.org/tutorial/R/index.html)
+
+**What is this?**
+
+**Excerpt from site:** These materials are designed to offer an introduction to the use of R. It is not exhaustive, but is designed to just provide the basics. It has been developed for students who are new to R but have had some basic experience working with computers.
+
+1.  Link to Tutorial here: <https://www.cyclismo.org/tutorial/R/index.html>

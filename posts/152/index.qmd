@@ -1,0 +1,23 @@
+---
+title: "Hello Quarto"
+date: "2025-04-22"
+categories: [Learning R]
+image: featured.png
+image-alt: "Illustration of two penguins, one blue and one orange, taking a selfie with a selfie stick. The moon in the background looks like the Quarto logo."
+---
+
+
+<link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/JoscelinRocha">![Buy me a coffee](https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg){alt="Buy me a coffee" width="15" height="21"}Buy me a coffee</a>
+
+------------------------------------------------------------------------
+
+
+## [R Programming for Data Science](https://bookdown.org/rdpeng/rprogdatascience/)
+
+By [Roger D. Peng](https://bookdown.org/rdpeng/rprogdatascience/)
+
+**What is this?**
+
+**Excerpt from site:** This book is about the fundamentals of R programming. You will get started with the basics of the language, learn how to manipulate datasets, how to write functions, and how to debug and optimize code. With the fundamentals provided in this book, you will have a solid foundation on which to build your data science toolbox.
+
+1.  Web-book here: <https://bookdown.org/rdpeng/rprogdatascience/>

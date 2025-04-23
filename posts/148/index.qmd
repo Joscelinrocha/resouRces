@@ -1,0 +1,31 @@
+---
+title: "Hello Quarto"
+date: "2025-04-22"
+categories: [Learning R]
+image: featured.png
+image-alt: "Illustration of two penguins, one blue and one orange, taking a selfie with a selfie stick. The moon in the background looks like the Quarto logo."
+---
+
+
+<link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/JoscelinRocha">![Buy me a coffee](https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg){alt="Buy me a coffee" width="15" height="21"}Buy me a coffee</a>
+
+------------------------------------------------------------------------
+
+
+## [R Crash Course](https://kirstenmorehouse.wordpress.com/354-2/topic-1-crash-course-in-r/ "https://colauttilab.github.io/RCrashCourse/1_fundamentals.html") 🌱
+
+By [Rob Colautti](https://colauttilab.github.io/RCrashCourse/1_fundamentals.html)
+
+Added Sun May 28th, 2023
+
+**What is this?**
+
+**Excerpt from the course:** A Crash Course in R for new students in the Colautti Lab and anyone else who might be interested. Written in RMarkdown (mostly).
+
+1.  Link to repo with naterials: <https://github.com/ColauttiLab/RCrashCourse>
+2.  Link to Part 1- Fundamentals: <https://colauttilab.github.io/RCrashCourse/1_fundamentals.html>
+3.  Link to Part 2 - qplot(): <https://colauttilab.github.io/RCrashCourse/2_qplot.html>
+4.  Link to Part 3 - ggplot(): <https://colauttilab.github.io/RCrashCourse/3_ggplot.html>
+5.  Link to Part 4 - regex(): <https://colauttilab.github.io/RCrashCourse/4_regex.html>
+6.  Link to Part 5 - Data Science: <https://colauttilab.github.io/RCrashCourse/5_datascience.html>
+7.  Link to Part 6 - Advanced: <https://colauttilab.github.io/RCrashCourse/6_advanced.html>

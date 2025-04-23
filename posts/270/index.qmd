@@ -1,0 +1,26 @@
+---
+title: "Hello Quarto"
+date: "2025-04-22"
+categories: [statistics]
+image: featured.png
+image-alt: "Illustration of two penguins, one blue and one orange, taking a selfie with a selfie stick. The moon in the background looks like the Quarto logo."
+---
+
+
+<link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/JoscelinRocha">![Buy me a coffee](https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg){alt="Buy me a coffee" width="15" height="21"}Buy me a coffee</a>
+
+------------------------------------------------------------------------
+
+
+## [Generalized Additive Models](https://m-clark.github.io/generalized-additive-models/)
+
+By [Michael Clark](https://m-clark.github.io/generalized-additive-models/)
+
+**What is this?**
+
+**Excerpt from site:** The following provides a brief introduction to generalized additive models and some thoughts on getting started within the R environment.
+It doesn't assume much more than a basic exposure to regression, and maybe a general idea of R, though not necessarily any particular expertise.
+The presentation is of a very applied nature, and such that the topics build upon the familiar and generalize to the less so, with the hope that one can bring the concepts they are comfortable with to the new material.
+The audience in mind is a researcher with typical applied science training.
+
+1.  Link to ebook: <https://m-clark.github.io/generalized-additive-models/>

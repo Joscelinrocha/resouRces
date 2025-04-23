@@ -1,0 +1,29 @@
+---
+title: "Hello Quarto"
+date: "2025-04-22"
+categories: [websites]
+image: featured.png
+image-alt: "Illustration of two penguins, one blue and one orange, taking a selfie with a selfie stick. The moon in the background looks like the Quarto logo."
+---
+
+
+<link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/JoscelinRocha">![Buy me a coffee](https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg){alt="Buy me a coffee" width="15" height="21"}Buy me a coffee</a>
+
+------------------------------------------------------------------------
+
+
+## [Using GitHub Actions to Build your Hugo Website](https://drmowinckels.io/blog/2021-03-23-using-github-actions-to-build-your-hugo-website/)
+
+Added Sun June 6th 2021
+
+**What is this?**
+
+**Excerpt from blog:** What we want is Github Actions to run certain
+operations on a set schedule, build our website with hugo, and then
+trigger a Netlify deployment. In particular, we want to render the
+content/about.Rmd and knit my CV which is located in
+content/about/resume/am_mowinckel_cv.Rmd, and not commit these to git,
+just have them rendered right before Hugo build
+
+1.  Link to blog here:
+    <https://drmowinckels.io/blog/2021-03-23-using-github-actions-to-build-your-hugo-website/>

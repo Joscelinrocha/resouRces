@@ -1,0 +1,37 @@
+---
+title: "Hello Quarto"
+date: "2025-04-22"
+categories: [meta-analysis]
+image: featured.png
+image-alt: "Illustration of two penguins, one blue and one orange, taking a selfie with a selfie stick. The moon in the background looks like the Quarto logo."
+---
+
+
+<link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/JoscelinRocha">![Buy me a coffee](https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg){alt="Buy me a coffee" width="15" height="21"}Buy me a coffee</a>
+
+------------------------------------------------------------------------
+
+
+## [Workshop: A Practical Guide for Meta-Analyses in R](https://constantinyvesplessen.com/post/workshop_meta_analysis/)
+
+By [Constantin Yves
+Plessen](https://constantinyvesplessen.com/post/workshop_meta_analysis/)
+
+**What is this?**
+
+**Excerpt from site:** This blogpost is an adaption from my 90 minute
+workshop on all basic steps in conducting a meta-analysis in R. The
+audience of the original workshop were graduate psychology students at
+the University of Vienna with a focus on research methods. Most
+statistical and methodical elements were already discussed, yet the
+implementation in R was new to all of them. And programming in general
+was new to most of them. I therefore introduced R very shortly, before
+explaining the actual meta-analytical analyses more briefly. I added
+some explanations and references to make the file more self-explanatory
+for independent study. Therefore, this post also contains materials and
+references on how to install R, R Studio, and some basic concepts of
+programming.
+
+1.  Post here:
+    <https://constantinyvesplessen.com/post/workshop_meta_analysis/>
+2.  Dataset and code here: <https://osf.io/y9d2w/>

@@ -1,0 +1,19 @@
+---
+title: "Mastering Spark with R"
+date: "2025-04-22"
+categories: [book, statistics, spark]
+image: https://therinspark.s3-us-west-2.amazonaws.com/mastering-spark-with-r.png
+image-alt: "Book cover for “Mastering Spark with R: The Complete Guide to Large-Scale Analysis and Modeling” by Javier Luraschi, Kevin Kuo, and Edgar Ruiz, with a foreword by Matei Zaharia. The design features the O’Reilly logo at the top in red, the title in bold black text, and a realistic illustration of a red-orange fish with detailed scales and fins occupying the bottom half of the cover."
+---
+
+<link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/JoscelinRocha">![Buy me a coffee](https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg){alt="Buy me a coffee" width="15" height="21"}Buy me a coffee</a>
+
+------------------------------------------------------------------------
+
+By [Javier Luraschi, Kevin Kuo, & Edgar Ruiz](https://therinspark.com/)
+
+**Excerpt from ebook:** This chapter presented Spark as a modern and powerful computing platform, R as an easy-to-use computing language with solid foundations in statistical methods, and sparklyr as a project bridging both technologies and communities. In a world in which the total amount of information is growing exponentially, learning how to analyze data at scale will help you to tackle the problems and opportunities humanity is facing today. However, before we start analyzing data, Chapter 2 will equip you with the tools you will need throughout the rest of this book. Be sure to follow each step carefully and take the time to install the recommended tools, which we hope will become familiar resources that you use and love.
+
+1.  Link to free ebook: <https://therinspark.com/>
+
+![](https://therinspark.s3-us-west-2.amazonaws.com/mastering-spark-with-r.png){fig-alt="Book cover for “Mastering Spark with R: The Complete Guide to Large-Scale Analysis and Modeling” by Javier Luraschi, Kevin Kuo, and Edgar Ruiz, with a foreword by Matei Zaharia. The design features the O’Reilly logo at the top in red, the title in bold black text, and a realistic illustration of a red-orange fish with detailed scales and fins occupying the bottom half of the cover."}

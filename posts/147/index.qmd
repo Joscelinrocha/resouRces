@@ -1,0 +1,23 @@
+---
+title: "Hello Quarto"
+date: "2025-04-22"
+categories: [Learning R]
+image: featured.png
+image-alt: "Illustration of two penguins, one blue and one orange, taking a selfie with a selfie stick. The moon in the background looks like the Quarto logo."
+---
+
+
+<link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/JoscelinRocha">![Buy me a coffee](https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg){alt="Buy me a coffee" width="15" height="21"}Buy me a coffee</a>
+
+------------------------------------------------------------------------
+
+
+## [R Bootcamp](https://r-bootcamp.netlify.app/) 🌱
+
+By [Ted Laderas & Jessica Minnier](https://r-bootcamp.netlify.app/)
+
+**What is this?**
+
+**Excerpt from the course:** The R-Bootcamp is a gentle and gradual introduction to manipulating and visualizing data in R using the `tidyverse` suite of packages. It is meant for incoming OHSU Bioinformatics and Computational Biomedicine Majors but is appropriate for any beginners wanting to learn elementary data manipulation in R.
+
+1.  Link to course: <https://r-bootcamp.netlify.app/>

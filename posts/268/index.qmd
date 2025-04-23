@@ -1,0 +1,24 @@
+---
+title: "Hello Quarto"
+date: "2025-04-22"
+categories: [statistics]
+image: featured.png
+image-alt: "Illustration of two penguins, one blue and one orange, taking a selfie with a selfie stick. The moon in the background looks like the Quarto logo."
+---
+
+
+<link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/JoscelinRocha">![Buy me a coffee](https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg){alt="Buy me a coffee" width="15" height="21"}Buy me a coffee</a>
+
+------------------------------------------------------------------------
+
+
+## [Five different "Cohen's d" statistics for within-subject designs](http://jakewestfall.org/blog/index.php/2016/03/25/five-different-cohens-d-statistics-for-within-subject-designs/)
+
+By [Cookie Scientist](http://jakewestfall.org/blog/index.php/2016/03/25/five-different-cohens-d-statistics-for-within-subject-designs/)
+
+**What is this?**
+
+**Excerpt from blog:** What I'll show here is that there are at least 5 different and non-equivalent ways that people might compute a d-like effect size (which they would invariably simply call "Cohen's d") for Jeff's dataset, and the resulting effect sizes range from about 0.25 to 1.91.
+I'll compare and contrast these procedures and ultimately choose one that I think is the least crazy, if you must compute a standardized effect size (more on that later).
+
+1.  Link to blog here: <http://jakewestfall.org/blog/index.php/2016/03/25/five-different-cohens-d-statistics-for-within-subject-designs/>

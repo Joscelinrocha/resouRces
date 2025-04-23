@@ -1,0 +1,15 @@
+---
+title: "Data Skill for Reproducible science"
+date: "2025-04-21"
+categories: [statistics, wrangling, data science, visualization]
+image: "https://psyteachr.github.io/msc-data-skills/images/memes/changing-stuff.jpg"
+image-alt: "Code for installing the Font Awesome extension for Quarto: quarto install extension quarto-ext/fontawesome and a table that shows the input syntax and output icon for the icons brands apple, calendar, user-doctor, and door-closed."
+---
+<link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/JoscelinRocha">![Buy me a coffee](https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg){alt="Buy me a coffee" width="15" height="21"}Buy me a coffee</a>
+
+------------------------------------------------------------------------
+**Excerpt from site:** This course provides an overview of skills needed for reproducible research and open science using the statistical programming language R. Students will learn about data visualisation, data tidying and wrangling, archiving, iteration and functions, probability and data simulations, general linear models, and reproducible workflows. Learning is reinforced through weekly assignments that involve working with different types of data.
+
+1.  Course here: <https://psyteachr.github.io/msc-data-skills/>
+
+![](https://psyteachr.github.io/msc-data-skills/images/memes/changing-stuff.jpg)

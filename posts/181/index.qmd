@@ -1,0 +1,28 @@
+---
+title: "Hello Quarto"
+date: "2025-04-22"
+categories: [websites]
+image: featured.png
+image-alt: "Illustration of two penguins, one blue and one orange, taking a selfie with a selfie stick. The moon in the background looks like the Quarto logo."
+---
+
+
+<link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/JoscelinRocha">![Buy me a coffee](https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg){alt="Buy me a coffee" width="15" height="21"}Buy me a coffee</a>
+
+------------------------------------------------------------------------
+
+
+## [PrettyDoc Package](https://prettydoc.statr.me/)
+
+Added Fri Oct 8th 2021
+
+**What is this?**
+
+**Excerpt from site:** The prettydoc package provides an alternative
+engine, html_pretty, to knit your R Markdown document into pretty HTML
+pages. Its usage is extremely easy: simply replace the
+rmarkdown::html_document or rmarkdown::html_vignette output engine by
+prettydoc::html_pretty in your R Markdown header, and use one of the
+built-in themes and syntax highlighters.
+
+1.  Link to site here: <https://prettydoc.statr.me/>

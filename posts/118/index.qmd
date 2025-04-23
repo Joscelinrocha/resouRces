@@ -1,0 +1,21 @@
+---
+title: "Hello Quarto"
+date: "2025-04-22"
+categories: [Learning R]
+image: featured.png
+image-alt: "Illustration of two penguins, one blue and one orange, taking a selfie with a selfie stick. The moon in the background looks like the Quarto logo."
+---
+
+
+<link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/JoscelinRocha">![Buy me a coffee](https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg){alt="Buy me a coffee" width="15" height="21"}Buy me a coffee</a>
+
+------------------------------------------------------------------------
+
+
+## [An Introduction to R With Hockey Data](https://meghan.rbind.io/slides/ucsas/hall_ucsas_2021#1) 🌱
+
+By [Meghan Hall](https://meghan.rbind.io/slides/ucsas/hall_ucsas_2021#1)
+
+Updated Mon Feb 24, 2025**What is this?****Excerpt from site:** "We'll go through the steps of downloading and setting up R and then, with the use of a sample hockey data set, learn the very basics of R for exploring and visualizing data".
+
+1.  Link to slides here: <https://meghan.rbind.io/slides/ucsas/hall_ucsas_2021#51>
