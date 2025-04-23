@@ -1,0 +1,26 @@
+---
+title: "Hello Quarto"
+date: "2025-04-22"
+categories: [statistics]
+image: featured.png
+image-alt: "Illustration of two penguins, one blue and one orange, taking a selfie with a selfie stick. The moon in the background looks like the Quarto logo."
+---
+
+
+<link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/JoscelinRocha">![Buy me a coffee](https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg){alt="Buy me a coffee" width="15" height="21"}Buy me a coffee</a>
+
+------------------------------------------------------------------------
+
+
+## [Statistical Modeling and Computation for Educational Scientists](https://zief0002.github.io/modeling/)
+
+By [Andrew Zieffler](https://zief0002.github.io/modeling/)
+
+**What is this?**
+
+**Excerpt from book:** The content in this "book", as the title suggests, is related to statistical modeling and computation.
+More specifically, the content focuses on using the General Linear Model (GLM) to provide statistical evidence that can help answer substantive questions in the educational and social sciences.
+It is a book intended for applied practitioners in the educational or social sciences.
+The statistical content is hopefully presented in a manner that these domian scientists will find useful, including practical suggestions for analysis and the presentation of results intended to help researchers clearly communicate the results of a data analysis.
+
+1.  Link to book here: <https://zief0002.github.io/modeling/>

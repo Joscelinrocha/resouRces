@@ -1,0 +1,29 @@
+---
+title: "Hello Quarto"
+date: "2025-04-22"
+categories: [statistics]
+image: featured.png
+image-alt: "Illustration of two penguins, one blue and one orange, taking a selfie with a selfie stick. The moon in the background looks like the Quarto logo."
+---
+
+
+<link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/JoscelinRocha">![Buy me a coffee](https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg){alt="Buy me a coffee" width="15" height="21"}Buy me a coffee</a>
+
+------------------------------------------------------------------------
+
+
+## [(What to do) When Predictors Co-Vary](https://shouldbewriting.netlify.app/posts/2020-08-11-when-predictors-covary/)
+
+By [Mattan S. Ben-Shachar](https://shouldbewriting.netlify.app/posts/2020-08-11-when-predictors-covary/)
+
+**What is this?**
+
+**Excerpt from blog:** Co-varying predictors can be a messy business.
+They make estimates unstable, reducing our statistical power and making interpretation more difficult.
+In this post I will demonstrate how ignoring the presence of co-variation between predictors when exploring our models can lead to odd results and how we might deal with this issue.
+
+1.  Link to blog here: <https://shouldbewriting.netlify.app/posts/2020-08-11-when-predictors-covary/>
+
+# Power Analysis
+
+This section has all resources I encounter to run power analysis regardless of them using R or not.

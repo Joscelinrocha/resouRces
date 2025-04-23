@@ -1,0 +1,30 @@
+---
+title: "Hello Quarto"
+date: "2025-04-22"
+categories: [statistics]
+image: featured.png
+image-alt: "Illustration of two penguins, one blue and one orange, taking a selfie with a selfie stick. The moon in the background looks like the Quarto logo."
+---
+
+
+<link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/JoscelinRocha">![Buy me a coffee](https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg){alt="Buy me a coffee" width="15" height="21"}Buy me a coffee</a>
+
+------------------------------------------------------------------------
+
+
+## [Modern Statistics with R: From wrangling and exploring data to inference and predictive modelling](https://modernstatisticswithr.com/index.html)
+
+By [Måns Thulin](https://modernstatisticswithr.com/index.html)
+
+Added Sun April 30th 2023
+
+**What is this?**
+
+**Excerpt from e-book:** This is the online version of the book *Modern Statistics with R*.
+It is free to use, and always will be.
+Printed copies are available where books are sold (ISBN 9789152701515).
+
+The past decades have transformed the world of statistical data analysis, with new methods, new types of data, and new computational tools.
+The aim of *Modern Statistics with R* is to introduce you to key parts of the modern statistical toolkit.
+
+1.  Link to e-book here: <https://modernstatisticswithr.com/index.html>

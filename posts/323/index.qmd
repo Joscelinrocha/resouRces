@@ -1,0 +1,25 @@
+---
+title: "Hello Quarto"
+date: "2025-04-22"
+categories: [visualization]
+image: featured.png
+image-alt: "Illustration of two penguins, one blue and one orange, taking a selfie with a selfie stick. The moon in the background looks like the Quarto logo."
+---
+
+
+<link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/JoscelinRocha">![Buy me a coffee](https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg){alt="Buy me a coffee" width="15" height="21"}Buy me a coffee</a>
+
+------------------------------------------------------------------------
+
+
+## [A Gentle Guide to the Grammar of Graphics with ggplot2](https://www.garrickadenbuie.com/talk/gentle-ggplot2-usf-asu/)💯
+
+By [Garrick Aden-Buie](https://www.garrickadenbuie.com/talk/gentle-ggplot2-usf-asu/)
+
+**What is this?**
+
+Slides and code from workshop by Garrick.
+This presentation was part of a 5 day Workshop on data analysis using R by the American Statistical Association, University of South Florida Chapter (for this workshop links visit the [learning R page](https://github.com/Joscelinrocha/Learning-R-Resources/wiki/a.-Learning-R).
+
+1.  Link to slides here: <https://pkg.garrickadenbuie.com/gentle-ggplot2/#1>
+2.  Link to code here: <https://github.com/gadenbuie/gentle-ggplot2/>

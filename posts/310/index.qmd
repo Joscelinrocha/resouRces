@@ -1,0 +1,24 @@
+---
+title: "Hello Quarto"
+date: "2025-04-22"
+categories: [statistics]
+image: featured.png
+image-alt: "Illustration of two penguins, one blue and one orange, taking a selfie with a selfie stick. The moon in the background looks like the Quarto logo."
+---
+
+
+<link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/JoscelinRocha">![Buy me a coffee](https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg){alt="Buy me a coffee" width="15" height="21"}Buy me a coffee</a>
+
+------------------------------------------------------------------------
+
+
+## [Visualizing research trends](https://twitter.com/dsquintana/status/1166083585771802626?s=20)
+
+By [Dan Quintana](https://twitter.com/dsquintana/status/1166083585771802626?s=20)
+
+**What is this?**
+
+Dan Quintana made a screencast of how to visualise research trends for a paper introduction or grant application using the {europepmc}
+
+1.  Link to screencast: <https://twitter.com/dsquintana/status/1166083585771802626?s=20>
+2.  Link to code: <https://gist.github.com/dsquintana/b512b715786088339b61a7fb79367d5e>

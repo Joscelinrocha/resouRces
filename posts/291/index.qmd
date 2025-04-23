@@ -1,0 +1,26 @@
+---
+title: "Hello Quarto"
+date: "2025-04-22"
+categories: [statistics]
+image: featured.png
+image-alt: "Illustration of two penguins, one blue and one orange, taking a selfie with a selfie stick. The moon in the background looks like the Quarto logo."
+---
+
+
+<link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/JoscelinRocha">![Buy me a coffee](https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg){alt="Buy me a coffee" width="15" height="21"}Buy me a coffee</a>
+
+------------------------------------------------------------------------
+
+
+## [r-statistics.co](https://r-statistics.co/)
+
+By [Selva Prabhakaran](https://r-statistics.co/)
+
+**What is this?**
+
+**Excerpt from site:** An educational resource for those seeking knowledge related to machine learning and statistical computing in R.
+Here, you will find quality articles, with working R code and examples, where, the goal is to make the #rstats concepts clear and as simple as possible.
+
+This is built by keeping in mind, statisticians who are new to R programming language, R programmers without a stats background, analysts who work in SAS or python, college grads and developers who are relatively new to both R and stats/ML.
+
+1.  Link to website here: <https://r-statistics.co/>

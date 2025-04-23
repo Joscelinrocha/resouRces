@@ -1,0 +1,25 @@
+---
+title: "Hello Quarto"
+date: "2025-04-22"
+categories: [statistics]
+image: featured.png
+image-alt: "Illustration of two penguins, one blue and one orange, taking a selfie with a selfie stick. The moon in the background looks like the Quarto logo."
+---
+
+
+<link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/JoscelinRocha">![Buy me a coffee](https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg){alt="Buy me a coffee" width="15" height="21"}Buy me a coffee</a>
+
+------------------------------------------------------------------------
+
+
+## [R course](https://pagepiccinini.com/r-course/)
+
+By [Page Piccinini](https://pagepiccinini.com/r-course/)
+
+**What is this?**
+
+**Excerpt from course:** The goal of this course is to give you the skills to do the statistics that are in current published papers, and make pretty figures to show off your results.
+While we will go over the mathematical concepts behind the statistics, this is NOT meant to be a classical statistics class.
+We will focus more on making the connection between the mathematical equation and the R code, and what types of variables fit into each slot of the equation.
+
+1.  Link to course here: <https://pagepiccinini.com/r-course/>

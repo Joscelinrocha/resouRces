@@ -1,0 +1,19 @@
+---
+title: "R Programming for Data Science"
+date: "2025-04-22"
+categories: [data science, wrangling, book]
+image: https://bookdown.org/rdpeng/rprogdatascience/cover_sm.png
+image-alt: "Book cover for “R Programming for Data Science” by Roger D. Peng. The title is displayed in large black font at the top. Below it is a centered photograph of a black-and-white penguin standing in tall green grass. The author's name appears in smaller black text in the bottom left corner."
+---
+
+<link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/JoscelinRocha">![Buy me a coffee](https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg){alt="Buy me a coffee" width="15" height="21"}Buy me a coffee</a>
+
+------------------------------------------------------------------------
+
+By [Roger D. Peng](https://bookdown.org/rdpeng/rprogdatascience/)
+
+**Excerpt from site:** This book is about the fundamentals of R programming. You will get started with the basics of the language, learn how to manipulate datasets, how to write functions, and how to debug and optimize code. With the fundamentals provided in this book, you will have a solid foundation on which to build your data science toolbox.
+
+1.  Web-book here: <https://bookdown.org/rdpeng/rprogdatascience/>
+
+![](https://bookdown.org/rdpeng/rprogdatascience/cover_sm.png)

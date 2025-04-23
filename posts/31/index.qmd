@@ -1,0 +1,15 @@
+---
+title: "Reproducible Data Science in R: Flexible Functions Using Tidy Evaluation"
+date: "2025-02-20"
+categories: [blog, data science, wrangling]
+image: https://waterdata.usgs.gov/blog/static/RDS-function-evaluation/rds_04banner.png
+image-alt: "Banner image titled “Reproducible Data Science with R: Easy steps to improve the reusability of your code!” The main message reads “Flexible functions using tidy evaluations” in teal font. A cute blue cartoon water droplet character wearing a yellow hard hat stands at a conveyor belt assembling pipe valves. This image is part of “A WDFN Blog Series.”"
+---
+
+By Elise Hinman
+
+This article addresses the challenges of writing flexible data-wrangling functions in R's tidyverse ecosystem. It introduces tidy evaluation techniques, such as data masking and tidy selection, to enhance function flexibility. The tutorial provides practical examples to help R programmers create adaptable and efficient functions.
+
+1.  Link to article here: <https://waterdata.usgs.gov/blog/rds-function-evaluation/>
+
+![](https://waterdata.usgs.gov/blog/static/RDS-function-evaluation/rds_04banner.png)

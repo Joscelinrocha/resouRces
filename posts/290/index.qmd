@@ -1,0 +1,26 @@
+---
+title: "Hello Quarto"
+date: "2025-04-22"
+categories: [statistics]
+image: featured.png
+image-alt: "Illustration of two penguins, one blue and one orange, taking a selfie with a selfie stick. The moon in the background looks like the Quarto logo."
+---
+
+
+<link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/JoscelinRocha">![Buy me a coffee](https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg){alt="Buy me a coffee" width="15" height="21"}Buy me a coffee</a>
+
+------------------------------------------------------------------------
+
+
+## [R For SNA](https://ericbrewe.com/courses/rforsna/)
+
+By [Eric Brewe](https://ericbrewe.com/courses/rforsna/)
+
+**What is this?**
+
+**Excerpt from site:** This workshop was designed to help get you started on using R to analyze social network data.
+
+1.  Link to three workshops: <https://ericbrewe.com/courses/rforsna/>
+2.  Link to Workshop 1: <https://ericbrewe.com/courses/rforsna/ws1/>
+3.  Link to Workshop 2: <https://ericbrewe.com/courses/rforsna/ws2/>
+4.  Link to Workshop 3: <https://ericbrewe.com/courses/rforsna/ws3/>

@@ -1,0 +1,24 @@
+---
+title: "Hello Quarto"
+date: "2025-04-22"
+categories: [statistics]
+image: featured.png
+image-alt: "Illustration of two penguins, one blue and one orange, taking a selfie with a selfie stick. The moon in the background looks like the Quarto logo."
+---
+
+
+<link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/JoscelinRocha">![Buy me a coffee](https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg){alt="Buy me a coffee" width="15" height="21"}Buy me a coffee</a>
+
+------------------------------------------------------------------------
+
+
+## [Statistical rethinking with brms, ggplot2, and the tidyverse: Second edition by Solomon Kurz](https://bookdown.org/content/4857/)
+
+**What is this?**
+
+**Excerpt from e-book:** This ebook is based on the second edition of Richard McElreath's (2020a) text, Statistical rethinking: A Bayesian course with examples in R and Stan.
+My contributions show how to fit the models he covered with Paul Bürkner's brms package (Bürkner, 2017, 2018, 2020c), which makes it easy to fit Bayesian regression models in R (R Core Team, 2020) using Hamiltonian Monte Carlo.
+I also prefer plotting and data wrangling with the packages from the tidyverse (Wickham, 2019; Wickham et al., 2019).
+So we'll be using those methods, too.
+
+1.  Link to ebook: <https://bookdown.org/content/4857/>

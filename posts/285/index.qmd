@@ -1,0 +1,41 @@
+---
+title: "Hello Quarto"
+date: "2025-04-22"
+categories: [statistics]
+image: featured.png
+image-alt: "Illustration of two penguins, one blue and one orange, taking a selfie with a selfie stick. The moon in the background looks like the Quarto logo."
+---
+
+
+<link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/JoscelinRocha">![Buy me a coffee](https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg){alt="Buy me a coffee" width="15" height="21"}Buy me a coffee</a>
+
+------------------------------------------------------------------------
+
+
+## [Pckages for Exploratory Data Analysis](https://journal.r-project.org/archive/2019/RJ-2019-033/RJ-2019-033.pdf)💯
+
+**What is this?**
+
+This is a list of all the packages mentioned in the "The Landscape of R Packages for Automated Exploratory Data Analysis" article by Mateusz Staniak & Przemysław Biecek.
+Check the paper out!
+
+1.  The arsenal package (Heinzen et al., 2019): <https://cran.r-project.org/web/packages/arsenal/arsenal.pdf>
+2.  The autoEDA package (Horn, 2018a): <https://github.com/XanderHorn/autoEDA>
+3.  The DataExplorer (Cui, 2019): <https://cran.r-project.org/package=DataExplorer>
+4.  The dataMaid (Petersen and Ekstrom, 2018): [https://cran.r-project.org/package=dataMaid](https://cran.r-project.org/package=dataMaidThe%20dlookr%20(Ryu,%202019)%20package:%20https://cran.r-project.org/package=dlookr)
+5.  [The dlookr (Ryu, 2019) package: https://cran.r-project.org/package=dlookr](https://cran.r-project.org/package=dataMaidThe%20dlookr%20(Ryu,%202019)%20package:%20https://cran.r-project.org/package=dlookr)
+6.  The ExPanDaR package (Gassen, 2018): <https://github.com/joachim-gassen/ExPanDaR>
+7.  The explore package (Krasser, 2019): <https://cran.r-project.org/package=explore>
+8.  The exploreR package (Coates, 2016): <https://cran.r-project.org/package=exploreR>
+9.  The package funModeling (Casas, 2019): <https://cran.r-project.org/package=funModeling>
+10. The inspectdf package (Rushworth, 2019): <https://cran.r-project.org/package=inspectdf>
+11. The RtutoR package (Nair, 2018a): <https://cran.r-project.org/package=RtutoR>
+12. The SmartEDA package (Ubrangala et al., 2018): <https://cran.r-project.org/package=SmartEDA>
+13. The summarytools package (Comtois, 2019): <https://cran.r-project.org/package=summarytools>
+14. The package visdat (Tierney, 2017): [https://cran.r-project.org/web/packages/visdat/index.html](https://cran.r-project.org/web/packages/visdat/index.htmlThe%20xray%20(Seibelt,%202017)%20package:%20https://cran.r-project.org/package=xray)
+15. [The xray (Seibelt, 2017) package: https://cran.r-project.org/package=xray](https://cran.r-project.org/web/packages/visdat/index.htmlThe%20xray%20(Seibelt,%202017)%20package:%20https://cran.r-project.org/package=xray)
+16. The package tableone (Yoshida and Bohn., 2018): <https://cran.r-project.org/package=tableone>
+17. The describe function from describer package (Hendricks, 2015): <https://cran.r-project.org/package=describer>
+18. The skimr (Quinn et al., 2019) package: <https://cran.r-project.org/package=skimr>
+19. The prettyR (Lemon and Grosjean, 2018) package: <https://cran.r-project.org/package=prettyR>
+20. The package Hmisc (Harrell Jr et al., 2019) Describe function: <https://cran.r-project.org/package=Hmisc>

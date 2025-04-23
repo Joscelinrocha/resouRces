@@ -1,0 +1,25 @@
+---
+title: "Hello Quarto"
+date: "2025-04-22"
+categories: [teaching r]
+image: featured.png
+image-alt: "Illustration of two penguins, one blue and one orange, taking a selfie with a selfie stick. The moon in the background looks like the Quarto logo."
+---
+
+
+<link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/JoscelinRocha">![Buy me a coffee](https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg){alt="Buy me a coffee" width="15" height="21"}Buy me a coffee</a>
+
+------------------------------------------------------------------------
+
+
+## [Tidy Data Tutor](https://tidydatatutor.com/)
+
+By [Sean Kross and Philip Guo](https://tidydatatutor.com/)
+
+Added Fri Feb18, 2022**What is it?**
+
+Tidy Data Tutor lets you write R and Tidyverse code in your browser and see how your data frame changes at each step of a data analysis pipeline.
+(If you use Python, check out Pandas Tutor.)
+
+1.  Link to R tutor: <https://tidydatatutor.com/>
+2.  Link to Python tutor: <https://pandastutor.com/>

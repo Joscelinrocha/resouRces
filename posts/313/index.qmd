@@ -1,0 +1,17 @@
+---
+title: "Hello Quarto"
+date: "2025-04-22"
+categories: [statistics]
+image: featured.png
+image-alt: "Illustration of two penguins, one blue and one orange, taking a selfie with a selfie stick. The moon in the background looks like the Quarto logo."
+---
+
+
+<link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/JoscelinRocha">![Buy me a coffee](https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg){alt="Buy me a coffee" width="15" height="21"}Buy me a coffee</a>
+
+------------------------------------------------------------------------
+
+
+## [**Simulation for Power Analysis by Nick Huntington-Klein**](https://nickch-k.github.io/EconometricsSlides/Week_08/Power_Simulations.html):
+
+Excerpt from site: In this document we'll talk about power analysis in general and how it's done, and then we'll go into how to perform a power analysis using simulation in R, making use of tools from the tidyverse.

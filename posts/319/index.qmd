@@ -1,0 +1,23 @@
+---
+title: "Hello Quarto"
+date: "2025-04-22"
+categories: [teaching r]
+image: featured.png
+image-alt: "Illustration of two penguins, one blue and one orange, taking a selfie with a selfie stick. The moon in the background looks like the Quarto logo."
+---
+
+
+<link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/JoscelinRocha">![Buy me a coffee](https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg){alt="Buy me a coffee" width="15" height="21"}Buy me a coffee</a>
+
+------------------------------------------------------------------------
+
+
+## [Sharing on Short Notice_How to get your teaching materials online with R Markdown](https://rstudio-education.github.io/sharing-short-notice/#1)
+
+By [Desirée De Leon & Alison Hill](https://rstudio-education.github.io/sharing-short-notice/#1)
+
+**What is it?**
+
+Now that many of us have to move to online platforms, this is a wonderful resource that walks you through on how you can use rMarkdown to upload your class materials.
+
+1.  Link to site here: <https://rstudio-education.github.io/sharing-short-notice/#1>

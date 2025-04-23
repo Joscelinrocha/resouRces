@@ -1,0 +1,22 @@
+---
+title: "Hello Quarto"
+date: "2025-04-22"
+categories: [statistics]
+image: featured.png
+image-alt: "Illustration of two penguins, one blue and one orange, taking a selfie with a selfie stick. The moon in the background looks like the Quarto logo."
+---
+
+
+<link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/JoscelinRocha">![Buy me a coffee](https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg){alt="Buy me a coffee" width="15" height="21"}Buy me a coffee</a>
+
+------------------------------------------------------------------------
+
+
+## ["report" Package](https://easystats.github.io/report/index.html)
+
+**What is this?**
+
+**Excerpt from site:** report's primary goal is to bridge the gap between R's output and the formatted results contained in your manuscript.
+It automatically produces reports of models and dataframes according to best practices guidelines (e.g., APA's style), ensuring standardization and quality in results reporting.
+
+1.  Link to repo here: <https://easystats.github.io/report/index.html>

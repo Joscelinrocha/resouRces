@@ -1,0 +1,27 @@
+---
+title: "Hello Quarto"
+date: "2025-04-22"
+categories: [teaching r]
+image: featured.png
+image-alt: "Illustration of two penguins, one blue and one orange, taking a selfie with a selfie stick. The moon in the background looks like the Quarto logo."
+---
+
+
+<link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/JoscelinRocha">![Buy me a coffee](https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg){alt="Buy me a coffee" width="15" height="21"}Buy me a coffee</a>
+
+------------------------------------------------------------------------
+
+
+## [PsyTeachR](https://psyteachr.github.io/)
+
+**What is it?**
+
+**Excerpt from website:** The psyTeachR team at the University of Glasgow School of Psychology and Institute of Neuroscience and Psychology has successfully made the transition to teaching reproducible research using R across all undergraduate and postgraduate levels.
+Our curriculum now emphasizes essential 'data science' graduate skills that have been overlooked in traditional approaches to teaching, including programming skills, data visualisation, data wrangling and reproducible reports.
+Students learn about probability and inference through data simulation as well as by working with real datasets.
+
+This website contains our open materials for teaching reproducible research.
+Levels of
+
+1.  Level 1: Grassroot- <https://psyteachr.github.io/ug1-practical/>
+2.  Level 2: Practical- <https://psyteachr.github.io/ug2-practical/>

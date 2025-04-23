@@ -1,0 +1,32 @@
+---
+title: "Hello Quarto"
+date: "2025-04-22"
+categories: [statistics]
+image: featured.png
+image-alt: "Illustration of two penguins, one blue and one orange, taking a selfie with a selfie stick. The moon in the background looks like the Quarto logo."
+---
+
+
+<link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/JoscelinRocha">![Buy me a coffee](https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg){alt="Buy me a coffee" width="15" height="21"}Buy me a coffee</a>
+
+------------------------------------------------------------------------
+
+
+## [PsyTeachR University of Glasgow](https://psyteachr.github.io/)
+
+**What is this?**
+
+**Excerpt from site:** The psyTeachR team at the University of Glasgow School of Psychology and Institute of Neuroscience and Psychology has successfully made the transition to teaching reproducible research using R across all undergraduate and postgraduate levels.
+Our curriculum now emphasizes essential 'data science' graduate skills that have been overlooked in traditional approaches to teaching, including programming skills, data visualisation, data wrangling and reproducible reports.
+Students learn about probability and inference through data simulation as well as by working with real datasets.
+
+This website contains our open materials for teaching reproducible research.
+
+Courses books:
+
+1.  Link to site here: <https://psyteachr.github.io/>
+2.  Link to Level 1 Data Skills here: <https://psyteachr.github.io/ug1-practical/>
+3.  Link to Level 2 Research Methods and Statistics Practical Skills here: <https://psyteachr.github.io/ug2-practical/>
+4.  Link to Level 3 Learning Statistical Models Through Simulation in R here: <https://psyteachr.github.io/ug3-stats/>
+5.  Link to MSc Conversion in Psychological Studies/Science here: <https://psyteachr.github.io/msc-conv-f2f/>
+6.  Link to Data Skills for Reproducible Science here: <https://psyteachr.github.io/msc-data-skills/>

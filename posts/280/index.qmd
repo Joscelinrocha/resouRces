@@ -1,0 +1,25 @@
+---
+title: "Hello Quarto"
+date: "2025-04-22"
+categories: [statistics]
+image: featured.png
+image-alt: "Illustration of two penguins, one blue and one orange, taking a selfie with a selfie stick. The moon in the background looks like the Quarto logo."
+---
+
+
+<link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/JoscelinRocha">![Buy me a coffee](https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg){alt="Buy me a coffee" width="15" height="21"}Buy me a coffee</a>
+
+------------------------------------------------------------------------
+
+
+## [Linear Mixed Effects Models - R](https://github.com/RoseannaGG/LinearMixedEffectsModels/blob/main/Linear%20Mixed%20Effects%20Models%20-%20R%20Gamlen-Greene.pdf)
+
+By [Gamlen-Greene](https://github.com/RoseannaGG/LinearMixedEffectsModels/blob/main/Linear%20Mixed%20Effects%20Models%20-%20R%20Gamlen-Greene.pdf)
+
+Added by Tue Oct 12th, 2021
+
+**What is this?**
+
+**Excerpt from twitter post:** an accessible guide to Linear Mixed Effects Models in R using the lmer package (with background stats intro & coding examples).
+
+1.  Link to repo here: <https://github.com/RoseannaGG/LinearMixedEffectsModels/blob/main/Linear%20Mixed%20Effects%20Models%20-%20R%20Gamlen-Greene.pdf>

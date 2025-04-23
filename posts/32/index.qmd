@@ -1,0 +1,21 @@
+---
+title: "Reproducible Data Science in R: Writing Better Functions"
+date: "2025-02-20"
+categories: [talk]
+image: https://waterdata.usgs.gov/blog/static/RDS-writing-better-functions/rds_02banner.png
+image-alt: "Banner titled “Reproducible Data Science with R: Easy steps to improve the reusability of your code!” A friendly blue water droplet character wearing a yellow hard hat operates a conveyor belt assembling parts. The main message reads “Writing better functions” in bold teal text. In the bottom right, it states “A WDFN Blog Series.”"
+---
+
+<link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/JoscelinRocha">![Buy me a coffee](https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg){alt="Buy me a coffee" width="15" height="21"}Buy me a coffee</a>
+
+------------------------------------------------------------------------
+
+By Anthony Martinez and Elise Hinman
+
+Added Thu Feb 20, 2025
+
+This article explores best practices for writing clear and efficient functions in R. It covers function names, arguments, return values, and documentation, using examples from the `dataRetrieval` package to improve code structure and reusability.
+
+1.  Link to article here: <https://waterdata.usgs.gov/blog/rds-better-functions/>
+
+![](https://waterdata.usgs.gov/blog/static/RDS-writing-better-functions/rds_02banner.png)

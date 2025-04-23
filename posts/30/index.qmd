@@ -1,0 +1,27 @@
+---
+title: "Reproducible Data Science in R: Iterate, Don't Duplicate"
+date: "2025-02-20"
+categories: [blog, data science]
+image: https://waterdata.usgs.gov/blog/static/RDS-iterate/rds_03banner.png
+image-alt: "Banner image titled “Reproducible Data Science with R: Easy steps to improve the reusability of your code!” The main message reads “Iterate, don’t duplicate” in teal font. A cute blue cartoon water droplet character wearing a yellow hard hat stands at a conveyor belt assembling pipe valves. This image is part of “A WDFN Blog Series.”"
+---
+
+<link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/JoscelinRocha">![Buy me a coffee](https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg){alt="Buy me a coffee" width="15" height="21"}Buy me a coffee</a>
+
+------------------------------------------------------------------------
+
+By Anthony Martinez
+
+This article, part of the "Reproducible Data Science with R" series, emphasizes the importance of iteration over code duplication in R programming. It introduces the `purrr::map_*()` family of functions, which help avoid repetitive code by programmatically applying operations over data structures. The tutorial covers:
+
+-   **Drawbacks of Code Duplication**: Highlighting errors and maintenance challenges associated with copying and pasting code.
+
+-   **Introduction to For Loops**: Discussing basic iteration techniques in R.
+
+-   **Mapping with `purrr`**: Demonstrating how to use `purrr`'s mapping functions for efficient and readable code.
+
+The article provides practical examples, particularly using the `dataRetrieval` package to fetch and process water data, showcasing how iteration enhances code efficiency and reproducibility.
+
+1.  Link to article here: <https://waterdata.usgs.gov/blog/rds-iterate/>
+
+![](https://waterdata.usgs.gov/blog/static/RDS-iterate/rds_03banner.png)

@@ -1,0 +1,28 @@
+---
+title: "Hello Quarto"
+date: "2025-04-22"
+categories: [statistics]
+image: featured.png
+image-alt: "Illustration of two penguins, one blue and one orange, taking a selfie with a selfie stick. The moon in the background looks like the Quarto logo."
+---
+
+
+<link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/JoscelinRocha">![Buy me a coffee](https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg){alt="Buy me a coffee" width="15" height="21"}Buy me a coffee</a>
+
+------------------------------------------------------------------------
+
+
+## [Teacup Giraffes_Intro to Statistics](https://tinystats.github.io/teacups-giraffes-and-statistics/02_bellCurve.html)🦒
+
+By [Hasse Walum & Desirée De Leon](https://tinystats.github.io/teacups-giraffes-and-statistics/02_bellCurve.html)
+
+**What is this?**
+
+The site's purpose is to introduce you to statistics with R.
+Very concise and clear 😄 !
+
+1.  Link to the "Introduction to the Normal Distribution" module here: <https://tinystats.github.io/teacups-giraffes-and-statistics/02_bellCurve.html>
+2.  Link to the "Measures of centrality: Mean, Median, & Mode" module here: <https://tinystats.github.io/teacups-giraffes-and-statistics/03_mean.html>
+3.  Link to the "The Spread of the Data: Variance \* Standard Deviation" module here: <https://tinystats.github.io/teacups-giraffes-and-statistics/04_variance.html>
+4.  Link to the "A tale of two variables: Covariance & Correlation" module here: <https://tinystats.github.io/teacups-giraffes-and-statistics/05_correlation.html>
+5.  Link to the "Introduction to Inference: Standard Error" module here: <https://tinystats.github.io/teacups-giraffes-and-statistics/06_standardError.html>
