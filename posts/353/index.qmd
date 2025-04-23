@@ -1,0 +1,26 @@
+---
+title: "Hello Quarto"
+date: "2025-04-22"
+categories: [visualization]
+image: featured.png
+image-alt: "Illustration of two penguins, one blue and one orange, taking a selfie with a selfie stick. The moon in the background looks like the Quarto logo."
+---
+
+
+<link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/JoscelinRocha">![Buy me a coffee](https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg){alt="Buy me a coffee" width="15" height="21"}Buy me a coffee</a>
+
+------------------------------------------------------------------------
+
+
+## [esquisse add-in](https://github.com/dreamRs/esquisse)
+
+Added Feb 2nd, 2022
+
+**What is this?**
+
+**Excerpt from site:** This addin allows you to interactively explore your data by visualizing it with the ggplot2 package.
+It allows you to draw bar plots, curves, scatter plots, histograms, boxplot and sf objects, then export the graph or retrieve the code to reproduce the graph.
+
+See online documentation: <https://dreamrs.github.io/esquisse/index.html>
+
+1.  Link to package here: <https://github.com/dreamRs/esquisse>

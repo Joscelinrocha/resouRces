@@ -1,0 +1,26 @@
+---
+title: "Using the tidyverse with Databases"
+date: "2020-12-12"
+categories: [tidyverse,databases]
+image: featured.png
+image-alt: "Title slide for a presentation titled “Introduction to using Databases in R, with Tidyverse tools.” A subtitle below reads “WORKING DIRECTLY IN A DATABASE.” The presenter’s name, Vebash Naidoo, is listed underneath. The left side of the slide has a beige background with teal and black text, while the right side features a colorful abstract painting in shades of pink, purple, teal, and yellow."
+---
+
+<link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/JoscelinRocha">![Buy me a coffee](https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg){alt="Buy me a coffee" width="15" height="21"}Buy me a coffee</a>
+
+------------------------------------------------------------------------
+
+By [Vebash Naidoo](https://sciencificity-blog.netlify.app/posts/2020-12-12-using-the-tidyverse-with-databases/)
+
+**What is this?**
+
+**Excerpt from site:** You know R, especially the dplyr 📦. Even though the dplyr 📦 is so well written to mimic the SQL syntax - select(), group_by(), left_join() etc. there is still a cognitive load when you switch between using R syntax, and SQL syntax (ask me, who has often written == in SQL syntax on Athena only to wonder why I am getting an error 🤐).
+
+You only have so much memory in your local environment, and may want your RDBMS to do the heavy lifting (most of the computation), and only pull data into R when you need to (e.g. pull in aggregated data to create plots for a report).
+
+In this tutorial you will learn how to use dbplyr, which is a database back-end of dplyr, to execute queries directly in your RDBMS all the while writing R tidyverse syntax 😮 ⭐.
+
+1.  Blog Part 1 here: <https://sciencificity-blog.netlify.app/posts/2020-12-12-using-the-tidyverse-with-databases/>
+2.  Blog Part 2 here: <https://sciencificity-blog.netlify.app/posts/2020-12-20-using-the-tidyverse-with-dbs-partii/>
+
+![](featured.png)

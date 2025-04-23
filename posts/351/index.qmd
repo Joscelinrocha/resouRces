@@ -1,0 +1,28 @@
+---
+title: "Hello Quarto"
+date: "2025-04-22"
+categories: [visualization]
+image: featured.png
+image-alt: "Illustration of two penguins, one blue and one orange, taking a selfie with a selfie stick. The moon in the background looks like the Quarto logo."
+---
+
+
+<link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/JoscelinRocha">![Buy me a coffee](https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg){alt="Buy me a coffee" width="15" height="21"}Buy me a coffee</a>
+
+------------------------------------------------------------------------
+
+
+## [Educational Apps for ggplot2](https://ggplot2tor.com/apps)
+
+By [Christian Burkhart](https://ggplot2tor.com/apps)
+
+Added Mon Apr 24th, 2023
+
+**What is this?**
+
+**Excerpt from site:** A list of educational apps that make it easy to create data visualizations in ggplot2.
+
+1.  Link to all apps here: <https://ggplot2tor.com/apps>
+2.  Link to Aesthetics finder here: <https://ggplot2tor.com/aesthetics>
+3.  Link to Scales finder here: <https://ggplot2tor.com/scales>
+4.  Link to Theme finder: <https://ggplot2tor.com/theme>

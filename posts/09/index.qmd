@@ -1,0 +1,23 @@
+---
+title: "Advanced Data Science 2020" 
+date: "2025-04-04" 
+categories: [data science, book, statistics]
+image: "https://user-images.githubusercontent.com/1571674/91710624-8fc32d00-eb52-11ea-89b0-08397b02ced8.png" 
+image-alt: "Hex sticker logo for the “jhsphepi/ads” course or package. It features a stylized iceberg with the majority submerged underwater, symbolizing hidden data complexity. The text “jhsph ads” appears above the iceberg in light blue, with gray clouds in the background. The URL “www.jtleek.com/ads2020” is written diagonally along the bottom right corner." 
+---
+
+<link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/JoscelinRocha">![Buy me a coffee](https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg){alt="Buy me a coffee" width="15" height="21"}Buy me a coffee</a>
+
+------------------------------------------------------------------------
+
+By [Jeff Leek and Roger D. Peng](http://jtleek.com/ads2020/)
+
+This course is designed for PhD students at Johns Hopkins Bloomberg School of Public Health. We are usually pretty flexible about permitting outside students but we want everyone to be aware of the goals and assumptions so no one feels like they are surprised by how the class works.
+
+The primary goal of the course is to teach you how to deconstruct, perform, and communicate professional data analyses across diverse media.
+
+The goal is to help you to organize your thinking around how to combine the things you have learned about statistics, data manipulation, and visualization into complete data analyses that answer important questions about the world around you.
+
+1.  Link to ebook here: <http://jtleek.com/ads2020/>
+
+![](https://user-images.githubusercontent.com/1571674/91710624-8fc32d00-eb52-11ea-89b0-08397b02ced8.png)

@@ -1,0 +1,28 @@
+---
+title: "Hello Quarto"
+date: "2025-04-22"
+categories: [visualization]
+image: featured.png
+image-alt: "Illustration of two penguins, one blue and one orange, taking a selfie with a selfie stick. The moon in the background looks like the Quarto logo."
+---
+
+
+<link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/JoscelinRocha">![Buy me a coffee](https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg){alt="Buy me a coffee" width="15" height="21"}Buy me a coffee</a>
+
+------------------------------------------------------------------------
+
+
+## [Elevation Maps in R](https://umairdurrani.com/posts/2020-12-25-elevation-maps-in-r/elevation-maps-in-r)
+
+By Dr. U
+
+Added Thu Feb 20, 2025
+
+**What is this?**
+
+This comprehensive tutorial demonstrates how to create aesthetically pleasing and informative elevation maps in R using ground elevation data.
+The author guides readers through the process of obtaining elevation data, processing it, and visualizing it using various R packages.
+
+The tutorial provides detailed code snippets and explanations, making it accessible for users aiming to enhance their geospatial data visualization skills in R.
+
+1.  Link to tutorial here: <https://umairdurrani.com/posts/2020-12-25-elevation-maps-in-r/elevation-maps-in-r>

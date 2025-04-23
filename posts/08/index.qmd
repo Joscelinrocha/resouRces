@@ -1,0 +1,22 @@
+---
+title: "A ModernDive into R & the Tidyverse"
+date: "2025-04-21"
+categories: [book, data science, tidyverse, visualization, wrangling, modeling, statistics]
+image: "https://moderndive.com/v2/images/logos/v2_cover.jpg"
+image-alt: "Cover image for the “ModernDive” book (version 2), featuring a bold, geometric design with intersecting triangles in red, teal, and purple. The title “ModernDive” appears prominently in white text on a dark purple background, with the subtitle “An Introduction to Statistical and Data Sciences via R” beneath it."
+---
+
+<link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/JoscelinRocha">![Buy me a coffee](https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg){alt="Buy me a coffee" width="15" height="21"}Buy me a coffee</a>
+
+------------------------------------------------------------------------
+
+By [Chester Ismay and Albert Y. Kim. Foreword by Kelly S. McConville](https://moderndive.com/v2/)
+
+**Excerpt from ebook:** Over the course of this book, you will develop your "data science toolbox," equipping yourself with tools such as data visualization, data formatting, data wrangling, and data modeling using regression.
+
+In particular, this book will lean heavily on data visualization. In today's world, we are bombarded with graphics that attempt to convey ideas. We will explore what makes a good graphic and what the standard ways are used to convey relationships within data. In general, we'll use visualization as a way of building almost all of the ideas in this book.
+
+1.  Link for free ebook here: <https://moderndive.com/v2/>
+2.  Link to repo here: <https://github.com/moderndive/ModernDive_book>
+
+![](https://moderndive.com/v2/images/logos/v2_cover.jpg)

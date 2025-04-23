@@ -1,0 +1,23 @@
+---
+title: "a gRadual intRoduction to Shiny"
+date: "2022-07-04"
+categories: [slides, shiny, dashboard]
+image: "featured.png"
+image-alt: "Title slide with a dark blue background. The text in the center reads “a gRadual intRoduction to Shiny” with stylized capital “R”s emphasizing the letter “R” in “gradual” and “introduction.” Below the title is the name “Ted Laderas,” followed by “R-Pharma 2021” and the date “2021-10-25."
+---
+
+<link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/JoscelinRocha">![Buy me a coffee](https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg){alt="Buy me a coffee" width="15" height="21"}Buy me a coffee</a>
+
+------------------------------------------------------------------------
+
+By [Ted Laderas & Jessica Minnier](https://laderast.github.io/gradual_shiny/)
+
+**Excerpt from workshop:** By the end of this workshop, you should be able to:
+
+\* Browse examples in the shiny gallery and understand how they work. \* Understand the components of a Shiny app and how they communicate.,
+
+\* Learn three basic design patterns to the shiny apps.
+
+1.  Link to web-book here: <https://laderast.github.io/gradual_shiny/>
+
+![](featured.png)
