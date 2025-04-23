@@ -1,7 +1,7 @@
 ---
-image: images/jrh_logo.png
+image: images/logo.png
 listing:
-  - id: latest-content
+  - id: content
     contents: 
     - "posts/*/index.qmd"
     feed: true
@@ -11,21 +11,21 @@ listing:
     sort-ui: true
     filter-ui: true
     image-placeholder: images/twitter-card.png
-    fields: [image, date, title]
+    fields: [image, date, title, categories]
 page-layout: full
-title-block-banner: true
+title-block-banner: false
 toc: false
 ---
 
-::: {.g-col-8 .g-col-lg-4 .top-story-img}
-![](images/twitter-card.png)
+::: {.top-story-img}
+![](images/twitter-card.png){fig-align="center" width="377"}
 :::
 
 ::::: content-container
 :::: listing-block
+## Resources
 
-## Latest content
-
-::: {#latest-content}
+::: {#content}
 :::
-
+::::
+:::::

@@ -30,7 +30,7 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-search/fuse.min.js"></script>
 <script src="site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="./">
-<link href="./images/profile.png" rel="icon" type="image/png">
+<link href="./images/logo.png" rel="icon" type="image/png">
 <script src="site_libs/quarto-listing/list.min.js"></script>
 <script src="site_libs/quarto-listing/quarto-listing.js"></script>
 <script src="site_libs/quarto-html/quarto.js"></script>
@@ -74,21 +74,21 @@ ul.task-list li input[type="checkbox"] {
 <script>
 
   window.document.addEventListener("DOMContentLoaded", function (_event) {
-    const listingTargetEl = window.document.querySelector('#listing-latest-content .list');
+    const listingTargetEl = window.document.querySelector('#listing-content .list');
     if (!listingTargetEl) {
       // No listing discovered, do not attach.
       return; 
     }
 
     const options = {
-      valueNames: ['listing-image','listing-date','listing-title',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      valueNames: ['listing-image','listing-date','listing-title','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
       page: 18,
     pagination: { item: "<li class='page-item'><a class='page page-link' href='#'></a></li>" },
       searchColumns: ["listing-title","listing-author","listing-date","listing-image","listing-description","listing-categories"],
     };
 
     window['quarto-listings'] = window['quarto-listings'] || {};
-    window['quarto-listings']['listing-latest-content'] = new List('listing-latest-content', options);
+    window['quarto-listings']['listing-content'] = new List('listing-content', options);
 
     if (window['quarto-listing-loaded']) {
       window['quarto-listing-loaded']();
@@ -133,18 +133,22 @@ window.Quarto = {
 </script>
 
 <link rel="alternate" type="application/rss+xml" title="resouRces" href="index.xml" data-external="1"><meta property="og:title" content="resouRces">
-<meta property="og:image" content="https://www.resourcesdatabase.com/images/jrh_logo.png">
+<meta property="og:image" content="https://www.resourcesdatabase.com/images/logo.png">
 <meta property="og:site_name" content="resouRces">
+<meta property="og:image:height" content="938">
+<meta property="og:image:width" content="938">
 <meta name="twitter:title" content="resouRces">
-<meta name="twitter:image" content="https://www.resourcesdatabase.com/images/jrh_logo.png">
+<meta name="twitter:image" content="https://www.resourcesdatabase.com/images/logo.png">
 <meta name="twitter:creator" content="@JoscelinRocha">
+<meta name="twitter:image-height" content="938">
+<meta name="twitter:image-width" content="938">
 <meta name="twitter:card" content="summary_large_image">
 </head>
 
 <body class="nav-fixed">
 
 <div id="quarto-search-results"></div>
-  <header id="quarto-header" class="headroom fixed-top quarto-banner">
+  <header id="quarto-header" class="headroom fixed-top">
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
@@ -157,12 +161,12 @@ window.Quarto = {
   <span class="navbar-toggler-icon"></span>
 </button>
           <div class="collapse navbar-collapse" id="navbarCollapse">
-            <ul class="navbar-nav navbar-nav-scroll ms-auto">
+            <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item dropdown ">
     <a class="nav-link dropdown-toggle" href="#" id="nav-menu-about" role="link" data-bs-toggle="dropdown" aria-expanded="false">
  <span class="menu-text">About</span>
     </a>
-    <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="nav-menu-about">    
+    <ul class="dropdown-menu" aria-labelledby="nav-menu-about">    
         <li>
     <a class="dropdown-item" href="./database-overview.html">
  <span class="dropdown-text">Overview</span></a>
@@ -181,7 +185,7 @@ window.Quarto = {
     <a class="nav-link dropdown-toggle" href="#" id="nav-menu-extra" role="link" data-bs-toggle="dropdown" aria-expanded="false">
  <span class="menu-text">Extra</span>
     </a>
-    <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="nav-menu-extra">    
+    <ul class="dropdown-menu" aria-labelledby="nav-menu-extra">    
         <li>
     <a class="dropdown-item" href="./more_r_databases.html">
  <span class="dropdown-text">More R Resources Databases</span></a>
@@ -205,22 +209,26 @@ window.Quarto = {
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
     <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(417)</span></div><div class="category" data-category="Joscelin's fav">Joscelin's fav <span class="quarto-category-count">(16)</span></div><div class="category" data-category="Learning R">Learning R <span class="quarto-category-count">(58)</span></div><div class="category" data-category="Machine Learning">Machine Learning <span class="quarto-category-count">(4)</span></div><div class="category" data-category="Python">Python <span class="quarto-category-count">(1)</span></div><div class="category" data-category="art">art <span class="quarto-category-count">(6)</span></div><div class="category" data-category="blog">blog <span class="quarto-category-count">(2)</span></div><div class="category" data-category="book">book <span class="quarto-category-count">(10)</span></div><div class="category" data-category="course">course <span class="quarto-category-count">(3)</span></div><div class="category" data-category="cv">cv <span class="quarto-category-count">(2)</span></div><div class="category" data-category="dashboard">dashboard <span class="quarto-category-count">(1)</span></div><div class="category" data-category="data science">data science <span class="quarto-category-count">(16)</span></div><div class="category" data-category="databases">databases <span class="quarto-category-count">(1)</span></div><div class="category" data-category="datasets">datasets <span class="quarto-category-count">(22)</span></div><div class="category" data-category="docker">docker <span class="quarto-category-count">(2)</span></div><div class="category" data-category="eye tracking">eye tracking <span class="quarto-category-count">(1)</span></div><div class="category" data-category="filenames">filenames <span class="quarto-category-count">(1)</span></div><div class="category" data-category="html">html <span class="quarto-category-count">(1)</span></div><div class="category" data-category="interactivity">interactivity <span class="quarto-category-count">(1)</span></div><div class="category" data-category="machine learning">machine learning <span class="quarto-category-count">(1)</span></div><div class="category" data-category="markdown">markdown <span class="quarto-category-count">(12)</span></div><div class="category" data-category="meta-analysis">meta-analysis <span class="quarto-category-count">(5)</span></div><div class="category" data-category="missing data">missing data <span class="quarto-category-count">(1)</span></div><div class="category" data-category="modeling">modeling <span class="quarto-category-count">(1)</span></div><div class="category" data-category="neuro">neuro <span class="quarto-category-count">(18)</span></div><div class="category" data-category="organization">organization <span class="quarto-category-count">(2)</span></div><div class="category" data-category="packages">packages <span class="quarto-category-count">(7)</span></div><div class="category" data-category="python">python <span class="quarto-category-count">(11)</span></div><div class="category" data-category="quarto">quarto <span class="quarto-category-count">(6)</span></div><div class="category" data-category="raw">raw <span class="quarto-category-count">(1)</span></div><div class="category" data-category="shiny">shiny <span class="quarto-category-count">(2)</span></div><div class="category" data-category="slides">slides <span class="quarto-category-count">(7)</span></div><div class="category" data-category="spark">spark <span class="quarto-category-count">(1)</span></div><div class="category" data-category="statistics">statistics <span class="quarto-category-count">(74)</span></div><div class="category" data-category="talk">talk <span class="quarto-category-count">(14)</span></div><div class="category" data-category="teaching r">teaching r <span class="quarto-category-count">(8)</span></div><div class="category" data-category="tidyverse">tidyverse <span class="quarto-category-count">(5)</span></div><div class="category" data-category="video">video <span class="quarto-category-count">(1)</span></div><div class="category" data-category="visualization">visualization <span class="quarto-category-count">(109)</span></div><div class="category" data-category="websites">websites <span class="quarto-category-count">(9)</span></div><div class="category" data-category="workflows">workflows <span class="quarto-category-count">(2)</span></div><div class="category" data-category="wrangling">wrangling <span class="quarto-category-count">(8)</span></div></div></div>
 <!-- main -->
-<main class="content quarto-banner-title-block column-page-left" id="quarto-document-content">
+<main class="content column-page-left" id="quarto-document-content">
 
 
 
 
-<div class="g-col-8 g-col-lg-4 top-story-img">
-<p><img src="images/twitter-card.png" class="img-fluid"></p>
+<div class="top-story-img">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="images/twitter-card.png" class="img-fluid quarto-figure quarto-figure-center figure-img" width="377"></p>
+</figure>
+</div>
 </div>
 <div class="content-container">
-<section id="latest-content" class="level2 listing-block">
-<h2 class="anchored" data-anchor-id="latest-content">Latest content</h2>
-<div id="listing-latest-content" class="quarto-listing quarto-listing-container-grid">
+<section id="resources" class="level2 listing-block">
+<h2 class="anchored" data-anchor-id="resources">Resources</h2>
+<div id="listing-content" class="quarto-listing quarto-listing-container-grid">
 <div class="listing-actions-group">
    <div class="input-group input-group-sm quarto-listing-sort">
      <span class="input-group-text"><i class="bi bi-sort-down"></i></span>
-     <select id="listing-latest-content-sort" class="form-select" aria-label="Order By" onchange="window['quarto-listings']['listing-latest-content'].sort(this.options[this.selectedIndex].value, { order: this.options[this.selectedIndex].getAttribute('data-direction')})">
+     <select id="listing-content-sort" class="form-select" aria-label="Order By" onchange="window['quarto-listings']['listing-content'].sort(this.options[this.selectedIndex].value, { order: this.options[this.selectedIndex].getAttribute('data-direction')})">
        <option value="" disabled="" selected="" hidden="">Order By</option>
        <option value="index" data-direction="asc">Default</option>
          <option value="listing-title" data-direction="asc">
@@ -251,6 +259,12 @@ window.Quarto = {
 <div class="card-body post-contents">
 <h5 class="no-anchor card-title listing-title">Hello Quarto</h5>
 
+<div class="listing-categories">
+  
+<div class="listing-category" onclick="window.quartoListingCategory('Joscelin's fav'); return false;">Joscelin's fav</div>
+  
+</div>
+
 <div class="card-attribution card-text-small end">
 
 <div class="listing-date">`Apr 22, 2025`{=html}</div>
@@ -269,6 +283,12 @@ window.Quarto = {
 
 <div class="card-body post-contents">
 <h5 class="no-anchor card-title listing-title">Hello Quarto</h5>
+
+<div class="listing-categories">
+  
+<div class="listing-category" onclick="window.quartoListingCategory('Joscelin's fav'); return false;">Joscelin's fav</div>
+  
+</div>
 
 <div class="card-attribution card-text-small end">
 
@@ -289,6 +309,12 @@ window.Quarto = {
 <div class="card-body post-contents">
 <h5 class="no-anchor card-title listing-title">Hello Quarto</h5>
 
+<div class="listing-categories">
+  
+<div class="listing-category" onclick="window.quartoListingCategory('Joscelin's fav'); return false;">Joscelin's fav</div>
+  
+</div>
+
 <div class="card-attribution card-text-small end">
 
 <div class="listing-date">`Apr 22, 2025`{=html}</div>
@@ -307,6 +333,12 @@ window.Quarto = {
 
 <div class="card-body post-contents">
 <h5 class="no-anchor card-title listing-title">Hello Quarto</h5>
+
+<div class="listing-categories">
+  
+<div class="listing-category" onclick="window.quartoListingCategory('Joscelin's fav'); return false;">Joscelin's fav</div>
+  
+</div>
 
 <div class="card-attribution card-text-small end">
 
@@ -327,6 +359,12 @@ window.Quarto = {
 <div class="card-body post-contents">
 <h5 class="no-anchor card-title listing-title">Hello Quarto</h5>
 
+<div class="listing-categories">
+  
+<div class="listing-category" onclick="window.quartoListingCategory('Joscelin's fav'); return false;">Joscelin's fav</div>
+  
+</div>
+
 <div class="card-attribution card-text-small end">
 
 <div class="listing-date">`Apr 22, 2025`{=html}</div>
@@ -345,6 +383,12 @@ window.Quarto = {
 
 <div class="card-body post-contents">
 <h5 class="no-anchor card-title listing-title">Hello Quarto</h5>
+
+<div class="listing-categories">
+  
+<div class="listing-category" onclick="window.quartoListingCategory('Joscelin's fav'); return false;">Joscelin's fav</div>
+  
+</div>
 
 <div class="card-attribution card-text-small end">
 
@@ -365,6 +409,12 @@ window.Quarto = {
 <div class="card-body post-contents">
 <h5 class="no-anchor card-title listing-title">Hello Quarto</h5>
 
+<div class="listing-categories">
+  
+<div class="listing-category" onclick="window.quartoListingCategory('Joscelin's fav'); return false;">Joscelin's fav</div>
+  
+</div>
+
 <div class="card-attribution card-text-small end">
 
 <div class="listing-date">`Apr 22, 2025`{=html}</div>
@@ -383,6 +433,12 @@ window.Quarto = {
 
 <div class="card-body post-contents">
 <h5 class="no-anchor card-title listing-title">Hello Quarto</h5>
+
+<div class="listing-categories">
+  
+<div class="listing-category" onclick="window.quartoListingCategory('Joscelin's fav'); return false;">Joscelin's fav</div>
+  
+</div>
 
 <div class="card-attribution card-text-small end">
 
@@ -403,6 +459,12 @@ window.Quarto = {
 <div class="card-body post-contents">
 <h5 class="no-anchor card-title listing-title">Hello Quarto</h5>
 
+<div class="listing-categories">
+  
+<div class="listing-category" onclick="window.quartoListingCategory('Joscelin's fav'); return false;">Joscelin's fav</div>
+  
+</div>
+
 <div class="card-attribution card-text-small end">
 
 <div class="listing-date">`Apr 22, 2025`{=html}</div>
@@ -421,6 +483,12 @@ window.Quarto = {
 
 <div class="card-body post-contents">
 <h5 class="no-anchor card-title listing-title">Hello Quarto</h5>
+
+<div class="listing-categories">
+  
+<div class="listing-category" onclick="window.quartoListingCategory('Joscelin's fav'); return false;">Joscelin's fav</div>
+  
+</div>
 
 <div class="card-attribution card-text-small end">
 
@@ -441,6 +509,12 @@ window.Quarto = {
 <div class="card-body post-contents">
 <h5 class="no-anchor card-title listing-title">Hello Quarto</h5>
 
+<div class="listing-categories">
+  
+<div class="listing-category" onclick="window.quartoListingCategory('Joscelin's fav'); return false;">Joscelin's fav</div>
+  
+</div>
+
 <div class="card-attribution card-text-small end">
 
 <div class="listing-date">`Apr 22, 2025`{=html}</div>
@@ -459,6 +533,12 @@ window.Quarto = {
 
 <div class="card-body post-contents">
 <h5 class="no-anchor card-title listing-title">Hello Quarto</h5>
+
+<div class="listing-categories">
+  
+<div class="listing-category" onclick="window.quartoListingCategory('Joscelin's fav'); return false;">Joscelin's fav</div>
+  
+</div>
 
 <div class="card-attribution card-text-small end">
 
@@ -479,6 +559,12 @@ window.Quarto = {
 <div class="card-body post-contents">
 <h5 class="no-anchor card-title listing-title">Hello Quarto</h5>
 
+<div class="listing-categories">
+  
+<div class="listing-category" onclick="window.quartoListingCategory('Joscelin's fav'); return false;">Joscelin's fav</div>
+  
+</div>
+
 <div class="card-attribution card-text-small end">
 
 <div class="listing-date">`Apr 22, 2025`{=html}</div>
@@ -497,6 +583,11 @@ window.Quarto = {
 <h5 class="no-anchor card-title listing-title">
 Hello Quarto
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('Learning R'); return false;">
+Learning R
+</div>
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Apr 22, 2025
@@ -516,6 +607,11 @@ Apr 22, 2025
 <h5 class="no-anchor card-title listing-title">
 Hello Quarto
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('Learning R'); return false;">
+Learning R
+</div>
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Apr 22, 2025
@@ -535,6 +631,11 @@ Apr 22, 2025
 <h5 class="no-anchor card-title listing-title">
 Hello Quarto
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('Learning R'); return false;">
+Learning R
+</div>
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Apr 22, 2025
@@ -554,6 +655,11 @@ Apr 22, 2025
 <h5 class="no-anchor card-title listing-title">
 Hello Quarto
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('Learning R'); return false;">
+Learning R
+</div>
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Apr 22, 2025
@@ -573,6 +679,11 @@ Apr 22, 2025
 <h5 class="no-anchor card-title listing-title">
 Hello Quarto
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('Learning R'); return false;">
+Learning R
+</div>
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Apr 22, 2025
@@ -592,6 +703,11 @@ Apr 22, 2025
 <h5 class="no-anchor card-title listing-title">
 Hello Quarto
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('Learning R'); return false;">
+Learning R
+</div>
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Apr 22, 2025
@@ -611,6 +727,11 @@ Apr 22, 2025
 <h5 class="no-anchor card-title listing-title">
 Hello Quarto
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('Learning R'); return false;">
+Learning R
+</div>
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Apr 22, 2025
@@ -630,6 +751,11 @@ Apr 22, 2025
 <h5 class="no-anchor card-title listing-title">
 Hello Quarto
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('Learning R'); return false;">
+Learning R
+</div>
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Apr 22, 2025
@@ -649,6 +775,11 @@ Apr 22, 2025
 <h5 class="no-anchor card-title listing-title">
 Hello Quarto
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('Learning R'); return false;">
+Learning R
+</div>
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Apr 22, 2025
@@ -668,6 +799,11 @@ Apr 22, 2025
 <h5 class="no-anchor card-title listing-title">
 Hello Quarto
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('Learning R'); return false;">
+Learning R
+</div>
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Apr 22, 2025
@@ -687,6 +823,11 @@ Apr 22, 2025
 <h5 class="no-anchor card-title listing-title">
 Hello Quarto
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('Learning R'); return false;">
+Learning R
+</div>
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Apr 22, 2025
@@ -706,6 +847,11 @@ Apr 22, 2025
 <h5 class="no-anchor card-title listing-title">
 Hello Quarto
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('Learning R'); return false;">
+Learning R
+</div>
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Apr 22, 2025
@@ -725,6 +871,11 @@ Apr 22, 2025
 <h5 class="no-anchor card-title listing-title">
 Hello Quarto
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('Learning R'); return false;">
+Learning R
+</div>
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Apr 22, 2025
@@ -744,6 +895,11 @@ Apr 22, 2025
 <h5 class="no-anchor card-title listing-title">
 Hello Quarto
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('Learning R'); return false;">
+Learning R
+</div>
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Apr 22, 2025
@@ -763,6 +919,11 @@ Apr 22, 2025
 <h5 class="no-anchor card-title listing-title">
 Hello Quarto
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('Learning R'); return false;">
+Learning R
+</div>
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Apr 22, 2025
@@ -782,6 +943,11 @@ Apr 22, 2025
 <h5 class="no-anchor card-title listing-title">
 Hello Quarto
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('Learning R'); return false;">
+Learning R
+</div>
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Apr 22, 2025
@@ -801,6 +967,11 @@ Apr 22, 2025
 <h5 class="no-anchor card-title listing-title">
 Hello Quarto
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('Learning R'); return false;">
+Learning R
+</div>
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Apr 22, 2025
@@ -820,6 +991,11 @@ Apr 22, 2025
 <h5 class="no-anchor card-title listing-title">
 Hello Quarto
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('Learning R'); return false;">
+Learning R
+</div>
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Apr 22, 2025
@@ -839,6 +1015,11 @@ Apr 22, 2025
 <h5 class="no-anchor card-title listing-title">
 Hello Quarto
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('Learning R'); return false;">
+Learning R
+</div>
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Apr 22, 2025
@@ -858,6 +1039,11 @@ Apr 22, 2025
 <h5 class="no-anchor card-title listing-title">
 Hello Quarto
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('Learning R'); return false;">
+Learning R
+</div>
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Apr 22, 2025
@@ -877,6 +1063,11 @@ Apr 22, 2025
 <h5 class="no-anchor card-title listing-title">
 Hello Quarto
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('Learning R'); return false;">
+Learning R
+</div>
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Apr 22, 2025
@@ -896,6 +1087,11 @@ Apr 22, 2025
 <h5 class="no-anchor card-title listing-title">
 Hello Quarto
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('Learning R'); return false;">
+Learning R
+</div>
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Apr 22, 2025
@@ -915,6 +1111,11 @@ Apr 22, 2025
 <h5 class="no-anchor card-title listing-title">
 Hello Quarto
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('Learning R'); return false;">
+Learning R
+</div>
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Apr 22, 2025
@@ -934,6 +1135,11 @@ Apr 22, 2025
 <h5 class="no-anchor card-title listing-title">
 Hello Quarto
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('Learning R'); return false;">
+Learning R
+</div>
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Apr 22, 2025
@@ -953,6 +1159,11 @@ Apr 22, 2025
 <h5 class="no-anchor card-title listing-title">
 Hello Quarto
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('Learning R'); return false;">
+Learning R
+</div>
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Apr 22, 2025
@@ -972,6 +1183,11 @@ Apr 22, 2025
 <h5 class="no-anchor card-title listing-title">
 Hello Quarto
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('Learning R'); return false;">
+Learning R
+</div>
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Apr 22, 2025
@@ -991,6 +1207,11 @@ Apr 22, 2025
 <h5 class="no-anchor card-title listing-title">
 Hello Quarto
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('Learning R'); return false;">
+Learning R
+</div>
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Apr 22, 2025
@@ -1010,6 +1231,11 @@ Apr 22, 2025
 <h5 class="no-anchor card-title listing-title">
 Hello Quarto
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('Learning R'); return false;">
+Learning R
+</div>
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Apr 22, 2025
@@ -1029,6 +1255,11 @@ Apr 22, 2025
 <h5 class="no-anchor card-title listing-title">
 Hello Quarto
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('Learning R'); return false;">
+Learning R
+</div>
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Apr 22, 2025
@@ -1048,6 +1279,11 @@ Apr 22, 2025
 <h5 class="no-anchor card-title listing-title">
 Hello Quarto
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('Learning R'); return false;">
+Learning R
+</div>
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Apr 22, 2025
@@ -1067,6 +1303,11 @@ Apr 22, 2025
 <h5 class="no-anchor card-title listing-title">
 Hello Quarto
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('Learning R'); return false;">
+Learning R
+</div>
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Apr 22, 2025
@@ -1086,6 +1327,11 @@ Apr 22, 2025
 <h5 class="no-anchor card-title listing-title">
 Hello Quarto
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('Learning R'); return false;">
+Learning R
+</div>
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Apr 22, 2025
@@ -1105,6 +1351,11 @@ Apr 22, 2025
 <h5 class="no-anchor card-title listing-title">
 Hello Quarto
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('Learning R'); return false;">
+Learning R
+</div>
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Apr 22, 2025
@@ -1124,6 +1375,11 @@ Apr 22, 2025
 <h5 class="no-anchor card-title listing-title">
 Hello Quarto
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('Learning R'); return false;">
+Learning R
+</div>
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Apr 22, 2025
@@ -1143,6 +1399,11 @@ Apr 22, 2025
 <h5 class="no-anchor card-title listing-title">
 Hello Quarto
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('Learning R'); return false;">
+Learning R
+</div>
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Apr 22, 2025
@@ -1162,6 +1423,11 @@ Apr 22, 2025
 <h5 class="no-anchor card-title listing-title">
 Hello Quarto
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('Learning R'); return false;">
+Learning R
+</div>
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Apr 22, 2025
@@ -1181,6 +1447,11 @@ Apr 22, 2025
 <h5 class="no-anchor card-title listing-title">
 Hello Quarto
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('Learning R'); return false;">
+Learning R
+</div>
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Apr 22, 2025
@@ -1200,6 +1471,11 @@ Apr 22, 2025
 <h5 class="no-anchor card-title listing-title">
 Hello Quarto
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('Learning R'); return false;">
+Learning R
+</div>
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Apr 22, 2025
@@ -1219,6 +1495,11 @@ Apr 22, 2025
 <h5 class="no-anchor card-title listing-title">
 Hello Quarto
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('Learning R'); return false;">
+Learning R
+</div>
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Apr 22, 2025
@@ -1238,6 +1519,11 @@ Apr 22, 2025
 <h5 class="no-anchor card-title listing-title">
 Hello Quarto
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('Learning R'); return false;">
+Learning R
+</div>
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Apr 22, 2025
@@ -1257,6 +1543,11 @@ Apr 22, 2025
 <h5 class="no-anchor card-title listing-title">
 Hello Quarto
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('Learning R'); return false;">
+Learning R
+</div>
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Apr 22, 2025
@@ -1276,6 +1567,11 @@ Apr 22, 2025
 <h5 class="no-anchor card-title listing-title">
 Hello Quarto
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('Learning R'); return false;">
+Learning R
+</div>
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Apr 22, 2025
@@ -1295,6 +1591,11 @@ Apr 22, 2025
 <h5 class="no-anchor card-title listing-title">
 Hello Quarto
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('Learning R'); return false;">
+Learning R
+</div>
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Apr 22, 2025
@@ -1314,6 +1615,11 @@ Apr 22, 2025
 <h5 class="no-anchor card-title listing-title">
 Hello Quarto
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('Learning R'); return false;">
+Learning R
+</div>
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Apr 22, 2025
@@ -1333,6 +1639,11 @@ Apr 22, 2025
 <h5 class="no-anchor card-title listing-title">
 Hello Quarto
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('Learning R'); return false;">
+Learning R
+</div>
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Apr 22, 2025
@@ -1352,6 +1663,11 @@ Apr 22, 2025
 <h5 class="no-anchor card-title listing-title">
 Hello Quarto
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('Learning R'); return false;">
+Learning R
+</div>
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Apr 22, 2025
@@ -1371,6 +1687,11 @@ Apr 22, 2025
 <h5 class="no-anchor card-title listing-title">
 Hello Quarto
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('Learning R'); return false;">
+Learning R
+</div>
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Apr 22, 2025
@@ -1390,6 +1711,11 @@ Apr 22, 2025
 <h5 class="no-anchor card-title listing-title">
 Hello Quarto
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('Learning R'); return false;">
+Learning R
+</div>
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Apr 22, 2025
@@ -1409,6 +1735,11 @@ Apr 22, 2025
 <h5 class="no-anchor card-title listing-title">
 Hello Quarto
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('Learning R'); return false;">
+Learning R
+</div>
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Apr 22, 2025
@@ -1428,6 +1759,11 @@ Apr 22, 2025
 <h5 class="no-anchor card-title listing-title">
 Hello Quarto
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('Learning R'); return false;">
+Learning R
+</div>
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Apr 22, 2025
@@ -1447,6 +1783,11 @@ Apr 22, 2025
 <h5 class="no-anchor card-title listing-title">
 Hello Quarto
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('Learning R'); return false;">
+Learning R
+</div>
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Apr 22, 2025
@@ -1466,6 +1807,11 @@ Apr 22, 2025
 <h5 class="no-anchor card-title listing-title">
 Hello Quarto
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('Learning R'); return false;">
+Learning R
+</div>
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Apr 22, 2025
@@ -1485,6 +1831,11 @@ Apr 22, 2025
 <h5 class="no-anchor card-title listing-title">
 Hello Quarto
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('Learning R'); return false;">
+Learning R
+</div>
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Apr 22, 2025
@@ -1504,6 +1855,11 @@ Apr 22, 2025
 <h5 class="no-anchor card-title listing-title">
 Hello Quarto
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('Learning R'); return false;">
+Learning R
+</div>
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Apr 22, 2025
@@ -1523,6 +1879,11 @@ Apr 22, 2025
 <h5 class="no-anchor card-title listing-title">
 Hello Quarto
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('Learning R'); return false;">
+Learning R
+</div>
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Apr 22, 2025
@@ -1542,6 +1903,11 @@ Apr 22, 2025
 <h5 class="no-anchor card-title listing-title">
 Hello Quarto
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('Learning R'); return false;">
+Learning R
+</div>
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Apr 22, 2025
@@ -1561,6 +1927,11 @@ Apr 22, 2025
 <h5 class="no-anchor card-title listing-title">
 Hello Quarto
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('Learning R'); return false;">
+Learning R
+</div>
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Apr 22, 2025
@@ -1580,6 +1951,11 @@ Apr 22, 2025
 <h5 class="no-anchor card-title listing-title">
 Hello Quarto
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('Learning R'); return false;">
+Learning R
+</div>
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Apr 22, 2025
@@ -1599,6 +1975,11 @@ Apr 22, 2025
 <h5 class="no-anchor card-title listing-title">
 Hello Quarto
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('Machine Learning'); return false;">
+Machine Learning
+</div>
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Apr 22, 2025
@@ -1618,6 +1999,11 @@ Apr 22, 2025
 <h5 class="no-anchor card-title listing-title">
 Hello Quarto
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('Machine Learning'); return false;">
+Machine Learning
+</div>
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Apr 22, 2025
@@ -1637,6 +2023,11 @@ Apr 22, 2025
 <h5 class="no-anchor card-title listing-title">
 Hello Quarto
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('Machine Learning'); return false;">
+Machine Learning
+</div>
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Apr 22, 2025
@@ -1656,6 +2047,11 @@ Apr 22, 2025
 <h5 class="no-anchor card-title listing-title">
 Hello Quarto
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('Machine Learning'); return false;">
+Machine Learning
+</div>
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Apr 22, 2025
@@ -1675,6 +2071,11 @@ Apr 22, 2025
 <h5 class="no-anchor card-title listing-title">
 Hello Quarto
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('websites'); return false;">
+websites
+</div>
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Apr 22, 2025
@@ -1694,6 +2095,11 @@ Apr 22, 2025
 <h5 class="no-anchor card-title listing-title">
 Hello Quarto
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('websites'); return false;">
+websites
+</div>
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Apr 22, 2025
@@ -1713,6 +2119,11 @@ Apr 22, 2025
 <h5 class="no-anchor card-title listing-title">
 Hello Quarto
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('websites'); return false;">
+websites
+</div>
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Apr 22, 2025
@@ -1732,6 +2143,11 @@ Apr 22, 2025
 <h5 class="no-anchor card-title listing-title">
 Hello Quarto
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('websites'); return false;">
+websites
+</div>
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Apr 22, 2025
@@ -1751,6 +2167,11 @@ Apr 22, 2025
 <h5 class="no-anchor card-title listing-title">
 Hello Quarto
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('websites'); return false;">
+websites
+</div>
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Apr 22, 2025
@@ -1770,6 +2191,11 @@ Apr 22, 2025
 <h5 class="no-anchor card-title listing-title">
 Hello Quarto
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('websites'); return false;">
+websites
+</div>
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Apr 22, 2025
@@ -1789,6 +2215,11 @@ Apr 22, 2025
 <h5 class="no-anchor card-title listing-title">
 Hello Quarto
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('websites'); return false;">
+websites
+</div>
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Apr 22, 2025
@@ -1808,6 +2239,11 @@ Apr 22, 2025
 <h5 class="no-anchor card-title listing-title">
 Hello Quarto
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('websites'); return false;">
+websites
+</div>
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Apr 22, 2025
@@ -1827,6 +2263,11 @@ Apr 22, 2025
 <h5 class="no-anchor card-title listing-title">
 Hello Quarto
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('websites'); return false;">
+websites
+</div>
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Apr 22, 2025
@@ -1846,6 +2287,11 @@ Apr 22, 2025
 <h5 class="no-anchor card-title listing-title">
 Hello Quarto
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('meta-analysis'); return false;">
+meta-analysis
+</div>
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Apr 22, 2025
@@ -1865,6 +2311,11 @@ Apr 22, 2025
 <h5 class="no-anchor card-title listing-title">
 Hello Quarto
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('meta-analysis'); return false;">
+meta-analysis
+</div>
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Apr 22, 2025
@@ -1884,6 +2335,11 @@ Apr 22, 2025
 <h5 class="no-anchor card-title listing-title">
 Hello Quarto
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('meta-analysis'); return false;">
+meta-analysis
+</div>
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Apr 22, 2025
@@ -1903,6 +2359,11 @@ Apr 22, 2025
 <h5 class="no-anchor card-title listing-title">
 Hello Quarto
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('meta-analysis'); return false;">
+meta-analysis
+</div>
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Apr 22, 2025
@@ -1922,6 +2383,11 @@ Apr 22, 2025
 <h5 class="no-anchor card-title listing-title">
 Hello Quarto
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('meta-analysis'); return false;">
+meta-analysis
+</div>
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Apr 22, 2025
@@ -1941,6 +2407,11 @@ Apr 22, 2025
 <h5 class="no-anchor card-title listing-title">
 Hello Quarto
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('packages'); return false;">
+packages
+</div>
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Apr 22, 2025
@@ -1960,6 +2431,11 @@ Apr 22, 2025
 <h5 class="no-anchor card-title listing-title">
 Hello Quarto
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('packages'); return false;">
+packages
+</div>
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Apr 22, 2025
@@ -1979,6 +2455,11 @@ Apr 22, 2025
 <h5 class="no-anchor card-title listing-title">
 Hello Quarto
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('packages'); return false;">
+packages
+</div>
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Apr 22, 2025
@@ -1998,6 +2479,11 @@ Apr 22, 2025
 <h5 class="no-anchor card-title listing-title">
 Hello Quarto
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('packages'); return false;">
+packages
+</div>
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Apr 22, 2025
@@ -2017,6 +2503,11 @@ Apr 22, 2025
 <h5 class="no-anchor card-title listing-title">
 Hello Quarto
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('packages'); return false;">
+packages
+</div>
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Apr 22, 2025
@@ -2036,6 +2527,11 @@ Apr 22, 2025
 <h5 class="no-anchor card-title listing-title">
 Hello Quarto
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('packages'); return false;">
+packages
+</div>
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Apr 22, 2025
@@ -2055,6 +2551,11 @@ Apr 22, 2025
 <h5 class="no-anchor card-title listing-title">
 Hello Quarto
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('packages'); return false;">
+packages
+</div>
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Apr 22, 2025
@@ -2074,6 +2575,11 @@ Apr 22, 2025
 <h5 class="no-anchor card-title listing-title">
 Hello Quarto
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('slides'); return false;">
+slides
+</div>
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Apr 22, 2025
@@ -2093,6 +2599,11 @@ Apr 22, 2025
 <h5 class="no-anchor card-title listing-title">
 Hello Quarto
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('slides'); return false;">
+slides
+</div>
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Apr 22, 2025
@@ -2112,6 +2623,11 @@ Apr 22, 2025
 <h5 class="no-anchor card-title listing-title">
 Hello Quarto
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('slides'); return false;">
+slides
+</div>
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Apr 22, 2025
@@ -2131,6 +2647,11 @@ Apr 22, 2025
 <h5 class="no-anchor card-title listing-title">
 Hello Quarto
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('slides'); return false;">
+slides
+</div>
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Apr 22, 2025
@@ -2150,6 +2671,11 @@ Apr 22, 2025
 <h5 class="no-anchor card-title listing-title">
 Hello Quarto
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('slides'); return false;">
+slides
+</div>
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Apr 22, 2025
@@ -2169,6 +2695,11 @@ Apr 22, 2025
 <h5 class="no-anchor card-title listing-title">
 Hello Quarto
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('slides'); return false;">
+slides
+</div>
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Apr 22, 2025
@@ -2188,6 +2719,11 @@ Apr 22, 2025
 <h5 class="no-anchor card-title listing-title">
 Hello Quarto
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('cv'); return false;">
+cv
+</div>
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Apr 22, 2025
@@ -2207,6 +2743,11 @@ Apr 22, 2025
 <h5 class="no-anchor card-title listing-title">
 Hello Quarto
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('cv'); return false;">
+cv
+</div>
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Apr 22, 2025
@@ -2226,6 +2767,11 @@ Apr 22, 2025
 <h5 class="no-anchor card-title listing-title">
 Hello Quarto
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('quarto'); return false;">
+quarto
+</div>
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Apr 22, 2025
@@ -2245,6 +2791,11 @@ Apr 22, 2025
 <h5 class="no-anchor card-title listing-title">
 Hello Quarto
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('quarto'); return false;">
+quarto
+</div>
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Apr 22, 2025
@@ -2264,6 +2815,11 @@ Apr 22, 2025
 <h5 class="no-anchor card-title listing-title">
 Hello Quarto
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('quarto'); return false;">
+quarto
+</div>
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Apr 22, 2025
@@ -2283,6 +2839,11 @@ Apr 22, 2025
 <h5 class="no-anchor card-title listing-title">
 Hello Quarto
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('quarto'); return false;">
+quarto
+</div>
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Apr 22, 2025
@@ -2302,6 +2863,11 @@ Apr 22, 2025
 <h5 class="no-anchor card-title listing-title">
 Hello Quarto
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('quarto'); return false;">
+quarto
+</div>
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Apr 22, 2025
@@ -2321,6 +2887,11 @@ Apr 22, 2025
 <h5 class="no-anchor card-title listing-title">
 Hello Quarto
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('quarto'); return false;">
+quarto
+</div>
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Apr 22, 2025
@@ -2340,6 +2911,11 @@ Apr 22, 2025
 <h5 class="no-anchor card-title listing-title">
 Hello Quarto
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('neuro'); return false;">
+neuro
+</div>
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Apr 22, 2025
@@ -2359,6 +2935,11 @@ Apr 22, 2025
 <h5 class="no-anchor card-title listing-title">
 Hello Quarto
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('neuro'); return false;">
+neuro
+</div>
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Apr 22, 2025
@@ -2378,6 +2959,11 @@ Apr 22, 2025
 <h5 class="no-anchor card-title listing-title">
 Hello Quarto
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('neuro'); return false;">
+neuro
+</div>
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Apr 22, 2025
@@ -2397,6 +2983,11 @@ Apr 22, 2025
 <h5 class="no-anchor card-title listing-title">
 Hello Quarto
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('neuro'); return false;">
+neuro
+</div>
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Apr 22, 2025
@@ -2416,6 +3007,11 @@ Apr 22, 2025
 <h5 class="no-anchor card-title listing-title">
 Hello Quarto
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('neuro'); return false;">
+neuro
+</div>
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Apr 22, 2025
@@ -2435,6 +3031,11 @@ Apr 22, 2025
 <h5 class="no-anchor card-title listing-title">
 Hello Quarto
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('neuro'); return false;">
+neuro
+</div>
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Apr 22, 2025
@@ -2454,6 +3055,11 @@ Apr 22, 2025
 <h5 class="no-anchor card-title listing-title">
 Hello Quarto
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('neuro'); return false;">
+neuro
+</div>
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Apr 22, 2025
@@ -2473,6 +3079,11 @@ Apr 22, 2025
 <h5 class="no-anchor card-title listing-title">
 Hello Quarto
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('neuro'); return false;">
+neuro
+</div>
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Apr 22, 2025
@@ -2492,6 +3103,11 @@ Apr 22, 2025
 <h5 class="no-anchor card-title listing-title">
 Hello Quarto
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('neuro'); return false;">
+neuro
+</div>
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Apr 22, 2025
@@ -2511,6 +3127,11 @@ Apr 22, 2025
 <h5 class="no-anchor card-title listing-title">
 Hello Quarto
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('neuro'); return false;">
+neuro
+</div>
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Apr 22, 2025
@@ -2530,6 +3151,11 @@ Apr 22, 2025
 <h5 class="no-anchor card-title listing-title">
 Hello Quarto
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('neuro'); return false;">
+neuro
+</div>
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Apr 22, 2025
@@ -2549,6 +3175,11 @@ Apr 22, 2025
 <h5 class="no-anchor card-title listing-title">
 Hello Quarto
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('neuro'); return false;">
+neuro
+</div>
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Apr 22, 2025
@@ -2568,6 +3199,11 @@ Apr 22, 2025
 <h5 class="no-anchor card-title listing-title">
 Hello Quarto
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('neuro'); return false;">
+neuro
+</div>
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Apr 22, 2025
@@ -2587,6 +3223,11 @@ Apr 22, 2025
 <h5 class="no-anchor card-title listing-title">
 Hello Quarto
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('neuro'); return false;">
+neuro
+</div>
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Apr 22, 2025
@@ -2606,6 +3247,11 @@ Apr 22, 2025
 <h5 class="no-anchor card-title listing-title">
 Hello Quarto
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('neuro'); return false;">
+neuro
+</div>
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Apr 22, 2025
@@ -2625,6 +3271,11 @@ Apr 22, 2025
 <h5 class="no-anchor card-title listing-title">
 Hello Quarto
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('neuro'); return false;">
+neuro
+</div>
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Apr 22, 2025
@@ -2644,6 +3295,11 @@ Apr 22, 2025
 <h5 class="no-anchor card-title listing-title">
 Hello Quarto
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('neuro'); return false;">
+neuro
+</div>
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Apr 22, 2025
@@ -2663,6 +3319,11 @@ Apr 22, 2025
 <h5 class="no-anchor card-title listing-title">
 Hello Quarto
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('neuro'); return false;">
+neuro
+</div>
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Apr 22, 2025
@@ -2682,6 +3343,11 @@ Apr 22, 2025
 <h5 class="no-anchor card-title listing-title">
 Hello Quarto
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('markdown'); return false;">
+markdown
+</div>
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Apr 22, 2025
@@ -2701,6 +3367,11 @@ Apr 22, 2025
 <h5 class="no-anchor card-title listing-title">
 Hello Quarto
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('markdown'); return false;">
+markdown
+</div>
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Apr 22, 2025
@@ -2720,6 +3391,11 @@ Apr 22, 2025
 <h5 class="no-anchor card-title listing-title">
 Hello Quarto
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('markdown'); return false;">
+markdown
+</div>
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Apr 22, 2025
@@ -2739,6 +3415,11 @@ Apr 22, 2025
 <h5 class="no-anchor card-title listing-title">
 Hello Quarto
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('markdown'); return false;">
+markdown
+</div>
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Apr 22, 2025
@@ -2758,6 +3439,11 @@ Apr 22, 2025
 <h5 class="no-anchor card-title listing-title">
 Hello Quarto
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('markdown'); return false;">
+markdown
+</div>
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Apr 22, 2025
@@ -2777,6 +3463,11 @@ Apr 22, 2025
 <h5 class="no-anchor card-title listing-title">
 Hello Quarto
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('markdown'); return false;">
+markdown
+</div>
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Apr 22, 2025
@@ -2796,6 +3487,11 @@ Apr 22, 2025
 <h5 class="no-anchor card-title listing-title">
 Hello Quarto
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('markdown'); return false;">
+markdown
+</div>
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Apr 22, 2025
@@ -2815,6 +3511,11 @@ Apr 22, 2025
 <h5 class="no-anchor card-title listing-title">
 Hello Quarto
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('markdown'); return false;">
+markdown
+</div>
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Apr 22, 2025
@@ -2834,6 +3535,11 @@ Apr 22, 2025
 <h5 class="no-anchor card-title listing-title">
 Hello Quarto
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('markdown'); return false;">
+markdown
+</div>
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Apr 22, 2025
@@ -2853,6 +3559,11 @@ Apr 22, 2025
 <h5 class="no-anchor card-title listing-title">
 Hello Quarto
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('markdown'); return false;">
+markdown
+</div>
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Apr 22, 2025
@@ -2872,6 +3583,11 @@ Apr 22, 2025
 <h5 class="no-anchor card-title listing-title">
 Hello Quarto
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('markdown'); return false;">
+markdown
+</div>
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Apr 22, 2025
@@ -2891,6 +3607,11 @@ Apr 22, 2025
 <h5 class="no-anchor card-title listing-title">
 Hello Quarto
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('markdown'); return false;">
+markdown
+</div>
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Apr 22, 2025
@@ -2910,6 +3631,11 @@ Apr 22, 2025
 <h5 class="no-anchor card-title listing-title">
 Hello Quarto
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('python'); return false;">
+python
+</div>
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Apr 22, 2025
@@ -2929,6 +3655,11 @@ Apr 22, 2025
 <h5 class="no-anchor card-title listing-title">
 Hello Quarto
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('python'); return false;">
+python
+</div>
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Apr 22, 2025
@@ -2948,6 +3679,11 @@ Apr 22, 2025
 <h5 class="no-anchor card-title listing-title">
 Hello Quarto
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('python'); return false;">
+python
+</div>
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Apr 22, 2025
@@ -2967,6 +3703,11 @@ Apr 22, 2025
 <h5 class="no-anchor card-title listing-title">
 Hello Quarto
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('python'); return false;">
+python
+</div>
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Apr 22, 2025
@@ -2986,6 +3727,11 @@ Apr 22, 2025
 <h5 class="no-anchor card-title listing-title">
 Hello Quarto
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('python'); return false;">
+python
+</div>
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Apr 22, 2025
@@ -3005,6 +3751,11 @@ Apr 22, 2025
 <h5 class="no-anchor card-title listing-title">
 Hello Quarto
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('python'); return false;">
+python
+</div>
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Apr 22, 2025
@@ -3024,6 +3775,11 @@ Apr 22, 2025
 <h5 class="no-anchor card-title listing-title">
 Hello Quarto
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('python'); return false;">
+python
+</div>
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Apr 22, 2025
@@ -3043,6 +3799,11 @@ Apr 22, 2025
 <h5 class="no-anchor card-title listing-title">
 Hello Quarto
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('python'); return false;">
+python
+</div>
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Apr 22, 2025
@@ -3062,6 +3823,11 @@ Apr 22, 2025
 <h5 class="no-anchor card-title listing-title">
 Hello Quarto
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('python'); return false;">
+python
+</div>
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Apr 22, 2025
@@ -3081,6 +3847,17 @@ Apr 22, 2025
 <h5 class="no-anchor card-title listing-title">
 Introduction to Data Science Fall 2019
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('wrangling'); return false;">
+wrangling
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('visualization'); return false;">
+visualization
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('statistics'); return false;">
+statistics
+</div>
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Apr 22, 2025
@@ -3100,6 +3877,11 @@ Apr 22, 2025
 <h5 class="no-anchor card-title listing-title">
 Hello Quarto
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('python'); return false;">
+python
+</div>
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Apr 22, 2025
@@ -3119,6 +3901,11 @@ Apr 22, 2025
 <h5 class="no-anchor card-title listing-title">
 Hello Quarto
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('python'); return false;">
+python
+</div>
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Apr 22, 2025
@@ -3138,6 +3925,11 @@ Apr 22, 2025
 <h5 class="no-anchor card-title listing-title">
 Hello Quarto
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('statistics'); return false;">
+statistics
+</div>
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Apr 22, 2025
@@ -3157,6 +3949,11 @@ Apr 22, 2025
 <h5 class="no-anchor card-title listing-title">
 Hello Quarto
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('statistics'); return false;">
+statistics
+</div>
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Apr 22, 2025
@@ -3176,6 +3973,11 @@ Apr 22, 2025
 <h5 class="no-anchor card-title listing-title">
 Hello Quarto
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('statistics'); return false;">
+statistics
+</div>
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Apr 22, 2025
@@ -3195,6 +3997,11 @@ Apr 22, 2025
 <h5 class="no-anchor card-title listing-title">
 Hello Quarto
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('statistics'); return false;">
+statistics
+</div>
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Apr 22, 2025
@@ -3214,6 +4021,11 @@ Apr 22, 2025
 <h5 class="no-anchor card-title listing-title">
 Hello Quarto
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('statistics'); return false;">
+statistics
+</div>
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Apr 22, 2025
@@ -3233,6 +4045,11 @@ Apr 22, 2025
 <h5 class="no-anchor card-title listing-title">
 Hello Quarto
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('statistics'); return false;">
+statistics
+</div>
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Apr 22, 2025
@@ -3252,6 +4069,11 @@ Apr 22, 2025
 <h5 class="no-anchor card-title listing-title">
 Hello Quarto
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('statistics'); return false;">
+statistics
+</div>
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Apr 22, 2025
@@ -3271,6 +4093,11 @@ Apr 22, 2025
 <h5 class="no-anchor card-title listing-title">
 Hello Quarto
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('statistics'); return false;">
+statistics
+</div>
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Apr 22, 2025
@@ -3290,6 +4117,11 @@ Apr 22, 2025
 <h5 class="no-anchor card-title listing-title">
 Hello Quarto
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('statistics'); return false;">
+statistics
+</div>
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Apr 22, 2025
@@ -3309,6 +4141,11 @@ Apr 22, 2025
 <h5 class="no-anchor card-title listing-title">
 Hello Quarto
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('statistics'); return false;">
+statistics
+</div>
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Apr 22, 2025
@@ -3328,6 +4165,11 @@ Apr 22, 2025
 <h5 class="no-anchor card-title listing-title">
 Hello Quarto
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('statistics'); return false;">
+statistics
+</div>
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Apr 22, 2025
@@ -3347,6 +4189,11 @@ Apr 22, 2025
 <h5 class="no-anchor card-title listing-title">
 Hello Quarto
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('statistics'); return false;">
+statistics
+</div>
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Apr 22, 2025
@@ -3366,6 +4213,11 @@ Apr 22, 2025
 <h5 class="no-anchor card-title listing-title">
 Hello Quarto
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('statistics'); return false;">
+statistics
+</div>
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Apr 22, 2025
@@ -3385,6 +4237,11 @@ Apr 22, 2025
 <h5 class="no-anchor card-title listing-title">
 Hello Quarto
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('statistics'); return false;">
+statistics
+</div>
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Apr 22, 2025
@@ -3404,6 +4261,11 @@ Apr 22, 2025
 <h5 class="no-anchor card-title listing-title">
 Hello Quarto
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('statistics'); return false;">
+statistics
+</div>
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Apr 22, 2025
@@ -3423,6 +4285,11 @@ Apr 22, 2025
 <h5 class="no-anchor card-title listing-title">
 Hello Quarto
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('statistics'); return false;">
+statistics
+</div>
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Apr 22, 2025
@@ -3442,6 +4309,11 @@ Apr 22, 2025
 <h5 class="no-anchor card-title listing-title">
 Hello Quarto
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('statistics'); return false;">
+statistics
+</div>
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Apr 22, 2025
@@ -3461,6 +4333,11 @@ Apr 22, 2025
 <h5 class="no-anchor card-title listing-title">
 Hello Quarto
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('statistics'); return false;">
+statistics
+</div>
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Apr 22, 2025
@@ -3480,6 +4357,17 @@ Apr 22, 2025
 <h5 class="no-anchor card-title listing-title">
 Mastering Spark with R
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('book'); return false;">
+book
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('statistics'); return false;">
+statistics
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('spark'); return false;">
+spark
+</div>
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Apr 22, 2025
@@ -3499,6 +4387,11 @@ Apr 22, 2025
 <h5 class="no-anchor card-title listing-title">
 Hello Quarto
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('statistics'); return false;">
+statistics
+</div>
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Apr 22, 2025
@@ -3518,6 +4411,11 @@ Apr 22, 2025
 <h5 class="no-anchor card-title listing-title">
 Hello Quarto
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('statistics'); return false;">
+statistics
+</div>
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Apr 22, 2025
@@ -3537,6 +4435,11 @@ Apr 22, 2025
 <h5 class="no-anchor card-title listing-title">
 Hello Quarto
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('statistics'); return false;">
+statistics
+</div>
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Apr 22, 2025
@@ -3556,6 +4459,11 @@ Apr 22, 2025
 <h5 class="no-anchor card-title listing-title">
 Hello Quarto
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('statistics'); return false;">
+statistics
+</div>
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Apr 22, 2025
@@ -3575,6 +4483,11 @@ Apr 22, 2025
 <h5 class="no-anchor card-title listing-title">
 Hello Quarto
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('statistics'); return false;">
+statistics
+</div>
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Apr 22, 2025
@@ -3594,6 +4507,11 @@ Apr 22, 2025
 <h5 class="no-anchor card-title listing-title">
 Hello Quarto
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('statistics'); return false;">
+statistics
+</div>
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Apr 22, 2025
@@ -3613,6 +4531,11 @@ Apr 22, 2025
 <h5 class="no-anchor card-title listing-title">
 Hello Quarto
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('statistics'); return false;">
+statistics
+</div>
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Apr 22, 2025
@@ -3632,6 +4555,11 @@ Apr 22, 2025
 <h5 class="no-anchor card-title listing-title">
 Hello Quarto
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('statistics'); return false;">
+statistics
+</div>
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Apr 22, 2025
@@ -3651,6 +4579,11 @@ Apr 22, 2025
 <h5 class="no-anchor card-title listing-title">
 Hello Quarto
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('statistics'); return false;">
+statistics
+</div>
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Apr 22, 2025
@@ -3670,6 +4603,11 @@ Apr 22, 2025
 <h5 class="no-anchor card-title listing-title">
 Hello Quarto
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('statistics'); return false;">
+statistics
+</div>
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Apr 22, 2025
@@ -3689,6 +4627,20 @@ Apr 22, 2025
 <h5 class="no-anchor card-title listing-title">
 R for data Science
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('data science'); return false;">
+data science
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('book'); return false;">
+book
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('wrangling'); return false;">
+wrangling
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('visualization'); return false;">
+visualization
+</div>
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Apr 22, 2025
@@ -3708,6 +4660,11 @@ Apr 22, 2025
 <h5 class="no-anchor card-title listing-title">
 Hello Quarto
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('statistics'); return false;">
+statistics
+</div>
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Apr 22, 2025
@@ -3727,6 +4684,11 @@ Apr 22, 2025
 <h5 class="no-anchor card-title listing-title">
 Hello Quarto
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('statistics'); return false;">
+statistics
+</div>
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Apr 22, 2025
@@ -3746,6 +4708,11 @@ Apr 22, 2025
 <h5 class="no-anchor card-title listing-title">
 Hello Quarto
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('statistics'); return false;">
+statistics
+</div>
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Apr 22, 2025
@@ -3765,6 +4732,11 @@ Apr 22, 2025
 <h5 class="no-anchor card-title listing-title">
 Hello Quarto
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('statistics'); return false;">
+statistics
+</div>
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Apr 22, 2025
@@ -3784,6 +4756,11 @@ Apr 22, 2025
 <h5 class="no-anchor card-title listing-title">
 Hello Quarto
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('statistics'); return false;">
+statistics
+</div>
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Apr 22, 2025
@@ -3803,6 +4780,11 @@ Apr 22, 2025
 <h5 class="no-anchor card-title listing-title">
 Hello Quarto
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('statistics'); return false;">
+statistics
+</div>
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Apr 22, 2025
@@ -3822,6 +4804,11 @@ Apr 22, 2025
 <h5 class="no-anchor card-title listing-title">
 Hello Quarto
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('statistics'); return false;">
+statistics
+</div>
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Apr 22, 2025
@@ -3841,6 +4828,11 @@ Apr 22, 2025
 <h5 class="no-anchor card-title listing-title">
 Hello Quarto
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('statistics'); return false;">
+statistics
+</div>
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Apr 22, 2025
@@ -3860,6 +4852,11 @@ Apr 22, 2025
 <h5 class="no-anchor card-title listing-title">
 Hello Quarto
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('statistics'); return false;">
+statistics
+</div>
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Apr 22, 2025
@@ -3879,6 +4876,11 @@ Apr 22, 2025
 <h5 class="no-anchor card-title listing-title">
 Hello Quarto
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('statistics'); return false;">
+statistics
+</div>
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Apr 22, 2025
@@ -3898,6 +4900,17 @@ Apr 22, 2025
 <h5 class="no-anchor card-title listing-title">
 R Programming for Data Science
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('data science'); return false;">
+data science
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('wrangling'); return false;">
+wrangling
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('book'); return false;">
+book
+</div>
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Apr 22, 2025
@@ -3917,6 +4930,11 @@ Apr 22, 2025
 <h5 class="no-anchor card-title listing-title">
 Hello Quarto
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('statistics'); return false;">
+statistics
+</div>
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Apr 22, 2025
@@ -3936,6 +4954,11 @@ Apr 22, 2025
 <h5 class="no-anchor card-title listing-title">
 Hello Quarto
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('statistics'); return false;">
+statistics
+</div>
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Apr 22, 2025
@@ -3955,6 +4978,11 @@ Apr 22, 2025
 <h5 class="no-anchor card-title listing-title">
 Hello Quarto
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('statistics'); return false;">
+statistics
+</div>
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Apr 22, 2025
@@ -3974,6 +5002,11 @@ Apr 22, 2025
 <h5 class="no-anchor card-title listing-title">
 Hello Quarto
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('statistics'); return false;">
+statistics
+</div>
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Apr 22, 2025
@@ -3993,6 +5026,11 @@ Apr 22, 2025
 <h5 class="no-anchor card-title listing-title">
 Hello Quarto
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('statistics'); return false;">
+statistics
+</div>
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Apr 22, 2025
@@ -4012,6 +5050,11 @@ Apr 22, 2025
 <h5 class="no-anchor card-title listing-title">
 Hello Quarto
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('statistics'); return false;">
+statistics
+</div>
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Apr 22, 2025
@@ -4031,6 +5074,11 @@ Apr 22, 2025
 <h5 class="no-anchor card-title listing-title">
 Hello Quarto
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('statistics'); return false;">
+statistics
+</div>
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Apr 22, 2025
@@ -4050,6 +5098,11 @@ Apr 22, 2025
 <h5 class="no-anchor card-title listing-title">
 Hello Quarto
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('statistics'); return false;">
+statistics
+</div>
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Apr 22, 2025
@@ -4069,6 +5122,11 @@ Apr 22, 2025
 <h5 class="no-anchor card-title listing-title">
 Hello Quarto
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('statistics'); return false;">
+statistics
+</div>
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Apr 22, 2025
@@ -4088,6 +5146,11 @@ Apr 22, 2025
 <h5 class="no-anchor card-title listing-title">
 Hello Quarto
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('statistics'); return false;">
+statistics
+</div>
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Apr 22, 2025
@@ -4107,6 +5170,11 @@ Apr 22, 2025
 <h5 class="no-anchor card-title listing-title">
 Hello Quarto
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('statistics'); return false;">
+statistics
+</div>
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Apr 22, 2025
@@ -4126,6 +5194,11 @@ Apr 22, 2025
 <h5 class="no-anchor card-title listing-title">
 Hello Quarto
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('statistics'); return false;">
+statistics
+</div>
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Apr 22, 2025
@@ -4145,6 +5218,11 @@ Apr 22, 2025
 <h5 class="no-anchor card-title listing-title">
 Hello Quarto
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('statistics'); return false;">
+statistics
+</div>
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Apr 22, 2025
@@ -4164,6 +5242,11 @@ Apr 22, 2025
 <h5 class="no-anchor card-title listing-title">
 Hello Quarto
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('statistics'); return false;">
+statistics
+</div>
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Apr 22, 2025
@@ -4183,6 +5266,11 @@ Apr 22, 2025
 <h5 class="no-anchor card-title listing-title">
 Hello Quarto
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('statistics'); return false;">
+statistics
+</div>
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Apr 22, 2025
@@ -4202,6 +5290,11 @@ Apr 22, 2025
 <h5 class="no-anchor card-title listing-title">
 Hello Quarto
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('statistics'); return false;">
+statistics
+</div>
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Apr 22, 2025
@@ -4221,6 +5314,11 @@ Apr 22, 2025
 <h5 class="no-anchor card-title listing-title">
 Hello Quarto
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('statistics'); return false;">
+statistics
+</div>
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Apr 22, 2025
@@ -4240,6 +5338,11 @@ Apr 22, 2025
 <h5 class="no-anchor card-title listing-title">
 Hello Quarto
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('statistics'); return false;">
+statistics
+</div>
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Apr 22, 2025
@@ -4259,6 +5362,11 @@ Apr 22, 2025
 <h5 class="no-anchor card-title listing-title">
 Hello Quarto
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('statistics'); return false;">
+statistics
+</div>
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Apr 22, 2025
@@ -4278,6 +5386,11 @@ Apr 22, 2025
 <h5 class="no-anchor card-title listing-title">
 Hello Quarto
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('statistics'); return false;">
+statistics
+</div>
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Apr 22, 2025
@@ -4297,6 +5410,11 @@ Apr 22, 2025
 <h5 class="no-anchor card-title listing-title">
 Hello Quarto
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('statistics'); return false;">
+statistics
+</div>
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Apr 22, 2025
@@ -4316,6 +5434,11 @@ Apr 22, 2025
 <h5 class="no-anchor card-title listing-title">
 Hello Quarto
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('statistics'); return false;">
+statistics
+</div>
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Apr 22, 2025
@@ -4335,6 +5458,11 @@ Apr 22, 2025
 <h5 class="no-anchor card-title listing-title">
 Hello Quarto
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('statistics'); return false;">
+statistics
+</div>
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Apr 22, 2025
@@ -4354,6 +5482,11 @@ Apr 22, 2025
 <h5 class="no-anchor card-title listing-title">
 Hello Quarto
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('statistics'); return false;">
+statistics
+</div>
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Apr 22, 2025
@@ -4373,6 +5506,11 @@ Apr 22, 2025
 <h5 class="no-anchor card-title listing-title">
 Hello Quarto
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('teaching r'); return false;">
+teaching r
+</div>
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Apr 22, 2025
@@ -4392,6 +5530,11 @@ Apr 22, 2025
 <h5 class="no-anchor card-title listing-title">
 Hello Quarto
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('teaching r'); return false;">
+teaching r
+</div>
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Apr 22, 2025
@@ -4411,6 +5554,11 @@ Apr 22, 2025
 <h5 class="no-anchor card-title listing-title">
 Hello Quarto
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('teaching r'); return false;">
+teaching r
+</div>
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Apr 22, 2025
@@ -4430,6 +5578,11 @@ Apr 22, 2025
 <h5 class="no-anchor card-title listing-title">
 Hello Quarto
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('teaching r'); return false;">
+teaching r
+</div>
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Apr 22, 2025
@@ -4449,6 +5602,11 @@ Apr 22, 2025
 <h5 class="no-anchor card-title listing-title">
 Hello Quarto
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('teaching r'); return false;">
+teaching r
+</div>
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Apr 22, 2025
@@ -4468,6 +5626,11 @@ Apr 22, 2025
 <h5 class="no-anchor card-title listing-title">
 Hello Quarto
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('teaching r'); return false;">
+teaching r
+</div>
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Apr 22, 2025
@@ -4487,6 +5650,11 @@ Apr 22, 2025
 <h5 class="no-anchor card-title listing-title">
 Hello Quarto
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('teaching r'); return false;">
+teaching r
+</div>
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Apr 22, 2025
@@ -4506,6 +5674,11 @@ Apr 22, 2025
 <h5 class="no-anchor card-title listing-title">
 Hello Quarto
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('teaching r'); return false;">
+teaching r
+</div>
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Apr 22, 2025
@@ -4525,6 +5698,11 @@ Apr 22, 2025
 <h5 class="no-anchor card-title listing-title">
 Hello Quarto
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('visualization'); return false;">
+visualization
+</div>
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Apr 22, 2025
@@ -4544,6 +5722,11 @@ Apr 22, 2025
 <h5 class="no-anchor card-title listing-title">
 Hello Quarto
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('visualization'); return false;">
+visualization
+</div>
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Apr 22, 2025
@@ -4563,6 +5746,11 @@ Apr 22, 2025
 <h5 class="no-anchor card-title listing-title">
 Hello Quarto
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('visualization'); return false;">
+visualization
+</div>
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Apr 22, 2025
@@ -4582,6 +5770,11 @@ Apr 22, 2025
 <h5 class="no-anchor card-title listing-title">
 Hello Quarto
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('visualization'); return false;">
+visualization
+</div>
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Apr 22, 2025
@@ -4601,6 +5794,11 @@ Apr 22, 2025
 <h5 class="no-anchor card-title listing-title">
 Hello Quarto
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('visualization'); return false;">
+visualization
+</div>
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Apr 22, 2025
@@ -4620,6 +5818,11 @@ Apr 22, 2025
 <h5 class="no-anchor card-title listing-title">
 Hello Quarto
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('visualization'); return false;">
+visualization
+</div>
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Apr 22, 2025
@@ -4639,6 +5842,11 @@ Apr 22, 2025
 <h5 class="no-anchor card-title listing-title">
 Hello Quarto
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('visualization'); return false;">
+visualization
+</div>
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Apr 22, 2025
@@ -4658,6 +5866,11 @@ Apr 22, 2025
 <h5 class="no-anchor card-title listing-title">
 Hello Quarto
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('visualization'); return false;">
+visualization
+</div>
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Apr 22, 2025
@@ -4677,6 +5890,11 @@ Apr 22, 2025
 <h5 class="no-anchor card-title listing-title">
 Hello Quarto
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('visualization'); return false;">
+visualization
+</div>
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Apr 22, 2025
@@ -4696,6 +5914,11 @@ Apr 22, 2025
 <h5 class="no-anchor card-title listing-title">
 Hello Quarto
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('visualization'); return false;">
+visualization
+</div>
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Apr 22, 2025
@@ -4715,6 +5938,11 @@ Apr 22, 2025
 <h5 class="no-anchor card-title listing-title">
 Hello Quarto
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('visualization'); return false;">
+visualization
+</div>
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Apr 22, 2025
@@ -4734,6 +5962,11 @@ Apr 22, 2025
 <h5 class="no-anchor card-title listing-title">
 Hello Quarto
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('visualization'); return false;">
+visualization
+</div>
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Apr 22, 2025
@@ -4753,6 +5986,11 @@ Apr 22, 2025
 <h5 class="no-anchor card-title listing-title">
 Hello Quarto
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('visualization'); return false;">
+visualization
+</div>
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Apr 22, 2025
@@ -4772,6 +6010,11 @@ Apr 22, 2025
 <h5 class="no-anchor card-title listing-title">
 Hello Quarto
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('visualization'); return false;">
+visualization
+</div>
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Apr 22, 2025
@@ -4791,6 +6034,11 @@ Apr 22, 2025
 <h5 class="no-anchor card-title listing-title">
 Hello Quarto
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('visualization'); return false;">
+visualization
+</div>
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Apr 22, 2025
@@ -4810,6 +6058,11 @@ Apr 22, 2025
 <h5 class="no-anchor card-title listing-title">
 Hello Quarto
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('visualization'); return false;">
+visualization
+</div>
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Apr 22, 2025
@@ -4829,6 +6082,11 @@ Apr 22, 2025
 <h5 class="no-anchor card-title listing-title">
 Hello Quarto
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('visualization'); return false;">
+visualization
+</div>
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Apr 22, 2025
@@ -4848,6 +6106,11 @@ Apr 22, 2025
 <h5 class="no-anchor card-title listing-title">
 Hello Quarto
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('visualization'); return false;">
+visualization
+</div>
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Apr 22, 2025
@@ -4867,6 +6130,14 @@ Apr 22, 2025
 <h5 class="no-anchor card-title listing-title">
 Text Mining with R A Tidy Approach
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('visualization'); return false;">
+visualization
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('statistics'); return false;">
+statistics
+</div>
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Apr 22, 2025
@@ -4886,6 +6157,11 @@ Apr 22, 2025
 <h5 class="no-anchor card-title listing-title">
 Hello Quarto
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('visualization'); return false;">
+visualization
+</div>
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Apr 22, 2025
@@ -4905,6 +6181,11 @@ Apr 22, 2025
 <h5 class="no-anchor card-title listing-title">
 Hello Quarto
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('visualization'); return false;">
+visualization
+</div>
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Apr 22, 2025
@@ -4924,6 +6205,11 @@ Apr 22, 2025
 <h5 class="no-anchor card-title listing-title">
 Hello Quarto
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('visualization'); return false;">
+visualization
+</div>
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Apr 22, 2025
@@ -4943,6 +6229,11 @@ Apr 22, 2025
 <h5 class="no-anchor card-title listing-title">
 Hello Quarto
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('visualization'); return false;">
+visualization
+</div>
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Apr 22, 2025
@@ -4962,6 +6253,11 @@ Apr 22, 2025
 <h5 class="no-anchor card-title listing-title">
 Hello Quarto
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('visualization'); return false;">
+visualization
+</div>
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Apr 22, 2025
@@ -4981,6 +6277,11 @@ Apr 22, 2025
 <h5 class="no-anchor card-title listing-title">
 Hello Quarto
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('visualization'); return false;">
+visualization
+</div>
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Apr 22, 2025
@@ -5000,6 +6301,11 @@ Apr 22, 2025
 <h5 class="no-anchor card-title listing-title">
 Hello Quarto
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('visualization'); return false;">
+visualization
+</div>
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Apr 22, 2025
@@ -5019,6 +6325,11 @@ Apr 22, 2025
 <h5 class="no-anchor card-title listing-title">
 Hello Quarto
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('visualization'); return false;">
+visualization
+</div>
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Apr 22, 2025
@@ -5038,6 +6349,11 @@ Apr 22, 2025
 <h5 class="no-anchor card-title listing-title">
 Hello Quarto
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('visualization'); return false;">
+visualization
+</div>
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Apr 22, 2025
@@ -5057,6 +6373,11 @@ Apr 22, 2025
 <h5 class="no-anchor card-title listing-title">
 Hello Quarto
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('visualization'); return false;">
+visualization
+</div>
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Apr 22, 2025
@@ -5076,6 +6397,11 @@ Apr 22, 2025
 <h5 class="no-anchor card-title listing-title">
 Hello Quarto
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('visualization'); return false;">
+visualization
+</div>
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Apr 22, 2025
@@ -5095,6 +6421,11 @@ Apr 22, 2025
 <h5 class="no-anchor card-title listing-title">
 Hello Quarto
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('visualization'); return false;">
+visualization
+</div>
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Apr 22, 2025
@@ -5114,6 +6445,11 @@ Apr 22, 2025
 <h5 class="no-anchor card-title listing-title">
 Hello Quarto
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('visualization'); return false;">
+visualization
+</div>
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Apr 22, 2025
@@ -5133,6 +6469,11 @@ Apr 22, 2025
 <h5 class="no-anchor card-title listing-title">
 Hello Quarto
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('visualization'); return false;">
+visualization
+</div>
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Apr 22, 2025
@@ -5152,6 +6493,11 @@ Apr 22, 2025
 <h5 class="no-anchor card-title listing-title">
 Hello Quarto
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('visualization'); return false;">
+visualization
+</div>
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Apr 22, 2025
@@ -5171,6 +6517,11 @@ Apr 22, 2025
 <h5 class="no-anchor card-title listing-title">
 Hello Quarto
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('visualization'); return false;">
+visualization
+</div>
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Apr 22, 2025
@@ -5190,6 +6541,11 @@ Apr 22, 2025
 <h5 class="no-anchor card-title listing-title">
 Hello Quarto
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('visualization'); return false;">
+visualization
+</div>
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Apr 22, 2025
@@ -5209,6 +6565,11 @@ Apr 22, 2025
 <h5 class="no-anchor card-title listing-title">
 Hello Quarto
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('visualization'); return false;">
+visualization
+</div>
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Apr 22, 2025
@@ -5228,6 +6589,11 @@ Apr 22, 2025
 <h5 class="no-anchor card-title listing-title">
 Hello Quarto
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('visualization'); return false;">
+visualization
+</div>
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Apr 22, 2025
@@ -5247,6 +6613,11 @@ Apr 22, 2025
 <h5 class="no-anchor card-title listing-title">
 Hello Quarto
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('visualization'); return false;">
+visualization
+</div>
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Apr 22, 2025
@@ -5266,6 +6637,11 @@ Apr 22, 2025
 <h5 class="no-anchor card-title listing-title">
 Hello Quarto
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('visualization'); return false;">
+visualization
+</div>
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Apr 22, 2025
@@ -5285,6 +6661,11 @@ Apr 22, 2025
 <h5 class="no-anchor card-title listing-title">
 Hello Quarto
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('visualization'); return false;">
+visualization
+</div>
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Apr 22, 2025
@@ -5304,6 +6685,11 @@ Apr 22, 2025
 <h5 class="no-anchor card-title listing-title">
 Hello Quarto
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('visualization'); return false;">
+visualization
+</div>
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Apr 22, 2025
@@ -5323,6 +6709,11 @@ Apr 22, 2025
 <h5 class="no-anchor card-title listing-title">
 Hello Quarto
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('visualization'); return false;">
+visualization
+</div>
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Apr 22, 2025
@@ -5342,6 +6733,11 @@ Apr 22, 2025
 <h5 class="no-anchor card-title listing-title">
 Hello Quarto
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('visualization'); return false;">
+visualization
+</div>
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Apr 22, 2025
@@ -5361,6 +6757,11 @@ Apr 22, 2025
 <h5 class="no-anchor card-title listing-title">
 Hello Quarto
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('visualization'); return false;">
+visualization
+</div>
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Apr 22, 2025
@@ -5380,6 +6781,11 @@ Apr 22, 2025
 <h5 class="no-anchor card-title listing-title">
 Hello Quarto
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('visualization'); return false;">
+visualization
+</div>
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Apr 22, 2025
@@ -5399,6 +6805,11 @@ Apr 22, 2025
 <h5 class="no-anchor card-title listing-title">
 Hello Quarto
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('visualization'); return false;">
+visualization
+</div>
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Apr 22, 2025
@@ -5418,6 +6829,11 @@ Apr 22, 2025
 <h5 class="no-anchor card-title listing-title">
 Hello Quarto
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('visualization'); return false;">
+visualization
+</div>
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Apr 22, 2025
@@ -5437,6 +6853,11 @@ Apr 22, 2025
 <h5 class="no-anchor card-title listing-title">
 Hello Quarto
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('visualization'); return false;">
+visualization
+</div>
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Apr 22, 2025
@@ -5456,6 +6877,11 @@ Apr 22, 2025
 <h5 class="no-anchor card-title listing-title">
 Hello Quarto
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('visualization'); return false;">
+visualization
+</div>
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Apr 22, 2025
@@ -5475,6 +6901,11 @@ Apr 22, 2025
 <h5 class="no-anchor card-title listing-title">
 Hello Quarto
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('visualization'); return false;">
+visualization
+</div>
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Apr 22, 2025
@@ -5494,6 +6925,11 @@ Apr 22, 2025
 <h5 class="no-anchor card-title listing-title">
 Hello Quarto
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('visualization'); return false;">
+visualization
+</div>
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Apr 22, 2025
@@ -5513,6 +6949,11 @@ Apr 22, 2025
 <h5 class="no-anchor card-title listing-title">
 Hello Quarto
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('visualization'); return false;">
+visualization
+</div>
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Apr 22, 2025
@@ -5532,6 +6973,11 @@ Apr 22, 2025
 <h5 class="no-anchor card-title listing-title">
 Hello Quarto
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('visualization'); return false;">
+visualization
+</div>
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Apr 22, 2025
@@ -5551,6 +6997,11 @@ Apr 22, 2025
 <h5 class="no-anchor card-title listing-title">
 Hello Quarto
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('visualization'); return false;">
+visualization
+</div>
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Apr 22, 2025
@@ -5570,6 +7021,11 @@ Apr 22, 2025
 <h5 class="no-anchor card-title listing-title">
 Hello Quarto
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('visualization'); return false;">
+visualization
+</div>
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Apr 22, 2025
@@ -5589,6 +7045,11 @@ Apr 22, 2025
 <h5 class="no-anchor card-title listing-title">
 Hello Quarto
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('visualization'); return false;">
+visualization
+</div>
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Apr 22, 2025
@@ -5608,6 +7069,11 @@ Apr 22, 2025
 <h5 class="no-anchor card-title listing-title">
 Hello Quarto
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('visualization'); return false;">
+visualization
+</div>
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Apr 22, 2025
@@ -5627,6 +7093,11 @@ Apr 22, 2025
 <h5 class="no-anchor card-title listing-title">
 Hello Quarto
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('visualization'); return false;">
+visualization
+</div>
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Apr 22, 2025
@@ -5646,6 +7117,11 @@ Apr 22, 2025
 <h5 class="no-anchor card-title listing-title">
 Hello Quarto
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('visualization'); return false;">
+visualization
+</div>
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Apr 22, 2025
@@ -5665,6 +7141,11 @@ Apr 22, 2025
 <h5 class="no-anchor card-title listing-title">
 Hello Quarto
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('visualization'); return false;">
+visualization
+</div>
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Apr 22, 2025
@@ -5684,6 +7165,11 @@ Apr 22, 2025
 <h5 class="no-anchor card-title listing-title">
 Hello Quarto
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('visualization'); return false;">
+visualization
+</div>
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Apr 22, 2025
@@ -5703,6 +7189,11 @@ Apr 22, 2025
 <h5 class="no-anchor card-title listing-title">
 Hello Quarto
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('visualization'); return false;">
+visualization
+</div>
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Apr 22, 2025
@@ -5722,6 +7213,11 @@ Apr 22, 2025
 <h5 class="no-anchor card-title listing-title">
 Hello Quarto
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('visualization'); return false;">
+visualization
+</div>
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Apr 22, 2025
@@ -5741,6 +7237,11 @@ Apr 22, 2025
 <h5 class="no-anchor card-title listing-title">
 Hello Quarto
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('visualization'); return false;">
+visualization
+</div>
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Apr 22, 2025
@@ -5760,6 +7261,11 @@ Apr 22, 2025
 <h5 class="no-anchor card-title listing-title">
 Hello Quarto
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('visualization'); return false;">
+visualization
+</div>
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Apr 22, 2025
@@ -5779,6 +7285,11 @@ Apr 22, 2025
 <h5 class="no-anchor card-title listing-title">
 Hello Quarto
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('visualization'); return false;">
+visualization
+</div>
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Apr 22, 2025
@@ -5798,6 +7309,11 @@ Apr 22, 2025
 <h5 class="no-anchor card-title listing-title">
 Hello Quarto
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('visualization'); return false;">
+visualization
+</div>
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Apr 22, 2025
@@ -5817,6 +7333,11 @@ Apr 22, 2025
 <h5 class="no-anchor card-title listing-title">
 Hello Quarto
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('visualization'); return false;">
+visualization
+</div>
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Apr 22, 2025
@@ -5836,6 +7357,11 @@ Apr 22, 2025
 <h5 class="no-anchor card-title listing-title">
 Hello Quarto
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('visualization'); return false;">
+visualization
+</div>
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Apr 22, 2025
@@ -5855,6 +7381,11 @@ Apr 22, 2025
 <h5 class="no-anchor card-title listing-title">
 Hello Quarto
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('visualization'); return false;">
+visualization
+</div>
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Apr 22, 2025
@@ -5874,6 +7405,11 @@ Apr 22, 2025
 <h5 class="no-anchor card-title listing-title">
 Hello Quarto
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('visualization'); return false;">
+visualization
+</div>
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Apr 22, 2025
@@ -5893,6 +7429,11 @@ Apr 22, 2025
 <h5 class="no-anchor card-title listing-title">
 Hello Quarto
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('visualization'); return false;">
+visualization
+</div>
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Apr 22, 2025
@@ -5912,6 +7453,11 @@ Apr 22, 2025
 <h5 class="no-anchor card-title listing-title">
 Hello Quarto
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('visualization'); return false;">
+visualization
+</div>
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Apr 22, 2025
@@ -5931,6 +7477,11 @@ Apr 22, 2025
 <h5 class="no-anchor card-title listing-title">
 Hello Quarto
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('visualization'); return false;">
+visualization
+</div>
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Apr 22, 2025
@@ -5950,6 +7501,11 @@ Apr 22, 2025
 <h5 class="no-anchor card-title listing-title">
 Hello Quarto
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('visualization'); return false;">
+visualization
+</div>
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Apr 22, 2025
@@ -5969,6 +7525,11 @@ Apr 22, 2025
 <h5 class="no-anchor card-title listing-title">
 Hello Quarto
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('visualization'); return false;">
+visualization
+</div>
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Apr 22, 2025
@@ -5988,6 +7549,11 @@ Apr 22, 2025
 <h5 class="no-anchor card-title listing-title">
 Hello Quarto
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('visualization'); return false;">
+visualization
+</div>
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Apr 22, 2025
@@ -6007,6 +7573,11 @@ Apr 22, 2025
 <h5 class="no-anchor card-title listing-title">
 Hello Quarto
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('visualization'); return false;">
+visualization
+</div>
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Apr 22, 2025
@@ -6026,6 +7597,11 @@ Apr 22, 2025
 <h5 class="no-anchor card-title listing-title">
 Hello Quarto
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('visualization'); return false;">
+visualization
+</div>
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Apr 22, 2025
@@ -6045,6 +7621,11 @@ Apr 22, 2025
 <h5 class="no-anchor card-title listing-title">
 Hello Quarto
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('visualization'); return false;">
+visualization
+</div>
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Apr 22, 2025
@@ -6064,6 +7645,11 @@ Apr 22, 2025
 <h5 class="no-anchor card-title listing-title">
 Hello Quarto
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('visualization'); return false;">
+visualization
+</div>
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Apr 22, 2025
@@ -6083,6 +7669,11 @@ Apr 22, 2025
 <h5 class="no-anchor card-title listing-title">
 Hello Quarto
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('visualization'); return false;">
+visualization
+</div>
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Apr 22, 2025
@@ -6102,6 +7693,11 @@ Apr 22, 2025
 <h5 class="no-anchor card-title listing-title">
 Hello Quarto
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('visualization'); return false;">
+visualization
+</div>
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Apr 22, 2025
@@ -6121,6 +7717,11 @@ Apr 22, 2025
 <h5 class="no-anchor card-title listing-title">
 Hello Quarto
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('visualization'); return false;">
+visualization
+</div>
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Apr 22, 2025
@@ -6140,6 +7741,11 @@ Apr 22, 2025
 <h5 class="no-anchor card-title listing-title">
 Hello Quarto
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('visualization'); return false;">
+visualization
+</div>
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Apr 22, 2025
@@ -6159,6 +7765,11 @@ Apr 22, 2025
 <h5 class="no-anchor card-title listing-title">
 Hello Quarto
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('visualization'); return false;">
+visualization
+</div>
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Apr 22, 2025
@@ -6178,6 +7789,11 @@ Apr 22, 2025
 <h5 class="no-anchor card-title listing-title">
 Hello Quarto
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('visualization'); return false;">
+visualization
+</div>
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Apr 22, 2025
@@ -6197,6 +7813,11 @@ Apr 22, 2025
 <h5 class="no-anchor card-title listing-title">
 Hello Quarto
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('visualization'); return false;">
+visualization
+</div>
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Apr 22, 2025
@@ -6216,6 +7837,11 @@ Apr 22, 2025
 <h5 class="no-anchor card-title listing-title">
 Hello Quarto
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('visualization'); return false;">
+visualization
+</div>
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Apr 22, 2025
@@ -6235,6 +7861,11 @@ Apr 22, 2025
 <h5 class="no-anchor card-title listing-title">
 Hello Quarto
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('visualization'); return false;">
+visualization
+</div>
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Apr 22, 2025
@@ -6254,6 +7885,11 @@ Apr 22, 2025
 <h5 class="no-anchor card-title listing-title">
 Hello Quarto
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('visualization'); return false;">
+visualization
+</div>
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Apr 22, 2025
@@ -6273,6 +7909,11 @@ Apr 22, 2025
 <h5 class="no-anchor card-title listing-title">
 Hello Quarto
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('visualization'); return false;">
+visualization
+</div>
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Apr 22, 2025
@@ -6292,6 +7933,11 @@ Apr 22, 2025
 <h5 class="no-anchor card-title listing-title">
 Hello Quarto
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('visualization'); return false;">
+visualization
+</div>
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Apr 22, 2025
@@ -6311,6 +7957,11 @@ Apr 22, 2025
 <h5 class="no-anchor card-title listing-title">
 Hello Quarto
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('visualization'); return false;">
+visualization
+</div>
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Apr 22, 2025
@@ -6330,6 +7981,11 @@ Apr 22, 2025
 <h5 class="no-anchor card-title listing-title">
 Hello Quarto
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('visualization'); return false;">
+visualization
+</div>
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Apr 22, 2025
@@ -6349,6 +8005,11 @@ Apr 22, 2025
 <h5 class="no-anchor card-title listing-title">
 Hello Quarto
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('workflows'); return false;">
+workflows
+</div>
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Apr 22, 2025
@@ -6368,6 +8029,11 @@ Apr 22, 2025
 <h5 class="no-anchor card-title listing-title">
 Hello Quarto
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('workflows'); return false;">
+workflows
+</div>
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Apr 22, 2025
@@ -6387,6 +8053,11 @@ Apr 22, 2025
 <h5 class="no-anchor card-title listing-title">
 Data files for ‘Putting R to Work’
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('datasets'); return false;">
+datasets
+</div>
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Apr 22, 2025
@@ -6406,6 +8077,11 @@ Apr 22, 2025
 <h5 class="no-anchor card-title listing-title">
 Hello Quarto
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('docker'); return false;">
+docker
+</div>
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Apr 22, 2025
@@ -6425,6 +8101,11 @@ Apr 22, 2025
 <h5 class="no-anchor card-title listing-title">
 Hello Quarto
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('docker'); return false;">
+docker
+</div>
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Apr 22, 2025
@@ -6444,6 +8125,14 @@ Apr 22, 2025
 <h5 class="no-anchor card-title listing-title">
 Hello Quarto
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('eye tracking'); return false;">
+eye tracking
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('statistics'); return false;">
+statistics
+</div>
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Apr 22, 2025
@@ -6463,6 +8152,9 @@ Apr 22, 2025
 <h5 class="no-anchor card-title listing-title">
 Hello Quarto
 </h5>
+<div class="listing-categories">
+
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Apr 22, 2025
@@ -6482,6 +8174,9 @@ Apr 22, 2025
 <h5 class="no-anchor card-title listing-title">
 Hello Quarto
 </h5>
+<div class="listing-categories">
+
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Apr 22, 2025
@@ -6501,6 +8196,9 @@ Apr 22, 2025
 <h5 class="no-anchor card-title listing-title">
 Hello Quarto
 </h5>
+<div class="listing-categories">
+
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Apr 22, 2025
@@ -6520,6 +8218,9 @@ Apr 22, 2025
 <h5 class="no-anchor card-title listing-title">
 Hello Quarto
 </h5>
+<div class="listing-categories">
+
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Apr 22, 2025
@@ -6539,6 +8240,9 @@ Apr 22, 2025
 <h5 class="no-anchor card-title listing-title">
 Hello Quarto
 </h5>
+<div class="listing-categories">
+
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Apr 22, 2025
@@ -6558,6 +8262,9 @@ Apr 22, 2025
 <h5 class="no-anchor card-title listing-title">
 Hello Quarto
 </h5>
+<div class="listing-categories">
+
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Apr 22, 2025
@@ -6577,6 +8284,9 @@ Apr 22, 2025
 <h5 class="no-anchor card-title listing-title">
 Hello Quarto
 </h5>
+<div class="listing-categories">
+
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Apr 22, 2025
@@ -6596,6 +8306,9 @@ Apr 22, 2025
 <h5 class="no-anchor card-title listing-title">
 Hello Quarto
 </h5>
+<div class="listing-categories">
+
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Apr 22, 2025
@@ -6615,6 +8328,9 @@ Apr 22, 2025
 <h5 class="no-anchor card-title listing-title">
 Hello Quarto
 </h5>
+<div class="listing-categories">
+
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Apr 22, 2025
@@ -6634,6 +8350,9 @@ Apr 22, 2025
 <h5 class="no-anchor card-title listing-title">
 Hello Quarto
 </h5>
+<div class="listing-categories">
+
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Apr 22, 2025
@@ -6653,6 +8372,9 @@ Apr 22, 2025
 <h5 class="no-anchor card-title listing-title">
 Hello Quarto
 </h5>
+<div class="listing-categories">
+
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Apr 22, 2025
@@ -6672,6 +8394,9 @@ Apr 22, 2025
 <h5 class="no-anchor card-title listing-title">
 Hello Quarto
 </h5>
+<div class="listing-categories">
+
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Apr 22, 2025
@@ -6691,6 +8416,9 @@ Apr 22, 2025
 <h5 class="no-anchor card-title listing-title">
 Hello Quarto
 </h5>
+<div class="listing-categories">
+
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Apr 22, 2025
@@ -6710,6 +8438,9 @@ Apr 22, 2025
 <h5 class="no-anchor card-title listing-title">
 Hello Quarto
 </h5>
+<div class="listing-categories">
+
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Apr 22, 2025
@@ -6729,6 +8460,9 @@ Apr 22, 2025
 <h5 class="no-anchor card-title listing-title">
 Hello Quarto
 </h5>
+<div class="listing-categories">
+
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Apr 22, 2025
@@ -6748,6 +8482,9 @@ Apr 22, 2025
 <h5 class="no-anchor card-title listing-title">
 Hello Quarto
 </h5>
+<div class="listing-categories">
+
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Apr 22, 2025
@@ -6767,6 +8504,9 @@ Apr 22, 2025
 <h5 class="no-anchor card-title listing-title">
 Hello Quarto
 </h5>
+<div class="listing-categories">
+
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Apr 22, 2025
@@ -6786,6 +8526,9 @@ Apr 22, 2025
 <h5 class="no-anchor card-title listing-title">
 Hello Quarto
 </h5>
+<div class="listing-categories">
+
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Apr 22, 2025
@@ -6805,6 +8548,9 @@ Apr 22, 2025
 <h5 class="no-anchor card-title listing-title">
 Hello Quarto
 </h5>
+<div class="listing-categories">
+
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Apr 22, 2025
@@ -6824,6 +8570,9 @@ Apr 22, 2025
 <h5 class="no-anchor card-title listing-title">
 Hello Quarto
 </h5>
+<div class="listing-categories">
+
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Apr 22, 2025
@@ -6843,6 +8592,9 @@ Apr 22, 2025
 <h5 class="no-anchor card-title listing-title">
 Hello Quarto
 </h5>
+<div class="listing-categories">
+
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Apr 22, 2025
@@ -6862,6 +8614,9 @@ Apr 22, 2025
 <h5 class="no-anchor card-title listing-title">
 Hello Quarto
 </h5>
+<div class="listing-categories">
+
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Apr 22, 2025
@@ -6881,6 +8636,9 @@ Apr 22, 2025
 <h5 class="no-anchor card-title listing-title">
 Hello Quarto
 </h5>
+<div class="listing-categories">
+
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Apr 22, 2025
@@ -6900,6 +8658,9 @@ Apr 22, 2025
 <h5 class="no-anchor card-title listing-title">
 Hello Quarto
 </h5>
+<div class="listing-categories">
+
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Apr 22, 2025
@@ -6919,6 +8680,9 @@ Apr 22, 2025
 <h5 class="no-anchor card-title listing-title">
 Hello Quarto
 </h5>
+<div class="listing-categories">
+
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Apr 22, 2025
@@ -6939,6 +8703,12 @@ Apr 22, 2025
 <div class="card-body post-contents">
 <h5 class="no-anchor card-title listing-title">Hello Quarto</h5>
 
+<div class="listing-categories">
+  
+<div class="listing-category" onclick="window.quartoListingCategory('Joscelin's fav'); return false;">Joscelin's fav</div>
+  
+</div>
+
 <div class="card-attribution card-text-small end">
 
 <div class="listing-date">`Apr 22, 2025`{=html}</div>
@@ -6957,6 +8727,12 @@ Apr 22, 2025
 
 <div class="card-body post-contents">
 <h5 class="no-anchor card-title listing-title">Hello Quarto</h5>
+
+<div class="listing-categories">
+  
+<div class="listing-category" onclick="window.quartoListingCategory('Joscelin's fav'); return false;">Joscelin's fav</div>
+  
+</div>
 
 <div class="card-attribution card-text-small end">
 
@@ -6977,6 +8753,12 @@ Apr 22, 2025
 <div class="card-body post-contents">
 <h5 class="no-anchor card-title listing-title">Hello Quarto</h5>
 
+<div class="listing-categories">
+  
+<div class="listing-category" onclick="window.quartoListingCategory('Joscelin's fav'); return false;">Joscelin's fav</div>
+  
+</div>
+
 <div class="card-attribution card-text-small end">
 
 <div class="listing-date">`Apr 22, 2025`{=html}</div>
@@ -6995,6 +8777,14 @@ Apr 22, 2025
 <h5 class="no-anchor card-title listing-title">
 12 Months of aRt
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('art'); return false;">
+art
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('visualization'); return false;">
+visualization
+</div>
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Apr 21, 2025
@@ -7014,6 +8804,14 @@ Apr 21, 2025
 <h5 class="no-anchor card-title listing-title">
 Frankenstein: Voronoi tesselation example
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('art'); return false;">
+art
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('visualization'); return false;">
+visualization
+</div>
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Apr 21, 2025
@@ -7033,6 +8831,14 @@ Apr 21, 2025
 <h5 class="no-anchor card-title listing-title">
 Script to make ascii art from images in ggplot
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('art'); return false;">
+art
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('visualization'); return false;">
+visualization
+</div>
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Apr 21, 2025
@@ -7052,6 +8858,29 @@ Apr 21, 2025
 <h5 class="no-anchor card-title listing-title">
 A ModernDive into R &amp; the Tidyverse
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('book'); return false;">
+book
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('data science'); return false;">
+data science
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('tidyverse'); return false;">
+tidyverse
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('visualization'); return false;">
+visualization
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('wrangling'); return false;">
+wrangling
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('modeling'); return false;">
+modeling
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('statistics'); return false;">
+statistics
+</div>
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Apr 21, 2025
@@ -7071,6 +8900,14 @@ Apr 21, 2025
 <h5 class="no-anchor card-title listing-title">
 Data Analysis for the Life Sciences with R
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('book'); return false;">
+book
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('statistics'); return false;">
+statistics
+</div>
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Apr 21, 2025
@@ -7090,6 +8927,14 @@ Apr 21, 2025
 <h5 class="no-anchor card-title listing-title">
 Data Science for Economists Seminar
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('data science'); return false;">
+data science
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('course'); return false;">
+course
+</div>
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Apr 21, 2025
@@ -7109,6 +8954,14 @@ Apr 21, 2025
 <h5 class="no-anchor card-title listing-title">
 Data Science with R
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('course'); return false;">
+course
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('data science'); return false;">
+data science
+</div>
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Apr 21, 2025
@@ -7128,6 +8981,20 @@ Apr 21, 2025
 <h5 class="no-anchor card-title listing-title">
 Data Skill for Reproducible science
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('statistics'); return false;">
+statistics
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('wrangling'); return false;">
+wrangling
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('data science'); return false;">
+data science
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('visualization'); return false;">
+visualization
+</div>
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Apr 21, 2025
@@ -7147,6 +9014,17 @@ Apr 21, 2025
 <h5 class="no-anchor card-title listing-title">
 Exploratory Data Analysis with R
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('book'); return false;">
+book
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('statistics'); return false;">
+statistics
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('tidyverse'); return false;">
+tidyverse
+</div>
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Apr 21, 2025
@@ -7166,6 +9044,17 @@ Apr 21, 2025
 <h5 class="no-anchor card-title listing-title">
 Advanced Data Science 2020
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('data science'); return false;">
+data science
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('book'); return false;">
+book
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('statistics'); return false;">
+statistics
+</div>
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Apr 4, 2025
@@ -7185,6 +9074,14 @@ Apr 4, 2025
 <h5 class="no-anchor card-title listing-title">
 How I Structure My RStudio Projects
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('data science'); return false;">
+data science
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('organization'); return false;">
+organization
+</div>
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Feb 20, 2025
@@ -7204,6 +9101,20 @@ Feb 20, 2025
 <h5 class="no-anchor card-title listing-title">
 How to Name Files
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('filenames'); return false;">
+filenames
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('data science'); return false;">
+data science
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('talk'); return false;">
+talk
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('organization'); return false;">
+organization
+</div>
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Feb 20, 2025
@@ -7223,6 +9134,14 @@ Feb 20, 2025
 <h5 class="no-anchor card-title listing-title">
 Reproducible Data Science in R: Iterate, Don’t Duplicate
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('blog'); return false;">
+blog
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('data science'); return false;">
+data science
+</div>
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Feb 20, 2025
@@ -7242,6 +9161,17 @@ Feb 20, 2025
 <h5 class="no-anchor card-title listing-title">
 Reproducible Data Science in R: Flexible Functions Using Tidy Evaluation
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('blog'); return false;">
+blog
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('data science'); return false;">
+data science
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('wrangling'); return false;">
+wrangling
+</div>
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Feb 20, 2025
@@ -7261,6 +9191,11 @@ Feb 20, 2025
 <h5 class="no-anchor card-title listing-title">
 Reproducible Data Science in R: Writing Better Functions
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('talk'); return false;">
+talk
+</div>
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Feb 20, 2025
@@ -7280,6 +9215,11 @@ Feb 20, 2025
 <h5 class="no-anchor card-title listing-title">
 crimedatasets: A Comprehensive Collection of Crime-Related Datasets
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('datasets'); return false;">
+datasets
+</div>
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Feb 20, 2025
@@ -7299,6 +9239,14 @@ Feb 20, 2025
 <h5 class="no-anchor card-title listing-title">
 Getting Started with naniar
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('visualization'); return false;">
+visualization
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('missing data'); return false;">
+missing data
+</div>
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Mar 5, 2024
@@ -7318,6 +9266,20 @@ Mar 5, 2024
 <h5 class="no-anchor card-title listing-title">
 Data Wrangling in the Tidyverse
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('video'); return false;">
+video
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('wrangling'); return false;">
+wrangling
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('Python'); return false;">
+Python
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('tidyverse'); return false;">
+tidyverse
+</div>
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 May 5, 2023
@@ -7337,6 +9299,14 @@ May 5, 2023
 <h5 class="no-anchor card-title listing-title">
 Art from Code
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('art'); return false;">
+art
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('visualization'); return false;">
+visualization
+</div>
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Apr 30, 2023
@@ -7356,6 +9326,14 @@ Apr 30, 2023
 <h5 class="no-anchor card-title listing-title">
 Art with R
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('art'); return false;">
+art
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('visualization'); return false;">
+visualization
+</div>
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Apr 30, 2023
@@ -7375,6 +9353,17 @@ Apr 30, 2023
 <h5 class="no-anchor card-title listing-title">
 Data Science for Psychologists: A Refreshed Exploratory &amp; Graphical Data Analysis in R
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('data science'); return false;">
+data science
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('statistics'); return false;">
+statistics
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('course'); return false;">
+course
+</div>
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Apr 28, 2023
@@ -7394,6 +9383,11 @@ Apr 28, 2023
 <h5 class="no-anchor card-title listing-title">
 Afro Barometer Database
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('datasets'); return false;">
+datasets
+</div>
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Apr 28, 2023
@@ -7413,6 +9407,11 @@ Apr 28, 2023
 <h5 class="no-anchor card-title listing-title">
 American Housing Survey (AHS)
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('datasets'); return false;">
+datasets
+</div>
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Apr 28, 2023
@@ -7432,6 +9431,11 @@ Apr 28, 2023
 <h5 class="no-anchor card-title listing-title">
 ANES-American National Election Studies
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('datasets'); return false;">
+datasets
+</div>
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Apr 28, 2023
@@ -7451,6 +9455,11 @@ Apr 28, 2023
 <h5 class="no-anchor card-title listing-title">
 ARDA (Association of Religion Data Archives) Data Archive
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('datasets'); return false;">
+datasets
+</div>
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Apr 28, 2023
@@ -7470,6 +9479,11 @@ Apr 28, 2023
 <h5 class="no-anchor card-title listing-title">
 British Election Study
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('datasets'); return false;">
+datasets
+</div>
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Apr 28, 2023
@@ -7489,6 +9503,11 @@ Apr 28, 2023
 <h5 class="no-anchor card-title listing-title">
 Chicago Council Survey
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('datasets'); return false;">
+datasets
+</div>
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Apr 28, 2023
@@ -7508,6 +9527,11 @@ Apr 28, 2023
 <h5 class="no-anchor card-title listing-title">
 Cooperative Election Study: Formerly the Cooperative Congressional Election Study
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('datasets'); return false;">
+datasets
+</div>
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Apr 28, 2023
@@ -7527,6 +9551,11 @@ Apr 28, 2023
 <h5 class="no-anchor card-title listing-title">
 Data.gov
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('datasets'); return false;">
+datasets
+</div>
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Apr 28, 2023
@@ -7546,6 +9575,11 @@ Apr 28, 2023
 <h5 class="no-anchor card-title listing-title">
 Dynamics of Collective Action
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('datasets'); return false;">
+datasets
+</div>
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Apr 28, 2023
@@ -7565,6 +9599,11 @@ Apr 28, 2023
 <h5 class="no-anchor card-title listing-title">
 General Social Survey - NORC
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('talk'); return false;">
+talk
+</div>
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Apr 28, 2023
@@ -7584,6 +9623,11 @@ Apr 28, 2023
 <h5 class="no-anchor card-title listing-title">
 LAPOP - AmericasBarometer [Barómetro de las Americas]
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('datasets'); return false;">
+datasets
+</div>
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Apr 28, 2023
@@ -7603,6 +9647,11 @@ Apr 28, 2023
 <h5 class="no-anchor card-title listing-title">
 MIT Election Data + Science Lab
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('datasets'); return false;">
+datasets
+</div>
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Apr 28, 2023
@@ -7622,6 +9671,11 @@ Apr 28, 2023
 <h5 class="no-anchor card-title listing-title">
 Nationals Center for Education Statistics: Longitudinal Studies
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('datasets'); return false;">
+datasets
+</div>
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Apr 28, 2023
@@ -7641,6 +9695,11 @@ Apr 28, 2023
 <h5 class="no-anchor card-title listing-title">
 National Longitudinal Surveys- A program of the U.S. Bureau of Labor Statistics
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('datasets'); return false;">
+datasets
+</div>
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Apr 28, 2023
@@ -7660,6 +9719,11 @@ Apr 28, 2023
 <h5 class="no-anchor card-title listing-title">
 National Epidemiologic Survey on Alcohol and Related Conditions-III (NESARC-III)
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('datasets'); return false;">
+datasets
+</div>
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Apr 28, 2023
@@ -7679,6 +9743,14 @@ Apr 28, 2023
 <h5 class="no-anchor card-title listing-title">
 Building reproducible analytical pipelines with R
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('book'); return false;">
+book
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('data science'); return false;">
+data science
+</div>
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Apr 24, 2023
@@ -7698,6 +9770,14 @@ Apr 24, 2023
 <h5 class="no-anchor card-title listing-title">
 grateful: Facilitate citation of R packages
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('interactivity'); return false;">
+interactivity
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('shiny'); return false;">
+shiny
+</div>
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Apr 24, 2023
@@ -7717,6 +9797,11 @@ Apr 24, 2023
 <h5 class="no-anchor card-title listing-title">
 Hello Quarto
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('talk'); return false;">
+talk
+</div>
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Jul 28, 2022
@@ -7736,6 +9821,11 @@ Jul 28, 2022
 <h5 class="no-anchor card-title listing-title">
 Child and Family Data Archive
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('datasets'); return false;">
+datasets
+</div>
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Jul 28, 2022
@@ -7755,6 +9845,11 @@ Jul 28, 2022
 <h5 class="no-anchor card-title listing-title">
 Datasets found in R
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('datasets'); return false;">
+datasets
+</div>
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Jul 28, 2022
@@ -7774,6 +9869,11 @@ Jul 28, 2022
 <h5 class="no-anchor card-title listing-title">
 Datasets from course: Modelling and visualizing data using R: A practical introduction.
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('datasets'); return false;">
+datasets
+</div>
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Jul 28, 2022
@@ -7793,6 +9893,11 @@ Jul 28, 2022
 <h5 class="no-anchor card-title listing-title">
 Hello Quarto
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('talk'); return false;">
+talk
+</div>
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Jul 28, 2022
@@ -7812,6 +9917,11 @@ Jul 28, 2022
 <h5 class="no-anchor card-title listing-title">
 Hello Quarto
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('talk'); return false;">
+talk
+</div>
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Jul 28, 2022
@@ -7831,6 +9941,11 @@ Jul 28, 2022
 <h5 class="no-anchor card-title listing-title">
 Hello Quarto
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('talk'); return false;">
+talk
+</div>
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Jul 28, 2022
@@ -7850,6 +9965,11 @@ Jul 28, 2022
 <h5 class="no-anchor card-title listing-title">
 Hello Quarto
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('talk'); return false;">
+talk
+</div>
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Jul 28, 2022
@@ -7869,6 +9989,11 @@ Jul 28, 2022
 <h5 class="no-anchor card-title listing-title">
 Hello Quarto
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('talk'); return false;">
+talk
+</div>
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Jul 28, 2022
@@ -7888,6 +10013,11 @@ Jul 28, 2022
 <h5 class="no-anchor card-title listing-title">
 Hello Quarto
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('talk'); return false;">
+talk
+</div>
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Jul 28, 2022
@@ -7907,6 +10037,11 @@ Jul 28, 2022
 <h5 class="no-anchor card-title listing-title">
 Hello Quarto
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('talk'); return false;">
+talk
+</div>
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Jul 28, 2022
@@ -7926,6 +10061,11 @@ Jul 28, 2022
 <h5 class="no-anchor card-title listing-title">
 Hello Quarto
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('talk'); return false;">
+talk
+</div>
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Jul 28, 2022
@@ -7945,6 +10085,11 @@ Jul 28, 2022
 <h5 class="no-anchor card-title listing-title">
 Hello Quarto
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('talk'); return false;">
+talk
+</div>
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Jul 28, 2022
@@ -7964,6 +10109,17 @@ Jul 28, 2022
 <h5 class="no-anchor card-title listing-title">
 Introduction to Data Science
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('machine learning'); return false;">
+machine learning
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('statistics'); return false;">
+statistics
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('book'); return false;">
+book
+</div>
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Jul 23, 2022
@@ -7983,6 +10139,17 @@ Jul 23, 2022
 <h5 class="no-anchor card-title listing-title">
 Data Science in a Box
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('data science'); return false;">
+data science
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('statistics'); return false;">
+statistics
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('visualization'); return false;">
+visualization
+</div>
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Jul 12, 2022
@@ -8002,6 +10169,14 @@ Jul 12, 2022
 <h5 class="no-anchor card-title listing-title">
 HTML blocks
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('html'); return false;">
+html
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('raw'); return false;">
+raw
+</div>
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Jul 9, 2022
@@ -8021,6 +10196,17 @@ Jul 9, 2022
 <h5 class="no-anchor card-title listing-title">
 a gRadual intRoduction to Shiny
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('slides'); return false;">
+slides
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('shiny'); return false;">
+shiny
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('dashboard'); return false;">
+dashboard
+</div>
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Jul 4, 2022
@@ -8040,6 +10226,14 @@ Jul 4, 2022
 <h5 class="no-anchor card-title listing-title">
 Data Science in Education using R
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('book'); return false;">
+book
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('data science'); return false;">
+data science
+</div>
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Mar 4, 2022
@@ -8059,6 +10253,11 @@ Mar 4, 2022
 <h5 class="no-anchor card-title listing-title">
 Dataset from ‘R, Python and Stata code for Data Analysis for Business, Economics, and Policy’ book
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('datasets'); return false;">
+datasets
+</div>
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Dec 12, 2021
@@ -8078,6 +10277,14 @@ Dec 12, 2021
 <h5 class="no-anchor card-title listing-title">
 xstitch: A package for creating cross-stitch charts
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('art'); return false;">
+art
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('visualization'); return false;">
+visualization
+</div>
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Oct 12, 2021
@@ -8097,6 +10304,23 @@ Oct 12, 2021
 <h5 class="no-anchor card-title listing-title">
 Reproducible science workshop: A one-day workshop with R and RStudio
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('data science'); return false;">
+data science
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('tidyverse'); return false;">
+tidyverse
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('visualization'); return false;">
+visualization
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('wrangling'); return false;">
+wrangling
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('talk'); return false;">
+talk
+</div>
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Oct 8, 2021
@@ -8116,6 +10340,11 @@ Oct 8, 2021
 <h5 class="no-anchor card-title listing-title">
 Datasets: Machine learning datasets
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('datasets'); return false;">
+datasets
+</div>
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Jun 6, 2021
@@ -8135,6 +10364,11 @@ Jun 6, 2021
 <h5 class="no-anchor card-title listing-title">
 Machine learning datasets
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('datasets'); return false;">
+datasets
+</div>
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Jun 6, 2021
@@ -8154,6 +10388,14 @@ Jun 6, 2021
 <h5 class="no-anchor card-title listing-title">
 Using the tidyverse with Databases
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('tidyverse'); return false;">
+tidyverse
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('databases'); return false;">
+databases
+</div>
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Dec 12, 2020
@@ -8167,15 +10409,15 @@ Dec 12, 2020
 <div class="listing-no-matching d-none">
 No matching items
 </div>
-<nav id="latest-content-pagination" class="listing-pagination" aria-label="Page Navigation">
+<nav id="content-pagination" class="listing-pagination" aria-label="Page Navigation">
   <ul class="pagination"></ul>
 </nav>
 </div>
-
-
-
 </section>
 </div>
+
+
+
 
 <a onclick="window.scrollTo(0, 0); return false;" role="button" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">

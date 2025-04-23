@@ -4,7 +4,7 @@ project:
     - "images/twitter-card.png"
 
 website:
-  favicon: images/profile.png
+  favicon: images/logo.png
   title: "resouRces"
   site-url: https://www.resourcesdatabase.com/
   description: "Database of Resources to Learn & Teach R"
@@ -15,7 +15,7 @@ website:
   open-graph: true
   twitter-card:
     creator: "@JoscelinRocha"
-    image: "/images/twitter-card.png"
+    image: "images/twitter-card.png"
 
   navbar:
     background: "#D9E3E4"
@@ -24,7 +24,14 @@ website:
     align: center
     title: false
     collapse-below: lg
-    right:
+    tools:
+      - icon: github
+        href: https://github.com/Joscelinrocha/resouRces
+        aria-label: GitHub Repo
+      - icon: rss-fill
+        href: index.xml
+        aria-label: RSS
+    left:
     - text: "About"
       menu:
         - text: Overview
@@ -37,13 +44,6 @@ website:
       menu:
         - href: more_r_databases.qmd
           text: "More R Resources Databases"
-    tools:
-      - icon: github
-        href: https://github.com/Joscelinrocha/resouRces
-        aria-label: GitHub Repo
-      - icon: rss-fill
-        href: index.xml
-        aria-label: RSS
 
   page-navigation: true
 
@@ -58,9 +58,9 @@ format:
   html:
     theme:
       light: [litera, styles.scss]
-      dark: [darkly, styles-dark.scss]
+      dark: [litera, styles-dark.scss]
     mainfont: "Roboto Flex"
-    fontsize: .7em
+    fontsize: .755em
     code-copy: true
     code-overflow: wrap
     toc: true
