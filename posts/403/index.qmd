@@ -1,0 +1,30 @@
+---
+title: "Hello Quarto"
+date: "2025-04-22"
+categories: [visualization]
+image: featured.png
+image-alt: "Illustration of two penguins, one blue and one orange, taking a selfie with a selfie stick. The moon in the background looks like the Quarto logo."
+---
+
+
+<link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/JoscelinRocha">![Buy me a coffee](https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg){alt="Buy me a coffee" width="15" height="21"}Buy me a coffee</a>
+
+------------------------------------------------------------------------
+
+
+## [Schilling Data Studio](https://www.youtube.com/@schillingdata)
+
+By [Jenn Schilling](https://www.youtube.com/@schillingdata)
+
+Added Sun April 30th, 2023
+
+**What is this?**
+
+**Excerpt from the channel:** From data dread to impactful insights - data visualization tutorials for clearly communicating data.
+
+Welcome to Schilling Data Studio!
+We're here to support your data visualization needs.
+If you feel overwhelmed by data or don't know how to create fabulous, impactful data visualizations, you're in the right place.
+Our video tutorials and quick tips will help you enhance your data visualizations so you can provide clear insights and make an impact with your data!
+
+1.  Link to YouTube channel: [https://www.youtube.com/\@schillingdata/videos](https://www.youtube.com/@schillingdata/videos){.uri}

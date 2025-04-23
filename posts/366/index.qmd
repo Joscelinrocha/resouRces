@@ -1,0 +1,28 @@
+---
+title: "Hello Quarto"
+date: "2025-04-22"
+categories: [visualization]
+image: featured.png
+image-alt: "Illustration of two penguins, one blue and one orange, taking a selfie with a selfie stick. The moon in the background looks like the Quarto logo."
+---
+
+
+<link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/JoscelinRocha">![Buy me a coffee](https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg){alt="Buy me a coffee" width="15" height="21"}Buy me a coffee</a>
+
+------------------------------------------------------------------------
+
+
+## [How to Create Diamond Plots in R](https://thef5.substack.com/p/how-to-diamond-plots-in-r) 💯
+
+By Owen Phillips
+
+Added Thu Feb 20, 2025
+
+**What is this?**
+
+This tutorial provides a comprehensive guide on creating diamond plots in R, a visualization technique that emphasizes confidence intervals over point estimates.
+Diamond plots are particularly useful in meta-analyses and comparative studies, as they focus on the precision of estimates rather than just the estimates themselves.
+The guide walks through the process of constructing diamond plots using the **ufs** package, detailing functions like `meansDiamondPlot()` and `diamondPlot()`.
+It includes practical examples and code snippets, making it accessible for users aiming to enhance their data visualization skills in R.
+
+1.  Link to tutorial here: <https://thef5.substack.com/p/how-to-diamond-plots-in-r>

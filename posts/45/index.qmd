@@ -1,0 +1,19 @@
+---
+title: "crimedatasets: A Comprehensive Collection of Crime-Related Datasets"
+date: "2025-02-20"
+categories: [datasets]
+image: https://lightbluetitan.github.io/crimedatasets/logo.png
+image-alt: "Hex sticker logo for the R package “crimedatasets.” The background is light gray, and the word “crimedatasets” appears in bold black lowercase text at the top center. Below the text is a black-and-white illustration of Lady Justice, blindfolded, holding a sword in one hand and a balanced scale in the other."
+---
+
+<link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/JoscelinRocha">![Buy me a coffee](https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg){alt="Buy me a coffee" width="15" height="21"}Buy me a coffee</a>
+
+------------------------------------------------------------------------
+
+By Renzo Caceres Rossi
+
+The **crimedatasets** package offers a comprehensive collection of datasets focused on crimes, criminal activities, and related topics. It serves as a valuable resource for researchers, analysts, and students interested in crime analysis, criminology, and socio-economic studies related to criminal behavior. The package includes datasets spanning global and local contexts, available in various structures such as tibbles, data frames, tables, and spatial data (simple features). Each dataset is named with a suffix indicating its structure, facilitating easy identification and usage.
+
+1.  Link to package here: <https://lightbluetitan.github.io/crimedatasets/>
+
+![](https://lightbluetitan.github.io/crimedatasets/logo.png)

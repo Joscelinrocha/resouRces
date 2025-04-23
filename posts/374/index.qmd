@@ -1,0 +1,27 @@
+---
+title: "Hello Quarto"
+date: "2025-04-22"
+categories: [visualization]
+image: featured.png
+image-alt: "Illustration of two penguins, one blue and one orange, taking a selfie with a selfie stick. The moon in the background looks like the Quarto logo."
+---
+
+
+<link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/JoscelinRocha">![Buy me a coffee](https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg){alt="Buy me a coffee" width="15" height="21"}Buy me a coffee</a>
+
+------------------------------------------------------------------------
+
+
+## [Images as Facet Labels in ggplot2](https://umairdurrani.com/posts/images_in_facets/images_in_facets)
+
+By Dr. U
+
+Added Thu Feb 20, 2025
+
+**What is this?**
+
+This article explores how to replace facet labels in ggplot2 with images, such as country flags, to create more informative and visually appealing plots.
+The author provides a step-by-step guide on obtaining image data, integrating it with existing datasets, and utilizing the ggtext and ggh4x packages to display images as facet labels.
+This technique enhances the interpretability of faceted plots by incorporating visual cues directly into the plot structure.
+
+1.  Link to article here: <https://umairdurrani.com/posts/images_in_facets/images_in_facets>

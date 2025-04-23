@@ -1,0 +1,26 @@
+---
+title: "Hello Quarto"
+date: "2025-04-22"
+categories: [visualization]
+image: featured.png
+image-alt: "Illustration of two penguins, one blue and one orange, taking a selfie with a selfie stick. The moon in the background looks like the Quarto logo."
+---
+
+
+<link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/JoscelinRocha">![Buy me a coffee](https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg){alt="Buy me a coffee" width="15" height="21"}Buy me a coffee</a>
+
+------------------------------------------------------------------------
+
+
+## [legendry: Enhancing ggplot2 Guides](https://teunbrand.github.io/teunbrand_blog/posts/2024-11-01-legendry-0-1-0/)
+
+By Teun van den Brand
+
+Added Thu Feb 20, 2025
+
+**What is this?**
+
+The **legendry** package extends **ggplot2** by introducing new guide functions, enabling more flexible and customizable legends and axes.
+It allows for stacked and composite guides, improving the clarity of visualizations.
+
+1.  Link to package announcement: <https://teunbrand.github.io/teunbrand_blog/posts/2024-11-01-legendry-0-1-0/>

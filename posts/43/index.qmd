@@ -1,0 +1,17 @@
+---
+title: "Chicago Council Survey"
+date: "2023-04-28"
+categories: [datasets]
+image: featured.png
+image-alt: "Screenshot of the “Chicago Council Survey” page on the Chicago Council on Global Affairs website. The logo at the top left features a circular “C” with a globe inside and the organization’s name beside it. The page heading reads “Chicago Council Survey,” with a subheading stating: “Data and analysis tracking trends and shifts in American public opinion and US foreign policy since 1974.” The background transitions from dark to light blue with a navigation bar at the top and menu items like “Get Informed,” “Explore Research,” and “Support Our Mission.”"
+---
+
+<link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/JoscelinRocha">![Buy me a coffee](https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg){alt="Buy me a coffee" width="15" height="21"}Buy me a coffee</a>
+
+------------------------------------------------------------------------
+
+**Excerpt from site:** The Chicago Council Survey provides the most comprehensive view of American public opinion on critical US foreign policy issues, highlighting critical trends and shifts in thinking over time since 1974. The Council's polling experts, their annual report, and related topical briefs compose the Council's most recognized area of research. A signature area of study under the Lester Crown Center on US Foreign Policy, the Chicago Council Survey provides the public with a mechanism for sharing views with politicians and decision makers who each year cite the survey as a valuable resource for influencing policy debates.
+
+1.  Link to the datasets: <https://globalaffairs.org/research/lester-crown-center-us-foreign-policy/chicago-council-survey>
+
+![](featured.png)

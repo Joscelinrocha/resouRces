@@ -1,0 +1,17 @@
+---
+title: "National Epidemiologic Survey on Alcohol and Related Conditions-III (NESARC-III)"
+date: "2023-04-28"
+categories: [datasets]
+image: https://www.niaaa.nih.gov/sites/default/themes/solstice/niaaa-logo.png
+image-alt: "Logo of the National Institute on Alcohol Abuse and Alcoholism (NIAAA), featuring a dark gray NIH emblem with a blue arrow outline pointing right, followed by the institute's full name in bold gray text."
+---
+
+<link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/JoscelinRocha">![Buy me a coffee](https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg){alt="Buy me a coffee" width="15" height="21"}Buy me a coffee</a>
+
+------------------------------------------------------------------------
+
+**Excerpt from site:** The National Epidemiologic Survey on Alcohol and Related Conditions-III (NESARC-III) was sponsored, designed and directed by the National Institute on Alcohol Abuse and Alcoholism (NIAAA). The NESARC-III is cross-sectional, based on a nationally representative sample of the civilian noninstitutionalized population of the United States aged 18 years and older. Fieldwork was conducted by Westat through a contract under the data collection authorization of Title 42 USC 285n. Utilizing the NIAAA Alcohol Use Disorder and Associated Disabilities Interview Schedule (AUDADIS-5), the NESARC-III collected information on alcohol and drug use and disorders, related risk factors, and associated physical and mental disabilities. In addition, DNA was obtained through saliva samples. The final sample size was 36,309 and included persons living in households and select noninstitutional group quarters.
+
+1.  Link to dataset here: <https://www.niaaa.nih.gov/research/nesarc-iii>
+
+![](https://www.niaaa.nih.gov/sites/default/themes/solstice/niaaa-logo.png)

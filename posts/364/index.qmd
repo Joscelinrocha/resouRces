@@ -1,0 +1,25 @@
+---
+title: "Hello Quarto"
+date: "2025-04-22"
+categories: [visualization]
+image: featured.png
+image-alt: "Illustration of two penguins, one blue and one orange, taking a selfie with a selfie stick. The moon in the background looks like the Quarto logo."
+---
+
+
+<link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/JoscelinRocha">![Buy me a coffee](https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg){alt="Buy me a coffee" width="15" height="21"}Buy me a coffee</a>
+
+------------------------------------------------------------------------
+
+
+## [ggsignif: Significance Brackets for 'ggplot2'](https://github.com/const-ae/ggsignif)
+
+By [Ahlmann-Eltze C. & Patil I](https://github.com/const-ae/ggsignif)
+
+Added Sat Dec 12th, 2021
+
+**What is this?**
+
+**Excerpt from site:** "This package provides an easy way to indicate if two groups are significantly different. Commonly this is shown by a bar on top connecting the groups of interest which itself is annotated with the level of significance (NS, *, **,*** ). The package provides a single layer (geom_signif) that takes the groups for comparison and the test (t.test, wilcox etc.) and adds the annotation to the plot".
+
+1.  Link to package and Github repo here: <https://github.com/const-ae/ggsignif>

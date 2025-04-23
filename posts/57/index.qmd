@@ -1,0 +1,17 @@
+---
+title: "Nationals Center for Education Statistics: Longitudinal Studies"
+date: "2023-04-28"
+categories: [datasets]
+image: featured.png
+image-alt: 'Screenshot from the National Center for Education Statistics (NCES) introducing an online module titled “Introduction to the NCES Longitudinal Studies: 1972–2020.” The top section includes the IES:NCES logo and illustrations of people analyzing data on screens. Below, a circular cartoon graphic of a smiling student is centered above the module title. A green "Start" button appears at the bottom.'
+---
+
+<link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/JoscelinRocha">![Buy me a coffee](https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg){alt="Buy me a coffee" width="15" height="21"}Buy me a coffee</a>
+
+------------------------------------------------------------------------
+
+**Excerpt from site:** The Early Childhood Longitudinal Study (ECLS) program includes four longitudinal studies that examine child development, school readiness, and early school experiences from birth through elementary school. The program provides data to analyze the relationships among a wide range of family, school, community, and individual factors with children's development, early learning, and performance in school.
+
+1.  Link to list of datasets here: <https://nces.ed.gov/training/datauser/COMO_07.html>
+
+![](featured.png){fig-alt="Screenshot from the National Center for Education Statistics (NCES) introducing an online module titled “Introduction to the NCES Longitudinal Studies: 1972–2020.” The top section includes the IES:NCES logo and illustrations of people analyzing data on screens. Below, a circular cartoon graphic of a smiling student is centered above the module title. A green \"Start\" button appears at the bottom."}

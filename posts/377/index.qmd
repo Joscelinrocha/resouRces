@@ -1,0 +1,27 @@
+---
+title: "Hello Quarto"
+date: "2025-04-22"
+categories: [visualization]
+image: featured.png
+image-alt: "Illustration of two penguins, one blue and one orange, taking a selfie with a selfie stick. The moon in the background looks like the Quarto logo."
+---
+
+
+<link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/JoscelinRocha">![Buy me a coffee](https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg){alt="Buy me a coffee" width="15" height="21"}Buy me a coffee</a>
+
+------------------------------------------------------------------------
+
+
+## [Interactive web-based data visualization with R, plotly, and shiny](https://plotly-r.com/)
+
+By [Carson Sievert](https://plotly-r.com/)
+
+Added Mon Sep 14th, 2020
+
+**What is this?**
+
+This is the website for "Interactive web-based data visualization with R, plotly, and shiny".
+In this book, you'll gain insight and practical skills for creating interactive and dynamic web graphics for data analysis from R.
+It makes heavy use of plotly for rendering graphics, but you'll also learn about other R packages that augment a data science workflow, such as the tidyverse and shiny.
+
+1.  Link to ebook here: <https://plotly-r.com/>

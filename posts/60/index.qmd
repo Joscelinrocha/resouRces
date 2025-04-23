@@ -1,0 +1,25 @@
+---
+title: "Hello Quarto"
+date: "2022-07-28"
+categories: [talk]
+image: featured.png
+image-alt: "Illustration of two penguins, one blue and one orange, taking a selfie with a selfie stick. The moon in the background looks like the Quarto logo."
+---
+
+
+<link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/JoscelinRocha">![Buy me a coffee](https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg){alt="Buy me a coffee" width="15" height="21"}Buy me a coffee</a>
+
+------------------------------------------------------------------------
+
+
+## [National Couples' Health and Time Study (NCHAT)](https://pop.umn.edu/data/nchat)
+
+Added Fri Apr 28th, 2023
+
+**What is this?**
+
+**Excerpt from site:** The National Couples' Health and Time Study (NCHAT) is a nationally-representative, multi-method study of cohabiting and married individuals ages 20 to 60 who were in a same- or different-gender couple in the United States during the COVID-19 pandemic.
+The sample includes 3,642 main respondents and 1,515 spouses/partners.
+The survey and time diary with experience sampling methods focus on relationship functioning, emotion regulation, discrimination, racial trauma, physical health, psychological well-being, health behaviors, stressors, and time use.
+
+1.  Link to dataset here: <https://pop.umn.edu/data/nchat>

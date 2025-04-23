@@ -1,0 +1,21 @@
+---
+title: "Hello Quarto"
+date: "2025-04-22"
+categories: [visualization]
+image: featured.png
+image-alt: "Illustration of two penguins, one blue and one orange, taking a selfie with a selfie stick. The moon in the background looks like the Quarto logo."
+---
+
+
+<link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/JoscelinRocha">![Buy me a coffee](https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg){alt="Buy me a coffee" width="15" height="21"}Buy me a coffee</a>
+
+------------------------------------------------------------------------
+
+
+## [Resizing plots](https://alyssasfu.wordpress.com/2015/04/03/resizing-plots-in-r-markdown/)
+
+**What is this?**
+
+How to resize plots in R markdown
+
+1.  Link to blog: <https://alyssasfu.wordpress.com/2015/04/03/resizing-plots-in-r-markdown/>

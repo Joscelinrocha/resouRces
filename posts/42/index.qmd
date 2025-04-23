@@ -1,0 +1,17 @@
+---
+title: "Child and Family Data Archive"
+date: "2022-07-28"
+categories: [datasets]
+image: featured.png
+image-alt: "Promotional image for the “Child & Family Data Archive.” On the left, hexagon icons depict data and family-related graphics, followed by the title “Child & Family Data Archive” in bold blue text. Beneath it, the tagline reads: “An easy one-stop solution for researchers, educators, and policymakers to find and use the data they need.” On the right, a cartoon character with short blue hair and a denim jacket gestures toward a yellow background with a stylized line graph on a presentation board."
+---
+
+<link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/JoscelinRocha">![Buy me a coffee](https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg){alt="Buy me a coffee" width="15" height="21"}Buy me a coffee</a>
+
+------------------------------------------------------------------------
+
+**Excerpt from site:** The Child and Family Data Archive (C&F Data Archive) is the place to discover, access, and analyze data on young children, their families and communities, and the programs that serve them.
+
+1.  Link to website here: <https://www.childandfamilydataarchive.org/cfda/pages/cfda/index.html>
+
+![](featured.png){fig-alt="Promotional image for the “Child & Family Data Archive.” On the left, hexagon icons depict data and family-related graphics, followed by the title “Child & Family Data Archive” in bold blue text. Beneath it, the tagline reads: “An easy one-stop solution for researchers, educators, and policymakers to find and use the data they need.” On the right, a cartoon character with short blue hair and a denim jacket gestures toward a yellow background with a stylized line graph on a presentation board."}

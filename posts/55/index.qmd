@@ -1,0 +1,17 @@
+---
+title: "Machine learning datasets"
+date: "2021-06-06"
+categories: [datasets]
+image: featured.png
+image-alt: "Screenshot of a webpage listing machine learning datasets, last updated in December 2021. The page allows users to subscribe for updates and filter datasets by categories such as image, NLP, self-driving, question answering, and audio. Visible dataset entries include the Mapillary Metropolis Dataset, Google Open Buildings, Matterport Habitat, Unsplash Dataset, BuildingNet, and Apple Hypersim Dataset. Each entry displays the name, year, a short description, license type, and a link to the associated paper."
+---
+
+<link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/JoscelinRocha">![Buy me a coffee](https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg){alt="Buy me a coffee" width="15" height="21"}Buy me a coffee</a>
+
+------------------------------------------------------------------------
+
+**Excerpt from site:** A list of the biggest machine learning datasets from across the web
+
+1.  Link to list of datasets here: <https://www.datasetlist.com/>
+
+![](featured.png){fig-alt="Screenshot of a webpage listing machine learning datasets, last updated in December 2021. The page allows users to subscribe for updates and filter datasets by categories such as image, NLP, self-driving, question answering, and audio. Visible dataset entries include the Mapillary Metropolis Dataset, Google Open Buildings, Matterport Habitat, Unsplash Dataset, BuildingNet, and Apple Hypersim Dataset. Each entry displays the name, year, a short description, license type (e.g., \"Non-commercial\", \"CC BY 4.0\", \"Various\"), and a link to the associated paper."}

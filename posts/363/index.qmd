@@ -1,0 +1,27 @@
+---
+title: "Hello Quarto"
+date: "2025-04-22"
+categories: [visualization]
+image: featured.png
+image-alt: "Illustration of two penguins, one blue and one orange, taking a selfie with a selfie stick. The moon in the background looks like the Quarto logo."
+---
+
+
+<link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/JoscelinRocha">![Buy me a coffee](https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg){alt="Buy me a coffee" width="15" height="21"}Buy me a coffee</a>
+
+------------------------------------------------------------------------
+
+
+## [ggreveal: Incremental ggplot2 Presentations](https://www.weverthon.com/ggreveal/) 💯
+
+By Weverthon Machado
+
+Added Thu Feb 20, 2025
+
+**What is this?**
+
+**ggreveal** is an R package that enables the incremental presentation of **ggplot2** graphs.
+It allows users to break down a plot into a series of intermediary plots, which can be displayed sequentially, making it particularly useful for teaching and presentations.
+The package offers functions such as `reveal_groups()`, `reveal_layers()`, and `reveal_aes()` to incrementally reveal different aspects of a plot.
+
+1.  Link to package: <https://www.weverthon.com/ggreveal/>

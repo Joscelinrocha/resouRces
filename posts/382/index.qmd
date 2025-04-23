@@ -1,0 +1,26 @@
+---
+title: "Hello Quarto"
+date: "2025-04-22"
+categories: [visualization]
+image: featured.png
+image-alt: "Illustration of two penguins, one blue and one orange, taking a selfie with a selfie stick. The moon in the background looks like the Quarto logo."
+---
+
+
+<link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/JoscelinRocha">![Buy me a coffee](https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg){alt="Buy me a coffee" width="15" height="21"}Buy me a coffee</a>
+
+------------------------------------------------------------------------
+
+
+## [Introduction to Tableau](https://meghan.rbind.io/blog/introduction-to-tableau/)
+
+By [Meghan Hall](https://meghan.rbind.io/blog/introduction-to-tableau/)
+
+Added Dec 11, 2021
+
+**What is this?**
+
+**Excerpt from blog:** "A bunch of people have been asking me for some kind of Tableau tutorial, so I'm experimenting with a screencast video on YouTube! The video should be embedded below and is also available here."
+
+1.  Link to blog here: <https://meghan.rbind.io/blog/introduction-to-tableau/>
+2.  Link to video here: <https://www.youtube.com/watch?v=fN7vAfeN0_E&feature=youtu.be>

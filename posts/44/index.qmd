@@ -1,0 +1,17 @@
+---
+title: "Cooperative Election Study: Formerly the Cooperative Congressional Election Study"
+date: "2023-04-28"
+categories: [datasets]
+image: https://tischcollege.tufts.edu/sites/g/files/lrezom861/files/styles/embedded_small/public/2024-03/CES_logo_rgb.jpg?itok=_GY7UDy5
+image-alt: "Logo of the Cooperative Election Study (CES). The left side features a stylized, circular blue monogram forming the letters “CES.” To the right, the full name “COOPERATIVE ELECTION STUDY” is stacked in three rows using white text on red rectangular blocks."
+---
+
+<link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/JoscelinRocha">![Buy me a coffee](https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg){alt="Buy me a coffee" width="15" height="21"}Buy me a coffee</a>
+
+------------------------------------------------------------------------
+
+**Excerpt from site:** The CCES is a 50,000+ person national stratified sample survey administered by YouGov. Half of the questionnaire consists of [Common Content](http://projects.iq.harvard.edu/cces/book/common-content) asked of all 50,000+ people, and half of the questionnaire consists of Team Content designed by each individual participating team and asked of a subset of 1,000 people.
+
+1.  Link to datasets here: <https://tischcollege.tufts.edu/research-faculty/research-centers/cooperative-election-study>
+
+![](https://tischcollege.tufts.edu/sites/g/files/lrezom861/files/styles/embedded_small/public/2024-03/CES_logo_rgb.jpg?itok=_GY7UDy5)

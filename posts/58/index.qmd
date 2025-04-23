@@ -1,0 +1,17 @@
+---
+title: "National Longitudinal Surveys- A program of the U.S. Bureau of Labor Statistics"
+date: "2023-04-28"
+categories: [datasets]
+image: featured.png
+image-alt: " Homepage of the National Longitudinal Surveys (NLS), a U.S. Bureau of Labor Statistics program. The page provides an overview of the NLS, which are representative surveys tracking birth cohorts over time. The left panel explains the surveys and links to two ongoing cohorts: NLS Youth 1997 and NLS Youth 1979. The right panel titled “Latest Information from the NLS” announces upcoming booths at AERA and PAA conferences in April 2025."
+---
+
+<link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/JoscelinRocha">![Buy me a coffee](https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg){alt="Buy me a coffee" width="15" height="21"}Buy me a coffee</a>
+
+------------------------------------------------------------------------
+
+**Excerpt from site:** The NLS, sponsored by the U.S. Bureau of Labor Statistics, are nationally representative surveys that follow the same sample of individuals from specific birth cohorts over time. The surveys collect data on labor market activity, schooling, fertility, program participation, health, and much, much more.
+
+1.  Link to list of datasets here: <https://www.nlsinfo.org/>
+
+![](featured.png){fig-alt="Homepage of the National Longitudinal Surveys (NLS), a U.S. Bureau of Labor Statistics program. The page provides an overview of the NLS, which are representative surveys tracking birth cohorts over time. The left panel explains the surveys and links to two ongoing cohorts: NLS Youth 1997 and NLS Youth 1979. The right panel titled “Latest Information from the NLS” announces upcoming booths at AERA and PAA conferences in April 2025."}

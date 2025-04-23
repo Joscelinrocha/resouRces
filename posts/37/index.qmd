@@ -1,0 +1,17 @@
+---
+title: "American Housing Survey (AHS)"
+date: "2023-04-28"
+categories: [datasets]
+image: featured.png
+image-alt: "Screenshot of the U.S. Census Bureau’s webpage for the American Housing Survey (AHS). The page title “American Housing Survey (AHS)” is prominently displayed in bold text. Below, a paragraph explains that the AHS is sponsored by the Department of Housing and Urban Development (HUD) and conducted by the U.S. Census Bureau, offering the most comprehensive national housing survey in the U.S. A sidebar on the left includes navigation links such as About, Data, News, Technical Documentation, and Visualizations. The “Featured” section highlights the “American Housing Survey Table Creator.” A thumbnail of an embedded YouTube video titled “What is the AHS?” is also visible."
+---
+
+<link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/JoscelinRocha">![Buy me a coffee](https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg){alt="Buy me a coffee" width="15" height="21"}Buy me a coffee</a>
+
+------------------------------------------------------------------------
+
+**Excerpt from site:** The AHS is sponsored by the Department of Housing and Urban Development (HUD) and conducted by the U.S. Census Bureau. The survey is the most comprehensive national housing survey in the United States.
+
+1.  Link to website here: <https://www.census.gov/programs-surveys/ahs.html>
+
+![](featured.png)

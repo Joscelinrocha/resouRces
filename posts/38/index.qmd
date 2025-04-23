@@ -1,0 +1,17 @@
+---
+title: "ANES-American National Election Studies"
+date: "2023-04-28"
+categories: [datasets]
+image: featured.png
+image-alt: "Screenshot of the “Data Center” page from the American National Election Studies (ANES) website. It provides access to downloadable data for ANES studies. Tabs at the top include Time Series, Panels, Pilots, Other, and Restricted-Use Data. The Time Series tab is selected, listing links to studies from 1948–2024. On the right side, a “Terms of Use” section outlines conditions for using the datasets, such as restricting use to research purposes and citing ANES in published work."
+---
+
+<link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/JoscelinRocha">![Buy me a coffee](https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg){alt="Buy me a coffee" width="15" height="21"}Buy me a coffee</a>
+
+------------------------------------------------------------------------
+
+**Excerpt from site:** To serve the research needs of social scientists, teachers, students, policy makers and journalists, the ANES produces high quality data from its own surveys on voting, public opinion, and political participation. Central to this mission is the active involvement of the ANES research community in all phases of the project.
+
+1.  Link to datasets here: <https://electionstudies.org/data-center/>
+
+![](featured.png)

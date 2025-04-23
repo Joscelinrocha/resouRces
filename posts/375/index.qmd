@@ -1,0 +1,31 @@
+---
+title: "Hello Quarto"
+date: "2025-04-22"
+categories: [visualization]
+image: featured.png
+image-alt: "Illustration of two penguins, one blue and one orange, taking a selfie with a selfie stick. The moon in the background looks like the Quarto logo."
+---
+
+
+<link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/JoscelinRocha">![Buy me a coffee](https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg){alt="Buy me a coffee" width="15" height="21"}Buy me a coffee</a>
+
+------------------------------------------------------------------------
+
+
+## [Image sizes in an R markdown document](https://www.jumpingrivers.com/blog/knitr-rmarkdown-image-size/)
+
+Added Fri Apr 23rd, 2021
+
+**What is this?**
+
+**Excerpt from site: T**his is part four of our four-part series
+
+Part 1: Specifying the correct figure dimension in {knitr} (this post).
+
+Part 2: What image format should you use for graphics.
+
+Part 3: Including external graphics in your document.
+
+Part 4: Setting default {knitr} options.
+
+1.  Link to site here: <https://www.jumpingrivers.com/blog/knitr-rmarkdown-image-size/.be>

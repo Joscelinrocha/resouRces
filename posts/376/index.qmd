@@ -1,0 +1,26 @@
+---
+title: "Hello Quarto"
+date: "2025-04-22"
+categories: [visualization]
+image: featured.png
+image-alt: "Illustration of two penguins, one blue and one orange, taking a selfie with a selfie stick. The moon in the background looks like the Quarto logo."
+---
+
+
+<link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/JoscelinRocha">![Buy me a coffee](https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg){alt="Buy me a coffee" width="15" height="21"}Buy me a coffee</a>
+
+------------------------------------------------------------------------
+
+
+## [Improving ggplots with Text Color](https://www.ericekholm.com/posts/2021-03-24-improving-ggplots-with-text-color/)
+
+By [Eric Ekholm](https://www.ericekholm.com/posts/2021-03-24-improving-ggplots-with-text-color/)
+
+Added Sun Jun 6th, 2021
+
+**What is this?**
+
+**Excerpt from site:** instead of having a legend off to the right or the bottom or wherever it is you typically place your legends, I've changed the font color of the words "Pass" and "Fail" in the title to contain this same information.
+We can do this using Claus Wilke's invaluable {ggtext} package, which provides improved rendering for ggplot2.
+
+1.  Link to article here: <https://www.ericekholm.com/posts/2021-03-24-improving-ggplots-with-text-color/>

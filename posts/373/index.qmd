@@ -1,0 +1,30 @@
+---
+title: "Hello Quarto"
+date: "2025-04-22"
+categories: [visualization]
+image: featured.png
+image-alt: "Illustration of two penguins, one blue and one orange, taking a selfie with a selfie stick. The moon in the background looks like the Quarto logo."
+---
+
+
+<link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/JoscelinRocha">![Buy me a coffee](https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg){alt="Buy me a coffee" width="15" height="21"}Buy me a coffee</a>
+
+------------------------------------------------------------------------
+
+
+## [How to visualize models Part 1 \| multiple linear models, all assumptions & post-hocs](https://www.youtube.com/watch?v=BNTn_f43U04&feature=youtu.be)💯
+
+By [Yury Zablotski](https://www.youtube.com/watch?v=BNTn_f43U04&feature=youtu.be)
+
+Added Thu Dec 31st, 2020
+
+**What is this?**
+
+**Excerpt from video description:** In this video, we'll visualize in RStudio the results and coefficients of:
+
+-   simple linear models with categorical predictor
+-   simple linear models with numeric predictor
+-   multiple linear models with numeric and categorical predictors &
+-   multiple linear models with interactions
+
+1.  Link to video demo here: <https://www.youtube.com/watch?v=BNTn_f43U04&feature=youtu.be>

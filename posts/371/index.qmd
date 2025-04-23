@@ -1,0 +1,26 @@
+---
+title: "Hello Quarto"
+date: "2025-04-22"
+categories: [visualization]
+image: featured.png
+image-alt: "Illustration of two penguins, one blue and one orange, taking a selfie with a selfie stick. The moon in the background looks like the Quarto logo."
+---
+
+
+<link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/JoscelinRocha">![Buy me a coffee](https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg){alt="Buy me a coffee" width="15" height="21"}Buy me a coffee</a>
+
+------------------------------------------------------------------------
+
+
+## [How to Preview Plots at Specific Dimensions in RStudio](https://rfortherestofus.com/2024/09/preview-plots)
+
+By David Keyes
+
+Added Thu Apr 17, 2025
+
+**What is this?**
+
+This tutorial demonstrates how to use the `gg_record()` function from the **camcorder** package to preview plots in RStudio with the exact dimensions intended for saving.
+By specifying the desired width and height, you can ensure that the on-screen plot matches the saved output, facilitating consistent and accurate visualizations.​[[R for the Rest of Us+1R for the Rest of Us+1]{.underline}](https://rfortherestofus.com/2024/09/preview-plots?utm_source=chatgpt.com)
+
+1.  Link to tutorial: <https://rfortherestofus.com/2024/09/preview-plots>

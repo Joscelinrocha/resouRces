@@ -1,0 +1,31 @@
+---
+title: "Hello Quarto"
+date: "2025-04-22"
+categories: [visualization]
+image: featured.png
+image-alt: "Illustration of two penguins, one blue and one orange, taking a selfie with a selfie stick. The moon in the background looks like the Quarto logo."
+---
+
+
+<link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/JoscelinRocha">![Buy me a coffee](https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg){alt="Buy me a coffee" width="15" height="21"}Buy me a coffee</a>
+
+------------------------------------------------------------------------
+
+
+## [How to pick more beautiful colors for your data visualizations](https://blog.datawrapper.de/beautifulcolors/)💯 💯
+
+By [Lisa Charlotte Rost](https://blog.datawrapper.de/beautifulcolors/)
+
+**What is this?**
+
+**Excerpt from blog:** Choosing good colors for your charts is hard.
+This article tries to make it easier.
+
+I want you to feel more confident in your color choices.
+And if you have no sense for colors at all, here's my attempt to help you find good ones anyway.
+We'll talk about common color mistakes I see out there in the wild, and how to avoid them.
+
+This is not the right article for you if you're trying to find good gradients or shades.
+But if you need to find beautiful, distinctive colors for different categories (e.g. continents, industries, bird species) for your line charts, pie charts, stacked bar charts, etc., read on.
+
+1.  Link to blog here: <https://blog.datawrapper.de/beautifulcolors/>
