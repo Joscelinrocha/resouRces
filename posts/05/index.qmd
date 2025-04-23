@@ -1,0 +1,17 @@
+---
+title: "Script to make ascii art from images in ggplot"
+date: "2025-04-21"
+categories: [art, visualization]
+image: "https://raw.githubusercontent.com/gkaramanis/aRt/refs/heads/master/ascii-art/plots/jimi-ascii.png"
+image-alt: "ASCII art portrait of Jimi Hendrix composed entirely of text characters, with varying densities and arrangements of letters and symbols used to render facial features, hair, and shadows in black and white."
+---
+
+<link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/JoscelinRocha">![Buy me a coffee](https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg){alt="Buy me a coffee" width="15" height="21"}Buy me a coffee</a>
+
+------------------------------------------------------------------------
+
+By [Georgios Karamanis](https://github.com/gkaramanis/aRt/tree/master/ascii-art)
+
+1.  Link to repo here: <https://github.com/gkaramanis/aRt/tree/master/ascii-art>
+
+![](https://raw.githubusercontent.com/gkaramanis/aRt/refs/heads/master/ascii-art/plots/jimi-ascii.png)

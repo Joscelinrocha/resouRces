@@ -1,0 +1,17 @@
+---
+title: "xstitch: A package for creating cross-stitch charts"
+date: "2021-10-12"
+categories: [art, visualization]
+image: "featured.png"
+image-alt: "Screenshot of the GitHub repository “xstitch” by user ysoh286. The repo is described as an “R package for generating cross-stitch charts.” The main view shows folders named R, man, and tests, along with files such as .gitignore, DESCRIPTION, NAMESPACE, and README.md. The latest commit message is about fixing a grayscale/channel error."
+---
+
+<link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/JoscelinRocha">![Buy me a coffee](https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg){alt="Buy me a coffee" width="15" height="21"}Buy me a coffee</a>
+
+------------------------------------------------------------------------
+
+**Excerpt from repo:** A package that creates a cross-stitch chart for you. All you have to do is supply an image! Partly inspired by privefl's pixelart shiny app.
+
+1.  Link to repo here: <https://github.com/ysoh286/xstitch/>
+
+![](featured.png)

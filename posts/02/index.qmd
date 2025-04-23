@@ -1,0 +1,19 @@
+---
+title: "Art with R"
+date: "2023-04-30"
+categories: [art, visualization]
+image: "https://raw.githubusercontent.com/GeertvanGeest/art-with-r/main/output/checkerboard_worley/checkerboard_worley_48.png"
+image-alt: "A generative artwork featuring a checkerboard grid overlaid with organic, cell-like patterns created using Worley noise, resulting in a blend of structured geometry and natural randomness."
+---
+
+<link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/JoscelinRocha">![Buy me a coffee](https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg){alt="Buy me a coffee" width="15" height="21"}Buy me a coffee</a>
+
+------------------------------------------------------------------------
+
+By [Geert van Geest](https://github.com/GeertvanGeest/art-with-r)
+
+**Excerpt from repo:** Playing around with R code to create art. All based on **Danielle Navarro's** tutorial: <https://art-from-code.netlify.app/>.
+
+![](https://raw.githubusercontent.com/GeertvanGeest/art-with-r/main/output/checkerboard_worley/checkerboard_worley_48.png)
+
+1.  Link to repo here: <https://github.com/GeertvanGeest/art-with-r>

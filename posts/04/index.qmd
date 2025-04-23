@@ -1,0 +1,17 @@
+---
+title: "Frankenstein: Voronoi tesselation example"
+date: "2025-04-21"
+categories: [art, visualization]
+image: "https://i0.wp.com/fronkonstin.com/wp-content/uploads/2017/03/Frankenstein_6kmain.jpeg?w=604&ssl=1"
+image-alt: "A generative portrait composed of thousands of tiny colored dots, forming a pointillist image of Frankenstein's monster. The portrait has a mosaic-like texture, with green, black, and brown tones dominating the face, set against a dark background."
+---
+
+<link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/JoscelinRocha">![Buy me a coffee](https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg){alt="Buy me a coffee" width="15" height="21"}Buy me a coffee</a>
+
+------------------------------------------------------------------------
+
+**Excerpt from blog:** A Voronoi diagram divides a plane based on a set of original points. Each polygon, or Voronoi cell, contains an original point and all that are closer to that point than any other. This is a nice example of a Voronoi tesselation.
+
+1.  Link to blog here: <https://fronkonstin.com/2017/03/07/frankenstein/>
+
+![](https://i0.wp.com/fronkonstin.com/wp-content/uploads/2017/03/Frankenstein_6kmain.jpeg?w=604&ssl=1)
