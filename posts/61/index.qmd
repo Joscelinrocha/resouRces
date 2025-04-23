@@ -1,0 +1,20 @@
+---
+title: "Hello Quarto"
+date: "2022-07-28"
+categories: [talk]
+image: featured.png
+image-alt: "Illustration of two penguins, one blue and one orange, taking a selfie with a selfie stick. The moon in the background looks like the Quarto logo."
+---
+
+
+<link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/JoscelinRocha">![Buy me a coffee](https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg){alt="Buy me a coffee" width="15" height="21"}Buy me a coffee</a>
+
+------------------------------------------------------------------------
+
+
+## [Open Data from city of New York](https://opendata.cityofnewyork.us/data/)
+
+**What is this?****Excerpt from site:** Open Data is an opportunity to engage New Yorkers in the information that is produced and used by City government.
+We believe that every New Yorker can benefit from Open Data, and Open Data can benefit from every New Yorker.
+
+1.  website here: <https://opendata.cityofnewyork.us/data/>

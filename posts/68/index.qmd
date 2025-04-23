@@ -1,0 +1,21 @@
+---
+title: "Hello Quarto"
+date: "2022-07-28"
+categories: [talk]
+image: featured.png
+image-alt: "Illustration of two penguins, one blue and one orange, taking a selfie with a selfie stick. The moon in the background looks like the Quarto logo."
+---
+
+
+<link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/JoscelinRocha">![Buy me a coffee](https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg){alt="Buy me a coffee" width="15" height="21"}Buy me a coffee</a>
+
+------------------------------------------------------------------------
+
+
+## [2022- World Population Data Sheet](https://2022-wpds.prb.org/)
+
+Added Fri Apr 28th, 2023
+
+**What is this?****Excerpt from site:** The *2022 World Population Data Sheet* provides the latest population, health, and environment indicators for more than 200 countries and territories, each carefully researched by PRB's expert team of demographers and analysts.
+
+1.  Link to documentation: <https://2022-wpds.prb.org/>

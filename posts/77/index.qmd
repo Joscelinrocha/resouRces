@@ -1,0 +1,25 @@
+---
+title: "Hello Quarto"
+date: "2025-04-22"
+categories: []
+image: featured.png
+image-alt: "Illustration of two penguins, one blue and one orange, taking a selfie with a selfie stick. The moon in the background looks like the Quarto logo."
+---
+
+
+<link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/JoscelinRocha">![Buy me a coffee](https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg){alt="Buy me a coffee" width="15" height="21"}Buy me a coffee</a>
+
+------------------------------------------------------------------------
+
+
+## [blsR: Make Requests from the Bureau of Labor Statistics API](https://cran.r-project.org/web/packages/blsR/index.html)
+
+By [Guillermo Roditi Dominguez](https://cran.r-project.org/web/packages/blsR/index.html)
+
+Added Tue Nov 7, 2023
+
+**What is this?**
+
+**Excerpt from the site:** Implements v2 of the B.L.S. API for requests of survey information and time series data through 3-tiered API that allows users to interact with the raw API directly, create queries through a functional interface, and re-shape the data structures returned to fit common uses.
+
+1.  Site is here: <https://cran.r-project.org/web/packages/blsR/index.html>

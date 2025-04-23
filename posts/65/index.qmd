@@ -1,0 +1,26 @@
+---
+title: "Hello Quarto"
+date: "2022-07-28"
+categories: [talk]
+image: featured.png
+image-alt: "Illustration of two penguins, one blue and one orange, taking a selfie with a selfie stick. The moon in the background looks like the Quarto logo."
+---
+
+
+<link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/JoscelinRocha">![Buy me a coffee](https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg){alt="Buy me a coffee" width="15" height="21"}Buy me a coffee</a>
+
+------------------------------------------------------------------------
+
+
+## [Project on Human Development in Chicago Neighborhoods (PHDCN)](https://www.icpsr.umich.edu/web/NACJD/series/206)
+
+Added Fri Apr 28th, 2023
+
+**What is this?**
+
+**Excerpt from site:** The Project on Human Development in Chicago Neighborhoods (PHDCN) is a large-scale, interdisciplinary study of how families, schools, and neighborhoods affect child and adolescent development.
+It was designed to advance the understanding of the developmental pathways of both positive and negative human social behaviors.
+In particular, the project examined the causes and pathways of juvenile delinquency, adult crime, substance abuse, and violence.
+At the same time, the project also provided a detailed look at the environments in which these social behaviors take place by collecting substantial amounts of data about urban Chicago, including its people, institutions, and resources.
+
+1.  Link to list of datasets here: <https://www.icpsr.umich.edu/web/NACJD/series/206>

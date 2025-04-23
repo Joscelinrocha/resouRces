@@ -1,0 +1,26 @@
+---
+title: "Hello Quarto"
+date: "2025-04-22"
+categories: []
+image: featured.png
+image-alt: "Illustration of two penguins, one blue and one orange, taking a selfie with a selfie stick. The moon in the background looks like the Quarto logo."
+---
+
+
+<link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/JoscelinRocha">![Buy me a coffee](https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg){alt="Buy me a coffee" width="15" height="21"}Buy me a coffee</a>
+
+------------------------------------------------------------------------
+
+
+## [Accessing open book data with openlibraryR](https://www.kaylinpavlik.com/openlibraryr/)
+
+By [Kaylin Pavlik](https://www.kaylinpavlik.com/openlibraryr/)
+
+Added Thu Apr 22, 2021
+
+**What is this?**
+
+**Excerpt from the site:** openlibraryR is a simple API wrapper for OpenLibrary.org, which aims to have a web page for every book ever published.
+Users can add to the catalogue, download or borrow books, or edit one of the 20 million+ current records.
+
+1.  Site is here: <https://www.kaylinpavlik.com/openlibraryr/>

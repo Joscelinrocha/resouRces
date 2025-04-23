@@ -1,0 +1,25 @@
+---
+title: "Hello Quarto"
+date: "2025-04-22"
+categories: []
+image: featured.png
+image-alt: "Illustration of two penguins, one blue and one orange, taking a selfie with a selfie stick. The moon in the background looks like the Quarto logo."
+---
+
+
+<link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/JoscelinRocha">![Buy me a coffee](https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg){alt="Buy me a coffee" width="15" height="21"}Buy me a coffee</a>
+
+------------------------------------------------------------------------
+
+
+## [A Jupyter + R ( + mybinder.org) tutorial for social scientists](https://github.com/InfantLab/NotebookDemos)
+
+By [The Infant Lab](https://github.com/InfantLab/NotebookDemos)
+
+**What is this?**
+
+**Excerpt from repo:** This repository contains a Jupyter notebook file which walks you through the basics of using notebooks and RStats for reproducible data analysis.
+It starts with a general guide to the notebook format and how to install the necessary software.
+Then it goes through an example using R to load data, filter missing values, create graphs and run statistical tests.
+
+1.  Link to repo here: https://github.com/InfantLab/NotebookDemos

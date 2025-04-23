@@ -1,0 +1,24 @@
+---
+title: "Hello Quarto"
+date: "2025-04-22"
+categories: []
+image: featured.png
+image-alt: "Illustration of two penguins, one blue and one orange, taking a selfie with a selfie stick. The moon in the background looks like the Quarto logo."
+---
+
+
+<link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/JoscelinRocha">![Buy me a coffee](https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg){alt="Buy me a coffee" width="15" height="21"}Buy me a coffee</a>
+
+------------------------------------------------------------------------
+
+
+## [An Introduction to Docker for R Users](https://colinfay.me/docker-r-reproducibility/)
+
+By [Colin Fay](https://colinfay.me/docker-r-reproducibility/)
+
+**What is this?**
+
+**Excerpt from blog:** A quick introduction on using Docker for reproducibility in R.
+Disclaimer: This blog post is an introduction to Docker for beginners, and will take some shortcuts ;)
+
+1.  Link to blog: <https://colinfay.me/docker-r-reproducibility/>
