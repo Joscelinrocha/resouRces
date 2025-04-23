@@ -1,0 +1,24 @@
+---
+title: "Hello Quarto"
+date: "2025-04-22"
+categories: [Machine Learning]
+image: featured.png
+image-alt: "Illustration of two penguins, one blue and one orange, taking a selfie with a selfie stick. The moon in the background looks like the Quarto logo."
+---
+
+
+<link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/JoscelinRocha">![Buy me a coffee](https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg){alt="Buy me a coffee" width="15" height="21"}Buy me a coffee</a>
+
+------------------------------------------------------------------------
+
+
+## [Supervised Machine Learning for Text Analysis in R](https://smltar.com/)
+
+By [Emil Hvitfeldt & Julia Silge](https://smltar.com/)
+
+**What is this?**
+
+**Excerpt from e-book:** This book serves as a thorough introduction to prediction and modeling with text, along with detailed practical examples.
+
+1.  Link to e-book: <https://smltar.com/>
+2.  Link to repo: <https://github.com/EmilHvitfeldt/smltar>

@@ -1,0 +1,27 @@
+---
+title: "Hello Quarto"
+date: "2025-04-22"
+categories: [Learning R]
+image: featured.png
+image-alt: "Illustration of two penguins, one blue and one orange, taking a selfie with a selfie stick. The moon in the background looks like the Quarto logo."
+---
+
+
+<link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/JoscelinRocha">![Buy me a coffee](https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg){alt="Buy me a coffee" width="15" height="21"}Buy me a coffee</a>
+
+------------------------------------------------------------------------
+
+
+## [Using R as a GIS: Preview: What Is R?](https://locatepress.com/book/rgis1)
+
+By [Dr. Nick Bearman](https://locatepress.com/book/rgis1)
+
+Added Fri Apr 14th, 2023
+
+**What is this?**
+
+**Excerpt from e-book here:** In this preview chapter, we discuss what R is how we can use it as a GIS and why it is different to many other Geographic Information System (GIS) programs.
+
+This book is in the works and we are offering a single preview chapter for free!
+
+1.  Link to the course here: <https://locatepress.com/book/rgis1>

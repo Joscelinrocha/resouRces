@@ -1,0 +1,23 @@
+---
+title: "Hello Quarto"
+date: "2025-04-22"
+categories: [Learning R]
+image: featured.png
+image-alt: "Illustration of two penguins, one blue and one orange, taking a selfie with a selfie stick. The moon in the background looks like the Quarto logo."
+---
+
+
+<link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/JoscelinRocha">![Buy me a coffee](https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg){alt="Buy me a coffee" width="15" height="21"}Buy me a coffee</a>
+
+------------------------------------------------------------------------
+
+
+## [What They Forgot to Teach You About R](https://rstats.wtf/index.html) 🌳
+
+By [Jennifer Bryan & Jim Hester](https://rstats.wtf/index.html)
+
+**What is this?**
+
+**Excerpt from site:** The initial impetus for creating these materials is a two-day hands-on workshop. The in-person workshops are still the primary delivery method for this content, but we've begun recording prose versions of this content, in order to make it more widely available and for participants to refer back to. Warning: these materials absolutely do not constitute a self-contained "book", nor do they capture all workshop content.
+
+1.  Web-book here: <https://rstats.wtf/index.html>

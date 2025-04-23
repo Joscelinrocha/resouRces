@@ -1,0 +1,25 @@
+---
+title: "Hello Quarto"
+date: "2025-04-22"
+categories: [Learning R]
+image: featured.png
+image-alt: "Illustration of two penguins, one blue and one orange, taking a selfie with a selfie stick. The moon in the background looks like the Quarto logo."
+---
+
+
+<link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/JoscelinRocha">![Buy me a coffee](https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg){alt="Buy me a coffee" width="15" height="21"}Buy me a coffee</a>
+
+------------------------------------------------------------------------
+
+
+## [The R Workshop Book](https://www.r-workshop.org/)
+
+By Rebecca L. Barter
+
+Added Thu Feb 20, 2025
+
+**What is this?**
+
+**The R Workshop Book** is designed to help beginners learn R for data analysis, focusing on tabular data manipulation and visualization using the tidyverse. It serves as a companion to workshops originally developed and taught at the University of Utah, covering R fundamentals, data frames, and visualization with ggplot2.
+
+1.  Link to book here: <https://www.r-workshop.org/>
