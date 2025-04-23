@@ -1,0 +1,36 @@
+---
+title: "Hello Quarto"
+date: "2025-04-22"
+categories: [Joscelin's fav]
+image: featured.png
+image-alt: "Illustration of two penguins, one blue and one orange, taking a selfie with a selfie stick. The moon in the background looks like the Quarto logo."
+---
+
+
+<link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/JoscelinRocha">![Buy me a coffee](https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg){alt="Buy me a coffee" width="15" height="21"}Buy me a coffee</a>
+
+------------------------------------------------------------------------
+
+
+## session_info: Print Session Information
+
+Added Feb 2nd, 2022
+
+**What is this?**
+
+Provides detailed session information, useful for debugging and
+reproducibility.
+
+1.  Link to function:
+    <https://rdrr.io/cran/sessioninfo/man/session_info.html>
+    
+> \*\*\* *What I like to use if I want a list of all packages with an
+> asterisk if I have them in this script:* library(sessioninfo)
+
+library(sessioninfo)
+session_info(pkgs="!loaded", to_file = TRUE)
+
+> \*\* *What I like to use for reports and sharing scripts:*
+
+library(sessioninfo)
+session_info(pkgs="!attached", to_file = TRUE)

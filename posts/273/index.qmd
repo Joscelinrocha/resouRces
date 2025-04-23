@@ -1,0 +1,24 @@
+---
+title: "Hello Quarto"
+date: "2025-04-22"
+categories: [statistics]
+image: featured.png
+image-alt: "Illustration of two penguins, one blue and one orange, taking a selfie with a selfie stick. The moon in the background looks like the Quarto logo."
+---
+
+
+<link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/JoscelinRocha">![Buy me a coffee](https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg){alt="Buy me a coffee" width="15" height="21"}Buy me a coffee</a>
+
+------------------------------------------------------------------------
+
+
+## [Introduction to Empirical Bayes: Examples from Baseball Statistics](https://gumroad.com/l/empirical-bayes)
+
+By [David Robinson](https://gumroad.com/l/empirical-bayes)
+
+**What is this?**
+
+**Excerpt from ebook:** This book is adapted from a series of ten posts on my blog, starting with Understanding the beta distribution and ending recently with Simulation of empirical Bayesian methods.
+In these posts I've introduced the empirical Bayesian approach to estimation, credible intervals, A/B testing, mixture models, and other methods, all through the example of baseball batting averages.
+
+1.  Link to e-book here: <https://gumroad.com/l/empirical-bayes>

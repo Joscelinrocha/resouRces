@@ -1,0 +1,28 @@
+---
+title: "Hello Quarto"
+date: "2025-04-22"
+categories: [visualization]
+image: featured.png
+image-alt: "Illustration of two penguins, one blue and one orange, taking a selfie with a selfie stick. The moon in the background looks like the Quarto logo."
+---
+
+
+<link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/JoscelinRocha">![Buy me a coffee](https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg){alt="Buy me a coffee" width="15" height="21"}Buy me a coffee</a>
+
+------------------------------------------------------------------------
+
+
+## [Best Practices for Data Visualisation](https://royal-statistical-society.github.io/datavisguide/) 💯
+
+By Andreas Krause, Nicola Rennie, and Brian Tarran
+
+Added Thu Apr 17, 2025
+
+**What is this?**
+
+This comprehensive guide by the Royal Statistical Society offers insights and advice on creating effective data visualisations.
+It covers both the art and science of data presentation, aiming to make data outputs more readable, accessible, and impactful.
+The guide includes principles of visualisation, choosing appropriate chart types, styling for accessibility, and tailoring visuals for RSS publications.
+It also provides references and resources for further learning.​
+
+1.  Link to guide: <https://royal-statistical-society.github.io/datavisguide/>

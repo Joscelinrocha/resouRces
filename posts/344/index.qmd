@@ -1,0 +1,27 @@
+---
+title: "Hello Quarto"
+date: "2025-04-22"
+categories: [visualization]
+image: featured.png
+image-alt: "Illustration of two penguins, one blue and one orange, taking a selfie with a selfie stick. The moon in the background looks like the Quarto logo."
+---
+
+
+<link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/JoscelinRocha">![Buy me a coffee](https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg){alt="Buy me a coffee" width="15" height="21"}Buy me a coffee</a>
+
+------------------------------------------------------------------------
+
+
+## [Dark ggtheme: Publication-Ready Themes and Color Palettes for ggplot2](https://github.com/koundy/ggplot_theme_Publication) 💯
+
+By Koundy
+
+Added Thu Feb 20, 2025
+
+**What is this?**
+
+The **ggplot_theme_Publication** repository offers three custom themes and new color palettes for **ggplot2**, aiming to create clean and simple graphics suitable for publication.
+These themes address common aesthetic concerns such as plot background, title and axis label fonts and sizes, axis appearance, tick marks, colors, and legend positioning.
+By applying these themes, users can enhance the visual appeal and readability of their plots, making them more suitable for inclusion in academic and professional publications.
+
+1.  Link to repository here: <https://github.com/koundy/ggplot_theme_Publication>

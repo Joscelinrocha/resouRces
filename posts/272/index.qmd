@@ -1,0 +1,25 @@
+---
+title: "Hello Quarto"
+date: "2025-04-22"
+categories: [statistics]
+image: featured.png
+image-alt: "Illustration of two penguins, one blue and one orange, taking a selfie with a selfie stick. The moon in the background looks like the Quarto logo."
+---
+
+
+<link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/JoscelinRocha">![Buy me a coffee](https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg){alt="Buy me a coffee" width="15" height="21"}Buy me a coffee</a>
+
+------------------------------------------------------------------------
+
+
+## [Handling missing values in R](https://www.r-bloggers.com/2021/04/handling-missing-values-in-r/)
+
+Added Sun June 6th, 2021
+
+**What is this?**
+
+**Excerpt from blog:** Handling missing values in R, one of the common tasks in data analysis is handling missing values.
+In R, missing values are often represented by the symbol NA (not available) or some other value that represents missing values (i.e. 99).
+Impossible values (e.g., dividing by zero) are represented by the symbol NaN (not a number)
+
+1.  Link to blog here: <https://www.r-bloggers.com/2021/04/handling-missing-values-in-r/>

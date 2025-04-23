@@ -1,0 +1,28 @@
+---
+title: "Hello Quarto"
+date: "2025-04-22"
+categories: [visualization]
+image: featured.png
+image-alt: "Illustration of two penguins, one blue and one orange, taking a selfie with a selfie stick. The moon in the background looks like the Quarto logo."
+---
+
+
+<link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/JoscelinRocha">![Buy me a coffee](https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg){alt="Buy me a coffee" width="15" height="21"}Buy me a coffee</a>
+
+------------------------------------------------------------------------
+
+
+## [Data Visualization for Educational Data Science](https://dataviz-2021.netlify.app/)💯
+
+Added Thu Dec 31st, 2020
+
+**What is this?**
+
+Welcome to the second course in the Educational Data Science Specialization taught at the University of Oregon through the College of Education.
+This course will be taught through R, a free and open-source statistical computing environment, and will provide students with the foundational principles and practice of data visualization, particularly as applied to scientific and technical data.
+We will have weekly lectures, covering a wide variety of topics including human perception, color theory, and principles of visual design.
+We will also cover mediums for communication across diverse audiences with an emphasis on different web applications.
+Weekly hands-on laboratory sessions provide students the opportunity to put the lecture material into practice.
+
+1.  Link to site here: <https://dataviz-2021.netlify.app/>
+2.  Link to repo here: <https://github.com/uo-datasci-specialization/c2-dataviz-2021>

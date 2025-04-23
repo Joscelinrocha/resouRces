@@ -1,0 +1,27 @@
+---
+title: "Hello Quarto"
+date: "2025-04-22"
+categories: [visualization]
+image: featured.png
+image-alt: "Illustration of two penguins, one blue and one orange, taking a selfie with a selfie stick. The moon in the background looks like the Quarto logo."
+---
+
+
+<link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/JoscelinRocha">![Buy me a coffee](https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg){alt="Buy me a coffee" width="15" height="21"}Buy me a coffee</a>
+
+------------------------------------------------------------------------
+
+
+## [Data visualisation using R, for researchers who don't use R](https://psyteachr.github.io/introdataviz/)💯
+
+Added Fri Feb 18th, 2022
+
+**What is this?**
+
+**Excerpt from site:** In this tutorial, we provide a practical introduction to data visualisation using R, specifically aimed at researchers who have little to no prior experience of using R.
+First we detail the rationale for using R for data visualisation and introduce the "grammar of graphics" that underlies data visualisation using the ggplot2 package.
+The tutorial then walks the reader through how to replicate plots that are commonly available in point-and-click software such as histograms and boxplots, as well as showing how the code for these "basic" plots can be easily extended to less commonly available options such as violin-boxplots.
+
+1.  Link to site here: <https://psyteachr.github.io/introdataviz/>
+2.  Link to dataset here: <https://osf.io/bj83f/>
+3.  Link to published manuscript here: <https://journals.sagepub.com/doi/10.1177/25152459221074654>

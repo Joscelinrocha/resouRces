@@ -1,0 +1,29 @@
+---
+title: "Hello Quarto"
+date: "2025-04-22"
+categories: [statistics]
+image: featured.png
+image-alt: "Illustration of two penguins, one blue and one orange, taking a selfie with a selfie stick. The moon in the background looks like the Quarto logo."
+---
+
+
+<link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/JoscelinRocha">![Buy me a coffee](https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg){alt="Buy me a coffee" width="15" height="21"}Buy me a coffee</a>
+
+------------------------------------------------------------------------
+
+
+## Learning Stats with Andy Wills and others:
+
+1.  [Group differences](https://ajwills72.github.io/rminr/group-differences.html)
+2.  [Evidence: What's a P value?, t-tests by Andy Wills & Chris Berry](https://ajwills72.github.io/rminr/evidence.html)
+3.  [More on T-tests](https://ajwills72.github.io/rminr/more-on-t.html)
+4.  [More on Bayes Factors by Andy Wills & Chris Berry](https://ajwills72.github.io/rminr/more-on-bf.html)
+5.  [Inter-rater reliability by Michaela Gummerum & Andy Wills](https://ajwills72.github.io/rminr/irr.html) 💯
+6.  [More on Cohen's Kappa](https://ajwills72.github.io/rminr/more-on-kappa.html) 💯
+7.  [Within-subject differences by Andy Wills and Clare Walsh](https://ajwills72.github.io/rminr/anova1.html)
+8.  [Factorial differences by Andy Wills and Clare Walsh](https://ajwills72.github.io/rminr/anova3.html)
+9.  [Factorial differences, part 2 by Andy Wills and Clare Walsh](https://ajwills72.github.io/rminr/anova4.html)
+10. [Traditional ANOVA by Andy Wills](https://ajwills72.github.io/rminr/more-on-anova.html)
+11. [Better tables by Paul Sharpe, Andy Wills](https://ajwills72.github.io/rminr/better-tables.html)
+12. [Analysing scales by Paul Sharpe, Andy Wills, Sophie Homer](https://ajwills72.github.io/rminr/analyse-scales.html)
+13. [Traditional non-parametric tests by Paul Sharpe](https://ajwills72.github.io/rminr/non-parametric.html)

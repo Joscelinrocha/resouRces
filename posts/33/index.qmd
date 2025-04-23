@@ -1,0 +1,19 @@
+---
+title: "Reproducible science workshop: A one-day workshop with R and RStudio"
+date: "2021-10-08"
+categories: [data science, tidyverse, visualization, wrangling, talk]
+image: featured.png
+image-alt: " Slide titled “Workshop on reproducible science: Motivations” by Olivier Gimenez. The text is centered on a plain white background. Below the title is the author’s name, followed by the line “last updated: 2021-02-27.”"
+---
+
+<link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/JoscelinRocha">![Buy me a coffee](https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg){alt="Buy me a coffee" width="15" height="21"}Buy me a coffee</a>
+
+------------------------------------------------------------------------
+
+By [Olivier Gimenez](https://oliviergimenez.github.io/reproducible-science-workshop/)
+
+One day Workshop that includes the following topics: Motivations, Manipulating data in the tidyverse, Visualising data in the tidyverse, Writing dynamic and reproducible documents with R Markdown, Versioning with Git and GitHub in RStudio, and Take-home messages.
+
+1.  Link to materials and videos here: <https://oliviergimenez.github.io/reproducible-science-workshop/>
+
+![](featured.png)

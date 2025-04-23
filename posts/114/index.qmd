@@ -1,0 +1,25 @@
+---
+title: "Hello Quarto"
+date: "2025-04-22"
+categories: [Learning R]
+image: featured.png
+image-alt: "Illustration of two penguins, one blue and one orange, taking a selfie with a selfie stick. The moon in the background looks like the Quarto logo."
+---
+
+
+<link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/JoscelinRocha">![Buy me a coffee](https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg){alt="Buy me a coffee" width="15" height="21"}Buy me a coffee</a>
+
+------------------------------------------------------------------------
+
+
+## [A Psychologist's Guide to R](https://github.com/seanchrismurphy/A-Psychologists-Guide-to-R) 🌱
+
+By: Sean C. Murphy
+
+Added Fri Apr 28, 2023
+
+**What is this?**
+
+**Description from site:** This is a repository containing the course notes and worked examples for a six week course in the R statistical programming language taught at the University of Melbourne, Australia. It is targeted at graduate students and faculty in psychology (and probably other social sciences) with no programming experience, and covers the use of R from the basics up to multilevel modelling, though it is not exhaustive within that range.
+
+1.  Course materials here: <https://github.com/seanchrismurphy/A-Psychologists-Guide-to-R>

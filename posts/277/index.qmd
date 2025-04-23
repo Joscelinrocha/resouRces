@@ -1,0 +1,25 @@
+---
+title: "Hello Quarto"
+date: "2025-04-22"
+categories: [statistics]
+image: featured.png
+image-alt: "Illustration of two penguins, one blue and one orange, taking a selfie with a selfie stick. The moon in the background looks like the Quarto logo."
+---
+
+
+<link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/JoscelinRocha">![Buy me a coffee](https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg){alt="Buy me a coffee" width="15" height="21"}Buy me a coffee</a>
+
+------------------------------------------------------------------------
+
+
+## [Learning Statistics](https://learningstatisticswithr.com/)
+
+By [Danielle Navarro](https://learningstatisticswithr.com/)
+
+**What is this?**
+
+The wonderful Danielle Navarro taught an introductory statistics class for psychology students.
+Her lecture notes for this class became a great book that is freely available.
+
+1.  The book is here: [https://learningstatisticswithr.com/lsr-0.6.pdf or https://learningstatisticswithr.com/book/](https://learningstatisticswithr.com/lsr-0.6.pdf%20or%20https://learningstatisticswithr.com/book/)
+2.  The repository with all the source materials is here: <https://github.com/djnavarro/rbook>

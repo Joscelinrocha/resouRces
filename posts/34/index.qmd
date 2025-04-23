@@ -1,0 +1,21 @@
+---
+title: "Text Mining with R A Tidy Approach"
+date: "2025-04-22"
+categories: [visualization, statistics]
+image: https://www.tidytextmining.com/images/cover.png
+image-alt: "Book cover for “Text Mining with R: A Tidy Approach” by Julia Silge and David Robinson. The cover features the O’Reilly logo at the top and a red banner with the book title in white serif font. Below the title is a detailed black-and-white illustration of a rabbit sitting, facing right. The authors’ names appear at the bottom in black text."
+---
+
+<link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/JoscelinRocha">![Buy me a coffee](https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg){alt="Buy me a coffee" width="15" height="21"}Buy me a coffee</a>
+
+------------------------------------------------------------------------
+
+By [Julia Silge and David Robinson](https://www.tidytextmining.com/)
+
+**Excerpt from ebook:** This book serves as an introduction of text mining using the tidytext package and other tidy tools in R. The functions provided by the tidytext package are relatively simple; what is important are the possible applications. Thus, this book provides compelling examples of real text mining problems.
+
+1.  Link to free ebook here: <https://www.tidytextmining.com/>
+2.  Buy the book here: [Amazon](https://www.amazon.com/gp/product/1491981652/ref=as_li_tl?ie=UTF8&tag=juliasilge-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=1491981652&linkId=0e92d44b0aa39ab34608ffa582dbd490)
+3.  Link to repo here: <https://github.com/dgrtwo/tidy-text-mining>
+
+![](https://www.tidytextmining.com/images/cover.png)

@@ -1,0 +1,28 @@
+---
+title: "Hello Quarto"
+date: "2025-04-22"
+categories: [visualization]
+image: featured.png
+image-alt: "Illustration of two penguins, one blue and one orange, taking a selfie with a selfie stick. The moon in the background looks like the Quarto logo."
+---
+
+
+<link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/JoscelinRocha">![Buy me a coffee](https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg){alt="Buy me a coffee" width="15" height="21"}Buy me a coffee</a>
+
+------------------------------------------------------------------------
+
+
+## [An Introduction to the {gganimate} Package](https://rfortherestofus.com/2024/11/gganimate-intro)
+
+By David Keyes
+
+Added Thu Apr 17, 2025
+
+**What is this?**
+
+This tutorial introduces the {gganimate} package, which enables the creation of animated plots in R.
+Using data from the UNHCR's {refugees} package, it demonstrates how to animate a line chart showing the percentage of refugees in Syria over time.
+The tutorial also covers creating an animated map of refugee populations in Western Asia, utilizing geospatial data and the {sf} package.
+Key functions highlighted include `transition_reveal()` for line animations and `transition_manual()` for map animations.
+
+1.  Link to tutorial: <https://rfortherestofus.com/2024/11/gganimate-intro>

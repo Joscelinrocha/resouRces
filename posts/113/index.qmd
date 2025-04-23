@@ -1,0 +1,23 @@
+---
+title: "Hello Quarto"
+date: "2025-04-22"
+categories: [Learning R]
+image: featured.png
+image-alt: "Illustration of two penguins, one blue and one orange, taking a selfie with a selfie stick. The moon in the background looks like the Quarto logo."
+---
+
+
+<link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/JoscelinRocha">![Buy me a coffee](https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg){alt="Buy me a coffee" width="15" height="21"}Buy me a coffee</a>
+
+------------------------------------------------------------------------
+
+
+## [A gentle crash course in R using tidyverse](https://osf.io/69gub/) 🌱
+
+By: Nicholas M. Michalak & Loek Brinkman
+
+**What is this?**
+
+**Description from site:** In this three-hour workshop, we introduce you to data science in the R programming language. In particular, we'll show you how to use the "tidyverse" package to transform, visualize and model data. The workshop consists of short introductory presentations followed by elaborate hands-on sessions. At the end of each section, we'll showcase more complex features and functionality. The workshop is designed as an introduction to R. Zero programming experience is required. By the end of the workshop, you'll have a "feel" for what R is and what it can do for you, and we'll provide resources for follow-up self-study.
+
+1.  Course materials here: <https://osf.io/69gub/>

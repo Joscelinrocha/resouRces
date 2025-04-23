@@ -1,0 +1,24 @@
+---
+title: "Hello Quarto"
+date: "2025-04-22"
+categories: [Joscelin's fav]
+image: featured.png
+image-alt: "Illustration of two penguins, one blue and one orange, taking a selfie with a selfie stick. The moon in the background looks like the Quarto logo."
+---
+
+
+<link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/JoscelinRocha">![Buy me a coffee](https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg){alt="Buy me a coffee" width="15" height="21"}Buy me a coffee</a>
+
+------------------------------------------------------------------------
+
+
+## DataEditR by Dillon Hammill 💯
+
+**What is this?**
+
+**DataEditR** is an interactive tool for manual data entry and editing
+in R. Built on **shiny** and **rhandsontable**, it makes filtering and
+editing data easier, especially for users with limited coding
+experience.
+
+1.  Link to package: <https://dillonhammill.github.io/DataEditR/>

@@ -1,0 +1,23 @@
+---
+title: "Hello Quarto"
+date: "2025-04-22"
+categories: [Joscelin's fav]
+image: featured.png
+image-alt: "Illustration of two penguins, one blue and one orange, taking a selfie with a selfie stick. The moon in the background looks like the Quarto logo."
+---
+
+
+<link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/JoscelinRocha">![Buy me a coffee](https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg){alt="Buy me a coffee" width="15" height="21"}Buy me a coffee</a>
+
+------------------------------------------------------------------------
+
+
+## fable: Time Series Forecasting Models
+
+**What is this?**
+
+**Fable** provides a collection of time series forecasting models that
+integrate with the **tidyverse** framework, making model evaluation and
+visualization straightforward.
+
+1.  Link to package: <https://github.com/tidyverts/fable>

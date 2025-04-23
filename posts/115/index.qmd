@@ -1,0 +1,24 @@
+---
+title: "Hello Quarto"
+date: "2025-04-22"
+categories: [Learning R]
+image: featured.png
+image-alt: "Illustration of two penguins, one blue and one orange, taking a selfie with a selfie stick. The moon in the background looks like the Quarto logo."
+---
+
+
+<link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/JoscelinRocha">![Buy me a coffee](https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg){alt="Buy me a coffee" width="15" height="21"}Buy me a coffee</a>
+
+------------------------------------------------------------------------
+
+
+## [Advanced R](https://adv-r.hadley.nz/) 🌳🌳
+
+By [Hadley Wickham](https://adv-r.hadley.nz/)
+
+**What is this?**
+
+Excerpt from site: This is the website for 2nd edition of "Advanced R", a book in Chapman & Hall's R Series. The book is designed primarily for R users who want to improve their programming skills and understanding of the language. It should also be useful for programmers coming to R from other languages, as it helps you to understand why R works the way it does.
+
+1.  Free web-book here: [https://adv-r.hadley.nz/ or http://adv-r.had.co.nz/Introduction.html](https://adv-r.hadley.nz/%20or%20http://adv-r.had.co.nz/Introduction.html)
+2.  Buy book here: [Link to Amazon](https://www.amazon.com/dp/0815384572/ref=cm_sw_su_dp?tag=devtools-20)

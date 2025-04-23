@@ -1,0 +1,19 @@
+---
+title: "Building reproducible analytical pipelines with R"
+date: "2023-04-24"
+categories: [book, data science]
+image: "https://d2sofvawe08yqg.cloudfront.net/raps-with-r/s_hero2x?1676902653"
+image-alt: "Book cover for “Building Reproducible Analytical Pipelines with R” by Bruno Rodrigues. The title is written in bold, gray sans-serif font at the top. Below the title is a horizontal line of repeated vintage-style illustrations of women in red skirts and yellow tops, carrying large baskets in a coordinated procession. The author’s name appears in the bottom right corner."
+---
+
+<link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/JoscelinRocha">![Buy me a coffee](https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg){alt="Buy me a coffee" width="15" height="21"}Buy me a coffee</a>
+
+------------------------------------------------------------------------
+
+By [Bruno Rodrigues](https://raps-with-r.dev/)
+
+**Excerpt from e-book:** The aim of this book is to teach you how to use some of the best practices from software engineering and DevOps to make your projects robust, reliable and reproducible. It doesn't matter if you work alone, in a small or in a big team. It doesn't matter if your work gets (peer-)reviewed or audited: the techniques presented in this book will make your projects more reliable and save you a lot of frustration!
+
+1.  Link to ebook here: <https://raps-with-r.dev/>
+
+![](https://d2sofvawe08yqg.cloudfront.net/raps-with-r/s_hero2x?1676902653)

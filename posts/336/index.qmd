@@ -1,0 +1,24 @@
+---
+title: "Hello Quarto"
+date: "2025-04-22"
+categories: [visualization]
+image: featured.png
+image-alt: "Illustration of two penguins, one blue and one orange, taking a selfie with a selfie stick. The moon in the background looks like the Quarto logo."
+---
+
+
+<link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/JoscelinRocha">![Buy me a coffee](https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg){alt="Buy me a coffee" width="15" height="21"}Buy me a coffee</a>
+
+------------------------------------------------------------------------
+
+
+## [Calendar plot in R using ggplot2](https://r-coder.com/calendar-plot-r/)
+
+**What is this?**
+
+**Excerpt from site:** The calendR package allows creating fully customizable ggplot2 calendar plots with a single function.
+In addition, the package provides arguments to create heatmap calendars.
+In this tutorial you will learn how to create ready to print yearly and monthly calendar plots in R.
+
+1.  Link to blog here: <https://r-coder.com/calendar-plot-r/>
+2.  Link to package here: <https://cran.r-project.org/web/packages/calendR/>

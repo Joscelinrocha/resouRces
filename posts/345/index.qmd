@@ -1,0 +1,27 @@
+---
+title: "Hello Quarto"
+date: "2025-04-22"
+categories: [visualization]
+image: featured.png
+image-alt: "Illustration of two penguins, one blue and one orange, taking a selfie with a selfie stick. The moon in the background looks like the Quarto logo."
+---
+
+
+<link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/JoscelinRocha">![Buy me a coffee](https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg){alt="Buy me a coffee" width="15" height="21"}Buy me a coffee</a>
+
+------------------------------------------------------------------------
+
+
+## [Data Visualization: A practical introduction](https://www.data-to-viz.com/)
+
+By [Kieran Healy](https://www.data-to-viz.com/)
+
+**What is this?**
+
+**Excerpt from site:** This book is a hands-on introduction to the principles and practice of looking at and presenting data using R and ggplot.
+R is a powerful, widely used, and freely available programming language for data analysis.
+You may be interested in exploring ggplot after having used R before, or be entirely new to both R and ggplot and just want to graph your data.
+I do not assume you have any prior knowledge of R.
+
+1.  Free web-book here: <https://socviz.co/index.html#preface>
+2.  Buy book here: [Link to Amazon](https://www.amazon.com/gp/product/0691181624/ref=as_li_tl?ie=UTF8&tag=kieranhealysw-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0691181624&linkId=16d53b3cc1ec3bc3aac60b27c29b92e8)

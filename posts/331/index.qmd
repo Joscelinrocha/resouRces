@@ -1,0 +1,25 @@
+---
+title: "Hello Quarto"
+date: "2025-04-22"
+categories: [visualization]
+image: featured.png
+image-alt: "Illustration of two penguins, one blue and one orange, taking a selfie with a selfie stick. The moon in the background looks like the Quarto logo."
+---
+
+
+<link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/JoscelinRocha">![Buy me a coffee](https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg){alt="Buy me a coffee" width="15" height="21"}Buy me a coffee</a>
+
+------------------------------------------------------------------------
+
+
+## [An introduction to cowplot](https://meghan.rbind.io/blog/cowplot/)
+
+By [Meghan Hall](https://meghan.rbind.io/blog/cowplot/)
+
+Added Sat Dec 11, 2021
+
+**What is this?**
+
+**Excerpt from site:** "This week's #TidyTuesday data set is all about lemurs (with data from the Duke Lemur Center), so I figured I would stick with the animal theme and discuss a few functions from Claus Wilke's cowplot package, which is my personal favorite package for arranging plots made in R".
+
+1.  Post and course here: <https://meghan.rbind.io/blog/cowplot/>
