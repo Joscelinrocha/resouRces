@@ -1,0 +1,30 @@
+---
+title: "Hello Quarto"
+date: "2025-04-22"
+categories: [Joscelin's fav]
+image: featured.png
+image-alt: "Illustration of two penguins, one blue and one orange, taking a selfie with a selfie stick. The moon in the background looks like the Quarto logo."
+---
+
+
+<link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/JoscelinRocha">![Buy me a coffee](https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg){alt="Buy me a coffee" width="15" height="21"}Buy me a coffee</a>
+
+------------------------------------------------------------------------
+
+
+## Analyzing International Survey Data with the pewmethods R Package
+
+Added Thu Feb 20, 2025
+
+**What is this?**
+
+This article introduces the **pewmethods** R package, designed to
+facilitate the analysis of international survey data. The package
+streamlines the process of converting individual-level data to
+country-level summaries, enabling researchers to efficiently analyze and
+interpret survey results. By providing tools for data transformation and
+weighting, **pewmethods** enhances the accuracy and comparability of
+cross-national survey analyses.
+
+1.  Link to article:
+    <https://medium.com/pew-research-center-decoded/analyzing-international-survey-data-with-the-pewmethods-r-package-3b0b21cba607>

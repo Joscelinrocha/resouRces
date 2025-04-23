@@ -1,0 +1,26 @@
+---
+title: "Hello Quarto"
+date: "2025-04-22"
+categories: [Joscelin's fav]
+image: featured.png
+image-alt: "Illustration of two penguins, one blue and one orange, taking a selfie with a selfie stick. The moon in the background looks like the Quarto logo."
+---
+
+
+<link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/JoscelinRocha">![Buy me a coffee](https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg){alt="Buy me a coffee" width="15" height="21"}Buy me a coffee</a>
+
+------------------------------------------------------------------------
+
+
+## Arrow: Fast Loading and Processing of Large Data
+
+Added Thu Feb 20, 2025
+
+**What is this?**
+
+The **arrow** package, created by Ursa Labs, allows for fast loading and
+processing of large datasets in R. It supports efficient data
+interchange, making it an essential tool for handling large-scale data
+workflows
+
+1.  Link to package: <https://arrow.apache.org/docs/r/>
