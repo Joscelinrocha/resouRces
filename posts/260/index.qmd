@@ -1,0 +1,24 @@
+---
+title: "Hello Quarto"
+date: "2025-04-22"
+categories: [statistics]
+image: featured.png
+image-alt: "Illustration of two penguins, one blue and one orange, taking a selfie with a selfie stick. The moon in the background looks like the Quarto logo."
+---
+
+
+<link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/JoscelinRocha">![Buy me a coffee](https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg){alt="Buy me a coffee" width="15" height="21"}Buy me a coffee</a>
+
+------------------------------------------------------------------------
+
+
+## [Broadening Your Statistical Horizons Generalized Linear Models and Multilevel Models](https://bookdown.org/roback/bookdown-bysh/)
+
+By [Julie Legler & Paul Roback](https://bookdown.org/roback/bookdown-bysh/)
+
+**What is this?**
+
+Awesome books for stats!!
+Fav book
+
+1.  <https://bookdown.org/roback/bookdown-bysh/>

@@ -1,0 +1,21 @@
+---
+title: "How to Name Files"
+date: "2025-02-20"
+categories: [filenames, data science, talk, organization]
+image: featured.png
+image-alt: "Title slide for a talk called “How to Name Files Like a Normie” presented by Jenny Bryan at Norm Conf. The slide includes a short URL (pos.it/how-to-name-files) and Jenny Bryan’s contact info, including Twitter (@JennyBryan), GitHub (@jennybc), and Mastodon (@jennybryan@fosstodon.org). On the right is a colorful “norm Conf” logo with “norm” in bold dark blue block letters on a mint green background, and “Conf” in a playful pink script."
+---
+
+<link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/JoscelinRocha">![Buy me a coffee](https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg){alt="Buy me a coffee" width="15" height="21"}Buy me a coffee</a>
+
+------------------------------------------------------------------------
+
+By Jenny Bryan
+
+This repository offers practical advice on creating effective filenames that are both machine-readable and human-readable, while also ensuring proper default ordering. The guidance emphasizes the importance of consistent and descriptive naming conventions to enhance file organization and accessibility. Resources include slides from a lightning talk presented at NormConf on December 15, 2022, available in PDF format within the repository. Additionally, a pre-recorded video of the talk is accessible, providing further insights into best practices for naming files.
+
+1.  Link to repository: <https://github.com/jennybc/how-to-name-files>
+
+2.  Link to video: <https://www.youtube.com/watch?v=ES1LTlnpLMk&ab_channel=NormConf>
+
+![](featured.png)

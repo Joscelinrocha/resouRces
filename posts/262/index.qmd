@@ -1,0 +1,23 @@
+---
+title: "Hello Quarto"
+date: "2025-04-22"
+categories: [statistics]
+image: featured.png
+image-alt: "Illustration of two penguins, one blue and one orange, taking a selfie with a selfie stick. The moon in the background looks like the Quarto logo."
+---
+
+
+<link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/JoscelinRocha">![Buy me a coffee](https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg){alt="Buy me a coffee" width="15" height="21"}Buy me a coffee</a>
+
+------------------------------------------------------------------------
+
+
+## [Comparing Multiple Means in R: Repeated Measures ANOVA in R](https://www.datanovia.com/en/lessons/repeated-measures-anova-in-r/)
+
+Added Sun Sep 13th, 2020
+
+**What is this?**
+
+**Excerpt from site:** This chapter describes the different types of repeated measures ANOVA, including: One-way repeated-measures ANOVA, two-way repeated-measures ANOVA, three-way repeated-measures ANOVA.
+
+1.  Link to site here: <https://www.datanovia.com/en/lessons/repeated-measures-anova-in-r/>

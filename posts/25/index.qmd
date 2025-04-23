@@ -1,0 +1,19 @@
+---
+title: "Introduction to Data Science Fall 2019"
+date: "2025-04-22"
+categories: [wrangling, visualization, statistics]
+image: https://www.introds.org/introds.png
+image-alt: "Hex sticker for the “introds” course at Duke University. The design features the text “introds @DUKE” in bold dark blue font, a scatter of pink, yellow, and blue dots across a white background representing a data visualization, and a stylized navy blue icon of Duke Chapel in the lower right. A faint diagonal trend line cuts across the scatterplot."
+---
+
+<link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/JoscelinRocha">![Buy me a coffee](https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg){alt="Buy me a coffee" width="15" height="21"}Buy me a coffee</a>
+
+------------------------------------------------------------------------
+
+By [University of Edinburgh](https://introds.org/)
+
+**Excerpt from site:** Gain experience in data collection, wrangling, and visualization, exploratory data analysis, predictive modeling, and effective communication of results while working on problems and case studies inspired by and based on real-world questions. The course will focus on the R statistical computing language.
+
+1.  Link to e-course here: <https://introds.org/>
+
+![](https://www.introds.org/introds.png)

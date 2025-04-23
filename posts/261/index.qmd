@@ -1,0 +1,27 @@
+---
+title: "Hello Quarto"
+date: "2025-04-22"
+categories: [statistics]
+image: featured.png
+image-alt: "Illustration of two penguins, one blue and one orange, taking a selfie with a selfie stick. The moon in the background looks like the Quarto logo."
+---
+
+
+<link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/JoscelinRocha">![Buy me a coffee](https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg){alt="Buy me a coffee" width="15" height="21"}Buy me a coffee</a>
+
+------------------------------------------------------------------------
+
+
+## [Check how good your model is using "Performance"package]()
+
+Added Thursday Dec 31st, 2020
+
+**What is this?**
+
+**Excerpt from site:** Utilities for computing measures to assess model quality, which are not directly provided by R's 'base' or 'stats' packages.
+These include e.g. measures like r-squared, intraclass correlation coefficient (Nakagawa, Johnson & Schielzeth (2017) <doi:10.1098/rsif.2017.0213>), root mean squared error or functions to check models for overdispersion, singularity or zero-inflation and more.
+Functions apply to a large variety of regression models, including generalized linear models, mixed effects models and Bayesian models.
+
+1.  Link to review video by Yury Zablotski here: <https://www.youtube.com/watch?fbclid=IwAR296jgFcxLDNHE0zatJlMWGFb8RTVcWfYpRQ9261wzvlacp8M0BDs1K3iI&v=EPIxQ5i5oxs&feature=youtu.be>
+2.  Link to CRAN vignette here: <https://cran.r-project.org/web/packages/performance/performance.pdf>
+3.  Link to repo here: <https://easystats.github.io/performance/>

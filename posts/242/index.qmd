@@ -1,0 +1,26 @@
+---
+title: "Hello Quarto"
+date: "2025-04-22"
+categories: [python]
+image: featured.png
+image-alt: "Illustration of two penguins, one blue and one orange, taking a selfie with a selfie stick. The moon in the background looks like the Quarto logo."
+---
+
+
+<link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/JoscelinRocha">![Buy me a coffee](https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg){alt="Buy me a coffee" width="15" height="21"}Buy me a coffee</a>
+
+------------------------------------------------------------------------
+
+
+## [Coming from R chapter from the book "Coding for Economics"](https://aeturrell.github.io/coding-for-economists/coming-from-r.html#r-python)
+
+By [Arthur Turrell](https://aeturrell.github.io/coding-for-economists/coming-from-r.html#r-python)
+
+Added Sun Dec 12, 2021
+
+**What is this?**
+
+**Excerpt from e-chapter:** "There are Python equivalents that have very similar syntax to these that you can use to help you to become productive quickly in Python--though these libraries are not so popular in Python. Here are the Python equivalents to those R libraries."
+
+1.  Link to chapter here: <https://aeturrell.github.io/coding-for-economists/coming-from-r.html#r-python>
+2.  Link to full e-book here: <https://aeturrell.github.io/coding-for-economists/intro.html>

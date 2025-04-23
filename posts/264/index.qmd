@@ -1,0 +1,31 @@
+---
+title: "Hello Quarto"
+date: "2025-04-22"
+categories: [statistics]
+image: featured.png
+image-alt: "Illustration of two penguins, one blue and one orange, taking a selfie with a selfie stick. The moon in the background looks like the Quarto logo."
+---
+
+
+<link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/JoscelinRocha">![Buy me a coffee](https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg){alt="Buy me a coffee" width="15" height="21"}Buy me a coffee</a>
+
+------------------------------------------------------------------------
+
+
+## [Computational Toolkit for Educational Scientists](https://zief0002.github.io/toolkit/statistical-computation.html#statistical-computation)
+
+By [Andrew Zieffler](https://zief0002.github.io/toolkit/statistical-computation.html#statistical-computation)
+
+**What is this?**
+
+**Excerpt from ebook:** The first set of tools we will discuss will be related to statistical computation.
+Although there are many computational tools for statistical analysis, the first tools we will add to your computational toolkit is R.
+R is a free software environment for statistical computing and graphics.
+It can be installed on a variety of operating systems, including the MacOS, Windows, and UNIX platforms.
+To really make use of the computational power of R, we are also going to introduce you to RStudio, an open-source front-end1 to R.
+
+The initial chapters of this document will address:
+
+Installing R and RStudio; Getting started with R's computational syntax; Wrangling data using functions from the dplyr package; and Visualizing data using functions from the ggplot2 package.
+
+1.  Link to ebook here: <https://zief0002.github.io/toolkit/statistical-computation.html#statistical-computation>

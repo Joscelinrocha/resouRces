@@ -1,0 +1,27 @@
+---
+title: "Hello Quarto"
+date: "2025-04-22"
+categories: [python]
+image: featured.png
+image-alt: "Illustration of two penguins, one blue and one orange, taking a selfie with a selfie stick. The moon in the background looks like the Quarto logo."
+---
+
+
+<link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/JoscelinRocha">![Buy me a coffee](https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg){alt="Buy me a coffee" width="15" height="21"}Buy me a coffee</a>
+
+------------------------------------------------------------------------
+
+
+## [Data Analysis for Business, Economics, and Policy](https://gabors-data-analysis.com/)
+
+By [Gábor Békés & Gábor Kézdi](https://gabors-data-analysis.com/)
+
+Added Sun Dec 12, 2021
+
+**What is this?**
+
+**Excerpt from e-book:** "This textbook provides future data analysts with the tools, methods, and skills needed to answer data-focused, real life questions, to choose and apply appropriate methods to answer those questions, and to visualize and interpret results to support better decisions in business, economics, and public policy."
+
+1.  Link to textbook here: <https://gabors-data-analysis.com/>
+2.  Link to github repo and case studies here: <https://github.com/gabors-data-analysis/da_case_studies>
+3.  Link to datasets from textbook here: <https://gabors-data-analysis.com/datasets/>

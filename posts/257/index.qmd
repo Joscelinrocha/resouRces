@@ -1,0 +1,24 @@
+---
+title: "Hello Quarto"
+date: "2025-04-22"
+categories: [statistics]
+image: featured.png
+image-alt: "Illustration of two penguins, one blue and one orange, taking a selfie with a selfie stick. The moon in the background looks like the Quarto logo."
+---
+
+
+<link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/JoscelinRocha">![Buy me a coffee](https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg){alt="Buy me a coffee" width="15" height="21"}Buy me a coffee</a>
+
+------------------------------------------------------------------------
+
+
+## [Bayesian Data Analysis course](https://avehtari.github.io/BDA_course_Aalto/)
+
+By [Aki Vehtari](https://avehtari.github.io/BDA_course_Aalto/)
+
+**What is this?**
+
+**Excerpt from course site:** This is the web page for the Bayesian Data Analysis course at Aalto (CS-E5710) by Aki Vehtari.
+
+1.  Link to course: <https://avehtari.github.io/BDA_course_Aalto/>
+2.  Electronic book for course here: <https://users.aalto.fi/~ave/BDA3.pdf>
