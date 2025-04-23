@@ -1,0 +1,28 @@
+---
+title: "Hello Quarto"
+date: "2025-04-22"
+categories: [visualization]
+image: featured.png
+image-alt: "Illustration of two penguins, one blue and one orange, taking a selfie with a selfie stick. The moon in the background looks like the Quarto logo."
+---
+
+
+<link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/JoscelinRocha">![Buy me a coffee](https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg){alt="Buy me a coffee" width="15" height="21"}Buy me a coffee</a>
+
+------------------------------------------------------------------------
+
+
+## [The R Graph Gallery](https://www.r-graph-gallery.com/)
+
+Added Sep 14th, 2020
+
+**What is this?**
+
+R graph gallery, a collection of charts made with the R programming language.
+Hundreds of charts are displayed in several sections, always with their reproducible code available.
+The gallery makes a focus on the tidyverse and ggplot2.
+Feel free to suggest a chart or report a bug; any feedback is highly welcome.
+
+1.  Link to gallery here: <https://www.r-graph-gallery.com/>
+2.  Link to twitter here: <https://twitter.com/R_Graph_Gallery>
+3.  Link to repo here: <https://github.com/holtzy/R-graph-gallery>

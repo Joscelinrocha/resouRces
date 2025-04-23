@@ -1,0 +1,33 @@
+---
+title: "Hello Quarto"
+date: "2025-04-22"
+categories: [workflows]
+image: featured.png
+image-alt: "Illustration of two penguins, one blue and one orange, taking a selfie with a selfie stick. The moon in the background looks like the Quarto logo."
+---
+
+
+<link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/JoscelinRocha">![Buy me a coffee](https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg){alt="Buy me a coffee" width="15" height="21"}Buy me a coffee</a>
+
+------------------------------------------------------------------------
+
+
+## [A Blogdown New Post Workflow with Github and Netlify](https://www.garrickadenbuie.com/blog/blogdown-netlify-new-post-workflow/)
+
+By [Garrick Aden-Buie](https://www.garrickadenbuie.com/blog/blogdown-netlify-new-post-workflow/)
+
+**Excerpt from blog:** This post presents my workflow for writing new posts for a blogdown website hosted on GitHub and served through Netlify.
+
+Here's a quick overview of the workflow:
+
+-   Draft the post in a new git branch, using blogdown::serve_site() to preview locally.
+
+-   Push the branch to GitHub and create a pull request.
+
+-   Preview and test the draft post using Netlify's "deploy preview" feature.
+
+-   Push additional updates to the post branch as needed and review the updated preview.
+
+-   Publish the final draft by merging the pull request to the master branch.
+
+    1.  Link to blog here: <https://www.garrickadenbuie.com/blog/blogdown-netlify-new-post-workflow/>

@@ -1,0 +1,25 @@
+---
+title: "Hello Quarto"
+date: "2025-04-22"
+categories: [visualization]
+image: featured.png
+image-alt: "Illustration of two penguins, one blue and one orange, taking a selfie with a selfie stick. The moon in the background looks like the Quarto logo."
+---
+
+
+<link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/JoscelinRocha">![Buy me a coffee](https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg){alt="Buy me a coffee" width="15" height="21"}Buy me a coffee</a>
+
+------------------------------------------------------------------------
+
+
+## [TidyX YouTube channel hosted](https://www.youtube.com/channel/UCP8l94xtoemCH_GxByvTuFQ/featured)
+
+By [Ellis Hughes & Patrick Ward](https://www.youtube.com/channel/UCP8l94xtoemCH_GxByvTuFQ/featured)
+
+**What is this?**
+
+**Excerpt from channel:** TidyX is a screen cast where we select a person's code from the TidyTuesday project and go through their code line-by-line, explaining what they did and how the functions they used work.
+We also break down the visualizations they create and talk about how to apply similar approaches to other data sets.
+The objective is to help more people learn R and get involved in the TidyTuesday community.
+
+1.  Link to YouTube channel here: <https://www.youtube.com/channel/UCP8l94xtoemCH_GxByvTuFQ/featured>

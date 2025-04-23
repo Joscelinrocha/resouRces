@@ -1,0 +1,22 @@
+---
+title: "Hello Quarto"
+date: "2025-04-22"
+categories: [visualization]
+image: featured.png
+image-alt: "Illustration of two penguins, one blue and one orange, taking a selfie with a selfie stick. The moon in the background looks like the Quarto logo."
+---
+
+
+<link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/JoscelinRocha">![Buy me a coffee](https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg){alt="Buy me a coffee" width="15" height="21"}Buy me a coffee</a>
+
+------------------------------------------------------------------------
+
+
+## [The magick package: Advanced Image-Processing in R](https://cran.r-project.org/web/packages/magick/vignettes/intro.html#Installing_magick)
+
+**What is this?**
+
+**Excerpt from Vignette:** The new magick package is an ambitious effort to modernize and simplify high-quality image processing in R.
+It wraps the ImageMagick STL which is perhaps the most comprehensive open-source image processing library available today.
+
+1.  Link to vignette here: <https://cran.r-project.org/web/packages/magick/vignettes/intro.html#Installing_magick>

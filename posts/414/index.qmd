@@ -1,0 +1,28 @@
+---
+title: "Hello Quarto"
+date: "2025-04-22"
+categories: [visualization]
+image: featured.png
+image-alt: "Illustration of two penguins, one blue and one orange, taking a selfie with a selfie stick. The moon in the background looks like the Quarto logo."
+---
+
+
+<link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/JoscelinRocha">![Buy me a coffee](https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg){alt="Buy me a coffee" width="15" height="21"}Buy me a coffee</a>
+
+------------------------------------------------------------------------
+
+
+## [Where are the 4+-Car Households?](https://haraldkliems.netlify.app/posts/2024-02-29-where-are-the-4-car-households/)
+
+By Harald Kliems
+
+Added Thu Feb 20, 2025
+
+**What is this?**
+
+This article explores the distribution of households in the United States that own four or more vehicles.
+Utilizing data from the American Community Survey, the author presents maps and analyses to identify regions with high concentrations of such households.
+The study provides insights into transportation patterns, urban planning, and the socio-economic factors influencing vehicle ownership across different areas.
+This is great for visualization examples (code is within the blog).
+
+1.  Link to article here: <https://haraldkliems.netlify.app/posts/2024-02-29-where-are-the-4-car-households/>

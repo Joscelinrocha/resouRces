@@ -1,0 +1,17 @@
+---
+title: "British Election Study"
+date: "2023-04-28"
+categories: [datasets]
+image: https://www.britishelectionstudy.com/wp-content/uploads/2020/03/BES-logo-2020-03-03.png
+image-alt: "Logo of the UK Data Service, featuring four vertical bars of increasing height in teal, purple, magenta, and dark cyan, arranged to resemble a bar chart. The bars appear to the left of the black text that reads “UK Data Service.”"
+---
+
+<link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/JoscelinRocha">![Buy me a coffee](https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg){alt="Buy me a coffee" width="15" height="21"}Buy me a coffee</a>
+
+------------------------------------------------------------------------
+
+**Excerpt from site:** Here you will find all British Election Study data released by the current BES team, as well as historical BES data collected in elections between 1964 and 2010. New data are listed first.
+
+1.  Link to datasets here: <https://www.britishelectionstudy.com/data/#.ZExD7-zML0o>
+
+![](https://www.britishelectionstudy.com/wp-content/uploads/2020/03/BES-logo-2020-03-03.png)

@@ -1,0 +1,35 @@
+---
+title: "Hello Quarto"
+date: "2025-04-22"
+categories: [visualization]
+image: featured.png
+image-alt: "Illustration of two penguins, one blue and one orange, taking a selfie with a selfie stick. The moon in the background looks like the Quarto logo."
+---
+
+
+<link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/JoscelinRocha">![Buy me a coffee](https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg){alt="Buy me a coffee" width="15" height="21"}Buy me a coffee</a>
+
+------------------------------------------------------------------------
+
+
+## Visualizing Spatial Data
+
+**What is this?**
+
+Here is a list of resources to create visualizations with maps
+
+1.  <https://www.r-spatial.org/r/2018/10/25/ggplot2-sf-2.html>
+2.  <https://rstudio.github.io/leaflet/projections.html>
+3.  <https://www.r-graph-gallery.com/278-the-maps-library.html>
+4.  <http://www.milanor.net/blog/maps-in-r-introduction-drawing-the-map-of-europe/>
+5.  <https://www.youtube.com/watch?v=wgFVmzSbaQc&list=PL7D2RMSmRO9JOvPC1gbA8Mc3azvSfm8Vv&index=17>
+6.  <https://www.tidyverse.org/blog/2022/06/spatialsample-0-2-0/>
+7.  <https://www.infoworld.com/article/3644848/astonishingly-easy-mapping-in-r-with-mapview.html>
+8.  <https://geobgu.xyz/presentations/p_2021_cbs/main.html>
+9.  <https://r-spatial.github.io/sf/>
+10. <https://cran.r-project.org/web/packages/tmap/vignettes/tmap-getstarted.html>
+11. <https://timogrossenbacher.ch/2016/12/beautiful-thematic-maps-with-ggplot2-only/>
+12. <https://statnmap.com/2018-04-18-draw-maps-like-paintings/>
+13. <https://medium.com/appsilon-data-science/r-ggmap-how-to-visualize-spatial-data-in-r-c46dcf970095>
+14. <https://carolinamendozab.medium.com/mapping-income-per-capita-by-countries-in-r-using-world-bank-data-cf42eca247c4>
+15. <https://umairdurrani.com/posts/2020-12-25-elevation-maps-in-r/elevation-maps-in-r>

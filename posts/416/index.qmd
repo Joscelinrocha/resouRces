@@ -1,0 +1,56 @@
+---
+title: "Hello Quarto"
+date: "2025-04-22"
+categories: [visualization]
+image: featured.png
+image-alt: "Illustration of two penguins, one blue and one orange, taking a selfie with a selfie stick. The moon in the background looks like the Quarto logo."
+---
+
+
+<link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/JoscelinRocha">![Buy me a coffee](https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg){alt="Buy me a coffee" width="15" height="21"}Buy me a coffee</a>
+
+------------------------------------------------------------------------
+
+
+## Videos for data visualization
+
+By Sharon Machlis
+
+**What is this?**
+
+Here is a list of video tutorial by Sharon by categories:
+
+1.  [How to style the headlines and axis text in your ggplot graphs with the ggtext package for R](https://www.infoworld.com/article/3527449/add-color-to-your-ggplot2-text-in-r.html)
+
+2.  [Easier ggplot with the ggeasy R package](https://www.infoworld.com/article/3533453/easier-ggplot-with-the-ggeasy-r-package.html)
+
+3.  [Add color to your ggplot2 text in R](https://www.infoworld.com/article/3527449/add-color-to-your-ggplot2-text-in-r.html)
+
+4.  [Customizing ggplot with bbplot](https://www.youtube.com/watch?v=t7434w464SU&list=PL7D2RMSmRO9JOvPC1gbA8Mc3azvSfm8Vv&index=7)
+
+5.  [Creating color coded calendars](https://www.infoworld.com/article/3331605/how-to-create-color-coded-calendars-in-r.html)
+
+6.  [Adding sparklines to r tables](https://www.infoworld.com/article/3318222/how-to-add-sparklines-to-r-tables.html)
+
+7.  [drag-and-drop ggplot Interface](https://www.infoworld.com/article/3311518/do-more-with-r-drag-and-drop-ggplot.html) 💯
+
+8.  [Animations in R](https://www.youtube.com/watch?v=HUgaP8iHfvw&list=PL7D2RMSmRO9JOvPC1gbA8Mc3azvSfm8Vv&index=20) 💯
+
+9.  [Easy dashboards with flexdashboard](https://www.youtube.com/watch?v=gFOjFRcouVU&list=PL7D2RMSmRO9JOvPC1gbA8Mc3azvSfm8Vv&index=31&t=0s) 💯
+
+10. [How to create easy interactive scatter plots with taucharts](https://www.youtube.com/watch?v=XkKHN44_JNo&list=PL7D2RMSmRO9JOvPC1gbA8Mc3azvSfm8Vv&index=33&t=0s)
+
+# Palettes
+
+[PNWColors](https://github.com/jakelawlor/PNWColors): A Pacific Northwest inspired R color palette package 💯
+
+[NatParksPalettes](https://github.com/kevinsblake/NatParksPalettes): is comprised of 30 color palettes, including 12 colorblind-friendly palettes, based on photos of national parks from around the world.
+Compatible with {ggplot2} in R and QGIS.
+
+[nationalparkcolors](https://github.com/katiejolly/nationalparkcolors): The goal of nationalparkcolors is to provide an interface to the beautiful colors in National Park posters and images.
+The posters are a mix of the WPA originals and more modern remakes.
+
+[OKLCH-Smooth: A Smooth, Full Spectrum sRGB Colour Palette for Data Visualisation](https://www.s-ings.com/scratchpad/oklch-smooth/): is a meticulously designed sRGB color palette tailored for data visualization.
+It encompasses 16 hues, each with nine shades, along with a set of neutral greys, totaling 153 colors.
+The palette ensures smooth transitions across the OKLCH color model components, making it ideal for visualizing complex datasets with multiple dimensions.
+Its structured approach to color selection aids in creating clear and aesthetically pleasing visual representations of data.
