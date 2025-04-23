@@ -1,0 +1,25 @@
+---
+title: "Hello Quarto"
+date: "2025-04-22"
+categories: [visualization]
+image: featured.png
+image-alt: "Illustration of two penguins, one blue and one orange, taking a selfie with a selfie stick. The moon in the background looks like the Quarto logo."
+---
+
+
+<link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/JoscelinRocha">![Buy me a coffee](https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg){alt="Buy me a coffee" width="15" height="21"}Buy me a coffee</a>
+
+------------------------------------------------------------------------
+
+
+## [Geocomputation with R](https://geocompr.robinlovelace.net/)
+
+By [Robin Lovelace, Jakub Nowosad, Jannes Muenchow](https://geocompr.robinlovelace.net/)
+
+**What is this?**
+
+**Excerpt from ebook:** This book is about using the power of computers to do things with geographic data.
+It teaches a range of spatial skills, including: reading, writing and manipulating geographic data; making static and interactive maps; applying geocomputation to solve real-world problems; and modeling geographic phenomena.I added this one here because it is a nice resource to make map but it teaches way more than that :)
+
+1.  Link to free ebook: <https://geocompr.robinlovelace.net/>
+2.  You can buy the book from [CRC Press](https://www.routledge.com/Geocomputation-with-R/Lovelace-Nowosad-Muenchow/p/book/9781138304512?utm_source=crcpress.com&utm_medium=referral),[Wordery](https://wordery.com/geocomputation-with-r-robin-lovelace-9781138304512), or [Amazon](https://www.amazon.com/Geocomputation-Chapman-Hall-Robin-Lovelace/dp/1138304514/#ace-2093936695).

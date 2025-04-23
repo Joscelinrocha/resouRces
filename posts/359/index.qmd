@@ -1,0 +1,51 @@
+---
+title: "Hello Quarto"
+date: "2025-04-22"
+categories: [visualization]
+image: featured.png
+image-alt: "Illustration of two penguins, one blue and one orange, taking a selfie with a selfie stick. The moon in the background looks like the Quarto logo."
+---
+
+
+<link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/JoscelinRocha">![Buy me a coffee](https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg){alt="Buy me a coffee" width="15" height="21"}Buy me a coffee</a>
+
+------------------------------------------------------------------------
+
+
+## [ggplot_tricks: A Collection of ggplot2 Tips](https://github.com/teunbrand/ggplot_tricks) 💯
+
+By Teun van den Brand
+
+Added Thu Feb 20, 2025
+
+**What is this?**
+
+**ggplot_tricks** is a repository that compiles various tips and techniques for enhancing data visualizations using **ggplot2** in R.
+It covers topics such as splicing aesthetics, creating half-geoms, setting midpoints in diverging scales, labeling points, and recycling plots.
+Here is a list of them to this date:
+
+-   [Splicing aesthetics](https://github.com/teunbrand/ggplot_tricks?ck_subscriber_id=589816646&utm_source=convertkit&utm_medium=email&utm_campaign=What%27s+New+in+R%3A+January+24%2C+2024%20-%2012885358#splicing-aesthetics)
+    1.  [Colour-fill relations](https://github.com/teunbrand/ggplot_tricks?ck_subscriber_id=589816646&utm_source=convertkit&utm_medium=email&utm_campaign=What%27s+New+in+R%3A+January+24%2C+2024%20-%2012885358#relating-colour-and-fill)
+
+    2.  [Text contrast](https://github.com/teunbrand/ggplot_tricks?ck_subscriber_id=589816646&utm_source=convertkit&utm_medium=email&utm_campaign=What%27s+New+in+R%3A+January+24%2C+2024%20-%2012885358#text-contrast)
+-   [Half-geoms](https://github.com/teunbrand/ggplot_tricks?ck_subscriber_id=589816646&utm_source=convertkit&utm_medium=email&utm_campaign=What%27s+New+in+R%3A+January+24%2C+2024%20-%2012885358#half-geoms)
+    1.  [Half-boxplots](https://github.com/teunbrand/ggplot_tricks?ck_subscriber_id=589816646&utm_source=convertkit&utm_medium=email&utm_campaign=What%27s+New+in+R%3A+January+24%2C+2024%20-%2012885358#half-boxplots)
+
+    2.  [Half-errorbars](https://github.com/teunbrand/ggplot_tricks?ck_subscriber_id=589816646&utm_source=convertkit&utm_medium=email&utm_campaign=What%27s+New+in+R%3A+January+24%2C+2024%20-%2012885358#half-errorbars)
+
+    3.  [Half-violin](https://github.com/teunbrand/ggplot_tricks?ck_subscriber_id=589816646&utm_source=convertkit&utm_medium=email&utm_campaign=What%27s+New+in+R%3A+January+24%2C+2024%20-%2012885358#half-violin)
+
+    4.  [Combining](https://github.com/teunbrand/ggplot_tricks?ck_subscriber_id=589816646&utm_source=convertkit&utm_medium=email&utm_campaign=What%27s+New+in+R%3A+January+24%2C+2024%20-%2012885358#combining)
+-   [Midpoints in diverging scales](https://github.com/teunbrand/ggplot_tricks?ck_subscriber_id=589816646&utm_source=convertkit&utm_medium=email&utm_campaign=What%27s+New+in+R%3A+January+24%2C+2024%20-%2012885358#setting-midpoints-in-divergent-scales)
+-   [Labels as text](https://github.com/teunbrand/ggplot_tricks?ck_subscriber_id=589816646&utm_source=convertkit&utm_medium=email&utm_campaign=What%27s+New+in+R%3A+January+24%2C+2024%20-%2012885358#labels-as-text)
+    1.  [Labelling points](https://github.com/teunbrand/ggplot_tricks?ck_subscriber_id=589816646&utm_source=convertkit&utm_medium=email&utm_campaign=What%27s+New+in+R%3A+January+24%2C+2024%20-%2012885358#labelling-points)
+
+    2.  (Outdated)[Facetted tags](https://github.com/teunbrand/ggplot_tricks?ck_subscriber_id=589816646&utm_source=convertkit&utm_medium=email&utm_campaign=What%27s+New+in+R%3A+January+24%2C+2024%20-%2012885358#facetted-tags)
+-   [Recycling plots](https://github.com/teunbrand/ggplot_tricks?ck_subscriber_id=589816646&utm_source=convertkit&utm_medium=email&utm_campaign=What%27s+New+in+R%3A+January+24%2C+2024%20-%2012885358#recycling-plots)
+    1.  [Functions](https://github.com/teunbrand/ggplot_tricks?ck_subscriber_id=589816646&utm_source=convertkit&utm_medium=email&utm_campaign=What%27s+New+in+R%3A+January+24%2C+2024%20-%2012885358#functions)
+
+    2.  [Skeletons](https://github.com/teunbrand/ggplot_tricks?ck_subscriber_id=589816646&utm_source=convertkit&utm_medium=email&utm_campaign=What%27s+New+in+R%3A+January+24%2C+2024%20-%2012885358#skeletons)
+
+    3.  [Ribcage](https://github.com/teunbrand/ggplot_tricks?ck_subscriber_id=589816646&utm_source=convertkit&utm_medium=email&utm_campaign=What%27s+New+in+R%3A+January+24%2C+2024%20-%2012885358#ribcage)
+
+1.  Link to repository: <https://github.com/teunbrand/ggplot_tricks>

@@ -1,0 +1,25 @@
+---
+title: "Hello Quarto"
+date: "2025-04-22"
+categories: [visualization]
+image: featured.png
+image-alt: "Illustration of two penguins, one blue and one orange, taking a selfie with a selfie stick. The moon in the background looks like the Quarto logo."
+---
+
+
+<link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/JoscelinRocha">![Buy me a coffee](https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg){alt="Buy me a coffee" width="15" height="21"}Buy me a coffee</a>
+
+------------------------------------------------------------------------
+
+
+## [geomtextpath](https://github.com/AllanCameron/geomtextpath)
+
+By [Allan Cameron](https://github.com/AllanCameron/geomtextpath)
+
+Added Sat Dec 11th, 2021
+
+**What is this?**
+
+**Excerpt from site:** "The existing text-based geom layers in ggplot2 (geom_text and geom_label) are ideal for the majority of plots, since typically textual annotations are short, straight and in line with the axes of the plot. However, there are some occasions when it is useful to have text follow a curved path. This may be to create or recreate a specific visual effect, or it may be to label a circular / polar plot in a more"natural" way."
+
+1.  Link to package's site here: <https://github.com/AllanCameron/geomtextpath>

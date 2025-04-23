@@ -1,0 +1,17 @@
+---
+title: "Afro Barometer Database"
+date: "2023-04-28"
+categories: [datasets]
+image: featured.png
+image-alt: "Screenshot of the Afrobarometer “Data” webpage. The header includes a navigation bar with options like About, Countries, Surveys, Topics, Publications, Data, Impact, and more. A background aerial image shows an urban landscape in an African country. The page title “Data” is displayed prominently in white font over the image, followed by a description encouraging users to access the data in various formats, including country, merged, or geocoded datasets. Below is an orange menu bar with options: Data sets, Merged data, Codebooks, and Data usage and access policy. A paragraph beneath highlights that Afrobarometer data on democracy and governance in Africa is freely available."
+---
+
+<link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/JoscelinRocha">![Buy me a coffee](https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg){alt="Buy me a coffee" width="15" height="21"}Buy me a coffee</a>
+
+------------------------------------------------------------------------
+
+**Excerpt from site:** Afrobarometer, a non-profit company limited by guarantee with headquarters in Ghana, is a pan-African, non-partisan survey research network that conducts public attitude surveys on democracy, governance, the economy, and society.
+
+1.  Link to datasets here: <https://www.afrobarometer.org/data/>
+
+[![](featured.png)](https://www.afrobarometer.org/data/)

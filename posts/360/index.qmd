@@ -1,0 +1,29 @@
+---
+title: "Hello Quarto"
+date: "2025-04-22"
+categories: [visualization]
+image: featured.png
+image-alt: "Illustration of two penguins, one blue and one orange, taking a selfie with a selfie stick. The moon in the background looks like the Quarto logo."
+---
+
+
+<link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/JoscelinRocha">![Buy me a coffee](https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg){alt="Buy me a coffee" width="15" height="21"}Buy me a coffee</a>
+
+------------------------------------------------------------------------
+
+
+## [ggplot Wizardry: My Favorite Tricks and Secrets for Beautiful Plots in R](https://github.com/Z3tt/OutlierConf2021/)
+
+**What is this?**
+
+**Excerpt from site:** In this talk, I present my favorite tips and tricks with regard to the ggplot2 package, a library for plotting in the programming language R.
+I will cover functions that are helpful but many may not be aware of as well as a collection of interesting functions from a large range of extension packages.
+The talk is intended for people who already know how to code in R and ggplot2.
+However, I am going to cover a diverse collection of tips so I hope everyone can pick something helpful independent from their level of expertise.
+
+1.  Link to repo is here: <https://github.com/Z3tt/OutlierConf2021>
+2.  Link to Slides here: <https://cutt.ly/Yxbo2QY>
+3.  Link to Recording here: <https://cutt.ly/YxboC3n>
+4.  Link to Tutorial here: <https://cutt.ly/Gxbpu61>
+5.  Link to Codes here: <https://cutt.ly/TxbpcDV>
+6.  Link to Extended Slides here: <https://www.cedricscherer.com/slides/useR-2021_ggplot-wizardry-extended.pdf>
