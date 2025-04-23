@@ -1,0 +1,17 @@
+---
+title: "Datasets found in R"
+date: "2022-07-28"
+categories: [datasets]
+image: featured.png
+image-alt: 'Screenshot of a data table listing datasets from the "AER" package. Columns include Package, Item, Title, Rows, Cols, and counts for data types (binary, character, factor, logical, numeric). Each dataset also includes links to download the CSV and documentation (DOC). Examples include "Affairs" (Fair`s Extramarital Affairs Data, 601 rows, 9 columns), "CollegeDistance" (College Distance Data, 4739 rows, 14 columns), and "CPS1988" (Determinants of Wages Data, 281,555 rows, 7 columns).'
+---
+
+<link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/JoscelinRocha">![Buy me a coffee](https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg){alt="Buy me a coffee" width="15" height="21"}Buy me a coffee</a>
+
+------------------------------------------------------------------------
+
+This is an archive of datasets distributed within R. I love this list because it is alphabetized and I can also get the CSVs from it.
+
+1.  The database is here: <https://vincentarelbundock.github.io/Rdatasets/datasets.html>
+
+![](featured.png){fig-alt="Screenshot of a data table listing datasets from the \"AER\" package. Columns include Package, Item, Title, Rows, Cols, and counts for data types (binary, character, factor, logical, numeric). Each dataset also includes links to download the CSV and documentation (DOC). Examples include \"Affairs\" (Fair's Extramarital Affairs Data, 601 rows, 9 columns), \"CollegeDistance\" (College Distance Data, 4739 rows, 14 columns), and \"CPS1988\" (Determinants of Wages Data, 281,555 rows, 7 columns)."}

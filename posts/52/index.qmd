@@ -1,0 +1,17 @@
+---
+title: "Dynamics of Collective Action"
+date: "2023-04-28"
+categories: [datasets]
+image: featured.png
+image-alt: "Screenshot of the 'Dynamics of Collective Action' project website. The header features a black-and-white photo of people reading newspapers. Below, a link titled 'The Dynamics of Collective Action' leads to more information. The main text introduces the site as a resource for accessing data on collective action in the U.S. and invites feedback. A sidebar menu on the right provides links to Home, Data, Documentation, Papers, and Contact sections."
+---
+
+<link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/JoscelinRocha">![Buy me a coffee](https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg){alt="Buy me a coffee" width="15" height="21"}Buy me a coffee</a>
+
+------------------------------------------------------------------------
+
+**Excerpt from site:** Here you can access data from an ongoing project about collective action in the United States. Using the menu either above or to the right, you'll find links to the dataset, documentation, and contact information.
+
+1.  Link to the datasets: <https://web.stanford.edu/group/collectiveaction/cgi-bin/drupal/>
+
+![](featured.png)

@@ -1,0 +1,19 @@
+---
+title: "Datasets: Machine learning datasets"
+date: "2021-06-06"
+categories: [datasets]
+image: featured.png
+image-alt: "Screenshot of the Datasets page from the Papers with Code website. The page displays a list of 11,818 machine learning datasets, with a search bar and filter options by data modality (e.g., Images, Texts, Videos, Audio). The top three listed datasets are CIFAR-10, ImageNet, and MS COCO, each accompanied by a brief description and small preview image grid. The interface includes options for sorting, filtering, and browsing dataset entries."
+---
+
+<link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/JoscelinRocha">![Buy me a coffee](https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg){alt="Buy me a coffee" width="15" height="21"}Buy me a coffee</a>
+
+------------------------------------------------------------------------
+
+## 
+
+**Excerpt from site here:** The mission of Papers with Code is to create a free and open resource with Machine Learning papers, code, and evaluation tables. We believe this is best done together with the community, supported by NLP and ML. All content on this website is openly licenced under CC-BY-SA (same as Wikipedia) and everyone can contribute - look for the "Edit" buttons! We also operate specialized portals for papers with code in astronomy, physics, computer sciences, mathematics and statistics.
+
+1.  Link to site: <https://paperswithcode.com/datasets>
+
+![](featured.png){fig-alt="Screenshot of the Datasets page from the Papers with Code website. The page displays a list of 11,818 machine learning datasets, with a search bar and filter options by data modality (e.g., Images, Texts, Videos, Audio). The top three listed datasets are CIFAR-10, ImageNet, and MS COCO, each accompanied by a brief description and small preview image grid. The interface includes options for sorting, filtering, and browsing dataset entries."}

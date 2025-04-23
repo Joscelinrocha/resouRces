@@ -1,0 +1,17 @@
+---
+title: "LAPOP - AmericasBarometer [Barómetro de las Americas]"
+date: "2023-04-28"
+categories: [datasets]
+image: featured.png
+image-alt: "Webpage from the Center for Global Democracy featuring LAPOP Lab’s data access. The page explains that the AmericasBarometer survey data is freely available worldwide without restrictions, as long as users agree to human subjects protections and data use terms. Listed users include academic researchers and organizations like USAID, the World Bank, Inter-American Development Bank, UNDP, and the Organization of American States."
+---
+
+<link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/JoscelinRocha">![Buy me a coffee](https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg){alt="Buy me a coffee" width="15" height="21"}Buy me a coffee</a>
+
+------------------------------------------------------------------------
+
+**Excerpt from site:** The AmericasBarometer data sets feature a common core set of questions that has been asked from 2004 to present day. In addition, LAPOP has datasets that date back to the 1970s. Questionnaires and information on each data set can be found [here](http://www.vanderbilt.edu/lapop/core-surveys.php).
+
+1.  Link to datasets here: <https://www.vanderbilt.edu/lapop/data-access.php>
+
+![](featured.png){fig-alt="Webpage from the Center for Global Democracy featuring LAPOP Lab’s data access. The page explains that the AmericasBarometer survey data is freely available worldwide without restrictions, as long as users agree to human subjects protections and data use terms. Listed users include academic researchers and organizations like USAID, the World Bank, Inter-American Development Bank, UNDP, and the Organization of American States."}

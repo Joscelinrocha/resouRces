@@ -1,0 +1,19 @@
+---
+title: "Datasets from course: Modelling and visualizing data using R: A practical introduction."
+date: "2022-07-28"
+categories: [datasets]
+image: featured.png
+image-alt: "Cover page and table of contents of a guide titled “Modelling and visualizing data using R: A practical introduction” by Daniel Nettle, dated July 2019. "
+---
+
+<link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/JoscelinRocha">![Buy me a coffee](https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg){alt="Buy me a coffee" width="15" height="21"}Buy me a coffee</a>
+
+------------------------------------------------------------------------
+
+Here you can find the datasets used for the training course: Modelling and visualizing data using R: A practical introduction by Daniel Nettle.
+
+1.  Datasets here: <https://www.dropbox.com/sh/7s14m6ceph3laja/AAAIGT7jBZ3n6aIBR8-IT8R4a?dl=0>
+2.  Pdf for course here: <https://www.danielnettle.org.uk/wp-content/uploads/2019/07/funwithR3.0.pdf>
+3.  Link to course here: <https://www.danielnettle.org.uk/r-modelling/>
+
+![](featured.png)

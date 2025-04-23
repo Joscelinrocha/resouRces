@@ -1,0 +1,21 @@
+---
+title: "Dataset from 'R, Python and Stata code for Data Analysis for Business, Economics, and Policy' book"
+date: "2021-12-12"
+categories: [datasets]
+image: https://gabors-data-analysis.com/images/cover-small.jpg
+image-alt: "Book cover for 'Data Analysis for Business, Economics, and Policy' by Gábor Békés and Gábor Kézdi. The title is centered in bright green and white font on a dark blue background. The cover features six circular plots displaying various types of data visualizations, including scatter plots, histograms, and trend lines."
+---
+
+<link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/JoscelinRocha">![Buy me a coffee](https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg){alt="Buy me a coffee" width="15" height="21"}Buy me a coffee</a>
+
+------------------------------------------------------------------------
+
+## 
+
+By [Gábor Békés & Gábor Kézdi](https://gabors-data-analysis.com/datasets/)
+
+List of dataset used for the cases studies and exercises in the "R, Python and Stata code for Data Analysis for Business, Economics, and Policy" book
+
+1.  Link to list of datasets here: <https://gabors-data-analysis.com/datasets/>
+
+![](https://gabors-data-analysis.com/images/cover-small.jpg)

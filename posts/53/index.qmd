@@ -1,0 +1,17 @@
+---
+title: "General Social Survey - NORC"
+date: "2023-04-28"
+categories: [talk]
+image: https://gss.norc.org/content/experience-fragments/norc/us/en/gss/header/master/_jcr_content/root/columncontainer/column0/image.coreimg.png/1657825749641/gss-logo.png
+image-alt: "Logo of the General Social Survey (GSS). The text “The General Social Survey” appears above large teal letters “GSS.” The “G” contains a white star, and the two “S” letters incorporate wave-like lines, symbolizing a broad social or cultural scope."
+---
+
+<link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/JoscelinRocha">![Buy me a coffee](https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg){alt="Buy me a coffee" width="15" height="21"}Buy me a coffee</a>
+
+------------------------------------------------------------------------
+
+**Excerpt from site:** The GSS has been a reliable source of data to help researchers, students, and journalists monitor and explain trends in American behaviors, demographics, and opinions. You'll find the complete GSS data set on this site, and can access the GSS Data Explorer to explore, analyze, extract, and share custom sets of GSS data.
+
+1.  Link to the datasets: <https://gss.norc.org/Get-The-Data>
+
+![](https://gss.norc.org/content/experience-fragments/norc/us/en/gss/header/master/_jcr_content/root/columncontainer/column0/image.coreimg.png/1657825749641/gss-logo.png)
