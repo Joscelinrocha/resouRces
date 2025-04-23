@@ -1,0 +1,28 @@
+---
+title: "Hello Quarto"
+date: "2025-04-22"
+categories: [visualization]
+image: featured.png
+image-alt: "Illustration of two penguins, one blue and one orange, taking a selfie with a selfie stick. The moon in the background looks like the Quarto logo."
+---
+
+
+<link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/JoscelinRocha">![Buy me a coffee](https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg){alt="Buy me a coffee" width="15" height="21"}Buy me a coffee</a>
+
+------------------------------------------------------------------------
+
+
+## [MetBrewer Palettes](https://github.com/BlakeRMills/MetBrewer/tree/main)
+
+By [Blake Robert Mills](https://github.com/BlakeRMills/MetBrewer/tree/main)
+
+Added Fri Feb 18, 2022
+
+**What is this?**
+
+**Excerpt from site:** "Palettes inspired by works at the Metropolitan Museum of Art in New York. All pieces selected come from various time periods, regions, and mediums. Let me know if you have any requests for a particular piece.
+
+Structure of the package was based on coding from the PNWColors and wesanderson packages.
+Inspired by the package RColorBrewer from the work of Cynthia Brewer."
+
+1.  Link to repo here: <https://github.com/BlakeRMills/MetBrewer/tree/main>

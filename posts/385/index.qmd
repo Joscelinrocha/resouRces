@@ -1,0 +1,26 @@
+---
+title: "Hello Quarto"
+date: "2025-04-22"
+categories: [visualization]
+image: featured.png
+image-alt: "Illustration of two penguins, one blue and one orange, taking a selfie with a selfie stick. The moon in the background looks like the Quarto logo."
+---
+
+
+<link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/JoscelinRocha">![Buy me a coffee](https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg){alt="Buy me a coffee" width="15" height="21"}Buy me a coffee</a>
+
+------------------------------------------------------------------------
+
+
+## [Making a Custom Arrowhead for ggplot2 Using ggarrow and arrowheadr](https://wjschne.github.io/posts/2023-08-26-making-a-custom-arrowhead-for-ggplot2-using-ggarrow-and-arrowheadr/)
+
+By W. Joel Schneider
+
+Added Thu Feb 20, 2025
+
+**What is this?**
+
+This blog post explores the creation of custom arrowheads in ggplot2 using the ggarrow and arrowheadr packages.
+It provides detailed instructions on designing and implementing custom arrowheads to enhance the clarity and aesthetics of ggplot2 visualizations.
+
+1.  Link to article here: <https://wjschne.github.io/posts/2023-08-26-making-a-custom-arrowhead-for-ggplot2-using-ggarrow-and-arrowheadr/>

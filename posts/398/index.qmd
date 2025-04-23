@@ -1,0 +1,25 @@
+---
+title: "Hello Quarto"
+date: "2025-04-22"
+categories: [visualization]
+image: featured.png
+image-alt: "Illustration of two penguins, one blue and one orange, taking a selfie with a selfie stick. The moon in the background looks like the Quarto logo."
+---
+
+
+<link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/JoscelinRocha">![Buy me a coffee](https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg){alt="Buy me a coffee" width="15" height="21"}Buy me a coffee</a>
+
+------------------------------------------------------------------------
+
+
+## [R Graphics Cookbook, 2nd edition](https://r-graphics.org/)
+
+By [Winston Chang](https://r-graphics.org/)
+
+**What is this?**
+
+**Excerpt from ebook:** a practical guide that provides more than 150 recipes to help you generate high-quality graphs quickly, without having to comb through all the details of R's graphing systems.
+Each recipe tackles a specific problem with a solution you can apply to your own project, and includes a discussion of how and why the recipe works.
+
+1.  Link to free ebook here: <https://r-graphics.org/>
+2.  Link to buy it: [Amazon link](https://www.amazon.com/dp/1491978600)

@@ -1,0 +1,19 @@
+---
+title: "ARDA (Association of Religion Data Archives) Data Archive"
+date: "2023-04-28"
+categories: [datasets]
+image: featured.png
+image-alt: "Screenshot of the “Data Archive” page from The Association of Religion Data Archives (ARDA) website. The section heading reads “Data Archive – All Categories.” A paragraph explains that the ARDA collection includes 1,350 data files from surveys and polls submitted by researchers, with options to browse alphabetically, by category, or by newest additions. On the left, there are dropdown menus to select archive categories and file summaries, along with a search bar. Below the introductory text, sections such as “International Surveys and Data,” “ARDA’s Collections,” and “Pew’s Global Restrictions on Religion Data” are listed. A visual of a hand touching digital data icons is shown on the right."
+---
+
+<link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/JoscelinRocha">![Buy me a coffee](https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg){alt="Buy me a coffee" width="15" height="21"}Buy me a coffee</a>
+
+------------------------------------------------------------------------
+
+**Excerpt from site:** The ARDA Data Archive is a collection of surveys, polls, and other data submitted by researchers and made available online by the ARDA.
+
+There are 1,236 data files included in the ARDA collection. You can browse files by category, [alphabetically](https://www.thearda.com/data-archive/browse-alphabetically), view the [newest additions](https://www.thearda.com/data-archive/browse-newest-additions), or search for a file. Once you select a file you can preview the results, read about how the data were collected, review the survey questions asked, save selected survey questions to your own file, and/or download the data file.
+
+1.  Link to datasets here: <https://www.thearda.com/data-archive/browse-categories>
+
+![](featured.png)

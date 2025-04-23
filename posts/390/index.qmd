@@ -1,0 +1,23 @@
+---
+title: "Hello Quarto"
+date: "2025-04-22"
+categories: [visualization]
+image: featured.png
+image-alt: "Illustration of two penguins, one blue and one orange, taking a selfie with a selfie stick. The moon in the background looks like the Quarto logo."
+---
+
+
+<link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/JoscelinRocha">![Buy me a coffee](https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg){alt="Buy me a coffee" width="15" height="21"}Buy me a coffee</a>
+
+------------------------------------------------------------------------
+
+
+## [My first interactive map with {leaflet}](https://tengkuhanis.netlify.app/post/my-first-interactive-map-with-leaflet/)
+
+Added Sun Dec 12, 2021
+
+**What is this?**
+
+**Excerpt from site:** "In this post, I will try to create an interactive map using leaflet package in R."
+
+1.  Link to site here: <https://tengkuhanis.netlify.app/post/my-first-interactive-map-with-leaflet/>

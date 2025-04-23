@@ -1,0 +1,28 @@
+---
+title: "Hello Quarto"
+date: "2025-04-22"
+categories: [visualization]
+image: featured.png
+image-alt: "Illustration of two penguins, one blue and one orange, taking a selfie with a selfie stick. The moon in the background looks like the Quarto logo."
+---
+
+
+<link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/JoscelinRocha">![Buy me a coffee](https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg){alt="Buy me a coffee" width="15" height="21"}Buy me a coffee</a>
+
+------------------------------------------------------------------------
+
+
+## [Maze Generator Built in R](https://github.com/matfmc/mazegenerator)
+
+By Matheus Ferreira
+
+Added Thu Feb 20, 2025
+
+**What is this?**
+
+This repository features an R-based maze generator that employs a random walk algorithm to create mazes of customizable sizes.
+It offers visualization capabilities for both static mazes and animated generation processes, allowing users to observe the maze construction step by step.
+The project includes functions to adjust wall thickness, path appearance, and options to display node numbers and path progression.
+Additionally, it provides export features for both static images and animated mazes.
+
+1.  Link to repository here: <https://github.com/matfmc/mazegenerator>
