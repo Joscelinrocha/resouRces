@@ -1,0 +1,37 @@
+/*-- scss:defaults --*/
+
+@import 'https://fonts.googleapis.com/css2?family=Roboto+Flex:opsz,wght,GRAD,XOPQ,YTLC@8..144,300,-12,88,500&display=swap';
+
+$font-family: "Roboto Flex", sans-serif;
+$font-family-serif: "Roboto Flex", sans-serif;
+
+// Base document colors
+$body-bg: white;
+$body-color: #000000;
+$link-color: #124559;
+
+$light: #525252;
+
+// Navigation element colors
+$footer-bg: #93b7be;
+$navbar-bg: #93b7be;
+$sidebar-bg: white;
+
+// Code blocks
+$code-block-bg-alpha: -.8;
+
+// Bootstrap popovers
+$popover-bg: white;
+
+// Bootstrap inputs
+$input-bg: white;
+
+// Change colors for the net buttons
+.page-item.active .page-link {
+    z-index: 3;
+    color: #fff;
+    background-color: #93b7be;
+    border-color: #93b7be;
+}
+
+/*-- scss:rules --*/

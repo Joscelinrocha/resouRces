@@ -1,8 +1,10 @@
 /*-- scss:defaults --*/
 
-@import 'https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible&display=swap';
+@import 'https://fonts.googleapis.com/css2?family=Roboto+Flex:opsz,wght@8..144,100..1000&display=swap';
 
-$font-family: "Atkinson Hyperlegible", sans-serif;
+$font-family: "Roboto Flex", sans-serif;
+$font-family-serif: "Roboto Flex", sans-serif;
+
 
 // Base document colors
 $body-bg:#e0e1dd;
@@ -10,11 +12,13 @@ $body-color: #000000;
 $link-color: #415a77;
 
 $light: #525252;
+$primary: #2c2c2c;
 
 // Navigation element colors
 $footer-bg: #415a77;
 $navbar-bg: white;
 $sidebar-bg: #778da9;
+
 
 // Code blocks
 $code-block-bg-alpha: -.8;
@@ -30,4 +34,13 @@ $input-bg: white;
 
 .layout-example {
   background: $gray-700;
+}
+
+.navbar {
+  padding-top: 0.5rem;
+  padding-bottom: 0.5rem;
+}
+
+kbd, .kbd{
+  background-color: #222222 !important;
 }
