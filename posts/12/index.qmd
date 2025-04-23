@@ -1,0 +1,35 @@
+---
+title: "HTML blocks"
+date: "2022-07-09"
+categories: [html, raw]
+image: "featured.png"
+image-alt: "On top, a screenshot of the Insert Anything tool in the RStudio Visual Editor to insert an HTML block. An arrow from this points to the bottom image, which is an HTML block containing raw HTML code for including the Quarto Documentation at quarto.org in an iframe. The complete code can be found in the blog post."
+---
+
+## HTML block
+
+Want to embed an iframe on a webpage or a slide deck?
+Plop the sharing code in a raw html block!
+
+```` markdown
+```{=html}
+<iframe width="780" height="500" src="https://quarto.org/" title="Quarto Documentation"></iframe>
+```
+````
+
+And here is the result!
+
+```{=html}
+<iframe width="780" height="500" src="https://quarto.org/" title="Quarto Documentation"></iframe>
+```
+A few notes on HTML blocks:
+
+-   They're useful for visually separating out areas where you include raw HTML in an otherwise (primarily) markdown document.
+-   They make it easy to programatically access those HTML blocks should you ever need to do so (e.g., with a document parser or using regular expressions).
+-   If you're using the RStudio visual editor, you can insert an HTML block using **Insert \> Any \> HTML Block** or accessing the Insert Anything tool with the <kbd>⌘ /</kbd> shortcut.
+
+![](insert-html-block.png){fig-alt="Using the Insert Anything tool to insert an HTML block. Typing out the letters \"ht\" brings this option in the tool." fig-align="center" width="400"}
+
+## Learn more
+
+[Insert anything](https://quarto.org/docs/visual-editor/index.html#insert-anything)

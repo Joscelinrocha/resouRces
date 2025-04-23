@@ -1,0 +1,24 @@
+---
+title: "Hello Quarto"
+date: "2025-04-22"
+categories: [Learning R]
+image: featured.png
+image-alt: "Illustration of two penguins, one blue and one orange, taking a selfie with a selfie stick. The moon in the background looks like the Quarto logo."
+---
+
+
+<link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/JoscelinRocha">![Buy me a coffee](https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg){alt="Buy me a coffee" width="15" height="21"}Buy me a coffee</a>
+
+------------------------------------------------------------------------
+
+
+## [Intro to R for Biologists](https://hbctraining.github.io/Intro-to-R/lessons/07_ggplot2.html) 🌱
+
+**What is this?**
+
+**Excerpt from site here:** This repository has teaching materials for a hands-on Introduction to R workshop. The workshop will introduce participants to the basics of R and RStudio. RStudio is a tool that provides a user-friendly environment for working with R.
+
+These materials are intended to provide both basic R programming knowledge and its application for increasing efficiency for data analysis.
+
+1.  Link to site here: <https://hbctraining.github.io/Intro-to-R/lessons/07_ggplot2.html>
+2.  Link to repo here: <https://github.com/hbctraining/Intro-to-R>

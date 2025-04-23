@@ -1,0 +1,22 @@
+---
+title: "Hello Quarto"
+date: "2025-04-22"
+categories: [Learning R]
+image: featured.png
+image-alt: "Illustration of two penguins, one blue and one orange, taking a selfie with a selfie stick. The moon in the background looks like the Quarto logo."
+---
+
+
+<link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/JoscelinRocha">![Buy me a coffee](https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg){alt="Buy me a coffee" width="15" height="21"}Buy me a coffee</a>
+
+------------------------------------------------------------------------
+
+
+## [Learning R with Hockey Data and learnr](https://meghan.rbind.io/blog/learnr/) 🌱
+
+By [Meghan Hall](https://meghan.rbind.io/blog/learnr/)
+
+Added Sat Dec, 2021.**What is this?****Excerpt from site:** "I've created two tutorials in learnr, one that is a true introduction for beginners (focused on the tidyverse) and one that goes a little bit deeper into data manipuation with pivoting and joining data. These tutorials (screenshot below) live in a package I created called betweenthepipes".
+
+1.  Link to post here: <https://meghan.rbind.io/blog/learnr/>
+2.  Link to Github repo here: <https://github.com/meghall06/betweenthepipes/blob/master/README.md>

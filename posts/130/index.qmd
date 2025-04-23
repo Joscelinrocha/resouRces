@@ -1,0 +1,23 @@
+---
+title: "Hello Quarto"
+date: "2025-04-22"
+categories: [Learning R]
+image: featured.png
+image-alt: "Illustration of two penguins, one blue and one orange, taking a selfie with a selfie stick. The moon in the background looks like the Quarto logo."
+---
+
+
+<link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/JoscelinRocha">![Buy me a coffee](https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg){alt="Buy me a coffee" width="15" height="21"}Buy me a coffee</a>
+
+------------------------------------------------------------------------
+
+
+## [Getting Started in R -- Tinyverse Edition](https://github.com/eddelbuettel/gsir-te) 🌱
+
+By [Saghir Bashir and Dirk Eddelbuettel](https://github.com/eddelbuettel/gsir-te)
+
+Added Tue Oct 12, 2021
+
+**What is this?****Excerpt from repo:** An eight-page pdf guide for "Getting Started in R". Objective: To create a short guide that gives a quick overview and introduction to R.
+
+1.  Link to repo here: <https://github.com/eddelbuettel/gsir-te>

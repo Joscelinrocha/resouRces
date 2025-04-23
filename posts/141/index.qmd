@@ -1,0 +1,24 @@
+---
+title: "Hello Quarto"
+date: "2025-04-22"
+categories: [Learning R]
+image: featured.png
+image-alt: "Illustration of two penguins, one blue and one orange, taking a selfie with a selfie stick. The moon in the background looks like the Quarto logo."
+---
+
+
+<link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/JoscelinRocha">![Buy me a coffee](https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg){alt="Buy me a coffee" width="15" height="21"}Buy me a coffee</a>
+
+------------------------------------------------------------------------
+
+
+## [Modelling and visualizing data using R: A practical introduction](https://www.danielnettle.org.uk/r-modelling/)
+
+By [Daniel Nettle](https://www.danielnettle.org.uk/r-modelling/)
+
+**What is this?**
+
+**Excerpt from site:** This is a basic overview of using R for data analysis, and of linear statistical modelling. It would be suitable for anyone who has had some stats training but not used R; or has used R a little but not become confident; or has neither had stats training nor used R but is not happy with a reasonably steep learning curve. The emphasis is on rapidly getting to be able to use R for most of the common practical purposes, and knowing that you can take it further should you need to. It is designed for you to be able to work through on your own.
+
+1.  Link to pdf for intro: <https://www.danielnettle.org.uk/wp-content/uploads/2019/07/funwithR3.0.pdf>
+2.  Data files used for this intro: <https://www.dropbox.com/sh/7s14m6ceph3laja/AAAIGT7jBZ3n6aIBR8-IT8R4a?dl=0>

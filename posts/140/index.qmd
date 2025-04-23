@@ -1,0 +1,25 @@
+---
+title: "Hello Quarto"
+date: "2025-04-22"
+categories: [Learning R]
+image: featured.png
+image-alt: "Illustration of two penguins, one blue and one orange, taking a selfie with a selfie stick. The moon in the background looks like the Quarto logo."
+---
+
+
+<link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/JoscelinRocha">![Buy me a coffee](https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg){alt="Buy me a coffee" width="15" height="21"}Buy me a coffee</a>
+
+------------------------------------------------------------------------
+
+
+## [List of classes for learning R](https://www4.stat.ncsu.edu/~post/DataScienceR/)
+
+By [Justin Post](https://www4.stat.ncsu.edu/~post/DataScienceR/)
+
+**What is this?**
+
+**Excerpt from site here:** Here is a list of classes by Justin Post in the Department of Statistics at North Carolina State University.
+
+1.  Link for the INTRODUCTION TO R FOR DATA SCIENCE here: <https://www4.stat.ncsu.edu/~post/DataScienceR/>
+2.  Link for the INTERMEDIATE PROGRAMMING IN R here: <https://www4.stat.ncsu.edu/~post/ProgrammingR/>
+3.  Link for the ADVANCED R: AUTOMATING WORKFLOW & SHARING WORK here: <https://www4.stat.ncsu.edu/~post/IntermediateR/>🌳🌳

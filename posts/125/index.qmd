@@ -1,0 +1,21 @@
+---
+title: "Hello Quarto"
+date: "2025-04-22"
+categories: [Learning R]
+image: featured.png
+image-alt: "Illustration of two penguins, one blue and one orange, taking a selfie with a selfie stick. The moon in the background looks like the Quarto logo."
+---
+
+
+<link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/JoscelinRocha">![Buy me a coffee](https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg){alt="Buy me a coffee" width="15" height="21"}Buy me a coffee</a>
+
+------------------------------------------------------------------------
+
+
+## [Exploring tidymodels With Hockey Data](https://meghan.rbind.io/blog/tidymodels-intro/)🌱
+
+By [Meghan Hall](https://meghan.rbind.io/blog/tidymodels-intro/)
+
+Added Sat Dec, 2021.**What is this?****Excerpt from site:** "This is a gentle introduction to the tidymodels package (which, like the tidyverse, is actually a collection of packages), and in order to examine various functions and capabilities of those packages, we'll build two very simple models, using easily available NHL data, and go over a few ways to evaluate them".
+
+1.  Link to post here: <https://meghan.rbind.io/blog/tidymodels-intro/>

@@ -1,0 +1,17 @@
+---
+title: "Data Science for Economists Seminar"
+date: "2025-04-21"
+categories: [data science, course]
+image: "featured.png"
+image-alt: "Title slide for a university lecture titled “Data Science for Economists.” Subtitle reads “Lecture 1: Introduction.” The slide includes the instructor’s name, “Grant McDermott,” and affiliation, “University of Oregon,” followed by the course code “EC 607” in pink text. The layout is minimalist with a white background and a thin orange line separating the title from the footer."
+---
+
+By [Grant McDermott at the University of Oregon](https://github.com/uo-ec607/lectures#data-science-for-economists)
+
+**Excerpt from site:** This is a graduate economics seminar taught by Grant McDermott at the University of Oregon.
+
+Please read the syllabus before you go through any of the lectures. This will detail software requirements and installation, and give you a better sense of the aims and scope of the course. I also have an "FAQ" section at the end that covers frequently asked questions (or, at least, potentially asked questions). Speaking of which, here follow answers to some questions that are more specifically related to this repo.
+
+1.  Link to lectures repo: <https://github.com/uo-ec607/lectures#data-science-for-economists>
+
+![](featured.png)

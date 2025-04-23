@@ -1,0 +1,25 @@
+---
+title: "Hello Quarto"
+date: "2025-04-22"
+categories: [Learning R]
+image: featured.png
+image-alt: "Illustration of two penguins, one blue and one orange, taking a selfie with a selfie stick. The moon in the background looks like the Quarto logo."
+---
+
+
+<link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/JoscelinRocha">![Buy me a coffee](https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg){alt="Buy me a coffee" width="15" height="21"}Buy me a coffee</a>
+
+------------------------------------------------------------------------
+
+
+## [Just Enough R](https://benwhalley.github.io/just-enough-r/) 🌱
+
+**What is this?**
+
+**Excerpt from e-book here:** R makes it easy to work with and learn from data.
+
+It also happens to be a programmming language, but if you're reading this, that might not be of interest. That's OK --- the goal here is not to teach programming1. The goal is to teach you just enough R to be confident to explore your data.
+
+This book uses R like any other statistics software: To work-with and visualize data, run statistical analyses, and share our results with others. To do that you don't need more than the absolute basics of the R language itself.
+
+1.  Link to ebook here: <https://benwhalley.github.io/just-enough-r/>
