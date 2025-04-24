@@ -17,7 +17,7 @@ title-block-banner: false
 toc: false
 ---
 
-::: {.top-story-img}
+::: top-story-img
 ![](images/twitter-card.png){fig-align="center" width="377"}
 :::
 

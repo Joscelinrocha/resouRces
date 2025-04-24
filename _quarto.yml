@@ -52,7 +52,7 @@ website:
   page-footer:
     right: "This page is built with [Quarto](https://quarto.org/)."
     left: "&copy; Copyright 2025, Joscelin Rocha-Hidalgo"
-    background: "#D9E3E4"
+    #background: "#D9E3E4"
 
 format:
   html:
@@ -60,7 +60,7 @@ format:
       light: [litera, styles.scss]
       dark: [litera, styles-dark.scss]
     mainfont: "Roboto Flex"
-    fontsize: .755em
+    fontsize: .85em
     code-copy: true
     code-overflow: wrap
     toc: true
