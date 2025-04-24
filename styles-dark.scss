@@ -1,20 +1,33 @@
 /*-- scss:defaults --*/
+
 @import 'https://fonts.googleapis.com/css2?family=Roboto+Flex:opsz,wght,GRAD,XOPQ,YTLC@8..144,300,-12,88,500&display=swap';
 
 $font-family: "Roboto Flex", sans-serif;
 $font-family-serif: "Roboto Flex", sans-serif;
 
+// colors
+$dark-gray: #3E4C5E;
+$light-gray: #D1D5DE;
+$turquoise: #124559;
+
+// font size
+$my-font-size: 25px;
+
+
 // Base document colors
-$body-bg: #D1D5DE;
-$body-color: #000000;
-$link-color: #124559;
+$body-bg: $light-gray;
+$body-color: black;
+$link-color: $turquoise;
 
 $light: #525252;
 
+
 // Navigation element colors
-$footer-bg: #3E4C5E;
-$navbar-bg: #3E4C5E;
-$sidebar-bg: white;
+$footer-bg: $dark-gray; //footer bar
+$navbar-bg: $dark-gray; //navigation bar
+$sidebar-bg: white;//sidebar
+$navbar-fg: white; // navbar foreground elements
+$navbar-hl: $light-gray; // highlight color when hovering over navbar links
 
 // Code blocks
 $code-block-bg-alpha: -.8;
@@ -23,19 +36,57 @@ $code-block-bg-alpha: -.8;
 $popover-bg: white;
 
 // Bootstrap inputs
-$input-bg: white;
+$input-bg: white; //this would change the filter, and all the research boxes to this color
 
-// Change colors for the net buttons
+// Change colors for the next buttons/pagination
 .page-item.active .page-link {
     z-index: 3;
-    color: #fff;
-    background-color: #3E4C5E;
-    border-color: #3E4C5E;
+    color: white;
+    background-color: $dark-gray;
+    border-color: $dark-gray;
 }
+
+
+/*-- scss:rules --*/
+
 
 // change logo
 .navbar-logo {
-  max-height: 300px;
+  max-height: 50px;
 }
 
+.navbar ul.dropdown-menu li {
+  list-style-type: none;
+  //border-bottom: solid 1px #eeeeee; //add a border to the bottom of my navigation bar
+  // text-transform: uppercase; //make the font of my menus all caps
+  letter-spacing: 0.08em;
+  padding: 2px 0;
+}
+.navbar ul.dropdown-menu li a {
+  position: relative;
+  color: $dark-gray; // change the color of the font in my menus
+  font-size: 12px;// change the color of the font size in my menus
+  display: block;
+  -webkit-transition: all 0.2s ease-out;
+  -moz-transition: all 0.2s ease-out;
+  transition: all 0.2s ease-out;
+  left: 0;
+}
+.navbar ul.dropdown-menu li a:hover {
+  color: $light-gray;
+  text-decoration: none;
+  background: $dark-gray; // changes the color of what we hover on the menus
+  left: 1px; //I can move the content 2px to give the ilusion of movement
+  -webkit-transition: all 0.2s ease-out;
+  -moz-transition: all 0.2s ease-out;
+  transition: all 0.2s ease-out;
+}
+
+.quarto-title-banner {
+  padding: 0.625rem 0rem; // this is allowig me to change the padding of my tittle banners (top-bottom; left-right)
+}
+
+.quarto-title-meta {
+  padding: 0.625rem 0rem; // this is allowig me to change the padding of my tittle banners (top-bottom; left-right)
+}
 

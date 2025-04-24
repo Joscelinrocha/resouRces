@@ -18,4 +18,3 @@ By [Danielle Navarro](https://art-from-code.netlify.app/)
 2.  Link to repo here: <https://github.com/rstudio-conf-2022/art-from-code>
 
 ![](https://art-from-code.netlify.app/img/banner.png)
-

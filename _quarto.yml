@@ -18,7 +18,7 @@ website:
     image: "images/twitter-card.png"
 
   navbar:
-    background: "#D9E3E4"
+    #background: "#D9E3E4"
     logo: "images/logo.png"
     pinned: false
     align: center
