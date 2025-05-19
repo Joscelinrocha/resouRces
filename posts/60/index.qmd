@@ -1,7 +1,7 @@
 ---
 title: "National Couples' Health and Time Study (NCHAT)"
 date: "2023-04-28"
-categories: [database]
+categories: [datasets]
 image: https://pop.umn.edu/sites/pop.umn.edu/files/styles/folwell_third/public/2021-11/logo-nchat.jpg?itok=sEjmPlNp
 image-alt: "NCHAT logo showing silhouettes of diverse individuals over a color gradient, with text reading 'NCHAT: Network for Community-Engaged Primary Data Collection"
 ---

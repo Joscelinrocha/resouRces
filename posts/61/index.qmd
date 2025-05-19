@@ -1,7 +1,7 @@
 ---
 title: "Open Data from city of New York"
 date: "2025-05-19"
-categories: [database]
+categories: [datasets]
 image: https://opendata.cityofnewyork.us/wp-content/themes/opendata-wp/assets/img/nyc-open-data-logo.svg
 image-alt: "NYC Open Data logo featuring a stylized blue skyline of New York City with the words 'NYC Open Data'"
 ---
