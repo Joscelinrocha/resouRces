@@ -1,23 +1,17 @@
 ---
-title: "Hello Quarto"
-date: "2022-07-28"
-categories: [talk]
-image: featured.png
-image-alt: "Illustration of two penguins, one blue and one orange, taking a selfie with a selfie stick. The moon in the background looks like the Quarto logo."
+title: "Survey Center on American Life"
+date: "2023-04-28"
+categories: [datasets]
+image: https://www.americansurveycenter.org/wp-content/uploads/2022/06/survey-center-on-american-life-aei.jpg
+image-alt: "Survey Center on American Life logo with an abstract blue and red circular design next to the text 'Survey Center on American Life | AEI'"
 ---
-
 
 <link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/JoscelinRocha">![Buy me a coffee](https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg){alt="Buy me a coffee" width="15" height="21"}Buy me a coffee</a>
 
 ------------------------------------------------------------------------
 
-
-## [Survey Center on American Life](https://www.americansurveycenter.org/data/download-data/)
-
-Added Fri Apr 28th, 2023
-
-**What is this?****Excerpt from site:** The Survey Center on American Life makes its data available to the public after a period of six to twelve months.
-Datasets are available to download as Stata and SPSS files.
-Survey datasets are cleaned with all identifying information removed.
+**Excerpt from site:** The Survey Center on American Life makes its data available to the public after a period of six to twelve months. Datasets are available to download as Stata and SPSS files. Survey datasets are cleaned with all identifying information removed.
 
 1.  Link to the datasets: <https://www.americansurveycenter.org/data/download-data/>
+
+![](https://www.americansurveycenter.org/wp-content/uploads/2022/06/survey-center-on-american-life-aei.jpg)

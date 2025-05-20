@@ -1,21 +1,17 @@
 ---
-title: "Hello Quarto"
+title: "AlignAssign"
 date: "2025-04-22"
-categories: []
+categories: [tricks]
 image: featured.png
-image-alt: "Illustration of two penguins, one blue and one orange, taking a selfie with a selfie stick. The moon in the background looks like the Quarto logo."
+image-alt: "Screenshot of R code using the purrr package's %||% operator to assign default values to variables like status, team, priority, and others, with multiple cursors visible for simultaneous editing."
 ---
-
 
 <link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/JoscelinRocha">![Buy me a coffee](https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg){alt="Buy me a coffee" width="15" height="21"}Buy me a coffee</a>
 
 ------------------------------------------------------------------------
 
-
-## [AlignAssign](https://github.com/seasmith/AlignAssign)
-
-**What is this?**
-
 **Excerpt from site**: Align the assignment operators (either \<- or =) within a highlighted area.
 
 1.  Link to repo here: <https://github.com/seasmith/AlignAssign>
+
+![](featured.png)

@@ -1,24 +1,18 @@
 ---
-title: "Hello Quarto"
-date: "2025-04-22"
-categories: []
+title: "Animated versions of common dplyr functions"
+date: "2025-05-19"
+categories: [tricks]
 image: featured.png
 image-alt: "Illustration of two penguins, one blue and one orange, taking a selfie with a selfie stick. The moon in the background looks like the Quarto logo."
 ---
-
 
 <link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/JoscelinRocha">![Buy me a coffee](https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg){alt="Buy me a coffee" width="15" height="21"}Buy me a coffee</a>
 
 ------------------------------------------------------------------------
 
+by [R for the Rest of Us](https://rfortherestofus.com/)
 
-## [An Introduction to Docker for R Users](https://colinfay.me/docker-r-reproducibility/)
+**Excerpt from blog:** One of the best parts about the functions in the [`dplyr` package](https://click.convertkit-mail.com/e5uv8dzv9wf0uzpgz8i8h8rgp222cl/owhkhqhrv3g73rbv/aHR0cHM6Ly9kcGx5ci50aWR5dmVyc2Uub3JnLw==) (one of several that make up the `tidyverse` collection of packages) is that their names indicate what they do. No need to remember a weird acronym; the name of the function to filter your data is `filter()`. But, helpful as these function names are, it can still be hard to remember exactly what the functions do...I've collected all of these animations in one place (and added some sample code to show how they work). If you're just learning R and want a visual aid to help you, check it out! If you've already mastered these functions, consider sharing them with a friend.
 
-By [Colin Fay](https://colinfay.me/docker-r-reproducibility/)
-
-**What is this?**
-
-**Excerpt from blog:** A quick introduction on using Docker for reproducibility in R.
-Disclaimer: This blog post is an introduction to Docker for beginners, and will take some shortcuts ;)
-
-1.  Link to blog: <https://colinfay.me/docker-r-reproducibility/>
+1.  Link to blog: <https://rfortherestofus.com/2024/07/dplyr-functions-animated>
+2.  Link to video: <https://youtu.be/t1fFi1pSdL0>

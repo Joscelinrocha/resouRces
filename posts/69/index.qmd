@@ -1,23 +1,19 @@
 ---
-title: "Hello Quarto"
+title: "An Introduction to Docker for R Users"
 date: "2025-04-22"
 categories: [docker]
 image: featured.png
-image-alt: "Illustration of two penguins, one blue and one orange, taking a selfie with a selfie stick. The moon in the background looks like the Quarto logo."
+image-alt: "Screenshot of a blog post titled 'An Introduction to Docker for R Users' by Colin Fay, featuring an explanation of Docker and its use for R reproducibility, with navigation links on the left sidebar."
 ---
-
 
 <link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/JoscelinRocha">![Buy me a coffee](https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg){alt="Buy me a coffee" width="15" height="21"}Buy me a coffee</a>
 
 ------------------------------------------------------------------------
 
-
-## [An Introduction to Docker for R Users](https://colinfay.me/docker-r-reproducibility/)
-
 By [Colin Fay](https://colinfay.me/docker-r-reproducibility/)
-
-**What is this?**
 
 **Excerpt from blog:** A quick introduction on using Docker for reproducibility in R. Disclaimer: This blog post is an introduction to Docker for beginners, and will take some shortcuts ;)
 
 1.  Link to blog: <https://colinfay.me/docker-r-reproducibility/>
+
+![](featured.png)

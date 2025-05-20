@@ -1,24 +1,17 @@
 ---
-title: "Hello Quarto"
+title: "Adding a Sound when script is done (option 1)"
 date: "2025-04-22"
 categories: []
-image: featured.png
-image-alt: "Illustration of two penguins, one blue and one orange, taking a selfie with a selfie stick. The moon in the background looks like the Quarto logo."
+image: https://raw.githubusercontent.com/brooke-watson/BRRR/refs/heads/master/inst/imgs/BRRR.png
+image-alt: "BRRR package logo featuring a cartoon penguin wearing sunglasses and a scarf, standing next to an R console with the text 'BRRR'"
 ---
-
 
 <link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/JoscelinRocha">![Buy me a coffee](https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg){alt="Buy me a coffee" width="15" height="21"}Buy me a coffee</a>
 
 ------------------------------------------------------------------------
 
-
-## [Adding a Sound when script is done (option 1)](https://github.com/brooke-watson/BRRR/blob/master/README.md)
-
-**What is this?**
-
-This is function plays a rap adlib when it is called.
-It is useful if you have a script that takes a while to run, and want to be notified when it is finished.
-The package currently includes 52 different sounds from 34 artists, the majority of which are pulled from The Rap Board by LP Riel.
-I use it when I have long scripts to run and I want to feel amused when they are ready hahha
+This is function plays a rap adlib when it is called. It is useful if you have a script that takes a while to run, and want to be notified when it is finished. The package currently includes 52 different sounds from 34 artists, the majority of which are pulled from The Rap Board by LP Riel. I use it when I have long scripts to run and I want to feel amused when they are ready hahha
 
 1.  Github is here: <https://github.com/brooke-watson/BRRR/blob/master/README.md>
+
+![](https://raw.githubusercontent.com/brooke-watson/BRRR/refs/heads/master/inst/imgs/BRRR.png)
