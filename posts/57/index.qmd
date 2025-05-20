@@ -2,7 +2,7 @@
 title: "Nationals Center for Education Statistics: Longitudinal Studies"
 date: "2023-04-28"
 categories: [datasets]
-image: featured.png
+image: "featured.png"
 image-alt: 'Screenshot from the National Center for Education Statistics (NCES) introducing an online module titled “Introduction to the NCES Longitudinal Studies: 1972–2020.” The top section includes the IES:NCES logo and illustrations of people analyzing data on screens. Below, a circular cartoon graphic of a smiling student is centered above the module title. A green "Start" button appears at the bottom.'
 ---
 

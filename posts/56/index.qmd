@@ -2,7 +2,7 @@
 title: "MIT Election Data + Science Lab"
 date: "2023-04-28"
 categories: [datasets]
-image: featured.png
+image: "featured.png"
 image-alt: 'Logo of the MIT Election Data and Science Lab. It features a grid of red and blue dots on the left, representing data points or ballots, followed by the text "MIT ELECTION DATA + SCIENCE LAB" in bold, uppercase blue lettering.'
 ---
 
