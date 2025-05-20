@@ -1,25 +1,19 @@
 ---
-title: "Hello Quarto"
-date: "2025-04-22"
-categories: []
-image: featured.png
-image-alt: "Illustration of two penguins, one blue and one orange, taking a selfie with a selfie stick. The moon in the background looks like the Quarto logo."
+title: "RStudio Crash Course for beginners 2020 | How To Use The IDE"
+date: "2020-10-25"
+categories: [intro to R, video]
+image: "featured.png"
+image-alt: "Graphic with the phrase 'LEARN PROGRAMMING' in the center, surrounded by colorful icons representing coding, binary, cloud, magnifying glass, web, gear, and document symbols on a dark background with vertical line accents."
 ---
-
 
 <link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/JoscelinRocha">![Buy me a coffee](https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg){alt="Buy me a coffee" width="15" height="21"}Buy me a coffee</a>
 
 ------------------------------------------------------------------------
 
-
-## [RStudio Crash Course for beginners 2020 \| How To Use The IDE](https://www.youtube.com/watch?v=PXiY8muVUec&feature=youtu.be)
-
 By [Bryan Jenks](https://www.youtube.com/watch?v=PXiY8muVUec&feature=youtu.be)
-
-Added Sun Oct 25th, 2020
-
-**What is this?**
 
 **Excerpt from announcement:** Bryan Jenks made this video as a crash course to RStudio so you can get started on R development :)
 
 1.  Link to video: <https://www.youtube.com/watch?v=PXiY8muVUec&ab_channel=BryanJenks>
+
+![](featured.png)

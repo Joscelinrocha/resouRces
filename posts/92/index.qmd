@@ -1,25 +1,19 @@
 ---
-title: "Hello Quarto"
-date: "2025-04-22"
-categories: []
-image: featured.png
-image-alt: "Illustration of two penguins, one blue and one orange, taking a selfie with a selfie stick. The moon in the background looks like the Quarto logo."
+title: "GIT for humans"
+date: "2020-04-25"
+categories: [git, book]
+image: https://gitforhumans.us/_astro/the-gitving-tree.ClXnDVOJ_Z1vts1V.webp
+image-alt: "Illustration titled 'The Gitving Tree' showing a tree metaphor for Git concepts, inspired by the children's book 'The Giving Tree,' with branches representing version control elements like commits and merges."
 ---
-
 
 <link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/JoscelinRocha">![Buy me a coffee](https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg){alt="Buy me a coffee" width="15" height="21"}Buy me a coffee</a>
 
 ------------------------------------------------------------------------
 
-
-## [GIT for humans](https://abookapart.com/products/git-for-humans)
-
-By [David Demaree. Foreword by Mandy Brown](https://abookapart.com/products/git-for-humans)
-
-Added Sun Oct 25th, 2020
-
-**What is this?**
+By [David Demaree. Foreword by Mandy Brown](https://gitforhumans.us/)
 
 **Excerpt from site here:** Humans, meet Git. From common version-tracking tasks to navigating merge conflicts, learn how to wield Git for collaboration on any digital project. Git's model of version control makes it indispensable for collaborating on digital projects of all stripes. Get situated with Git as David Demaree guides you through the command-line workflow, the nuances of repositories and branches, the elements of a solid commit message, and more. Pick up common version-tracking tasks, along with advice on trickier scenarios. You'll learn how to put Git to work for you---and work better with your team.
 
-1.  Link to site: <https://abookapart.com/products/git-for-humans>
+1.  Link to site: <https://gitforhumans.us/>
+
+![](https://gitforhumans.us/_astro/the-gitving-tree.ClXnDVOJ_Z1vts1V.webp){width="1172"}

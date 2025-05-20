@@ -1,21 +1,17 @@
 ---
-title: "Hello Quarto"
-date: "2025-04-22"
-categories: []
-image: featured.png
-image-alt: "Illustration of two penguins, one blue and one orange, taking a selfie with a selfie stick. The moon in the background looks like the Quarto logo."
+title: "Git for Academics"
+date: "2020-10-25"
+categories: [git,video]
+image: f"eatured.png"""
+image-alt: "Slide with dark background displaying the title 'An Introduction to Git for Academics' in large, bold blue and white text."
 ---
-
 
 <link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/JoscelinRocha">![Buy me a coffee](https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg){alt="Buy me a coffee" width="15" height="21"}Buy me a coffee</a>
 
 ------------------------------------------------------------------------
 
-
-## [Git for Academics](https://www.youtube.com/watch?v=PBRmtABqC9U&feature=youtu.be)
-
-Added Sun Oct 25th, 2020
-
 **What is this?**In this video, I go over the very basics of using git in a purely academic context. I leave out everything that is not strictly necessary and explain the six central commands you will need to use git productively: git init, git add \*, git commit -m "A description of what has changed", git log --oneline, git checkout master,& git status.
 
 1.  Link to video here: <https://www.youtube.com/watch?v=PBRmtABqC9U&feature=youtu.be>
+
+![](featured.png)

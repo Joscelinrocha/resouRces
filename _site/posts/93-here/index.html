@@ -7,9 +7,9 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 <meta name="author" content="Dr.&nbsp;Joscelin Rocha-Hidalgo">
-<meta name="dcterms.date" content="2025-04-22">
+<meta name="dcterms.date" content="2025-05-20">
 
-<title>Hello Quarto – resouRces</title>
+<title>The Dot-Probe Task is Probably Fine – resouRces</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -73,16 +73,16 @@ ul.task-list li input[type="checkbox"] {
 }</script>
 
 
-<meta property="og:title" content="Hello Quarto – resouRces">
+<meta property="og:title" content="The Dot-Probe Task is Probably Fine – resouRces">
 <meta property="og:description" content="Database of Resources to Learn &amp; Teach R">
-<meta property="og:image" content="https://www.resourcesdatabase.com/posts/206/featured.png">
+<meta property="og:image" content="https://cogpsychreserve.netlify.app/posts/dotprobereliability/index_files/figure-html/unnamed-chunk-4-1.png">
 <meta property="og:site_name" content="resouRces">
-<meta property="og:image:alt" content="Illustration of two penguins, one blue and one orange, taking a selfie with a selfie stick. The moon in the background looks like the Quarto logo.">
-<meta name="twitter:title" content="Hello Quarto – resouRces">
+<meta property="og:image:alt" content="Line plot showing reliability estimates across trials for a dot-probe task, with reliability values on the y-axis and trial count on the x-axis, visualizing how reliability changes over time.">
+<meta name="twitter:title" content="The Dot-Probe Task is Probably Fine – resouRces">
 <meta name="twitter:description" content="Database of Resources to Learn &amp; Teach R">
-<meta name="twitter:image" content="https://www.resourcesdatabase.com/posts/206/featured.png">
+<meta name="twitter:image" content="https://cogpsychreserve.netlify.app/posts/dotprobereliability/index_files/figure-html/unnamed-chunk-4-1.png">
 <meta name="twitter:creator" content="@JoscelinRocha">
-<meta name="twitter:image:alt" content="Illustration of two penguins, one blue and one orange, taking a selfie with a selfie stick. The moon in the background looks like the Quarto logo.">
+<meta name="twitter:image:alt" content="Line plot showing reliability estimates across trials for a dot-probe task, with reliability values on the y-axis and trial count on the x-axis, visualizing how reliability changes over time.">
 <meta name="twitter:card" content="summary_large_image">
 </head>
 
@@ -147,9 +147,12 @@ ul.task-list li input[type="checkbox"] {
 <header id="title-block-header" class="quarto-title-block default page-columns page-full">
   <div class="quarto-title-banner page-columns page-full">
     <div class="quarto-title column-body">
-      <h1 class="title">Hello Quarto</h1>
+      <h1 class="title">The Dot-Probe Task is Probably Fine</h1>
                                 <div class="quarto-categories">
-                <div class="quarto-category">quarto</div>
+                <div class="quarto-category">bayesian</div>
+                <div class="quarto-category">statistics</div>
+                <div class="quarto-category">psychometrics</div>
+                <div class="quarto-category">tutorial</div>
               </div>
                   </div>
   </div>
@@ -167,7 +170,7 @@ ul.task-list li input[type="checkbox"] {
       <div>
       <div class="quarto-title-meta-heading">Published</div>
       <div class="quarto-title-meta-contents">
-        <p class="date">April 22, 2025</p>
+        <p class="date">May 20, 2025</p>
       </div>
     </div>
     
@@ -188,24 +191,22 @@ ul.task-list li input[type="checkbox"] {
 
 <p><link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/JoscelinRocha"><img src="https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg" alt="Buy me a coffee" width="15" height="21">Buy me a coffee</a></p>
 <hr>
-<section id="integrating-google-forms-with-quarto-for-data-collection" class="level2">
-<h2 class="anchored" data-anchor-id="integrating-google-forms-with-quarto-for-data-collection"><a href="https://ericrscott.com/posts/2023-08-08-google-forms-quarto/">Integrating Google Forms with Quarto for Data Collection</a></h2>
-<p>By Eric R. Scott</p>
-<p>Added Thu Feb 20, 2025</p>
-<p><strong>What is this?</strong></p>
-<p>In this tutorial, Eric R. Scott demonstrates how to embed Google Forms into Quarto documents, enabling seamless data collection within your reports or websites. The guide covers:</p>
+<p>By Shachar Hochman</p>
+<p><strong>Excerpt from tutorial here:</strong></p>
 <ul>
-<li><p>Creating a Google Form for data input.</p></li>
-<li><p>Embedding the form into a Quarto document.</p></li>
-<li><p>Retrieving and analyzing the collected responses in R.</p></li>
+<li><strong>Goal:</strong> Discuss two methods to detect reliability (of cognitive tasks in this case) using Bayesian hierarchical linear models (HLMs) in <code>brms</code>.</li>
 </ul>
-<p>This integration is particularly useful for educators and researchers seeking to gather user input directly from their Quarto-based content.</p>
+<!-- -->
+<ul>
+<li><p><strong>Case Study:</strong> The Dot-Probe Task. Contrary to a recent publication that claims the emotional dot-probe task is not a reliable measure, I’ll show that more nuanced modeling suggests the task is probably “fine” reliability-wise.</p></li>
+<li><p><strong>The Bottom Line:</strong> This tutorial-like post demonstrates how Bayesian HLM can fundamentally change reliability assessment. By analyzing trial-level data rather than aggregated scores, these methods can uncover meaningful signal where traditional approaches see only noise—potentially rehabilitating numerous tasks previously deemed psychometrically inadequate.</p></li>
+</ul>
 <ol type="1">
-<li>Link to tutorial here: <a href="https://ericrscott.com/posts/2023-08-08-google-forms-quarto/" class="uri">https://ericrscott.com/posts/2023-08-08-google-forms-quarto/</a></li>
+<li>Link to tutorial here: <a href="https://cogpsychreserve.netlify.app/posts/dotprobereliability/" class="uri">https://cogpsychreserve.netlify.app/posts/dotprobereliability/</a></li>
 </ol>
+<p><img src="https://cogpsychreserve.netlify.app/posts/dotprobereliability/index_files/figure-html/unnamed-chunk-4-1.png" class="img-fluid"></p>
 
 
-</section>
 
 <a onclick="window.scrollTo(0, 0); return false;" role="button" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
@@ -777,7 +778,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 </div>   
     <div class="nav-footer-center">
       &nbsp;
-    <div class="toc-actions"><ul><li><a href="https://github.com/Joscelinrocha/resouRces/edit/main/posts/206/index.qmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/Joscelinrocha/resouRces/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li></ul></div></div>
+    <div class="toc-actions"><ul><li><a href="https://github.com/Joscelinrocha/resouRces/edit/main/posts/93-here/index.qmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/Joscelinrocha/resouRces/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li></ul></div></div>
     <div class="nav-footer-right">
 <p>This page is built with <a href="https://quarto.org/">Quarto</a>.</p>
 </div>

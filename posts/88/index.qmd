@@ -1,24 +1,21 @@
 ---
-title: "Hello Quarto"
+title: "Tidy animated verbs"
 date: "2025-04-22"
-categories: []
-image: featured.png
-image-alt: "Illustration of two penguins, one blue and one orange, taking a selfie with a selfie stick. The moon in the background looks like the Quarto logo."
+categories: [tidyverse, tricks]
+image: "featured.png"
+image-alt: "Diagram illustrating the result of inner_join(x, y) in R, where only matching keys (1 and 2) from both data frames are retained and joined, shown using color-coded blocks for keys and values."
 ---
-
 
 <link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/JoscelinRocha">![Buy me a coffee](https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg){alt="Buy me a coffee" width="15" height="21"}Buy me a coffee</a>
 
 ------------------------------------------------------------------------
 
-
-## [Tidy animated verbs](https://github.com/batpigandme/tidyexplain)
-
 By [Garrick Aden‑Buie](https://github.com/batpigandme/tidyexplain)
 
 **What is this?**
 
-Wonderful animations of Tidy verbs.
-I have these animations on my phone because I use them so much!
+Wonderful animations of Tidy verbs. I have these animations on my phone because I use them so much!
 
 1.  Link to the animations: <https://github.com/batpigandme/tidyexplain>
+
+![](featured.png)

@@ -1,27 +1,16 @@
 ---
-title: "Hello Quarto"
-date: "2025-04-22"
-categories: []
-image: featured.png
-image-alt: "Illustration of two penguins, one blue and one orange, taking a selfie with a selfie stick. The moon in the background looks like the Quarto logo."
+title: "Scraping Dynamic Websites with R and Chromote"
+date: "2025-02-20"
+categories: [scraping, video]
+image: "featured.png"
+image-alt: "YouTube video thumbnail titled 'Web Scraping Static & Dynamic Websites in R with Chromote' by TheCoatlessProfessor, featuring logos for R and Chrome, and a weather visualization screenshot on a dark blue background."
 ---
-
 
 <link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/JoscelinRocha">![Buy me a coffee](https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg){alt="Buy me a coffee" width="15" height="21"}Buy me a coffee</a>
 
 ------------------------------------------------------------------------
 
-
-## [Scraping Dynamic Websites with R and Chromote](https://blog.thecoatlessprofessor.com/videos/r/scraping-static-and-dynamic-websites-with-r-and-the-chromote-package/) 💯
-
-By James Balamuta
-
-Added Thu Feb 20, 2025
-
-**What is this?**
-
-In this tutorial, James Balamuta demonstrates how to scrape both static and JavaScript-driven websites using R and the `chromote` package.
-The tutorial includes a video walkthrough covering:
+In this tutorial, James Balamuta demonstrates how to scrape both static and JavaScript-driven websites using R and the `chromote` package. The tutorial includes a video walkthrough covering:
 
 1.  Scraping static content from [r-project.org](https://www.r-project.org).
 
@@ -36,3 +25,5 @@ This resource is particularly useful for those looking to handle web content ren
 2.  Link to the video here: <https://www.youtube.com/watch?v=30AOpjLeOyI&ab_channel=TheCoatlessProfessor>
 
 3.  Link to repository here: GitHub Repository: [https://github.com/coatless-videos/ch...](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbjBvanhVWENGcGFUQWhGZi10ZTRkRTZMQVZoZ3xBQ3Jtc0tsazlqTjhrWVNZQmVFLXR6eVBGT0FWYk9wQzhjTzF1V3piazYxdzUyaXFMeWVwVW00Sk92bi1CVnc4QWItSENjYURnWGpueWkybWpqWlEzS1hreE1LTC15SkVRYmRZaHJLdHdTaGhXNU0tMS1nNVpwUQ&q=https%3A%2F%2Fgithub.com%2Fcoatless-videos%2Fchromote-web-scraping&v=30AOpjLeOyI)
+
+![](featured.png)

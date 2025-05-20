@@ -1,25 +1,20 @@
 ---
-title: "Hello Quarto"
+title: "Using Dates and Times in R"
 date: "2025-04-22"
-categories: []
-image: featured.png
-image-alt: "Illustration of two penguins, one blue and one orange, taking a selfie with a selfie stick. The moon in the background looks like the Quarto logo."
+categories: [dates, tutorial]
+image: "featured.png"
+image-alt: "Tutorial page titled 'Using Dates and Times in R' by Bonnie Dixon, showing R code examples for creating dates using the as.Date() function with different formats, alongside the resulting output."
 ---
-
 
 <link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/JoscelinRocha">![Buy me a coffee](https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg){alt="Buy me a coffee" width="15" height="21"}Buy me a coffee</a>
 
 ------------------------------------------------------------------------
 
-
-## [Using Dates and Times in R](https://d-rug.github.io/blog/2014/using-times-and-dates-in-r-presentation-code)
-
 By [Bonnie Dixon](https://d-rug.github.io/blog/2014/using-times-and-dates-in-r-presentation-code)
 
-**What is this?**
-
-**Excerpt from site:** at the Davis R Users' Group, Bonnie Dixon gave a tutorial on the various ways to handle dates and times in R.
-Bonnie provided this great script which walks through essential classes, functions, and packages.
+**Excerpt from site:** at the Davis R Users' Group, Bonnie Dixon gave a tutorial on the various ways to handle dates and times in R. Bonnie provided this great script which walks through essential classes, functions, and packages.
 
 1.  Link to site: <https://d-rug.github.io/blog/2014/using-times-and-dates-in-r-presentation-code>
 2.  Link to code: <https://gist.github.com/noamross/8928124>
+
+![](featured.png)

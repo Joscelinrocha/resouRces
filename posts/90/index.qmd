@@ -1,18 +1,16 @@
 ---
-title: "Hello Quarto"
+title: "Videos by Sharon Machlis for fun things"
 date: "2025-04-22"
-categories: []
-image: featured.png
-image-alt: "Illustration of two penguins, one blue and one orange, taking a selfie with a selfie stick. The moon in the background looks like the Quarto logo."
+categories: [videos, emails, plugins,python, slack, text message]
+image: "featured.png"
+image-alt: "Illustration or logo for 'GIT for Humans', emphasizing a user-friendly, approachable interface to Git version control, often using icons like branches, commits, or human figures to represent simplicity and accessibility."
 ---
-
 
 <link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/JoscelinRocha">![Buy me a coffee](https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg){alt="Buy me a coffee" width="15" height="21"}Buy me a coffee</a>
 
 ------------------------------------------------------------------------
 
-
-## Videos by Sharon Machlis for fun things:
+## 
 
 **What is this?**
 
@@ -25,3 +23,8 @@ Here is a list of video tutorials by Sharon for fun things to do with R that did
 5.  [Schedule R scripts on a Mac](https://www.youtube.com/watch?v=w2Ka5u5jlJU&list=PL7D2RMSmRO9JOvPC1gbA8Mc3azvSfm8Vv&index=25)
 6.  Creating Studio addins or plugins: [Option 1](https://www.youtube.com/watch?v=zAtf9NkSOUg&list=PL7D2RMSmRO9JOvPC1gbA8Mc3azvSfm8Vv&index=35) or [Option 2](https://www.youtube.com/watch?v=539uKwD6NKE&list=PL7D2RMSmRO9JOvPC1gbA8Mc3azvSfm8Vv&index=33)
 7.  [Run Python in R](https://www.youtube.com/watch?v=m_MAYRDIuN4&list=PL7D2RMSmRO9JOvPC1gbA8Mc3azvSfm8Vv&index=32)
+8.  [Create searchable Bluesky bookmarks with R](https://www.infoworld.com/article/3623509/create-searchable-bluesky-bookmarks-with-r.html)
+9.  [3 of the best LLM integration tools for R](https://www.infoworld.com/article/3828268/top-llm-integration-tools-for-r-programming.html)
+10. [Create searchable Bluesky bookmarks with R](https://www.infoworld.com/article/3623509/create-searchable-bluesky-bookmarks-with-r.html)
+
+![](featured.png)

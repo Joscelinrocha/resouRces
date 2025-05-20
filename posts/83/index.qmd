@@ -1,26 +1,19 @@
 ---
-title: "Hello Quarto"
-date: "2025-04-22"
-categories: []
-image: featured.png
+title: "Mastering Software Development in R"
+date: "2020-10-25"
+categories: [software dev, book]
+image: https://d2sofvawe08yqg.cloudfront.net/msdr/s_hero?1620546523
 image-alt: "Illustration of two penguins, one blue and one orange, taking a selfie with a selfie stick. The moon in the background looks like the Quarto logo."
 ---
-
 
 <link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/JoscelinRocha">![Buy me a coffee](https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg){alt="Buy me a coffee" width="15" height="21"}Buy me a coffee</a>
 
 ------------------------------------------------------------------------
 
-
-## [Mastering Software Development in R](https://leanpub.com/msdr)
-
 By [Roger D. Peng, Sean Kross, & Brooke Anderson](https://leanpub.com/msdr)
 
-Added Sun Oct 25th, 2020
-
-**What is this?**
-
-**Excerpt from ebook:** This book covers R software development for building data science tools.
-This book provides rigorous training in the R language and covers modern software development practices for building tools that are highly reusable, modular, and suitable for use in a team-based environment or a community of developers
+**Excerpt from ebook:** This book covers R software development for building data science tools. This book provides rigorous training in the R language and covers modern software development practices for building tools that are highly reusable, modular, and suitable for use in a team-based environment or a community of developers
 
 1.  Link to ebook here: <https://leanpub.com/msdr>
+
+![](https://d2sofvawe08yqg.cloudfront.net/msdr/s_hero?1620546523)
