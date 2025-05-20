@@ -1,0 +1,616 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss  xmlns:atom="http://www.w3.org/2005/Atom" 
+      xmlns:media="http://search.yahoo.com/mrss/" 
+      xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+      xmlns:dc="http://purl.org/dc/elements/1.1/" 
+      version="2.0">
+<channel>
+<title>resouRces</title>
+<link>https://www.resourcesdatabase.com/</link>
+<atom:link href="https://www.resourcesdatabase.com/index.xml" rel="self" type="application/rss+xml"/>
+<description>Database of Resources to Learn &amp; Teach R</description>
+<image>
+<url>https://www.resourcesdatabase.com/images/logo.png</url>
+<title>resouRces</title>
+<link>https://www.resourcesdatabase.com/</link>
+<height>144</height>
+<width>144</width>
+</image>
+<generator>quarto-1.6.42</generator>
+<lastBuildDate>Mon, 19 May 2025 04:00:00 GMT</lastBuildDate>
+<item>
+  <title>Open Data from city of New York</title>
+  <dc:creator>Dr. Joscelin Rocha-Hidalgo</dc:creator>
+  <link>https://www.resourcesdatabase.com/posts/61/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p><link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/JoscelinRocha"><img src="https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg" alt="Buy me a coffee" width="15" height="21">Buy me a coffee</a></p>
+<hr>
+<p><strong>Excerpt from site:</strong> Open Data is an opportunity to engage New Yorkers in the information that is produced and used by City government. We believe that every New Yorker can benefit from Open Data, and Open Data can benefit from every New Yorker.</p>
+<ol type="1">
+<li>website here: <a href="https://opendata.cityofnewyork.us/data/" class="uri">https://opendata.cityofnewyork.us/data/</a></li>
+</ol>
+<p><img src="https://opendata.cityofnewyork.us/wp-content/themes/opendata-wp/assets/img/nyc-open-data-logo.svg" width="633" height="106"></p>
+
+
+
+<a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a> ]]></description>
+  <category>datasets</category>
+  <guid>https://www.resourcesdatabase.com/posts/61/</guid>
+  <pubDate>Mon, 19 May 2025 04:00:00 GMT</pubDate>
+  <media:content url="https://opendata.cityofnewyork.us/wp-content/themes/opendata-wp/assets/img/nyc-open-data-logo.svg" medium="image" type="image/svg+xml"/>
+</item>
+<item>
+  <title>Package ‘pain21’</title>
+  <dc:creator>Dr. Joscelin Rocha-Hidalgo</dc:creator>
+  <link>https://www.resourcesdatabase.com/posts/63/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p><link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/JoscelinRocha"><img src="https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg" alt="Buy me a coffee" width="15" height="21">Buy me a coffee</a></p>
+<hr>
+<p><strong>Excerpt from site:</strong> Cleaned data from 21 pain studies used by Maumet et al.&nbsp;(2016) and downloaded from Neurovault.org at <a href="http://neurovault.org/collections/1425/" class="uri">http://neurovault.org/collections/1425/</a>.</p>
+<p>Gorgolewski KJ, Varoquaux G, Rivera G, Schwartz Y, Ghosh SS, Maumet C, Sochat VV, Nichols TE, Poldrack RA, Poline J-B, Yarkoni T and Margulies DS (2015) NeuroVault.org: a web-based repository for collecting and sharing unthresholded statistical maps of the brain. Front. Neuroinform. 9:8. doi: 10.3389/fninf.2015.00008</p>
+<p>Maumet, Camille, Tibor Auer, Alexander Bowring, Gang Chen, Samir Das, Guillaume Flandin, Satrajit Ghosh, et al.&nbsp;“Sharing Brain Mapping Statistical Results with the Neuroimaging Data Model.” Scientific Data 3 (December 6, 2016). https://doi.org/10.1038/sdata.2016.102.</p>
+<ol type="1">
+<li>Link to documentation: <a href="https://neuroconductor.org/help/pain21/index.html" class="uri">https://neuroconductor.org/help/pain21/index.html</a></li>
+</ol>
+<p><img src="https://neurovault.org/static/images/neurovault-logo.svg" class="img-fluid"></p>
+
+
+
+<a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a> ]]></description>
+  <category>datasets</category>
+  <guid>https://www.resourcesdatabase.com/posts/63/</guid>
+  <pubDate>Mon, 19 May 2025 04:00:00 GMT</pubDate>
+  <media:content url="https://neurovault.org/static/images/neurovault-logo.svg" medium="image" type="image/svg+xml"/>
+</item>
+<item>
+  <title>Animated versions of common dplyr functions</title>
+  <dc:creator>Dr. Joscelin Rocha-Hidalgo</dc:creator>
+  <link>https://www.resourcesdatabase.com/posts/74/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p><link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/JoscelinRocha"><img src="https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg" alt="Buy me a coffee" width="15" height="21">Buy me a coffee</a></p>
+<hr>
+<p>by <a href="https://rfortherestofus.com/">R for the Rest of Us</a></p>
+<p><strong>Excerpt from blog:</strong> One of the best parts about the functions in the <a href="https://click.convertkit-mail.com/e5uv8dzv9wf0uzpgz8i8h8rgp222cl/owhkhqhrv3g73rbv/aHR0cHM6Ly9kcGx5ci50aWR5dmVyc2Uub3JnLw=="><code>dplyr</code> package</a> (one of several that make up the <code>tidyverse</code> collection of packages) is that their names indicate what they do. No need to remember a weird acronym; the name of the function to filter your data is <code>filter()</code>. But, helpful as these function names are, it can still be hard to remember exactly what the functions do…I’ve collected all of these animations in one place (and added some sample code to show how they work). If you’re just learning R and want a visual aid to help you, check it out! If you’ve already mastered these functions, consider sharing them with a friend.</p>
+<ol type="1">
+<li>Link to blog: <a href="https://rfortherestofus.com/2024/07/dplyr-functions-animated" class="uri">https://rfortherestofus.com/2024/07/dplyr-functions-animated</a></li>
+<li>Link to video: <a href="https://youtu.be/t1fFi1pSdL0" class="uri">https://youtu.be/t1fFi1pSdL0</a></li>
+</ol>
+
+
+
+<a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a> ]]></description>
+  <category>tricks</category>
+  <guid>https://www.resourcesdatabase.com/posts/74/</guid>
+  <pubDate>Mon, 19 May 2025 04:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Deploy Flexdashboard on Github Pages with Github Actions and Dockerfor R Users</title>
+  <dc:creator>Dr. Joscelin Rocha-Hidalgo</dc:creator>
+  <link>https://www.resourcesdatabase.com/posts/70/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p><link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/JoscelinRocha"><img src="https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg" alt="Buy me a coffee" width="15" height="21">Buy me a coffee</a></p>
+<hr>
+<p>By <a href="https://github.com/RamiKrispin/deploy-flex-actions">Rami Krispin</a></p>
+<p><strong>Excerpt from blog:</strong> This repo provides a step-by-step guide and a template for deploying and automating a <a href="https://pkgs.rstudio.com/flexdashboard/">flexdashboard</a> dashboard on <a href="https://pages.github.com/">Github Pages</a> with <a href="https://www.docker.com/">Docker</a> and <a href="https://github.com/features/actions">Github Actions</a>.</p>
+<ol type="1">
+<li>Link to tutorial and repo: <a href="https://github.com/RamiKrispin/deploy-flex-actions" class="uri">https://github.com/RamiKrispin/deploy-flex-actions</a></li>
+</ol>
+<p><img src="https://raw.githubusercontent.com/RamiKrispin/deploy-flex-actions/main/images/flexdashboard_example.png" class="img-fluid"></p>
+
+
+
+<a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a> ]]></description>
+  <category>docker</category>
+  <guid>https://www.resourcesdatabase.com/posts/70/</guid>
+  <pubDate>Mon, 05 May 2025 04:00:00 GMT</pubDate>
+  <media:content url="https://raw.githubusercontent.com/RamiKrispin/deploy-flex-actions/main/images/flexdashboard_example.png" medium="image" type="image/png"/>
+</item>
+<item>
+  <title>Hello Quarto</title>
+  <dc:creator>Dr. Joscelin Rocha-Hidalgo</dc:creator>
+  <link>https://www.resourcesdatabase.com/posts/100/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p><link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/JoscelinRocha"><img src="https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg" alt="Buy me a coffee" width="15" height="21">Buy me a coffee</a></p>
+<hr>
+<section id="colorblindr-by-claire-d.-mcwhite-claus-o.-wilke" class="level2">
+<h2 class="anchored" data-anchor-id="colorblindr-by-claire-d.-mcwhite-claus-o.-wilke">colorblindr by Claire D. McWhite &amp; Claus O. Wilke 💯</h2>
+<p><strong>What is this?</strong></p>
+<p>Simulate colorblindness in production-ready R figures to ensure accessibility in visualizations.</p>
+<ol type="1">
+<li><p>Link to repo: <a href="https://github.com/clauswilke/colorblindr" class="uri">https://github.com/clauswilke/colorblindr</a></p></li>
+<li><p>Link to simulator: <a href="http://hclwizard.org/cvdemulator/" class="uri">http://hclwizard.org/cvdemulator/</a></p></li>
+</ol>
+
+
+</section>
+
+<a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a> ]]></description>
+  <category>Joscelin&#39;s fav</category>
+  <guid>https://www.resourcesdatabase.com/posts/100/</guid>
+  <pubDate>Tue, 22 Apr 2025 04:00:00 GMT</pubDate>
+  <media:content url="https://www.resourcesdatabase.com/posts/100/featured.png" medium="image" type="image/png"/>
+</item>
+<item>
+  <title>Hello Quarto</title>
+  <dc:creator>Dr. Joscelin Rocha-Hidalgo</dc:creator>
+  <link>https://www.resourcesdatabase.com/posts/101/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p><link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/JoscelinRocha"><img src="https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg" alt="Buy me a coffee" width="15" height="21">Buy me a coffee</a></p>
+<hr>
+<section id="correlation-perform-correlation-analysis" class="level2">
+<h2 class="anchored" data-anchor-id="correlation-perform-correlation-analysis">correlation: Perform Correlation Analysis</h2>
+<p>Added Feb 2nd, 2022</p>
+<p><strong>What is this?</strong></p>
+<p>Performs a correlation analysis with various statistical measures.</p>
+<ol type="1">
+<li>Link to package: <a href="https://easystats.github.io/correlation/reference/correlation.html" class="uri">https://easystats.github.io/correlation/reference/correlation.html</a></li>
+</ol>
+
+
+</section>
+
+<a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a> ]]></description>
+  <category>Joscelin&#39;s fav</category>
+  <guid>https://www.resourcesdatabase.com/posts/101/</guid>
+  <pubDate>Tue, 22 Apr 2025 04:00:00 GMT</pubDate>
+  <media:content url="https://www.resourcesdatabase.com/posts/101/featured.png" medium="image" type="image/png"/>
+</item>
+<item>
+  <title>Hello Quarto</title>
+  <dc:creator>Dr. Joscelin Rocha-Hidalgo</dc:creator>
+  <link>https://www.resourcesdatabase.com/posts/102/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p><link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/JoscelinRocha"><img src="https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg" alt="Buy me a coffee" width="15" height="21">Buy me a coffee</a></p>
+<hr>
+<section id="dataeditr-by-dillon-hammill" class="level2">
+<h2 class="anchored" data-anchor-id="dataeditr-by-dillon-hammill">DataEditR by Dillon Hammill 💯</h2>
+<p><strong>What is this?</strong></p>
+<p><strong>DataEditR</strong> is an interactive tool for manual data entry and editing in R. Built on <strong>shiny</strong> and <strong>rhandsontable</strong>, it makes filtering and editing data easier, especially for users with limited coding experience.</p>
+<ol type="1">
+<li>Link to package: <a href="https://dillonhammill.github.io/DataEditR/" class="uri">https://dillonhammill.github.io/DataEditR/</a></li>
+</ol>
+
+
+</section>
+
+<a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a> ]]></description>
+  <category>Joscelin&#39;s fav</category>
+  <guid>https://www.resourcesdatabase.com/posts/102/</guid>
+  <pubDate>Tue, 22 Apr 2025 04:00:00 GMT</pubDate>
+  <media:content url="https://www.resourcesdatabase.com/posts/102/featured.png" medium="image" type="image/png"/>
+</item>
+<item>
+  <title>Hello Quarto</title>
+  <dc:creator>Dr. Joscelin Rocha-Hidalgo</dc:creator>
+  <link>https://www.resourcesdatabase.com/posts/103/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p><link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/JoscelinRocha"><img src="https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg" alt="Buy me a coffee" width="15" height="21">Buy me a coffee</a></p>
+<hr>
+<section id="ellmer-chat-with-large-language-models" class="level2">
+<h2 class="anchored" data-anchor-id="ellmer-chat-with-large-language-models"><a href="https://ellmer.tidyverse.org/">ellmer: Chat with Large Language Models</a> 💯</h2>
+<p>By Hadley Wickham</p>
+<p>Added Thu Feb 20, 2025</p>
+<p><strong>What is this?</strong></p>
+<p><strong>ellmer</strong> is an R package that facilitates interaction with large language models (LLMs) from various providers directly within R. It supports multiple LLM providers, including OpenAI, Anthropic’s Claude, Google Gemini, and more. Key features of ellmer include streaming outputs, tool/function calling, and structured data extraction, enhancing the integration of LLM capabilities into R workflows.</p>
+<ol type="1">
+<li>Link to package here: <a href="https://ellmer.tidyverse.org/" class="uri">https://ellmer.tidyverse.org/</a></li>
+</ol>
+
+
+</section>
+
+<a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a> ]]></description>
+  <category>Joscelin&#39;s fav</category>
+  <guid>https://www.resourcesdatabase.com/posts/103/</guid>
+  <pubDate>Tue, 22 Apr 2025 04:00:00 GMT</pubDate>
+  <media:content url="https://www.resourcesdatabase.com/posts/103/featured.png" medium="image" type="image/png"/>
+</item>
+<item>
+  <title>Hello Quarto</title>
+  <dc:creator>Dr. Joscelin Rocha-Hidalgo</dc:creator>
+  <link>https://www.resourcesdatabase.com/posts/104/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p><link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/JoscelinRocha"><img src="https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg" alt="Buy me a coffee" width="15" height="21">Buy me a coffee</a></p>
+<hr>
+<section id="esquisse-add-in" class="level2">
+<h2 class="anchored" data-anchor-id="esquisse-add-in">esquisse add-in</h2>
+<p>Added Feb 2nd, 2022</p>
+<p><strong>What is this?</strong></p>
+<p>An RStudio add-in for interactively exploring and visualizing data with <strong>ggplot2</strong>. Users can create and export plots with ease.</p>
+<ol type="1">
+<li><p>Link to package: <a href="https://github.com/dreamRs/esquisse" class="uri">https://github.com/dreamRs/esquisse</a></p></li>
+<li><p>Online documentation: <a href="https://dreamrs.github.io/esquisse/index.html" class="uri">https://dreamrs.github.io/esquisse/index.html</a></p></li>
+</ol>
+
+
+</section>
+
+<a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a> ]]></description>
+  <category>Joscelin&#39;s fav</category>
+  <guid>https://www.resourcesdatabase.com/posts/104/</guid>
+  <pubDate>Tue, 22 Apr 2025 04:00:00 GMT</pubDate>
+  <media:content url="https://www.resourcesdatabase.com/posts/104/featured.png" medium="image" type="image/png"/>
+</item>
+<item>
+  <title>Hello Quarto</title>
+  <dc:creator>Dr. Joscelin Rocha-Hidalgo</dc:creator>
+  <link>https://www.resourcesdatabase.com/posts/105/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p><link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/JoscelinRocha"><img src="https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg" alt="Buy me a coffee" width="15" height="21">Buy me a coffee</a></p>
+<hr>
+<section id="fable-time-series-forecasting-models" class="level2">
+<h2 class="anchored" data-anchor-id="fable-time-series-forecasting-models">fable: Time Series Forecasting Models</h2>
+<p><strong>What is this?</strong></p>
+<p><strong>Fable</strong> provides a collection of time series forecasting models that integrate with the <strong>tidyverse</strong> framework, making model evaluation and visualization straightforward.</p>
+<ol type="1">
+<li>Link to package: <a href="https://github.com/tidyverts/fable" class="uri">https://github.com/tidyverts/fable</a></li>
+</ol>
+
+
+</section>
+
+<a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a> ]]></description>
+  <category>Joscelin&#39;s fav</category>
+  <guid>https://www.resourcesdatabase.com/posts/105/</guid>
+  <pubDate>Tue, 22 Apr 2025 04:00:00 GMT</pubDate>
+  <media:content url="https://www.resourcesdatabase.com/posts/105/featured.png" medium="image" type="image/png"/>
+</item>
+<item>
+  <title>Hello Quarto</title>
+  <dc:creator>Dr. Joscelin Rocha-Hidalgo</dc:creator>
+  <link>https://www.resourcesdatabase.com/posts/106/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p><link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/JoscelinRocha"><img src="https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg" alt="Buy me a coffee" width="15" height="21">Buy me a coffee</a></p>
+<hr>
+<section id="funneljoin-time-based-joins-for-event-sequences" class="level2">
+<h2 class="anchored" data-anchor-id="funneljoin-time-based-joins-for-event-sequences">funneljoin: Time-Based Joins for Event Sequences</h2>
+<p><strong>What is this?</strong></p>
+<p>Analyze behavior funnels by performing time-based joins with <strong>funneljoin</strong>.</p>
+<ol type="1">
+<li><p>Link to blog: <a href="https://hookedondata.org/introducing-the-funneljoin-package/" class="uri">https://hookedondata.org/introducing-the-funneljoin-package/</a></p></li>
+<li><p>Link to package: <a href="https://github.com/robinsones/funneljoin" class="uri">https://github.com/robinsones/funneljoin</a></p></li>
+</ol>
+
+
+</section>
+
+<a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a> ]]></description>
+  <category>Joscelin&#39;s fav</category>
+  <guid>https://www.resourcesdatabase.com/posts/106/</guid>
+  <pubDate>Tue, 22 Apr 2025 04:00:00 GMT</pubDate>
+  <media:content url="https://www.resourcesdatabase.com/posts/106/featured.png" medium="image" type="image/png"/>
+</item>
+<item>
+  <title>Hello Quarto</title>
+  <dc:creator>Dr. Joscelin Rocha-Hidalgo</dc:creator>
+  <link>https://www.resourcesdatabase.com/posts/107/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p><link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/JoscelinRocha"><img src="https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg" alt="Buy me a coffee" width="15" height="21">Buy me a coffee</a></p>
+<hr>
+<section id="grateful-facilitate-citation-of-r-packages" class="level2">
+<h2 class="anchored" data-anchor-id="grateful-facilitate-citation-of-r-packages">grateful: Facilitate Citation of R Packages 💯</h2>
+<p>Added Mon Apr 24, 2023</p>
+<p><strong>What is this?</strong></p>
+<p><strong>grateful</strong> makes it easy to cite R and its packages in analyses by generating a BibTeX file of citations for used packages.</p>
+<ol type="1">
+<li>Link to package: <a href="https://pakillo.github.io/grateful/" class="uri">https://pakillo.github.io/grateful/</a></li>
+</ol>
+
+
+</section>
+
+<a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a> ]]></description>
+  <category>Joscelin&#39;s fav</category>
+  <guid>https://www.resourcesdatabase.com/posts/107/</guid>
+  <pubDate>Tue, 22 Apr 2025 04:00:00 GMT</pubDate>
+  <media:content url="https://www.resourcesdatabase.com/posts/107/featured.png" medium="image" type="image/png"/>
+</item>
+<item>
+  <title>Hello Quarto</title>
+  <dc:creator>Dr. Joscelin Rocha-Hidalgo</dc:creator>
+  <link>https://www.resourcesdatabase.com/posts/108/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p><link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/JoscelinRocha"><img src="https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg" alt="Buy me a coffee" width="15" height="21">Buy me a coffee</a></p>
+<hr>
+<section id="parameters-process-statistical-model-parameters" class="level2">
+<h2 class="anchored" data-anchor-id="parameters-process-statistical-model-parameters">parameters: Process Statistical Model Parameters 💯</h2>
+<p><strong>What is this?</strong></p>
+<p>Provides tools for computing p-values, confidence intervals, Bayesian indices, and variable selection across various statistical models.</p>
+<ol type="1">
+<li>Link to package: <a href="https://easystats.github.io/parameters/" class="uri">https://easystats.github.io/parameters/</a></li>
+</ol>
+
+
+</section>
+
+<a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a> ]]></description>
+  <category>Joscelin&#39;s fav</category>
+  <guid>https://www.resourcesdatabase.com/posts/108/</guid>
+  <pubDate>Tue, 22 Apr 2025 04:00:00 GMT</pubDate>
+  <media:content url="https://www.resourcesdatabase.com/posts/108/featured.png" medium="image" type="image/png"/>
+</item>
+<item>
+  <title>Hello Quarto</title>
+  <dc:creator>Dr. Joscelin Rocha-Hidalgo</dc:creator>
+  <link>https://www.resourcesdatabase.com/posts/109/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p><link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/JoscelinRocha"><img src="https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg" alt="Buy me a coffee" width="15" height="21">Buy me a coffee</a></p>
+<hr>
+<section id="pipediff-great-for-teaching" class="level2">
+<h2 class="anchored" data-anchor-id="pipediff-great-for-teaching">pipediff 💯💯 [Great for Teaching]</h2>
+<p><strong>What is this?</strong></p>
+<p>Overrides <code>%&gt;%</code> in the caller environment to display differences between pipe steps. Useful for debugging and teaching.</p>
+<ol type="1">
+<li>Link to package: <a href="https://github.com/moodymudskipper/pipediff" class="uri">https://github.com/moodymudskipper/pipediff</a></li>
+</ol>
+
+
+</section>
+
+<a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a> ]]></description>
+  <category>Joscelin&#39;s fav</category>
+  <guid>https://www.resourcesdatabase.com/posts/109/</guid>
+  <pubDate>Tue, 22 Apr 2025 04:00:00 GMT</pubDate>
+  <media:content url="https://www.resourcesdatabase.com/posts/109/featured.png" medium="image" type="image/png"/>
+</item>
+<item>
+  <title>Hello Quarto</title>
+  <dc:creator>Dr. Joscelin Rocha-Hidalgo</dc:creator>
+  <link>https://www.resourcesdatabase.com/posts/110/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p><link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/JoscelinRocha"><img src="https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg" alt="Buy me a coffee" width="15" height="21">Buy me a coffee</a></p>
+<hr>
+<section id="session_info-print-session-information" class="level2">
+<h2 class="anchored" data-anchor-id="session_info-print-session-information">session_info: Print Session Information</h2>
+<p>Added Feb 2nd, 2022</p>
+<p><strong>What is this?</strong></p>
+<p>Provides detailed session information, useful for debugging and reproducibility.</p>
+<ol type="1">
+<li>Link to function: <a href="https://rdrr.io/cran/sessioninfo/man/session_info.html" class="uri">https://rdrr.io/cran/sessioninfo/man/session_info.html</a></li>
+</ol>
+<blockquote class="blockquote">
+<p>*** <em>What I like to use if I want a list of all packages with an asterisk if I have them in this script:</em> library(sessioninfo)</p>
+</blockquote>
+<p>library(sessioninfo) session_info(pkgs=“!loaded”, to_file = TRUE)</p>
+<blockquote class="blockquote">
+<p>** <em>What I like to use for reports and sharing scripts:</em></p>
+</blockquote>
+<p>library(sessioninfo) session_info(pkgs=“!attached”, to_file = TRUE)</p>
+
+
+</section>
+
+<a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a> ]]></description>
+  <category>Joscelin&#39;s fav</category>
+  <guid>https://www.resourcesdatabase.com/posts/110/</guid>
+  <pubDate>Tue, 22 Apr 2025 04:00:00 GMT</pubDate>
+  <media:content url="https://www.resourcesdatabase.com/posts/110/featured.png" medium="image" type="image/png"/>
+</item>
+<item>
+  <title>Hello Quarto</title>
+  <dc:creator>Dr. Joscelin Rocha-Hidalgo</dc:creator>
+  <link>https://www.resourcesdatabase.com/posts/111/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p><link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/JoscelinRocha"><img src="https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg" alt="Buy me a coffee" width="15" height="21">Buy me a coffee</a></p>
+<hr>
+<section id="tidycountries-access-and-manipulate-country-level-data" class="level2">
+<h2 class="anchored" data-anchor-id="tidycountries-access-and-manipulate-country-level-data">tidycountries: Access and Manipulate Country-Level Data 💯</h2>
+<p>Added Thu Feb 20, 2025</p>
+<p><strong>What is this?</strong></p>
+<p>Provides country-level data (names, regions, populations, etc.) in a <strong>tidy</strong> format for easy integration with <strong>tidyverse</strong> workflows.</p>
+<ol type="1">
+<li>Link to package: <a href="https://denironyx.github.io/tidycountries/" class="uri">https://denironyx.github.io/tidycountries/</a></li>
+</ol>
+
+
+</section>
+
+<a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a> ]]></description>
+  <category>Joscelin&#39;s fav</category>
+  <guid>https://www.resourcesdatabase.com/posts/111/</guid>
+  <pubDate>Tue, 22 Apr 2025 04:00:00 GMT</pubDate>
+  <media:content url="https://www.resourcesdatabase.com/posts/111/featured.png" medium="image" type="image/png"/>
+</item>
+<item>
+  <title>Hello Quarto</title>
+  <dc:creator>Dr. Joscelin Rocha-Hidalgo</dc:creator>
+  <link>https://www.resourcesdatabase.com/posts/112/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p><link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/JoscelinRocha"><img src="https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg" alt="Buy me a coffee" width="15" height="21">Buy me a coffee</a></p>
+<hr>
+<section id="widyr-widen-process-and-re-tidy-a-dataset" class="level2">
+<h2 class="anchored" data-anchor-id="widyr-widen-process-and-re-tidy-a-dataset">widyr: Widen, Process, and Re-Tidy a Dataset 💯</h2>
+<p><strong>What is this?</strong></p>
+<p>Transforms datasets between wide and tidy formats, enabling co-occurrence counts, correlations, and clustering operations.</p>
+<ol type="1">
+<li>Link to package: <a href="https://github.com/dgrtwo/widyr" class="uri">https://github.com/dgrtwo/widyr</a></li>
+</ol>
+
+
+</section>
+
+<a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a> ]]></description>
+  <category>Joscelin&#39;s fav</category>
+  <guid>https://www.resourcesdatabase.com/posts/112/</guid>
+  <pubDate>Tue, 22 Apr 2025 04:00:00 GMT</pubDate>
+  <media:content url="https://www.resourcesdatabase.com/posts/112/featured.png" medium="image" type="image/png"/>
+</item>
+<item>
+  <title>Hello Quarto</title>
+  <dc:creator>Dr. Joscelin Rocha-Hidalgo</dc:creator>
+  <link>https://www.resourcesdatabase.com/posts/113/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p><link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/JoscelinRocha"><img src="https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg" alt="Buy me a coffee" width="15" height="21">Buy me a coffee</a></p>
+<hr>
+<section id="a-gentle-crash-course-in-r-using-tidyverse" class="level2">
+<h2 class="anchored" data-anchor-id="a-gentle-crash-course-in-r-using-tidyverse"><a href="https://osf.io/69gub/">A gentle crash course in R using tidyverse</a> 🌱</h2>
+<p>By: Nicholas M. Michalak &amp; Loek Brinkman</p>
+<p><strong>What is this?</strong></p>
+<p><strong>Description from site:</strong> In this three-hour workshop, we introduce you to data science in the R programming language. In particular, we’ll show you how to use the “tidyverse” package to transform, visualize and model data. The workshop consists of short introductory presentations followed by elaborate hands-on sessions. At the end of each section, we’ll showcase more complex features and functionality. The workshop is designed as an introduction to R. Zero programming experience is required. By the end of the workshop, you’ll have a “feel” for what R is and what it can do for you, and we’ll provide resources for follow-up self-study.</p>
+<ol type="1">
+<li>Course materials here: <a href="https://osf.io/69gub/" class="uri">https://osf.io/69gub/</a></li>
+</ol>
+
+
+</section>
+
+<a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a> ]]></description>
+  <category>Learning R</category>
+  <guid>https://www.resourcesdatabase.com/posts/113/</guid>
+  <pubDate>Tue, 22 Apr 2025 04:00:00 GMT</pubDate>
+  <media:content url="https://www.resourcesdatabase.com/posts/113/featured.png" medium="image" type="image/png"/>
+</item>
+<item>
+  <title>Hello Quarto</title>
+  <dc:creator>Dr. Joscelin Rocha-Hidalgo</dc:creator>
+  <link>https://www.resourcesdatabase.com/posts/114/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p><link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/JoscelinRocha"><img src="https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg" alt="Buy me a coffee" width="15" height="21">Buy me a coffee</a></p>
+<hr>
+<section id="a-psychologists-guide-to-r" class="level2">
+<h2 class="anchored" data-anchor-id="a-psychologists-guide-to-r"><a href="https://github.com/seanchrismurphy/A-Psychologists-Guide-to-R">A Psychologist’s Guide to R</a> 🌱</h2>
+<p>By: Sean C. Murphy</p>
+<p>Added Fri Apr 28, 2023</p>
+<p><strong>What is this?</strong></p>
+<p><strong>Description from site:</strong> This is a repository containing the course notes and worked examples for a six week course in the R statistical programming language taught at the University of Melbourne, Australia. It is targeted at graduate students and faculty in psychology (and probably other social sciences) with no programming experience, and covers the use of R from the basics up to multilevel modelling, though it is not exhaustive within that range.</p>
+<ol type="1">
+<li>Course materials here: <a href="https://github.com/seanchrismurphy/A-Psychologists-Guide-to-R" class="uri">https://github.com/seanchrismurphy/A-Psychologists-Guide-to-R</a></li>
+</ol>
+
+
+</section>
+
+<a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a> ]]></description>
+  <category>Learning R</category>
+  <guid>https://www.resourcesdatabase.com/posts/114/</guid>
+  <pubDate>Tue, 22 Apr 2025 04:00:00 GMT</pubDate>
+  <media:content url="https://www.resourcesdatabase.com/posts/114/featured.png" medium="image" type="image/png"/>
+</item>
+<item>
+  <title>Hello Quarto</title>
+  <dc:creator>Dr. Joscelin Rocha-Hidalgo</dc:creator>
+  <link>https://www.resourcesdatabase.com/posts/115/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p><link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/JoscelinRocha"><img src="https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg" alt="Buy me a coffee" width="15" height="21">Buy me a coffee</a></p>
+<hr>
+<section id="advanced-r" class="level2">
+<h2 class="anchored" data-anchor-id="advanced-r"><a href="https://adv-r.hadley.nz/">Advanced R</a> 🌳🌳</h2>
+<p>By <a href="https://adv-r.hadley.nz/">Hadley Wickham</a></p>
+<p><strong>What is this?</strong></p>
+<p>Excerpt from site: This is the website for 2nd edition of “Advanced R”, a book in Chapman &amp; Hall’s R Series. The book is designed primarily for R users who want to improve their programming skills and understanding of the language. It should also be useful for programmers coming to R from other languages, as it helps you to understand why R works the way it does.</p>
+<ol type="1">
+<li>Free web-book here: <a href="https://adv-r.hadley.nz/%20or%20http://adv-r.had.co.nz/Introduction.html">https://adv-r.hadley.nz/ or http://adv-r.had.co.nz/Introduction.html</a></li>
+<li>Buy book here: <a href="https://www.amazon.com/dp/0815384572/ref=cm_sw_su_dp?tag=devtools-20">Link to Amazon</a></li>
+</ol>
+
+
+</section>
+
+<a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a> ]]></description>
+  <category>Learning R</category>
+  <guid>https://www.resourcesdatabase.com/posts/115/</guid>
+  <pubDate>Tue, 22 Apr 2025 04:00:00 GMT</pubDate>
+  <media:content url="https://www.resourcesdatabase.com/posts/115/featured.png" medium="image" type="image/png"/>
+</item>
+</channel>
+</rss>
