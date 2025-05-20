@@ -2,7 +2,7 @@
 title: "An Introduction to Docker for R Users"
 date: "2025-04-22"
 categories: [docker]
-image: featured.png
+image: "featured.png"
 image-alt: "Screenshot of a blog post titled 'An Introduction to Docker for R Users' by Colin Fay, featuring an explanation of Docker and its use for R reproducibility, with navigation links on the left sidebar."
 ---
 

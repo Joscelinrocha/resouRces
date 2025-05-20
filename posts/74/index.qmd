@@ -2,7 +2,7 @@
 title: "Animated versions of common dplyr functions"
 date: "2025-05-19"
 categories: [tricks]
-image: featured.png
+image: "featured.png"
 image-alt: "Illustration of two penguins, one blue and one orange, taking a selfie with a selfie stick. The moon in the background looks like the Quarto logo."
 ---
 

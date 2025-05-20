@@ -2,7 +2,7 @@
 title: "Data files for 'Putting R to Work'"
 date: "2025-04-22"
 categories: [datasets]
-image: featured.png
+image: "featured.png"
 image-alt: 'Screenshot of a webpage titled "Data files for Putting R to Work" by Andy Wills. The page lists downloadable CSV data files in alphabetical order'
 ---
 

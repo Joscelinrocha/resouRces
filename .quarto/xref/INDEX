@@ -1504,5 +1504,11 @@
   },
   "about.qmd": {
     "about.html": "2b341483"
+  },
+  "posts/59/index.qmd": {
+    "index.html": "f3e4a8ae"
+  },
+  "posts/80-here/index.qmd": {
+    "index.html": "a31be60f"
   }
 }
