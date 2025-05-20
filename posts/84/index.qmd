@@ -16,4 +16,4 @@ By Matt Waite
 
 1.  Link to blog site here: <https://mattwaite.github.io/posts/r-llm-starter-pack/>
 
-![](/posts/93/featured.png)
+![](/posts/84/featured.png)
