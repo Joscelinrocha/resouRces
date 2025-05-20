@@ -2,7 +2,7 @@
 title: "Git for Academics"
 date: "2020-10-25"
 categories: [git,video]
-image: f"eatured.png"""
+image: "featured.png"
 image-alt: "Slide with dark background displaying the title 'An Introduction to Git for Academics' in large, bold blue and white text."
 ---
 

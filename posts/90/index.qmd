@@ -1,7 +1,7 @@
 ---
 title: "Videos by Sharon Machlis for fun things"
 date: "2025-04-22"
-categories: [videos, emails, plugins,python, slack, text message]
+categories: [video, email, plugin,python, slack, text message]
 image: "featured.png"
 image-alt: "Illustration or logo for 'GIT for Humans', emphasizing a user-friendly, approachable interface to Git version control, often using icons like branches, commits, or human figures to represent simplicity and accessibility."
 ---
