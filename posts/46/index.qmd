@@ -2,7 +2,7 @@
 title: "Data.gov"
 date: "2023-04-28"
 categories: [datasets]
-image: featured.png
+image: "featured.png"
 image-alt: "Screenshot of the homepage for Data.gov, the U.S. government’s open data portal. The top banner celebrates “15 Years of Data.gov.” The header includes links to sections like Data, Metrics, Open Government, and a User Guide. The main section introduces Data.gov as “The Home of the U.S. Government’s Open Data,” highlighting the availability of 311,290 datasets. There is a search bar with a red “Search” button. On the right, circular icons represent different data topics, such as agriculture, health, climate, science, and finance."
 ---
 
