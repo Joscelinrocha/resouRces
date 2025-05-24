@@ -1,22 +1,17 @@
 ---
-title: "Hello Quarto"
-date: "2025-04-22"
-categories: [Joscelin's fav]
-image: featured.png
-image-alt: "Illustration of two penguins, one blue and one orange, taking a selfie with a selfie stick. The moon in the background looks like the Quarto logo."
+title: "parameters: Process Statistical Model Parameters"
+date: "2025-05-23"
+categories: [Joscelin's fav,package,statistics,bayesian]
+image: https://easystats.github.io/parameters/logo.png
+image-alt: "Hex sticker for the 'parameters' R package featuring the word 'parameters' in white text on a blue background, with a yellow measuring tape and a red bear claw graphic below"
 ---
-
 
 <link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/JoscelinRocha">![Buy me a coffee](https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg){alt="Buy me a coffee" width="15" height="21"}Buy me a coffee</a>
 
 ------------------------------------------------------------------------
 
-
-## parameters: Process Statistical Model Parameters 💯
-
-**What is this?**
-
-Provides tools for computing p-values, confidence intervals, Bayesian
-indices, and variable selection across various statistical models.
+Provides tools for computing p-values, confidence intervals, Bayesian indices, and variable selection across various statistical models.
 
 1.  Link to package: <https://easystats.github.io/parameters/>
+
+![](https://easystats.github.io/parameters/logo.png)

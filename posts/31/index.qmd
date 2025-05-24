@@ -1,7 +1,7 @@
 ---
 title: "Reproducible Data Science in R: Flexible Functions Using Tidy Evaluation"
 date: "2025-02-20"
-categories: [blog, data science, wrangling]
+categories: [blog,data science,wrangling]
 image: https://waterdata.usgs.gov/blog/static/RDS-function-evaluation/rds_04banner.png
 image-alt: "Banner image titled “Reproducible Data Science with R: Easy steps to improve the reusability of your code!” The main message reads “Flexible functions using tidy evaluations” in teal font. A cute blue cartoon water droplet character wearing a yellow hard hat stands at a conveyor belt assembling pipe valves. This image is part of “A WDFN Blog Series.”"
 ---

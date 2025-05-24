@@ -1,24 +1,20 @@
 ---
-title: "Hello Quarto"
+title: "Fundamentals of R Workshop Materials"
 date: "2025-04-22"
-categories: [Learning R]
-image: featured.png
-image-alt: "Illustration of two penguins, one blue and one orange, taking a selfie with a selfie stick. The moon in the background looks like the Quarto logo."
+categories: [Learning R,intro,statistics]
+image: "featured.png"
+image-alt: "Presentation slide titled 'Fundamentals of R' with a grunge-style gray background and bold black text, authored by Elizabeth Page-Gould from University of Toronto and Alexander Danvers from Arizona State University, created for SIPS 2017. Includes the SIPS logo in the bottom right corner."
 ---
-
 
 <link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/JoscelinRocha">![Buy me a coffee](https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg){alt="Buy me a coffee" width="15" height="21"}Buy me a coffee</a>
 
 ------------------------------------------------------------------------
 
-
-## [Fundamentals of R Workshop Materials\_](https://osf.io/a2x7j/)🌱
-
 By [Elizabeth Page-Gould & Alexander Danvers](https://osf.io/a2x7j/)
-
-**What is this?**
 
 **Excerpt from site:** Have you been meaning to start using R for analysis? Have you been wondering how R can make your analysis easier and your research reproducible? We present a practical introduction to R, demonstrating core analyses in psychology research (e.g., ANOVA, regression). We also explain how to manipulate and clean data in R to maintain a precise record of how the data went from raw to analysis-ready. The ideal audience for this workshop is a researcher who has not used R before, has used it briefly and then gone back to SPSS for the final analyses, or who has used R a few times but wants a better grounding in the basics.
 
 1.  Workshop materials here: <https://osf.io/a2x7j/>
 2.  Workshop requested examples here: <https://osf.io/a2x7j/wiki/Requested%20Examples/>
+
+![](featured.png)

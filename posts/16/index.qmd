@@ -1,13 +1,15 @@
 ---
 title: "Data Science in Education using R"
 date: "2021-15-04"
-categories: [book, data science]
+categories: [book,data science]
 image: "https://datascienceineducation.com/dsieur-cover-routledge.jpg"
 image-alt: "Book cover for “Data Science in Education Using R” published by Routledge. The top half is a solid black background with the title in bold white text and the authors' names—Ryan A. Estrellado, Emily A. Freer, Jesse Mostipak, Joshua M. Rosenberg, and Isabella C. Velásquez—listed below. The bottom half shows a horizontal row of colored pencils arranged in a bar chart shape, set against a lined paper background."
 ---
+
 <link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/JoscelinRocha">![Buy me a coffee](https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg){alt="Buy me a coffee" width="15" height="21"}Buy me a coffee</a>
 
 ------------------------------------------------------------------------
+
 By [Ryan A. Estrellado, Emily A. Bovee, Jesse Mostipak, Joshua M. Rosenberg, & Isabella C. Velásquez](https://datascienceineducation.com/)
 
 **Excerpt from site:** We wrote this book assuming you're at the start of your journey learning R and using data science in your education job. The book takes you from installing R to practicing more advanced data science skills like text analysis.

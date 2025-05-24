@@ -1,7 +1,7 @@
 ---
 title: "R Programming for Data Science"
 date: "2025-04-22"
-categories: [data science, wrangling, book]
+categories: [data science,wrangling,book]
 image: https://bookdown.org/rdpeng/rprogdatascience/cover_sm.png
 image-alt: "Book cover for “R Programming for Data Science” by Roger D. Peng. The title is displayed in large black font at the top. Below it is a centered photograph of a black-and-white penguin standing in tall green grass. The author's name appears in smaller black text in the bottom left corner."
 ---

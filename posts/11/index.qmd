@@ -1,13 +1,15 @@
 ---
 title: "Data Analysis for the Life Sciences with R"
 date: "2025-04-21"
-categories: [book, statistics]
+categories: [book,statistics]
 image: "https://d2sofvawe08yqg.cloudfront.net/dataanalysisforthelifesciences/s_hero2x?1620484418"
 image-alt: "Book cover for “Data Analysis for the Life Sciences” by Rafael A. Irizarry and Michael I. Love. The background is deep blue with an abstract visual of a DNA double helix made of colorful, translucent shapes. The title is in white text, with the authors' names below."
 ---
+
 <link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/JoscelinRocha">![Buy me a coffee](https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg){alt="Buy me a coffee" width="15" height="21"}Buy me a coffee</a>
 
 ------------------------------------------------------------------------
+
 By [Rafael A. Irizarry and Michael I Love](https://leanpub.com/dataanalysisforthelifesciences)
 
 **Excerpt from ebook:** This book will cover several of the statistical concepts and data analytic skills needed to succeed in data-driven life science research. We go from relatively basic concepts related to computing p-values to advanced topics related to analyzing high-throughput data. While statistics textbooks focus on mathematics, this book focuses on using a computer to perform data analysis. Instead of explaining the mathematics and theory, and then showing examples, we start by stating a practical data-related challenge. This book also includes the computer code that provides a solution to the problem and helps illustrate the concepts behind the solution.

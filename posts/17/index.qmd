@@ -1,13 +1,15 @@
 ---
 title: "Data Science with R"
 date: "2025-04-21"
-categories: [course, data science]
+categories: [course,data science]
 image: "featured.png"
 image-alt: "Screenshot of the homepage for “Data Science with R,” an introductory course by Danielle Navarro. The title is centered at the bottom with a circular image of a sculpture overlaid with colorful collage pieces. The right side lists course sections with titles and descriptions, including: “00 :: Welcome to the class!,” “01 :: Elegant data visualisation,” “02 :: Say hello to your data,” “03 :: Go dancing with your data,” “04 :: Literate programming in R,” and “05 :: How to program an aRt.” The site features a clean, minimal design with black text on a white background."
 ---
+
 <link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/JoscelinRocha">![Buy me a coffee](https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg){alt="Buy me a coffee" width="15" height="21"}Buy me a coffee</a>
 
 ------------------------------------------------------------------------
+
 By [Danielle Navarro](http://robust-tools.djnavarro.net/)
 
 **What is this?**

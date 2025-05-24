@@ -1,13 +1,15 @@
 ---
 title: "Data Wrangling in the Tidyverse"
 date: "2023-05-05"
-categories: [video,wrangling,Python,tidyverse]
+categories: [video,wrangling,python,tidyverse]
 image: "featured.png"
 image-alt: "SSlide titled “Data Wrangling in the Tidyverse” by Nick Huntington-Klein, dated 10 June, 2022. The background is plain white with black text centered on the slide. In the bottom-right corner, there’s a small video overlay of the speaker gesturing with one hand raised, wearing a dark shirt, and presenting in front of a white and gray wall with orange accents."
 ---
+
 <link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/JoscelinRocha">![Buy me a coffee](https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg){alt="Buy me a coffee" width="15" height="21"}Buy me a coffee</a>
 
 ------------------------------------------------------------------------
+
 By [Nick Huntington-Klein](https://www.youtube.com/watch?v=EOpb3VsWmck)
 
 **Excerpt from the site:** This video series covers the basics of data wrangling using the tidyverse, aimed at my data communications class. I assume some very, very basic R background, but really not much.

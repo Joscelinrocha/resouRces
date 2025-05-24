@@ -1,23 +1,19 @@
 ---
-title: "Hello Quarto"
+title: "Efficient R programming"
 date: "2025-04-22"
-categories: [Learning R]
-image: featured.png
-image-alt: "Illustration of two penguins, one blue and one orange, taking a selfie with a selfie stick. The moon in the background looks like the Quarto logo."
+categories: [Learning R,book]
+image: https://bookdown.org/csgillespie/efficientR/figures/f0_web.png
+image-alt: "Book cover of 'Efficient R Programming' by Colin Gillespie and Robin Lovelace, featuring a detailed black-and-white illustration of a heron above a red block with the book title and subtitle 'A Practical Guide to Smarter Programming,' published by O'Reilly."
 ---
-
 
 <link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/JoscelinRocha">![Buy me a coffee](https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg){alt="Buy me a coffee" width="15" height="21"}Buy me a coffee</a>
 
 ------------------------------------------------------------------------
 
-
-## [Efficient R programming](https://bookdown.org/csgillespie/efficientR/) 🌱 & 🌳
-
 By [Colin Gillespie Robin Lovelace](https://bookdown.org/csgillespie/efficientR/)
-
-**What is this?**
 
 **Excerpt from ebook:** This book is for anyone who wants to make their R code faster to type, faster to run and more scalable. These considerations generally come after learning the very basics of R for data analysis: we assume you are either accustomed to R or proficient at programming in other languages, although this book could still be of use to beginners
 
 1.  <https://bookdown.org/csgillespie/efficientR/>
+
+![](https://bookdown.org/csgillespie/efficientR/figures/f0_web.png){width="379"}

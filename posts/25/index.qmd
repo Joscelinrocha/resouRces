@@ -1,7 +1,7 @@
 ---
 title: "Introduction to Data Science Fall 2019"
 date: "2025-04-22"
-categories: [wrangling, visualization, statistics]
+categories: [wrangling,visualization,statistics,data science]
 image: https://www.introds.org/introds.png
 image-alt: "Hex sticker for the “introds” course at Duke University. The design features the text “introds @DUKE” in bold dark blue font, a scatter of pink, yellow, and blue dots across a white background representing a data visualization, and a stylized navy blue icon of Duke Chapel in the lower right. A faint diagonal trend line cuts across the scatterplot."
 ---

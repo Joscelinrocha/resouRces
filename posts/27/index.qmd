@@ -1,7 +1,7 @@
 ---
 title: "Mastering Spark with R"
 date: "2025-04-22"
-categories: [book, statistics, spark]
+categories: [book,statistics,spark]
 image: https://therinspark.s3-us-west-2.amazonaws.com/mastering-spark-with-r.png
 image-alt: "Book cover for “Mastering Spark with R: The Complete Guide to Large-Scale Analysis and Modeling” by Javier Luraschi, Kevin Kuo, and Edgar Ruiz, with a foreword by Matei Zaharia. The design features the O’Reilly logo at the top in red, the title in bold black text, and a realistic illustration of a red-orange fish with detailed scales and fins occupying the bottom half of the cover."
 ---

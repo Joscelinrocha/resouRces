@@ -1,16 +1,14 @@
 ---
 title: "Hello Quarto"
 date: "2025-04-22"
-categories: [Machine Learning]
+categories: [machine learning]
 image: featured.png
 image-alt: "Illustration of two penguins, one blue and one orange, taking a selfie with a selfie stick. The moon in the background looks like the Quarto logo."
 ---
 
-
 <link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/JoscelinRocha">![Buy me a coffee](https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg){alt="Buy me a coffee" width="15" height="21"}Buy me a coffee</a>
 
 ------------------------------------------------------------------------
-
 
 ## [Supervised Machine Learning case studies in R](https://supervised-ml-course.netlify.app/)
 
@@ -18,8 +16,6 @@ By [Julia Silge](https://supervised-ml-course.netlify.app/)
 
 **What is this?**
 
-**Excerpt from course:** Predictive modeling, or supervised machine learning, is a powerful tool for using data to make predictions about the world around us.
-Once you understand the basic ideas of supervised machine learning, the next step is to practice your skills so you know how to apply these techniques wisely and appropriately.
-In this course, you will work through four case studies using data from the real world; you will gain experience in exploratory data analysis, preparing data so it is ready for predictive modeling, training supervised machine learning models using tidymodels, and evaluating those models.
+**Excerpt from course:** Predictive modeling, or supervised machine learning, is a powerful tool for using data to make predictions about the world around us. Once you understand the basic ideas of supervised machine learning, the next step is to practice your skills so you know how to apply these techniques wisely and appropriately. In this course, you will work through four case studies using data from the real world; you will gain experience in exploratory data analysis, preparing data so it is ready for predictive modeling, training supervised machine learning models using tidymodels, and evaluating those models.
 
 1.  Link to course: <https://supervised-ml-course.netlify.app/>

@@ -1,30 +1,18 @@
 ---
-title: "Hello Quarto"
-date: "2025-04-22"
+title: "Analyzing International Survey Data with the pewmethods R Package"
+date: "2025-02-20"
 categories: [Joscelin's fav]
-image: featured.png
-image-alt: "Illustration of two penguins, one blue and one orange, taking a selfie with a selfie stick. The moon in the background looks like the Quarto logo."
+image: https://miro.medium.com/v2/resize:fit:1400/format:webp/1*xBwxFgNO8wOlfKLu6DaGjQ.png
+image-alt: "Hex sticker featuring the black-and-white logo of the R package 'leaflet' on the left, with a stylized world map in the background on a muted purple backdrop, symbolizing interactive mapping."
 ---
-
 
 <link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/JoscelinRocha">![Buy me a coffee](https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg){alt="Buy me a coffee" width="15" height="21"}Buy me a coffee</a>
 
 ------------------------------------------------------------------------
 
+This article introduces the **pewmethods** R package, designed to facilitate the analysis of international survey data. The package streamlines the process of converting individual-level data to country-level summaries, enabling researchers to efficiently analyze and interpret survey results. By providing tools for data transformation and weighting, **pewmethods** enhances the accuracy and comparability of cross-national survey analyses.
 
-## Analyzing International Survey Data with the pewmethods R Package
+1.  Link to article: <https://medium.com/pew-research-center-decoded/analyzing-international-survey-data-with-the-pewmethods-r-package-3b0b21cba607>
+2.  Link to package: <https://github.com/pewresearch/pewmethods>
 
-Added Thu Feb 20, 2025
-
-**What is this?**
-
-This article introduces the **pewmethods** R package, designed to
-facilitate the analysis of international survey data. The package
-streamlines the process of converting individual-level data to
-country-level summaries, enabling researchers to efficiently analyze and
-interpret survey results. By providing tools for data transformation and
-weighting, **pewmethods** enhances the accuracy and comparability of
-cross-national survey analyses.
-
-1.  Link to article:
-    <https://medium.com/pew-research-center-decoded/analyzing-international-survey-data-with-the-pewmethods-r-package-3b0b21cba607>
+![](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*xBwxFgNO8wOlfKLu6DaGjQ.png)

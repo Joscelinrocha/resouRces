@@ -1,7 +1,7 @@
 ---
 title: "R for data Science"
 date: "2025-04-22"
-categories: [data science, book, wrangling, visualization]
+categories: [data science,book,wrangling,visualization]
 image: https://r4ds.hadley.nz/cover.jpg
 image-alt: "Book cover for the second edition of “R for Data Science.” The title is in bold black text with a subtitle in smaller green and orange font: “Import, Tidy, Transform, Visualize, and Model Data.” The cover features a detailed illustration of a green parrot-like bird perched on a branch. Authors listed are Hadley Wickham, Mine Çetinkaya-Rundel, and Garrett Grolemund. The O’Reilly logo appears at the top left, and a white ribbon in the top right corner indicates “Second Edition.”"
 ---

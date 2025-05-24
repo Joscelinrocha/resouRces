@@ -1,13 +1,15 @@
 ---
 title: "Data Science for Psychologists: A Refreshed Exploratory & Graphical Data Analysis in R"
 date: "2023-04-28"
-categories: [data science, statistics, course]
+categories: [data science,statistics,course]
 image: "featured.png"
 image-alt: "Screenshot of the “Data Science for Psychologists” course webpage titled “A Refreshed Exploratory & Graphical Data Analysis in R” by S. Mason Garrison, dated 2025-04-13. The course is labeled PSY 703 and designed for graduate students at Wake Forest University. The page includes a welcoming paragraph, links to syllabus and playlist, and a sidebar with navigation items like “Welcome to PSY 703,” “Mason Notes,” “MODULE 00,” and “MODULE 01.” A cartoon orange cat graphic appears at the top left."
 ---
+
 <link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/JoscelinRocha">![Buy me a coffee](https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg){alt="Buy me a coffee" width="15" height="21"}Buy me a coffee</a>
 
 ------------------------------------------------------------------------
+
 By [S. Mason Garrison](https://datascience4psych.github.io/DataScience4Psych/)
 
 Added Fri Apr 28th, 2023

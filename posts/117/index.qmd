@@ -1,25 +1,19 @@
 ---
-title: "Hello Quarto"
-date: "2025-04-22"
-categories: [Learning R]
-image: featured.png
-image-alt: "Illustration of two penguins, one blue and one orange, taking a selfie with a selfie stick. The moon in the background looks like the Quarto logo."
+title: "An Introduction to R"
+date: "2025-02-20"
+categories: [Learning R,book,intro]
+image: https://intro2r.com/images/cover_v3.png
+image-alt: "Cover of the book 'An Introduction to R' by Alex Douglas, Deon Roos, Francesca Mancini, Ana Couto, and David Lusseau, featuring a geometric pattern of nested, multicolored rectangles on a beige background."
 ---
-
 
 <link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/JoscelinRocha">![Buy me a coffee](https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg){alt="Buy me a coffee" width="15" height="21"}Buy me a coffee</a>
 
 ------------------------------------------------------------------------
 
-
-## [An Introduction to R](https://intro2r.com/) 🌱
-
-By Alex Douglas, Deon Roos, Francesca Mancini, Ana Couto & David Lusseau
-
-Added Thu Feb 20, 2025
-
-**What is this?**
+By Alex Douglas, Deon Roos, Francesca Mancini, Ana Couto, & David Lusseau
 
 **An Introduction to R** is a comprehensive online book aimed at beginners in R programming. It covers essential topics such as installing R and RStudio, understanding RStudio's interface, working with data structures, creating visualizations, and basic programming concepts. The book is structured to provide practical guidance, making it a valuable resource for those new to R.
 
 1.  Link to book here: <https://intro2r.com/>
+
+![](https://intro2r.com/images/cover_v3.png){width="344"}

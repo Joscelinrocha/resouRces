@@ -10,10 +10,6 @@ image-alt: "Illustration or logo for 'GIT for Humans', emphasizing a user-friend
 
 ------------------------------------------------------------------------
 
-## 
-
-**What is this?**
-
 Here is a list of video tutorials by Sharon for fun things to do with R that didn't fit in the other categories:
 
 1.  [How to send Text Messages?](https://www.infoworld.com/article/3513359/how-to-send-text-messages-from-r.html)

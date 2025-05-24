@@ -1,23 +1,19 @@
 ---
-title: "Hello Quarto"
+title: "Forecasting: Principles and Practice"
 date: "2025-04-22"
-categories: [Learning R]
-image: featured.png
-image-alt: "Illustration of two penguins, one blue and one orange, taking a selfie with a selfie stick. The moon in the background looks like the Quarto logo."
+categories: [Learning R,book]
+image: https://otexts.com/fpp2/fpp2_cover.jpg
+image-alt: "Cover of the book 'Forecasting: Principles and Practice' by Rob J. Hyndman and George Athanasopoulos, featuring an illustration of a person drawing forecast lines on a chalkboard-like background. Subtitled 'A comprehensive introduction to the latest forecasting methods using R.' Second edition published by OTexts."
 ---
-
 
 <link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/JoscelinRocha">![Buy me a coffee](https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg){alt="Buy me a coffee" width="15" height="21"}Buy me a coffee</a>
 
 ------------------------------------------------------------------------
 
-
-## [Forecasting: Principles and Practice](https://otexts.com/fpp2/)
-
 By [Rob J Hyndman & George Athanasopoulos](https://otexts.com/fpp2/)
-
-**What is this?**
 
 **Excerpt from e-book here:** "This textbook is intended to provide a comprehensive introduction to forecasting methods and to present enough information about each method for readers to be able to use them sensibly."
 
 1.  Link to ebook here: <https://otexts.com/fpp2/>
+
+![](https://otexts.com/fpp2/fpp2_cover.jpg)

@@ -1,7 +1,7 @@
 ---
 title: "Data Science for Economists Seminar"
 date: "2025-04-21"
-categories: [data science, course]
+categories: [data science,course]
 image: "featured.png"
 image-alt: "Title slide for a university lecture titled “Data Science for Economists.” Subtitle reads “Lecture 1: Introduction.” The slide includes the instructor’s name, “Grant McDermott,” and affiliation, “University of Oregon,” followed by the course code “EC 607” in pink text. The layout is minimalist with a white background and a thin orange line separating the title from the footer."
 ---

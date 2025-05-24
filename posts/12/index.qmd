@@ -1,7 +1,7 @@
 ---
 title: "HTML blocks"
 date: "2022-07-09"
-categories: [html, raw]
+categories: [html]
 image: https://quarto.org/docs/visual-editor/images/visual-editing-omni-math.png
 image-alt: "On top, a screenshot of the Insert Anything tool in the RStudio Visual Editor to insert an HTML block. An arrow from this points to the bottom image, which is an HTML block containing raw HTML code for including the Quarto Documentation at quarto.org in an iframe. The complete code can be found in the blog post."
 ---

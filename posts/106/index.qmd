@@ -1,25 +1,19 @@
 ---
-title: "Hello Quarto"
+title: "funneljoin: Time-Based Joins for Event Sequences"
 date: "2025-04-22"
-categories: [Joscelin's fav]
-image: featured.png
-image-alt: "Illustration of two penguins, one blue and one orange, taking a selfie with a selfie stick. The moon in the background looks like the Quarto logo."
+categories: [Joscelin's fav,wrangling,package]
+image: https://raw.githubusercontent.com/robinsones/funneljoin/master/man/figures/logo.png
+image-alt: "Hex sticker for the funneljoin R package featuring three gray funnels aligned in a row against a dark purple background with scattered dots, symbolizing sequential data filtering, and the package name 'funneljoin' below."
 ---
-
 
 <link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/JoscelinRocha">![Buy me a coffee](https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg){alt="Buy me a coffee" width="15" height="21"}Buy me a coffee</a>
 
 ------------------------------------------------------------------------
 
+Analyze behavior funnels by performing time-based joins with **funneljoin**.
 
-## funneljoin: Time-Based Joins for Event Sequences
+1.  Link to blog: <https://hookedondata.org/introducing-the-funneljoin-package/>
 
-**What is this?**
-
-Analyze behavior funnels by performing time-based joins with
-**funneljoin**.
-
-1.  Link to blog:
-    <https://hookedondata.org/introducing-the-funneljoin-package/>
-    
 2.  Link to package: <https://github.com/robinsones/funneljoin>
+
+![](https://raw.githubusercontent.com/robinsones/funneljoin/master/man/figures/logo.png){width="344"}

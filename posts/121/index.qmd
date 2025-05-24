@@ -1,23 +1,19 @@
 ---
-title: "Hello Quarto"
-date: "2025-04-22"
-categories: [Learning R]
-image: featured.png
-image-alt: "Illustration of two penguins, one blue and one orange, taking a selfie with a selfie stick. The moon in the background looks like the Quarto logo."
+title: "Coding togetheR"
+date: "2025-05-24"
+categories: [Learning R,book,intro]
+image: https://ab604.github.io/docs/coding-together-2019/img/carrick-bend.png
+image-alt: "Black and white illustration of a Carrick Bend knot, showing two interwoven ropes forming a symmetrical, basket-like pattern commonly used for securely joining heavy ropes."
 ---
-
 
 <link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/JoscelinRocha">![Buy me a coffee](https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg){alt="Buy me a coffee" width="15" height="21"}Buy me a coffee</a>
 
 ------------------------------------------------------------------------
 
-
-## [Coding togetheR](https://ab604.github.io/docs/coding-together-2019/)
-
 By [Alistair Bailey](https://ab604.github.io/docs/coding-together-2019/)
 
-**What is this?**
-
-Excerpt from site: Coding togetheR is a series of collaborative workshops to teach foundational R coding and data science skills at the University of Southampton in 2019. This book contains the materials covered over eight, two-hour sessions.
+**Excerpt from site:** Coding togetheR is a series of collaborative workshops to teach foundational R coding and data science skills at the University of Southampton in 2019. This book contains the materials covered over eight, two-hour sessions.
 
 1.  Link to web-book here: <https://ab604.github.io/docs/coding-together-2019/>
+
+![](https://ab604.github.io/docs/coding-together-2019/img/carrick-bend.png){fig-alt="Black and white illustration of a Carrick Bend knot, showing two interwoven ropes forming a symmetrical, basket-like pattern commonly used for securely joining heavy ropes."}

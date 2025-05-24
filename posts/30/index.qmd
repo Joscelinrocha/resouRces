@@ -1,7 +1,7 @@
 ---
 title: "Reproducible Data Science in R: Iterate, Don't Duplicate"
 date: "2025-02-20"
-categories: [blog, data science]
+categories: [blog,data science]
 image: https://waterdata.usgs.gov/blog/static/RDS-iterate/rds_03banner.png
 image-alt: "Banner image titled “Reproducible Data Science with R: Easy steps to improve the reusability of your code!” The main message reads “Iterate, don’t duplicate” in teal font. A cute blue cartoon water droplet character wearing a yellow hard hat stands at a conveyor belt assembling pipe valves. This image is part of “A WDFN Blog Series.”"
 ---

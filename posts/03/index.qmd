@@ -1,7 +1,7 @@
 ---
 title: "12 Months of aRt"
 date: "2025-04-21"
-categories: [art, visualization]
+categories: [art,visualization]
 image: "https://raw.githubusercontent.com/will-r-chase/aRt/master/static/attractor_collage.png"
 image-alt: "YAML file with two execute options. The first one is freeze: true and the comment that goes with it reads never re-render during project render. The other one is freeze: auto and the comment reads re-render only when source changes."
 ---

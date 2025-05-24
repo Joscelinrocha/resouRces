@@ -5,9 +5,11 @@ categories: [visualization,missing data]
 image: "featured.png"
 image-alt: "Diagram explaining the data structure and visualization process in the naniar package for handling missing data in R. It begins with a “DATA” table showing variables (V1 to V4) and missing values (NA). This is converted into a “SHADOW” matrix where each variable has a corresponding _NA column indicating presence (!NA) or absence (NA) of data. These are combined into an “AUGMENT” dataset used for plotting. The data can also be transformed into “LONG FORM” with each case-variable pair labeled by missingness. On the right, visualizations include heatmaps of missing values by variable and case (ordered or not), bar plots of missingness per variable, and example data plots using the augmented data."
 ---
+
 <link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/JoscelinRocha">![Buy me a coffee](https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg){alt="Buy me a coffee" width="15" height="21"}Buy me a coffee</a>
 
 ------------------------------------------------------------------------
+
 By [Nicholas Tierney](https://cran.r-project.org/web/packages/naniar/vignettes/getting-started-w-naniar.html)
 
 **Excerpt from site:** this vignette aims to work with the following three questions, using the tools developed in naniar and another package, visdat. Namely, how do we: Start looking at missing data?, Explore missingness mechanisms?, Model missingness?

@@ -1,23 +1,21 @@
 ---
-title: "Hello Quarto"
+title: "Getting Started with R"
 date: "2025-04-22"
-categories: [Learning R]
-image: featured.png
-image-alt: "Illustration of two penguins, one blue and one orange, taking a selfie with a selfie stick. The moon in the background looks like the Quarto logo."
+categories: [Learning R,intro,Joscelin's fav]
+image: "featured.png"
+image-alt: "Minimalist blue background with three nested white hexagons centered, resembling the hex sticker style commonly associated with R packages."
 ---
-
 
 <link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/JoscelinRocha">![Buy me a coffee](https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg){alt="Buy me a coffee" width="15" height="21"}Buy me a coffee</a>
 
 ------------------------------------------------------------------------
 
-
-## [Getting Started with R](https://rfortherestofus.com/courses/getting-started/) 💯 🌱
-
 By [David Keyes](https://rfortherestofus.com/courses/getting-started/)
 
-**What is this?** Excerpt from site: This free Getting Started with R course is designed to get new users, no matter what's holding you back, up and running quickly. It takes you step-by-step, helping you download exactly what you need to get started.
+**Excerpt from site:** This free Getting Started with R course is designed to get new users, no matter what's holding you back, up and running quickly. It takes you step-by-step, helping you download exactly what you need to get started.
 
 In this course, you'll learn what you need to get up and running with R, including getting R and RStudio set up, working with projects, installing and loading packages, importing and examining data, and more.
 
 1.  Free course here: <https://rfortherestofus.com/courses/getting-started/>
+
+![](featured.png)

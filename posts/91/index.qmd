@@ -10,7 +10,7 @@ image-alt: "Slide with dark background displaying the title 'An Introduction to 
 
 ------------------------------------------------------------------------
 
-**What is this?**In this video, I go over the very basics of using git in a purely academic context. I leave out everything that is not strictly necessary and explain the six central commands you will need to use git productively: git init, git add \*, git commit -m "A description of what has changed", git log --oneline, git checkout master,& git status.
+**Excerpt from site here:** In this video, I go over the very basics of using git in a purely academic context. I leave out everything that is not strictly necessary and explain the six central commands you will need to use git productively: git init, git add \*, git commit -m "A description of what has changed", git log --oneline, git checkout master,& git status.
 
 1.  Link to video here: <https://www.youtube.com/watch?v=PBRmtABqC9U&feature=youtu.be>
 

@@ -1,7 +1,7 @@
 ---
 title: "Reproducible science workshop: A one-day workshop with R and RStudio"
 date: "2021-10-08"
-categories: [data science, tidyverse, visualization, wrangling, talk]
+categories: [data science,tidyverse,visualization,wrangling,talk,video]
 image: featured.png
 image-alt: " Slide titled “Workshop on reproducible science: Motivations” by Olivier Gimenez. The text is centered on a plain white background. Below the title is the author’s name, followed by the line “last updated: 2021-02-27.”"
 ---

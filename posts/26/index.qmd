@@ -1,7 +1,7 @@
 ---
 title: "Introduction to Data Science"
 date: "2022-07-23"
-categories: [machine learning, statistics, book]
+categories: [machine learning,statistics,book]
 image: https://d2sofvawe08yqg.cloudfront.net/datasciencebook/s_hero?1620591298
 image-alt: "Book cover for “Introduction to Data Science” by Rafael A. Irizarry. The cover has a teal background with the title in bold white uppercase text at the center. Below the title are four minimalist cyan icons representing a light bulb, bar chart, line graph, and data table. At the bottom, a subtitle reads “Data Analysis and Prediction Algorithms with R,” and the author’s name appears in white within a horizontal bar."
 ---

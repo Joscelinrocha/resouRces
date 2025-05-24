@@ -1,21 +1,21 @@
 ---
-title: "Hello Quarto"
+title: "Keeping it Tidy"
 date: "2025-04-22"
-categories: [Learning R]
-image: featured.png
-image-alt: "Illustration of two penguins, one blue and one orange, taking a selfie with a selfie stick. The moon in the background looks like the Quarto logo."
+categories: [Learning R,tidyverse,wrangling,visualization,intro]
+image: https://meghan.quarto.pub/keeping-it-tidy/images/image.png
+image-alt: "Promotional graphic for an R-Ladies Paris event featuring Meghan Hall, titled 'Keeping it Tidy: Using the Tidyverse to Efficiently Organize, Transform, and Visualize Data,' held on September 8, 2022 at 7pm CEST via Zoom. Includes tidyverse logo, Meghan Hall’s photo, and social media icons and links."
 ---
-
 
 <link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/JoscelinRocha">![Buy me a coffee](https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg){alt="Buy me a coffee" width="15" height="21"}Buy me a coffee</a>
 
 ------------------------------------------------------------------------
 
-
-## [Exploring tidymodels With Hockey Data](https://meghan.rbind.io/blog/tidymodels-intro/)🌱
-
 By [Meghan Hall](https://meghan.rbind.io/blog/tidymodels-intro/)
 
-Added Sat Dec, 2021.**What is this?****Excerpt from site:** "This is a gentle introduction to the tidymodels package (which, like the tidyverse, is actually a collection of packages), and in order to examine various functions and capabilities of those packages, we'll build two very simple models, using easily available NHL data, and go over a few ways to evaluate them".
+**Excerpt from site:** "This 90-minute workshop is targeted toward beginners/advanced beginners and will serve as an introduction to the [tidyverse](https://www.tidyverse.org/), a collection of packages designed to aid in the cleaning and wrangling of data. In order to give you the tools to embark upon your own analysis on your own data, we will work through a sample data set and discuss methods for modifying, aggregating, reshaping, and visualizing data."
 
-1.  Link to post here: <https://meghan.rbind.io/blog/tidymodels-intro/>
+1.  Link to slides here: <https://meghan.rbind.io/slides/rladiesparis/rladiesparis#/title-slide>
+2.  Link to workshop website here: <https://meghan.quarto.pub/keeping-it-tidy/>
+3.  Link to repo here: <https://github.com/meghall06/rladiesparis/blob/master/keeping-it-tidy.R>
+
+![](https://meghan.quarto.pub/keeping-it-tidy/images/image.png)

@@ -1,16 +1,14 @@
 ---
 title: "Hello Quarto"
 date: "2025-04-22"
-categories: [Machine Learning]
+categories: [machine learning]
 image: featured.png
 image-alt: "Illustration of two penguins, one blue and one orange, taking a selfie with a selfie stick. The moon in the background looks like the Quarto logo."
 ---
 
-
 <link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/JoscelinRocha">![Buy me a coffee](https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg){alt="Buy me a coffee" width="15" height="21"}Buy me a coffee</a>
 
 ------------------------------------------------------------------------
-
 
 ## [Tidymodels, Virtually: An Introduction to Machine Learning with Tidymodels](https://tmv.netlify.app/site/)
 
@@ -18,9 +16,6 @@ By [Dr. Alison Hill](https://tmv.netlify.app/site/)
 
 **What is this?**
 
-**Excerpt from site:** This four-hour pre-conference short course will provide a gentle introduction to machine learning with R using the modern suite of predictive modeling packages called tidymodels.
-We will build, evaluate, compare, and tune predictive models.
-Along the way, we'll learn about key concepts in machine learning including overfitting, the holdout method, the bias-variance trade-off, ensembling, cross-validation, and feature engineering.
-Learners will gain knowledge about good predictive modeling practices, as well as hands-on experience using tidymodels packages like parsnip, rsample, recipes, yardstick, tune, and workflows.
+**Excerpt from site:** This four-hour pre-conference short course will provide a gentle introduction to machine learning with R using the modern suite of predictive modeling packages called tidymodels. We will build, evaluate, compare, and tune predictive models. Along the way, we'll learn about key concepts in machine learning including overfitting, the holdout method, the bias-variance trade-off, ensembling, cross-validation, and feature engineering. Learners will gain knowledge about good predictive modeling practices, as well as hands-on experience using tidymodels packages like parsnip, rsample, recipes, yardstick, tune, and workflows.
 
 1.  Link to materials and course: <https://tmv.netlify.app/site/>

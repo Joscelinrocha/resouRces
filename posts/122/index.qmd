@@ -1,23 +1,28 @@
 ---
-title: "Hello Quarto"
-date: "2025-04-22"
-categories: [Learning R]
-image: featured.png
+title: "COMP/STAT 112 Macalester College"
+date: "2025-05-24"
+categories: [Learning R,intro]
+image: "featured.png"
 image-alt: "Illustration of two penguins, one blue and one orange, taking a selfie with a selfie stick. The moon in the background looks like the Quarto logo."
 ---
-
 
 <link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/JoscelinRocha">![Buy me a coffee](https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg){alt="Buy me a coffee" width="15" height="21"}Buy me a coffee</a>
 
 ------------------------------------------------------------------------
 
-
-## [COMP/STAT 112 Macalester College](https://ds112-lendway.netlify.app/) 🌱
-
 By [Lisa Lendway](https://ds112-lendway.netlify.app/)
 
-Date added: Thu April 15th, 2021
+**Excerpt from the site:** This website serves the students who take COMP/STAT 112 at Macalester College taught by Lisa Lendway. Other people interested in learning Data Science skills using R may also be interested in this material!
 
-**What is this?****Excerpt from the site:** This website serves the students who take COMP/STAT 112 at Macalester College taught by Lisa Lendway. Other people interested in learning Data Science skills using R may also be interested in this material!
+1.  Link to tutorials: <https://ds112-lendway.netlify.app/>
 
-1.  Link to OSF files here: <https://ds112-lendway.netlify.app/>
+**List of tutorials**
+
+1.  R basics:<https://r-basics.netlify.app/>
+2.  ggplot dplyr: <https://ggplot-dplyr-intro.netlify.app/>
+3.  Expanding data wrangling: <https://03-wrangling-tutorial.netlify.app/>
+4.  Mapping: <https://mapping-in-r.netlify.app/>
+5.  Animation and Interactivity in R: <https://animation-and-interactivity-in-r.netlify.app/>
+6.  Importing, scraping, and more!: <https://importing-and-more-in-r.netlify.app/>
+
+![](featured.png){width="527"}

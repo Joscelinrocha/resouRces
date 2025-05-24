@@ -1,7 +1,7 @@
 ---
 title: "Frankenstein: Voronoi tesselation example"
 date: "2025-04-21"
-categories: [art, visualization]
+categories: [art,visualization]
 image: "https://i0.wp.com/fronkonstin.com/wp-content/uploads/2017/03/Frankenstein_6kmain.jpeg?w=604&ssl=1"
 image-alt: "A generative portrait composed of thousands of tiny colored dots, forming a pointillist image of Frankenstein's monster. The portrait has a mosaic-like texture, with green, black, and brown tones dominating the face, set against a dark background."
 ---

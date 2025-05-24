@@ -1,27 +1,19 @@
 ---
-title: "Hello Quarto"
-date: "2025-04-22"
-categories: [Joscelin's fav]
-image: featured.png
-image-alt: "Illustration of two penguins, one blue and one orange, taking a selfie with a selfie stick. The moon in the background looks like the Quarto logo."
+title: "esquisse add-in"
+date: "2022-02-02"
+categories: [Joscelin's fav,package,visualization]
+image: https://raw.githubusercontent.com/dreamRs/esquisse/refs/heads/master/man/figures/logo.png
+image-alt: "Hex sticker for the esquisse R package featuring a hand-drawn style line graph with blue dots and a pencil, along with the package name 'esquisse' written in a sketch-like font on a textured background."
 ---
-
 
 <link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/JoscelinRocha">![Buy me a coffee](https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg){alt="Buy me a coffee" width="15" height="21"}Buy me a coffee</a>
 
 ------------------------------------------------------------------------
 
-
-## esquisse add-in
-
-Added Feb 2nd, 2022
-
-**What is this?**
-
-An RStudio add-in for interactively exploring and visualizing data with
-**ggplot2**. Users can create and export plots with ease.
+An RStudio add-in for interactively exploring and visualizing data with **ggplot2**. Users can create and export plots with ease.
 
 1.  Link to package: <https://github.com/dreamRs/esquisse>
 
-2.  Online documentation:
-    <https://dreamrs.github.io/esquisse/index.html>
+2.  Online documentation: <https://dreamrs.github.io/esquisse/index.html>
+
+![](https://raw.githubusercontent.com/dreamRs/esquisse/refs/heads/master/man/figures/logo.png){width="306"}

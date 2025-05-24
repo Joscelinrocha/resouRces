@@ -1,7 +1,7 @@
 ---
 title: "Text Mining with R A Tidy Approach"
 date: "2025-04-22"
-categories: [visualization, statistics]
+categories: [visualization,statistics,book]
 image: https://www.tidytextmining.com/images/cover.png
 image-alt: "Book cover for “Text Mining with R: A Tidy Approach” by Julia Silge and David Robinson. The cover features the O’Reilly logo at the top and a red banner with the book title in white serif font. Below the title is a detailed black-and-white illustration of a rabbit sitting, facing right. The authors’ names appear at the bottom in black text."
 ---

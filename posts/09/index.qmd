@@ -1,7 +1,7 @@
 ---
 title: "Advanced Data Science 2020" 
 date: "2025-04-04" 
-categories: [data science, book, statistics]
+categories: [data science,book,statistics]
 image: "https://user-images.githubusercontent.com/1571674/91710624-8fc32d00-eb52-11ea-89b0-08397b02ced8.png" 
 image-alt: "Hex sticker logo for the “jhsphepi/ads” course or package. It features a stylized iceberg with the majority submerged underwater, symbolizing hidden data complexity. The text “jhsph ads” appears above the iceberg in light blue, with gray clouds in the background. The URL “www.jtleek.com/ads2020” is written diagonally along the bottom right corner." 
 ---

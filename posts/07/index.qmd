@@ -1,7 +1,7 @@
 ---
 title: "a gRadual intRoduction to Shiny"
 date: "2022-07-04"
-categories: [slides, shiny, dashboard]
+categories: [slides,shiny,dashboards]
 image: "featured.png"
 image-alt: "Title slide with a dark blue background. The text in the center reads “a gRadual intRoduction to Shiny” with stylized capital “R”s emphasizing the letter “R” in “gradual” and “introduction.” Below the title is the name “Ted Laderas,” followed by “R-Pharma 2021” and the date “2021-10-25."
 ---

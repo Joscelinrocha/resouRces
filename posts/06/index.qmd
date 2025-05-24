@@ -1,7 +1,7 @@
 ---
 title: "xstitch: A package for creating cross-stitch charts"
 date: "2021-10-12"
-categories: [art, visualization]
+categories: [art,visualization]
 image: "featured.png"
 image-alt: "Screenshot of the GitHub repository “xstitch” by user ysoh286. The repo is described as an “R package for generating cross-stitch charts.” The main view shows folders named R, man, and tests, along with files such as .gitignore, DESCRIPTION, NAMESPACE, and README.md. The latest commit message is about fixing a grayscale/channel error."
 ---

@@ -1,7 +1,7 @@
 ---
 title: "RStudio Crash Course for beginners 2020 | How To Use The IDE"
 date: "2020-10-25"
-categories: [intro to R, video]
+categories: [intro, video]
 image: "featured.png"
 image-alt: "Graphic with the phrase 'LEARN PROGRAMMING' in the center, surrounded by colorful icons representing coding, binary, cloud, magnifying glass, web, gear, and document symbols on a dark background with vertical line accents."
 ---
