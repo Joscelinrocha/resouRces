@@ -1,7 +1,7 @@
 ---
-title: "Data Wrangling in the Tidyverse"
-date: "2023-05-05"
-categories: [Learning R,wrangling,tidyverse]
+title: "The Power of Internal Packages"
+date: "2025-05-24"
+categories: [Learning R,package,tidyverse]
 image: "featured.png"
 image-alt: "Presentation slide titled 'Data Wrangling in the Tidyverse' by Nick Huntington-Klein, dated 26 February, 2023, displayed on a plain white background."
 ---
@@ -10,14 +10,10 @@ image-alt: "Presentation slide titled 'Data Wrangling in the Tidyverse' by Nick 
 
 ------------------------------------------------------------------------
 
-By [Nick Huntington-Klein](https://www.youtube.com/watch?v=EOpb3VsWmck)
+By **Meghan Hall**
 
-**Excerpt from the site:** This video series covers the basics of data wrangling using the tidyverse, aimed at my data communications class. I assume some very, very basic R background, but really not much.
+**Excerpt from the site:** The goal of this talk is to hopefully convince you that you can make your life a little bit easier by creating an internal package! An internal package is an R package, created by you, that’s just for you, to serve your work. And depending on your specific working scenario, that “you” can be substituted for you and your direct report, you and a handful of the colleagues that you closely collaborate with, or even you and your whole team.
 
-This is a simplified and adapted version of my data wrangling workshops, which are available in full on my channel for tidyverse (R), data.table (R), and pandas (Python).
-
-1.  Link to videos are here: <https://www.youtube.com/watch?v=EOpb3VsWmck>
-2.  Slides to follow along with the videos are here: <https://nickch-k.github.io/DataCommSlides/Lecture_05_and_06_Data_Wrangling.html#/>
-3.  Code instructor works on in the videos can be found here: <https://github.com/NickCH-K/DataCommSlides/blob/master/Lecture_05_and_06_example_code.R>
+1.  Link to slides here: <https://meghan.rbind.io/slides/boston_user/hall_boston_user_2022#1>
 
 ![](featured.png)
