@@ -1,7 +1,7 @@
 ---
 title: "Statistical Computing at Johns Hopkins Bloomberg School of Public Health"
 date: "2023-04-14"
-categories: [Learning R,package creation,intro,tidyverse,documentation,API,shy,dashboards,statistics]
+categories: [learning R,package creation,intro,tidyverse,documentation,API,shy,dashboards,statistics]
 image: https://www.stephaniehicks.com/jhustatcomputing2022/images/cool_icon.png
 image-alt: "Digital illustration of branching tree-like structures with thick magenta trunks that split into increasingly fine cyan and white branches, set against a black background."
 ---

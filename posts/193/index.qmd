@@ -1,26 +1,20 @@
 ---
-title: "Hello Quarto"
-date: "2025-04-22"
+title: "rjtools: Preparing, Checking, and Submitting Articles to the 'R Journal'"
+date: "2023-04-14"
 categories: [packages]
-image: featured.png
-image-alt: "Illustration of two penguins, one blue and one orange, taking a selfie with a selfie stick. The moon in the background looks like the Quarto logo."
+image: https://journal.r-project.org/resources/article_status_plot.png
+image-alt: 'Stacked bar chart showing the number of submissions from 2019 to 2022, categorized by status: rejected (peach), in progress (blue), and accepted/published (green). The total count increases each year, with a notable rise in in-progress submissions in 2022.'
 ---
-
 
 <link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/JoscelinRocha">![Buy me a coffee](https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg){alt="Buy me a coffee" width="15" height="21"}Buy me a coffee</a>
 
 ------------------------------------------------------------------------
 
-
-## [rjtools: Preparing, Checking, and Submitting Articles to the 'R Journal'](https://cran.r-project.org/web/packages/rjtools/index.html)
-
 By [Di Cook](https://cran.r-project.org/web/packages/rjtools/index.html)
-
-Added Fri Apr 14th, 2023
-
-**What is this?**
 
 **Excerpt from vignette:** Create an 'R Journal' 'Rmarkdown' template article, that will generate html and pdf versions of your paper. Check that the paper folder has all the required components needed for submission. Examples of 'R Journal' publications can be found at <https://journal.r-project.org>.
 
 1.  Link to package vignette here: <https://cran.r-project.org/web/packages/rjtools/index.html>
 2.  Link to package manual here: <https://cran.r-project.org/web/packages/rjtools/rjtools.pdf>
+
+![](https://journal.r-project.org/resources/article_status_plot.png)

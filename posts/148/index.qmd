@@ -1,7 +1,7 @@
 ---
 title: "R Crash Course for Biologists "
 date: "2023-05-28"
-categories: [Learning R,intro,book]
+categories: [learning R,intro,book]
 image: "featured.png"
 image-alt: "of the book 'R Crash Course for Biologists' by Robert I. Colautti, featuring a white background with a circular, multicolored data visualization pattern radiating outward."
 ---
@@ -12,7 +12,7 @@ image-alt: "of the book 'R Crash Course for Biologists' by Robert I. Colautti, f
 
 By [Rob Colautti](https://colauttilab.github.io/RCrashCourse/1_fundamentals.html)
 
-**Excerpt from the book:** \
+**Excerpt from the book:**\
 **NOTE**: This is the repository for the **first edition** of the book *R Crash Course for Biologists*
 
 The **second edition** is available for pre-order for summer 2024 release, but the first edition will still available at a discounted price:

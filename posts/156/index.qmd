@@ -1,7 +1,7 @@
 ---
 title: "RYouWithMe"
 date: "2023-04-28"
-categories: [Learning R,intro,visualization]
+categories: [learning R,intro,visualization]
 image: https://rladiessydney.org/courses/img/RYouWithMe.jpg
 image-alt: "Nighttime photo of the Sydney Opera House and Sydney Harbour Bridge with the text 'RYouWithMe' and 'brought to you by r-ladies sydney' overlaid in white."
 ---
@@ -10,7 +10,7 @@ image-alt: "Nighttime photo of the Sydney Opera House and Sydney Harbour Bridge 
 
 ------------------------------------------------------------------------
 
-By [R-Ladies Sydney (Lisa ](https://rladiessydney.org/courses/ryouwithme/)[Williams](https://rladiessydney.org/courses/)[)](https://rladiessydney.org/courses/ryouwithme/)
+By [R-Ladies Sydney (Lisa](https://rladiessydney.org/courses/ryouwithme/)[Williams](https://rladiessydney.org/courses/)[)](https://rladiessydney.org/courses/ryouwithme/)
 
 **Excerpt from site:** **RYouWithMe** - a series of online learning resources for using R - designed by us, for us. The series is oriented towards R beginners and aims to provide a solid foundation of R skills. That way, future R-Ladies Sydney activities can be accessible to more of our members.
 

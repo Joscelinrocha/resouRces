@@ -1,30 +1,19 @@
 ---
-title: "Hello Quarto"
+title: "Doing Meta-Analysis in R A Hands-on Guide "
 date: "2025-04-22"
-categories: [meta-analysis]
-image: featured.png
-image-alt: "Illustration of two penguins, one blue and one orange, taking a selfie with a selfie stick. The moon in the background looks like the Quarto logo."
+categories: [meta-analysis,book,statistics,Joscelin's fav]
+image: https://bookdown.org/MathiasHarrer/Doing_Meta_Analysis_in_R/images/cover.png
+image-alt: 'Book cover titled "Doing Meta-Analysis with R: A Hands-On Guide" by Mathias Harrer, Pim Cuijpers, Toshi Furukawa, and David Ebert. The top portion of the cover has a light beige background with bold navy blue text. The middle features a vivid, dynamic image of flowing water with shades of blue and golden highlights. The bottom includes the authors names and the CRC Press logo, labeled as a Chapman & Hall book.'
 ---
-
 
 <link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/JoscelinRocha">![Buy me a coffee](https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg){alt="Buy me a coffee" width="15" height="21"}Buy me a coffee</a>
 
 ------------------------------------------------------------------------
 
+By [Mathias Harrer, M.Sc.¹ Prof. Dr. Pim Cuijpers² Prof. Dr. Toshi A. Furukawa³ Assoc. Prof. Dr. David D. Ebert²](https://bookdown.org/MathiasHarrer/Doing_Meta_Analysis_in_R/)
 
-## [Doing Meta-Analysis in R A Hands-on Guide](https://bookdown.org/MathiasHarrer/Doing_Meta_Analysis_in_R/) 💯
+**Excerpt from ebook:** This guide shows you how to conduct meta-analyses in R from scratch. The focus of this guide is primarily on clinical outcome research in psychology. It was designed for staff and collaborators of the Protect Lab, which is headed by Prof. Dr. David D. Ebert.
 
-By [Mathias Harrer, M.Sc.¹ Prof. Dr. Pim Cuijpers² Prof. Dr. Toshi A.
-Furukawa³ Assoc. Prof. Dr. David D.
-Ebert²](https://bookdown.org/MathiasHarrer/Doing_Meta_Analysis_in_R/)
+1.  Link to ebook: <https://bookdown.org/MathiasHarrer/Doing_Meta_Analysis_in_R/>
 
-**What is this?**
-
-**Excerpt from ebook:** This guide shows you how to conduct
-meta-analyses in R from scratch. The focus of this guide is primarily on
-clinical outcome research in psychology. It was designed for staff and
-collaborators of the Protect Lab, which is headed by Prof. Dr. David D.
-Ebert.
-
-1.  Link to ebook:
-    <https://bookdown.org/MathiasHarrer/Doing_Meta_Analysis_in_R/>
+![](https://bookdown.org/MathiasHarrer/Doing_Meta_Analysis_in_R/images/cover.png){width="300"}

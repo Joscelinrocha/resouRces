@@ -1,7 +1,7 @@
 ---
 title: "Using R as a GIS: Preview: What Is R?"
 date: "2023-04-14"
-categories: [Learning R,book,geospatial,book]
+categories: [learning R,book,geospatial,book]
 image: https://locatepress.com/static/images/rgis.png
 image-alt: "Book cover of 'Using R as a GIS: A Beginner’s Guide to Mapping and Spatial Analysis' by Dr. Nick Bearman. The top section features light contour lines on a white background, and the bottom has a blue panel with the title and a dark blue block with the Locate Press logo."
 ---

@@ -1,25 +1,20 @@
 ---
-title: "Hello Quarto"
+title: "xaringan Tip: Add A Logo to All of Your Slides"
 date: "2025-04-22"
 categories: [slides]
-image: featured.png
-image-alt: "Illustration of two penguins, one blue and one orange, taking a selfie with a selfie stick. The moon in the background looks like the Quarto logo."
+image: https://www.garrickadenbuie.com/blog/xaringan-tip-logo-all-slides/xaringan-logo-all-slides.png
+image-alt: 'Slide titled "Hello World" explaining how to install the xaringan package in R using devtools::install_github("yihui/xaringan"). Instructions mention using RStudio IDE, creating a Ninja Presentation from a template, and using the Infinite Moon Reader addin. A red hex sticker with an eye icon and the word "xaringan" is in the top right corner with a black arrow pointing to it.'
 ---
-
 
 <link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/JoscelinRocha">![Buy me a coffee](https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg){alt="Buy me a coffee" width="15" height="21"}Buy me a coffee</a>
 
 ------------------------------------------------------------------------
 
+By [Garrick Aden‑Buie](https://www.garrickadenbuie.com/blog/xaringan-tip-logo-all-slides/)
 
-## [xaringan Tip: Add A Logo to All of Your Slides](https://www.garrickadenbuie.com/blog/xaringan-tip-logo-all-slides/)
+**Excerpt from blog:** Here's a quick tip to help solve a common xaringan problem: adding a logo to all of your slides.
 
-By [Garrick
-Aden‑Buie](https://www.garrickadenbuie.com/blog/xaringan-tip-logo-all-slides/)
-
-**What is this?****Excerpt from blog:** Here's a quick tip to help solve a common
-xaringan problem: adding a logo to all of your slides.
-
-1.  Link to blog here:
-    <https://www.garrickadenbuie.com/blog/xaringan-tip-logo-all-slides/>
+1.  Link to blog here: <https://www.garrickadenbuie.com/blog/xaringan-tip-logo-all-slides/>
 2.  Template repo here: <https://github.com/gadenbuie/xaringan-logo>
+
+![](https://www.garrickadenbuie.com/blog/xaringan-tip-logo-all-slides/xaringan-logo-all-slides.png){fig-alt="Slide titled \"Hello World\" explaining how to install the xaringan package in R using devtools::install_github(\"yihui/xaringan\"). Instructions mention using RStudio IDE, creating a Ninja Presentation from a template, and using the Infinite Moon Reader addin. A red hex sticker with an eye icon and the word \"xaringan\" is in the top right corner with a black arrow pointing to it."}

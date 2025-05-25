@@ -1,23 +1,17 @@
 ---
-title: "Hello Quarto"
-date: "2025-04-22"
-categories: [packages]
-image: featured.png
-image-alt: "Illustration of two penguins, one blue and one orange, taking a selfie with a selfie stick. The moon in the background looks like the Quarto logo."
+title: "Introduction to R"
+date: "2025-05-25"
+categories: [intro,learning R]
 ---
-
 
 <link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/JoscelinRocha">![Buy me a coffee](https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg){alt="Buy me a coffee" width="15" height="21"}Buy me a coffee</a>
 
 ------------------------------------------------------------------------
 
+**Excerpt from site:** For this class, we’ll be learning the basics of the R programming language, and interacting with R through RStudio which is an efficient and user-friendly tool.
 
-## [How to write your own R package and publish it on CRAN](https://www.mzes.uni-mannheim.de/socialsciencedatalab/article/r-package/)
+A bit of background: R is a language that was created for statistical analysis and graphics; it does these two things very well. Over time, additional functionality has been added to R (because it is an open standard language, so anyone can contribute packages or libraries) so that it now works very well for data analysis, web scraping, app building, and even natural language processing.
 
-By Cosima Meyer
+Learning a programming language requires some investment of time. We're going to cover the *basics* of what you need to know to get started, but I can't teach you everything in 3 hours (and frankly I don't know everything anyway). You will be able to do data analysis in R after this class, but you will also need to keep exploring, learning, and troubleshooting. I will provide resources to help with all that.
 
-Added Fri Apr 28th, 2023
-
-**What is this?****Excerpt from site:** While there exist many great resources for learning how to write a package in R, we found it difficult to find one all-encompassing guide that is also easily accessible for beginners. This tutorial seeks to close this gap: we will provide you with a step-by-step guide --- seasoned with new and helpful packages that are also inspired by presentations at the recent virtual European R Users Meeting [e-Rum 2020](https://2020.erum.io/).
-
-1.  Link to the datasets: <https://www.mzes.uni-mannheim.de/socialsciencedatalab/article/r-package/>
+1.  Link to the repo here: <https://github.com/ireapps/nicar24-intro-to-R>

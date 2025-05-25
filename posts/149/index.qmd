@@ -1,7 +1,7 @@
 ---
 title: "R Course"
 date: "2023-04-28"
-categories: [Learning R,intro,course]
+categories: [learning R,intro,course]
 image: "featured.png"
 image-alt: "YouTube video thumbnail titled 'Advanced Crash Course in R: A Tidyverse and Language Perspective - Topic 1: Crash Course in R,' with a Harvard WiP label and a white background with black and blue text."
 ---

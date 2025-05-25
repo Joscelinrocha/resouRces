@@ -1,23 +1,19 @@
 ---
-title: "Hello Quarto"
+title: "Quarto demos"
 date: "2025-04-22"
 categories: [quarto]
-image: featured.png
-image-alt: "Illustration of two penguins, one blue and one orange, taking a selfie with a selfie stick. The moon in the background looks like the Quarto logo."
+image: "featured.png"
+image-alt: 'Logo for NMFS Open Science, featuring stylized ocean wave graphics in various shades of blue inside a circular emblem, with bold text reading "NMFS OPEN SCIENCE" to the right of the logo.'
 ---
-
 
 <link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/JoscelinRocha">![Buy me a coffee](https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg){alt="Buy me a coffee" width="15" height="21"}Buy me a coffee</a>
 
 ------------------------------------------------------------------------
 
-
-## [Quarto demos](https://www.youtube.com/playlist?list=PLDqZV53PcnYxnBYuEdSBxnOwdKLGaoKGg)
-
 By [EEHolmes-DataScience](https://www.youtube.com/playlist?list=PLDqZV53PcnYxnBYuEdSBxnOwdKLGaoKGg)
-
-**What is this?**
 
 **Excerpt from site:** Short tutorials on topics around Quarto
 
 1.  Link to tutorials here: <https://www.youtube.com/playlist?list=PLDqZV53PcnYxnBYuEdSBxnOwdKLGaoKGg>
+
+![](featured.png){fig-alt="Logo for NMFS Open Science, featuring stylized ocean wave graphics in various shades of blue inside a circular emblem, with bold text reading \"NMFS OPEN SCIENCE\" to the right of the logo."}

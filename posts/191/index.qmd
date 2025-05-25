@@ -1,26 +1,18 @@
 ---
-title: "Hello Quarto"
-date: "2025-04-22"
-categories: [packages]
-image: featured.png
-image-alt: "Illustration of two penguins, one blue and one orange, taking a selfie with a selfie stick. The moon in the background looks like the Quarto logo."
+title: "Tidycensus will convince you to learn R"
+date: "2025-05-28"
+categories: [package]
+image: https://learn.r-journalism.com/images/badge.png
+image-alt: "Hexagonal sticker design featuring a bold red mirrored 'R' logo on a dark purple background with abstract wave lines, and the text 'R-JOURNALISM' beneath the logo."
 ---
-
 
 <link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/JoscelinRocha">![Buy me a coffee](https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg){alt="Buy me a coffee" width="15" height="21"}Buy me a coffee</a>
 
 ------------------------------------------------------------------------
 
+**Excerpt from site:** These are the files supporting the walkthroughs in the NICAR 2024 session [Tidycensus will convince you to learn R](https://nicar.r-journalism.com/2024/)
 
-## [R Packages](https://r-pkgs.org/)
+1.  Link to repo here: <https://github.com/r-journalism/nicar-2024-tidycensus?tab=readme-ov-file>
+2.  Link to site here: <https://nicar.r-journalism.com/2024/>
 
-By [Hadley Wickham](https://r-pkgs.org/)
-
-**What is this?**
-
-**Excerpt from e-book:** Writing a package can seem overwhelming at first. So start with the basics and improve it over time. It doesn't matter if your first version isn't perfect as long as the next version is better.
-
-This is the work-in-progress 2nd edition of the book.
-
-1.  Link to ebook here: <https://r-pkgs.org/>
-2.  Purchase book [HERE](https://smile.amazon.com/gp/product/1491910593/ref=smi_www_rco2_go_smi_4368549507?_encoding=UTF8&camp=1789&creative=9325&creativeASIN=1491910593&ie=UTF8&linkCode=as2&linkId=789507cd7205267ec4557c2c2e7f8e25&tag=cmdlinetips-20)
+![](https://learn.r-journalism.com/images/badge.png){width="300"}

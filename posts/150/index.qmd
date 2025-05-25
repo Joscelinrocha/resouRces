@@ -1,7 +1,7 @@
 ---
 title: "R for Data Analysis"
 date: "2023-04-14"
-categories: [Learning R,statistics,book]
+categories: [learning R,statistics,book]
 image: https://trevorfrench.github.io/R-for-Data-Analysis/cover.png
 image-alt: "Book cover of 'R for Data Analysis' by Trevor French, featuring a minimalist black background with cream-colored text and a stylized leaf illustration, bordered by a red frame."
 ---

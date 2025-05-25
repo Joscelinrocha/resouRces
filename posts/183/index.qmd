@@ -1,29 +1,17 @@
 ---
-title: "Hello Quarto"
-date: "2025-04-22"
-categories: [websites]
-image: featured.png
-image-alt: "Illustration of two penguins, one blue and one orange, taking a selfie with a selfie stick. The moon in the background looks like the Quarto logo."
+title: "Using GitHub Actions to Build your Hugo Website"
+date: "2021-06-06"
+categories: [websites,git,github]
+image: https://drmowinckels.io/blog/2021/using-github-actions-to-build-your-hugo-website/gh-deploy.png
+image-alt: 'Terminal output of a successful Netlify deployment process. It shows a GitHub Actions workflow that runs if the event is a pull request. The deployment process includes hashing 620 files, CDN diffing and uploading 4 files, and confirming the deployment is live. It provides a draft URL and log URL, with a note to use --prod flag for full deployment.'
 ---
-
 
 <link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/JoscelinRocha">![Buy me a coffee](https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg){alt="Buy me a coffee" width="15" height="21"}Buy me a coffee</a>
 
 ------------------------------------------------------------------------
 
+**Excerpt from blog:** What we want is Github Actions to run certain operations on a set schedule, build our website with hugo, and then trigger a Netlify deployment. In particular, we want to render the content/about.Rmd and knit my CV which is located in content/about/resume/am_mowinckel_cv.Rmd, and not commit these to git, just have them rendered right before Hugo build
 
-## [Using GitHub Actions to Build your Hugo Website](https://drmowinckels.io/blog/2021-03-23-using-github-actions-to-build-your-hugo-website/)
+1.  Link to blog here: <https://drmowinckels.io/blog/2021-03-23-using-github-actions-to-build-your-hugo-website/>
 
-Added Sun June 6th 2021
-
-**What is this?**
-
-**Excerpt from blog:** What we want is Github Actions to run certain
-operations on a set schedule, build our website with hugo, and then
-trigger a Netlify deployment. In particular, we want to render the
-content/about.Rmd and knit my CV which is located in
-content/about/resume/am_mowinckel_cv.Rmd, and not commit these to git,
-just have them rendered right before Hugo build
-
-1.  Link to blog here:
-    <https://drmowinckels.io/blog/2021-03-23-using-github-actions-to-build-your-hugo-website/>
+![](https://drmowinckels.io/blog/2021/using-github-actions-to-build-your-hugo-website/gh-deploy.png)

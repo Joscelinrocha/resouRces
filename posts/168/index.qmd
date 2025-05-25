@@ -1,7 +1,7 @@
 ---
 title: "What They Forgot to Teach You About R"
 date: "2025-04-22"
-categories: [Learning R,API,workflows]
+categories: [learning R,API,workflows]
 ---
 
 <link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/JoscelinRocha">![Buy me a coffee](https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg){alt="Buy me a coffee" width="15" height="21"}Buy me a coffee</a>

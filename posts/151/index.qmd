@@ -1,7 +1,7 @@
 ---
 title: "R for Psychological Science"
 date: "2025-04-22"
-categories: [Learning R,intro,statistics]
+categories: [learning R,intro,statistics]
 image: https://psyr.djnavarro.net/img/splash_turtle2.png
 image-alt: "Brown circle and orange smaller circles forming a flower shape walking into a series of overlapping black outlined geometric shapes, including hexagons and pentagons, arranged in a tunnel-like formation on a transparent background"
 ---

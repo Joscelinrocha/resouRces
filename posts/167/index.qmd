@@ -1,7 +1,7 @@
 ---
 title: "Using R for Data Journalism"
 date: "2025-04-22"
-categories: [Learning R,course,statistics,visualization,geospatial]
+categories: [learning R,course,statistics,visualization,geospatial]
 image: https://learn.r-journalism.com/images/badge.png
 image-alt: "Hexagonal sticker design featuring a bold red mirrored 'R' logo on a dark purple background with abstract wave lines, and the text 'R-JOURNALISM' beneath the logo."
 ---
