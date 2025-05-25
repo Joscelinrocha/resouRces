@@ -1,8 +1,8 @@
 ---
-title: "Hello Quarto"
+title: "Supervised Machine Learning case studies in R"
 date: "2025-04-22"
-categories: [machine learning]
-image: featured.png
+categories: [machine learning,modeling,course]
+image: "featured.png"
 image-alt: "Illustration of two penguins, one blue and one orange, taking a selfie with a selfie stick. The moon in the background looks like the Quarto logo."
 ---
 
@@ -10,12 +10,10 @@ image-alt: "Illustration of two penguins, one blue and one orange, taking a self
 
 ------------------------------------------------------------------------
 
-## [Supervised Machine Learning case studies in R](https://supervised-ml-course.netlify.app/)
-
 By [Julia Silge](https://supervised-ml-course.netlify.app/)
-
-**What is this?**
 
 **Excerpt from course:** Predictive modeling, or supervised machine learning, is a powerful tool for using data to make predictions about the world around us. Once you understand the basic ideas of supervised machine learning, the next step is to practice your skills so you know how to apply these techniques wisely and appropriately. In this course, you will work through four case studies using data from the real world; you will gain experience in exploratory data analysis, preparing data so it is ready for predictive modeling, training supervised machine learning models using tidymodels, and evaluating those models.
 
 1.  Link to course: <https://supervised-ml-course.netlify.app/>
+
+![](featured.png)

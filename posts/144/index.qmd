@@ -1,25 +1,19 @@
 ---
-title: "Hello Quarto"
-date: "2025-04-22"
+title: "Posit Cheat Sheets"
+date: "2025-02-20"
 categories: [Learning R]
 image: featured.png
-image-alt: "Illustration of two penguins, one blue and one orange, taking a selfie with a selfie stick. The moon in the background looks like the Quarto logo."
+image-alt: "RStudio IDE cheat sheet by Posit summarizing features of the RStudio interface, including Documents and Apps, Source Editor, Tab Panes, Version Control, Debug Mode, and Package Development, with labeled screenshots and descriptions of key functions and workflows."
 ---
-
 
 <link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/JoscelinRocha">![Buy me a coffee](https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg){alt="Buy me a coffee" width="15" height="21"}Buy me a coffee</a>
 
 ------------------------------------------------------------------------
 
-
-## [Posit Cheat Sheets](https://github.com/adriculous/posit-cheatsheets) 💯
-
 By Adri
-
-Added Thu Feb 20, 2025
-
-**What is this?**
 
 This GitHub repository hosts a collection of cheat sheets for Posit (formerly RStudio) products. These cheat sheets serve as quick references for various R packages and tools, aiding users in efficient coding and data analysis.
 
 1.  Link to repository here: <https://github.com/adriculous/posit-cheatsheets>
+
+![](featured.png)

@@ -1,24 +1,20 @@
 ---
-title: "Hello Quarto"
+title: "Hands-On Programming"
 date: "2025-04-22"
-categories: [Learning R]
-image: featured.png
-image-alt: "Illustration of two penguins, one blue and one orange, taking a selfie with a selfie stick. The moon in the background looks like the Quarto logo."
+categories: [Learning R,book,intro,wrangling]
+image: https://rstudio-education.github.io/hopr/cover.png
+image-alt: "Book cover of 'Hands-On Programming with R' by Garrett Grolemund, featuring a black-and-white illustration of a parrot perched above a red title box, with the subtitle 'Write Your Own Functions and Simulations' and a foreword by Hadley Wickham."
 ---
-
 
 <link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/JoscelinRocha">![Buy me a coffee](https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg){alt="Buy me a coffee" width="15" height="21"}Buy me a coffee</a>
 
 ------------------------------------------------------------------------
 
-
-## [Hands-On Programming](https://rstudio-education.github.io/hopr/)
-
 By [R Garrett Grolemund](https://rstudio-education.github.io/hopr/)
-
-**What is this?**
 
 **Excerpt from site:** This is the website for "Hands-On Programming with R". This book will teach you how to program in R, with hands-on examples. I wrote it for non-programmers to provide a friendly introduction to the R language. You'll learn how to load data, assemble and disassemble data objects, navigate R's environment system, write your own functions, and use all of R's programming tools.
 
 1.  Free web-book here: <https://rstudio-education.github.io/hopr/>
 2.  You can buy book here: [Link to Amazon](https://www.amazon.com/Hands-Programming-Write-Functions-Simulations/dp/1449359019)
+
+![](https://rstudio-education.github.io/hopr/cover.png)

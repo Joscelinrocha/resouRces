@@ -1,20 +1,14 @@
 ---
-title: "Hello Quarto"
+title: "Just Enough R"
 date: "2025-04-22"
-categories: [Learning R]
-image: featured.png
-image-alt: "Illustration of two penguins, one blue and one orange, taking a selfie with a selfie stick. The moon in the background looks like the Quarto logo."
+categories: [Learning R,book,intro]
+image: https://benwhalley.github.io/just-enough-r/media/keepcalm.png
+image-alt: "White ceramic mug with a red label reading 'KEEP CALM AND LEARN JUST ENOUGH R' in white capital letters, topped with a crown graphic, mimicking the classic 'Keep Calm' design."
 ---
-
 
 <link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/JoscelinRocha">![Buy me a coffee](https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg){alt="Buy me a coffee" width="15" height="21"}Buy me a coffee</a>
 
 ------------------------------------------------------------------------
-
-
-## [Just Enough R](https://benwhalley.github.io/just-enough-r/) 🌱
-
-**What is this?**
 
 **Excerpt from e-book here:** R makes it easy to work with and learn from data.
 
@@ -23,3 +17,5 @@ It also happens to be a programmming language, but if you're reading this, that 
 This book uses R like any other statistics software: To work-with and visualize data, run statistical analyses, and share our results with others. To do that you don't need more than the absolute basics of the R language itself.
 
 1.  Link to ebook here: <https://benwhalley.github.io/just-enough-r/>
+
+![](https://benwhalley.github.io/just-enough-r/media/keepcalm.png){width="426"}

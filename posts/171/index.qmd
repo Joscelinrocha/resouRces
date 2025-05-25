@@ -1,21 +1,19 @@
 ---
 title: "Hello Quarto"
 date: "2025-04-22"
-categories: [machine learning]
-image: featured.png
-image-alt: "Illustration of two penguins, one blue and one orange, taking a selfie with a selfie stick. The moon in the background looks like the Quarto logo."
+categories: [machine learning,intro,Joscelin's fav]
+image: "featured.png"
+image-alt: "Welcome slide for a presentation titled 'Introduction to Machine Learning in the Tidyverse' by Alison Hill and Garrett Grolemund. The background is a cityscape at sunset, with the word 'Hi!' in a white circle at the top center and two URLs provided at the bottom: https://conf20-intro-ml.netlify.com/ and https://rstd.io/conf20-intro-ml."
 ---
 
 <link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/JoscelinRocha">![Buy me a coffee](https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg){alt="Buy me a coffee" width="15" height="21"}Buy me a coffee</a>
 
 ------------------------------------------------------------------------
 
-## [Introduction to Machine Learning with the Tidyverse](https://conf20-intro-ml.netlify.app/) 💯
-
 By [Alison Hill & Garrett Grolemund](https://conf20-intro-ml.netlify.app/)
-
-**What is this?**
 
 **Excerpt from site:** This is the website for a two-day workshop offered January 27-28 at rstudio::conf 2020 in San Francisco, CA. This workshop provided a gentle introduction to machine learning and to tidymodels.
 
 1.  Link to workshop materials here: <https://conf20-intro-ml.netlify.app/>
+
+![](featured.png)

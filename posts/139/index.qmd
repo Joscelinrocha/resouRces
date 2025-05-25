@@ -1,22 +1,21 @@
 ---
-title: "Hello Quarto"
-date: "2025-04-22"
-categories: [Learning R]
-image: featured.png
+title: "Leveling Up With The Tidyverse (And Hockey Data): Carnegie Mellon Sports Analytics Conference"
+date: "2020-10-25"
+categories: [Learning R,tidyverse,hockey]
+image: "featured.png"
 image-alt: "Illustration of two penguins, one blue and one orange, taking a selfie with a selfie stick. The moon in the background looks like the Quarto logo."
 ---
-
 
 <link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/JoscelinRocha">![Buy me a coffee](https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg){alt="Buy me a coffee" width="15" height="21"}Buy me a coffee</a>
 
 ------------------------------------------------------------------------
 
+By Meghan Hall
 
-## [Learning R with Hockey Data and learnr](https://meghan.rbind.io/blog/learnr/) 🌱
+**Excerpt from site:** In this 90-minute workshop targeted to beginner and intermediate R users, we’ll go through a sample hockey analysis question and discuss techniques from the `tidyverse` and beyond (including user-defined functions, RMarkdown, custom `ggplot2` themes, and data manipulation with `tidyr` and `dplyr`) to learn how to level up your R programming and make your analysis more efficient and more reproducible.
 
-By [Meghan Hall](https://meghan.rbind.io/blog/learnr/)
+1.  Link to workshop here: <https://meghan.rbind.io/talks/2020-10-25-cmsac/>
+2.  Link to slides here: <https://meghan.rbind.io/slides/cmsac/hall_cmsac#1>
+3.  Link to Github repo here: <https://github.com/meghall06/personal-website/blob/master/static/CMSAC_code.R>
 
-Added Sat Dec, 2021.**What is this?****Excerpt from site:** "I've created two tutorials in learnr, one that is a true introduction for beginners (focused on the tidyverse) and one that goes a little bit deeper into data manipuation with pivoting and joining data. These tutorials (screenshot below) live in a package I created called betweenthepipes".
-
-1.  Link to post here: <https://meghan.rbind.io/blog/learnr/>
-2.  Link to Github repo here: <https://github.com/meghall06/betweenthepipes/blob/master/README.md>
+![](featured.png)

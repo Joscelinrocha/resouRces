@@ -1,23 +1,15 @@
 ---
-title: "Hello Quarto"
-date: "2025-04-22"
-categories: [Learning R]
-image: featured.png
-image-alt: "Illustration of two penguins, one blue and one orange, taking a selfie with a selfie stick. The moon in the background looks like the Quarto logo."
+title: "Producing and Using Data in Cognitive Science"
+date: "2025-05-24"
+categories: [Learning R,data science,intro,book,statistics,wrangling,tidyverse,metaanalysis]
 ---
-
 
 <link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/JoscelinRocha">![Buy me a coffee](https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg){alt="Buy me a coffee" width="15" height="21"}Buy me a coffee</a>
 
 ------------------------------------------------------------------------
 
+By *Daniel Nettle*
 
-## [Moving Beyond Excel for Your Hockey Analysis](https://meghan.rbind.io/talk/hanic/)
+**Excerpt from site:** This course covers what would traditionally be included in a statistics course, plus some of a research methods course, plus some of a data science course.
 
-By [Meghan Hall](https://meghan.rbind.io/talk/hanic/)
-
-Added Sat Dec, 2021.**What is this?****Excerpt from site: "**Why and how to get started with coding! This presentation was part of Meghan Chayka and Alison Lukan's HANIC (Hockey Analytics Night in Canada) and focused on how to move on from Excel in order to make your analysis more reproducible, efficient, and shareable".
-
-1.  Link to post here: <https://meghan.rbind.io/talk/hanic/>
-2.  Link to slides here: <https://meghan.rbind.io/slides/hall_hanic_2020.html#1>
-3.  Link to video here: <https://www.youtube.com/watch?v=-Zl_b5Emvb0&feature=youtu.be>
+1.  Link to course here:<https://bookdown.org/danielnettle2/bookdown/>

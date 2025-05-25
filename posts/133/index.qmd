@@ -1,21 +1,18 @@
 ---
-title: "Hello Quarto"
+title: "Introduction to dplyr "
 date: "2025-04-22"
-categories: [Learning R]
-image: featured.png
-image-alt: "Illustration of two penguins, one blue and one orange, taking a selfie with a selfie stick. The moon in the background looks like the Quarto logo."
+categories: [Learning R,tidyverse,intro,package]
+image: https://raw.githubusercontent.com/tidyverse/dplyr/main/man/figures/logo.png
+image-alt: "Hex sticker for the R package dplyr, featuring colorful pliers in red, blue, teal, and orange on a dark striped background, symbolizing data manipulation tools.Illustration of two penguins, one blue and one orange, taking a selfie with a selfie stick. The moon in the background looks like the Quarto logo."
 ---
-
 
 <link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/JoscelinRocha">![Buy me a coffee](https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg){alt="Buy me a coffee" width="15" height="21"}Buy me a coffee</a>
 
 ------------------------------------------------------------------------
 
-
-## [Introduction to dplyr](https://cran.r-project.org/web/packages/dplyr/vignettes/dplyr.html) 🌱
-
-**What is this?**
-
 **Excerpt from site here:** This document introduces you to dplyr's basic set of tools, and shows you how to apply them to data frames. dplyr also supports databases via the dbplyr package, once you've installed, read vignette("dbplyr") to learn more.
 
 1.  Link to site: <https://cran.r-project.org/web/packages/dplyr/vignettes/dplyr.html>
+2.  Link to repo here: <https://github.com/tidyverse/dplyr>
+
+![](https://raw.githubusercontent.com/tidyverse/dplyr/main/man/figures/logo.png)

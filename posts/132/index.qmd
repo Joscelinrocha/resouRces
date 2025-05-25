@@ -1,22 +1,19 @@
 ---
-title: "Hello Quarto"
+title: "Introduction to data.table"
 date: "2025-04-22"
 categories: [Learning R]
-image: featured.png
-image-alt: "Illustration of two penguins, one blue and one orange, taking a selfie with a selfie stick. The moon in the background looks like the Quarto logo."
+image: https://raw.githubusercontent.com/Rdatatable/data.table/master/.graphics/logo.png
+image-alt: "Hex sticker for the R package data.table, featuring a yellow sea lion sitting on a stylized black table with brackets and colons, and the text 'data.table' in red below."
 ---
-
 
 <link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/JoscelinRocha">![Buy me a coffee](https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg){alt="Buy me a coffee" width="15" height="21"}Buy me a coffee</a>
 
 ------------------------------------------------------------------------
 
-
-## [Introduction to data.table](https://cran.r-project.org/web/packages/data.table/vignettes/datatable-intro.html) 🌱
-
-**What is this?**
-
 **Excerpt from site here:** This vignette introduces the data.table syntax, its general form, how to subset rows, select and compute on columns, and perform aggregations by group. Familiarity with data.frame data structure from base R is useful, but not essential to follow this vignette.
 
 1.  Link to site here: <https://cran.r-project.org/web/packages/data.table/vignettes/datatable-intro.html>
 2.  Link to reference semantics here: <https://cran.r-project.org/web/packages/data.table/vignettes/datatable-reference-semantics.html>
+3.  Link to package repo here: <https://github.com/Rdatatable/data.table>
+
+![](https://raw.githubusercontent.com/Rdatatable/data.table/master/.graphics/logo.png)

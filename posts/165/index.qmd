@@ -1,22 +1,14 @@
 ---
-title: "Hello Quarto"
+title: "Tidyverse tutorial (2017)"
 date: "2025-04-22"
-categories: [Learning R]
-image: featured.png
-image-alt: "Illustration of two penguins, one blue and one orange, taking a selfie with a selfie stick. The moon in the background looks like the Quarto logo."
+categories: [Learning R,tidyverse,intro]
 ---
-
 
 <link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/JoscelinRocha">![Buy me a coffee](https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg){alt="Buy me a coffee" width="15" height="21"}Buy me a coffee</a>
 
 ------------------------------------------------------------------------
 
-
-## [Tidyverse tutorial (2017)](https://github.com/mcfrank/tidyverse-tutorial)
-
 By [Mike Frank](https://github.com/mcfrank/tidyverse-tutorial)
-
-**What is this?**
 
 **Excerpt from site:** In this tutorial, I'll walk through how to go from a database or tabular data file to an interactive plot with surprisingly little pain (and less code than you'd imagine). My focus will be on introducing a workflow that uses a wide variety of different tools and packages, including readr, dplyr, tidyr, and shiny. I'll assume basic familiarity with R and will use (but not spend too much time teaching) ggplot2. Featuring data from http://wordbank.stanford.edu
 

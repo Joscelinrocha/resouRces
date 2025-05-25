@@ -1,26 +1,15 @@
 ---
-title: "Hello Quarto"
+title: "How to build your personal academic website using opensource software"
 date: "2025-04-22"
 categories: [websites]
-image: featured.png
-image-alt: "Illustration of two penguins, one blue and one orange, taking a selfie with a selfie stick. The moon in the background looks like the Quarto logo."
 ---
-
 
 <link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/JoscelinRocha">![Buy me a coffee](https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg){alt="Buy me a coffee" width="15" height="21"}Buy me a coffee</a>
 
 ------------------------------------------------------------------------
 
+By [Lena V. Kremin](https://osf.io/jdv4n/)
 
-## [How to build your personal academic website using opensource software](https://osf.io/jdv4n/)
-
-By [Lena V. Kremin](https://osf.io/jdv4n/) 💯
-
-**What is this?**
-
-**Excerpt from site:** By following this workshop, you will go through
-the first steps of setting up your own academic website. Your finished
-website will contain your biography, photo, CV, contact information, and
-recent publications.
+**Excerpt from site:** By following this workshop, you will go through the first steps of setting up your own academic website. Your finished website will contain your biography, photo, CV, contact information, and recent publications.
 
 1.  Link to materials here: <https://osf.io/jdv4n/>

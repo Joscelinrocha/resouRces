@@ -1,21 +1,19 @@
 ---
-title: "Hello Quarto"
-date: "2025-04-22"
-categories: [Learning R]
+title: "Online R courses-Mainly free ones"
+date: "2021-04-15"
+categories: [Learning R,intro,Joscelin's fav,course]
 image: featured.png
-image-alt: "Illustration of two penguins, one blue and one orange, taking a selfie with a selfie stick. The moon in the background looks like the Quarto logo."
+image-alt: "Harvard University logo featuring a crimson shield with three open books spelling 'VERITAS' and the words 'Harvard University' in white capital letters to the right of the shield."
 ---
-
 
 <link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/JoscelinRocha">![Buy me a coffee](https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg){alt="Buy me a coffee" width="15" height="21"}Buy me a coffee</a>
 
 ------------------------------------------------------------------------
 
-
-## [Online R courses-Mainly free ones](https://online-learning.harvard.edu/subject/r)
-
 By [Harvard University](https://online-learning.harvard.edu/subject/r)
 
-Date added: April 15th, 2021.**What is this?** Excerpt from site: Mainly free courses by Harvard university to learn R
+**What is this?** Excerpt from site: Mainly free courses by Harvard university to learn R
 
 1.  Link to site: https: <https://online-learning.harvard.edu/subject/r>
+
+![](https://pll.harvard.edu/themes/custom/twel_scholar/logo.svg)

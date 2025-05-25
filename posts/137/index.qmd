@@ -1,23 +1,19 @@
 ---
-title: "Hello Quarto"
+title: "Kingdom of NewbR: An introduction to R"
 date: "2025-04-22"
-categories: [Learning R]
-image: featured.png
-image-alt: "Illustration of two penguins, one blue and one orange, taking a selfie with a selfie stick. The moon in the background looks like the Quarto logo."
+categories: [Learning R,intro,wrangling]
+image: https://dpak.shinyapps.io/LEARNR/_w_00252baefe3c4c66a87745931a81c358/images/fantasymap-01.PNG
+image-alt: "Whimsical fantasy-style map titled 'Kingdom of NewbR,' representing concepts in R programming. Landmarks include 'The Infinite Lakes of Loops,' 'The Mountain of Data Types,' 'The Steppes of Arithmetics,' and 'The Free Cities of Data Wrangling.' Also labeled are 'The Bay of Subset,' and paths leading to 'Melt,' 'Aggregate,' and 'Merge,' with the 'Kingdom of GGPlot' indicated to the north."
 ---
-
 
 <link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/JoscelinRocha">![Buy me a coffee](https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg){alt="Buy me a coffee" width="15" height="21"}Buy me a coffee</a>
 
 ------------------------------------------------------------------------
 
-
-## [Kingdom of NewbR: An introduction to R](https://dpak.shinyapps.io/LEARNR/)🌱
-
 By [Damie Pak](https://dpak.shinyapps.io/LEARNR/) (\@pakdamie)
-
-**What is this?**
 
 **Excerpt from the twitter launching interactive site:** I finished a silly beginner [#rstats](https://twitter.com/hashtag/rstats?src=hashtag_click) tutorial I started during the pandemic. You are a traveler in a fantastical kingdom of NewbR. It's interactive and the project was for me to learn how to use learnR
 
 1.  Link to interactive site here: <https://dpak.shinyapps.io/LEARNR/>
+
+![](https://dpak.shinyapps.io/LEARNR/_w_00252baefe3c4c66a87745931a81c358/images/fantasymap-01.PNG){width="439"}

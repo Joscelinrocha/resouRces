@@ -1,23 +1,19 @@
 ---
-title: "Hello Quarto"
+title: "YaRrr! The Pirate's Guide"
 date: "2025-04-22"
-categories: [Learning R]
-image: featured.png
-image-alt: "Illustration of two penguins, one blue and one orange, taking a selfie with a selfie stick. The moon in the background looks like the Quarto logo."
+categories: [Learning R,book,intro,statistics,wrangling,visualization]
+image: https://bookdown.org/ndphillips/YaRrr/images/YaRrr_Cover.jpg
+image-alt: "A minimalist pirate face illustration with a large beard, eyepatch, and pirate hat featuring the R programming logo. The text 'YaRrr!' appears at the top, and 'The Pirate’s Guide to R' is written at the bottom in a script font."
 ---
-
 
 <link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/JoscelinRocha">![Buy me a coffee](https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg){alt="Buy me a coffee" width="15" height="21"}Buy me a coffee</a>
 
 ------------------------------------------------------------------------
 
-
-## [YaRrr! The Pirate's Guide](https://bookdown.org/ndphillips/YaRrr/)
-
 By [R Nathaniel D. Phillips](https://bookdown.org/ndphillips/YaRrr/)
-
-**What is this?**
 
 **Excerpt from site:** This book is meant to introduce you to the basic analytical tools in R, from basic coding and analyses, to data wrangling, plotting, and statistical inference.
 
 1.  Web-book is here: <https://bookdown.org/ndphillips/YaRrr/>
+
+![](https://bookdown.org/ndphillips/YaRrr/images/YaRrr_Cover.jpg)

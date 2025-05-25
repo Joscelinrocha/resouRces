@@ -1,25 +1,19 @@
 ---
-title: "Hello Quarto"
-date: "2025-04-22"
-categories: [Learning R]
-image: featured.png
-image-alt: "Illustration of two penguins, one blue and one orange, taking a selfie with a selfie stick. The moon in the background looks like the Quarto logo."
+title: "R Course"
+date: "2023-04-28"
+categories: [Learning R,intro,course]
+image: "featured.png"
+image-alt: "YouTube video thumbnail titled 'Advanced Crash Course in R: A Tidyverse and Language Perspective - Topic 1: Crash Course in R,' with a Harvard WiP label and a white background with black and blue text."
 ---
-
 
 <link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/JoscelinRocha">![Buy me a coffee](https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg){alt="Buy me a coffee" width="15" height="21"}Buy me a coffee</a>
 
 ------------------------------------------------------------------------
 
-
-## [R Course](https://kirstenmorehouse.wordpress.com/354-2/topic-1-crash-course-in-r/) 🌱
-
 By [Kirsten Morehouse](https://kirstenmorehouse.wordpress.com/354-2/topic-1-crash-course-in-r/)
-
-Added Fri Apr 28th, 2023
-
-**What is this?**
 
 **Excerpt from the course:** The aim of this workshop is to teach you the fundaments of R
 
 1.  Link to course: <https://kirstenmorehouse.wordpress.com/354-2/topic-1-crash-course-in-r/>
+
+![](featured.png)

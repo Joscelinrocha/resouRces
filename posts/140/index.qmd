@@ -1,25 +1,19 @@
 ---
-title: "Hello Quarto"
-date: "2025-04-22"
-categories: [Learning R]
-image: featured.png
-image-alt: "Illustration of two penguins, one blue and one orange, taking a selfie with a selfie stick. The moon in the background looks like the Quarto logo."
+title: "Designing and Deploying Internal Quarto Templates"
+date: "2025-05-24"
+categories: [quarto]
+image: https://meghan.rbind.io/blog/2024-08-14-quarto-templates/yaml.png
+image-alt: "Screenshot of YAML front matter configuration for an R Markdown report. It includes a title, subtitle, dynamic date, and HTML format options such as custom link color, table of contents with a custom title, embedded resources, themes, custom CSS, external link behavior, and table processing settings."
 ---
-
 
 <link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/JoscelinRocha">![Buy me a coffee](https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg){alt="Buy me a coffee" width="15" height="21"}Buy me a coffee</a>
 
 ------------------------------------------------------------------------
 
+By Meghan Hall
 
-## [List of classes for learning R](https://www4.stat.ncsu.edu/~post/DataScienceR/)
+**Excerpt from blog here:** The talk covered why you should bother making a Quarto template, how you can go about designing one, and how you can deploy it via a function in an internal package.
 
-By [Justin Post](https://www4.stat.ncsu.edu/~post/DataScienceR/)
+1.  Link to blog here: <https://meghan.rbind.io/blog/2024-08-14-quarto-templates/>
 
-**What is this?**
-
-**Excerpt from site here:** Here is a list of classes by Justin Post in the Department of Statistics at North Carolina State University.
-
-1.  Link for the INTRODUCTION TO R FOR DATA SCIENCE here: <https://www4.stat.ncsu.edu/~post/DataScienceR/>
-2.  Link for the INTERMEDIATE PROGRAMMING IN R here: <https://www4.stat.ncsu.edu/~post/ProgrammingR/>
-3.  Link for the ADVANCED R: AUTOMATING WORKFLOW & SHARING WORK here: <https://www4.stat.ncsu.edu/~post/IntermediateR/>🌳🌳
+    ![](https://meghan.rbind.io/blog/2024-08-14-quarto-templates/yaml.png){width="509"}

@@ -1,23 +1,19 @@
 ---
-title: "Hello Quarto"
+title: "R for Psychological Science"
 date: "2025-04-22"
-categories: [Learning R]
-image: featured.png
-image-alt: "Illustration of two penguins, one blue and one orange, taking a selfie with a selfie stick. The moon in the background looks like the Quarto logo."
+categories: [Learning R,intro,statistics]
+image: https://psyr.djnavarro.net/img/splash_turtle2.png
+image-alt: "Brown circle and orange smaller circles forming a flower shape walking into a series of overlapping black outlined geometric shapes, including hexagons and pentagons, arranged in a tunnel-like formation on a transparent background"
 ---
-
 
 <link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/JoscelinRocha">![Buy me a coffee](https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg){alt="Buy me a coffee" width="15" height="21"}Buy me a coffee</a>
 
 ------------------------------------------------------------------------
 
-
-## [R for Psychological Science](https://psyr.djnavarro.net/)
-
 By [Danielle Navarro](https://psyr.djnavarro.net/)
-
-**What is this?**
 
 **Excerpt from Site:** "I've set this up as an introductory resource for psychology students taking my Programming with R class at UNSW. There are two goals with this resource. The first is to provide an introduction to R programming that doesn't assume any previous experience. The second is to provide a brief sketch of some of things that R can be useful for in psychology. Data analysis inevitably forms a large part of this, but I hope to cover a broader range of topics".
 
 1.  Resource here: <https://psyr.djnavarro.net/>
+
+![](https://psyr.djnavarro.net/img/splash_turtle2.png)

@@ -114,6 +114,65 @@
   <media:content url="https://www.resourcesdatabase.com/posts/123/featured.png" medium="image" type="image/png" height="101" width="144"/>
 </item>
 <item>
+  <title>Designing and Deploying Internal Quarto Templates</title>
+  <dc:creator>Dr. Joscelin Rocha-Hidalgo</dc:creator>
+  <link>https://www.resourcesdatabase.com/posts/140/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p><link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/JoscelinRocha"><img src="https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg" alt="Buy me a coffee" width="15" height="21">Buy me a coffee</a></p>
+<hr>
+<p>By Meghan Hall</p>
+<p><strong>Excerpt from blog here:</strong> The talk covered why you should bother making a Quarto template, how you can go about designing one, and how you can deploy it via a function in an internal package.</p>
+<ol type="1">
+<li><p>Link to blog here: <a href="https://meghan.rbind.io/blog/2024-08-14-quarto-templates/" class="uri">https://meghan.rbind.io/blog/2024-08-14-quarto-templates/</a></p>
+<p><img src="https://meghan.rbind.io/blog/2024-08-14-quarto-templates/yaml.png" class="img-fluid" width="509"></p></li>
+</ol>
+
+
+
+<a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a> ]]></description>
+  <category>quarto</category>
+  <guid>https://www.resourcesdatabase.com/posts/140/</guid>
+  <pubDate>Sat, 24 May 2025 04:00:00 GMT</pubDate>
+  <media:content url="https://meghan.rbind.io/blog/2024-08-14-quarto-templates/yaml.png" medium="image" type="image/png"/>
+</item>
+<item>
+  <title>Producing and Using Data in Cognitive Science</title>
+  <dc:creator>Dr. Joscelin Rocha-Hidalgo</dc:creator>
+  <link>https://www.resourcesdatabase.com/posts/142/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p><link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/JoscelinRocha"><img src="https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg" alt="Buy me a coffee" width="15" height="21">Buy me a coffee</a></p>
+<hr>
+<p>By <em>Daniel Nettle</em></p>
+<p><strong>Excerpt from site:</strong> This course covers what would traditionally be included in a statistics course, plus some of a research methods course, plus some of a data science course.</p>
+<ol type="1">
+<li>Link to course here:<a href="https://bookdown.org/danielnettle2/bookdown/" class="uri">https://bookdown.org/danielnettle2/bookdown/</a></li>
+</ol>
+
+
+
+<a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a> ]]></description>
+  <category>Learning R</category>
+  <category>data science</category>
+  <category>intro</category>
+  <category>book</category>
+  <category>statistics</category>
+  <category>wrangling</category>
+  <category>tidyverse</category>
+  <category>metaanalysis</category>
+  <guid>https://www.resourcesdatabase.com/posts/142/</guid>
+  <pubDate>Sat, 24 May 2025 04:00:00 GMT</pubDate>
+</item>
+<item>
   <title>DataEditR by Dillon Hammill</title>
   <dc:creator>Dr. Joscelin Rocha-Hidalgo</dc:creator>
   <link>https://www.resourcesdatabase.com/posts/102/</link>
@@ -221,6 +280,30 @@
   <category>Joscelin&#39;s fav</category>
   <guid>https://www.resourcesdatabase.com/posts/112/</guid>
   <pubDate>Fri, 23 May 2025 04:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>lintr</title>
+  <dc:creator>Dr. Joscelin Rocha-Hidalgo</dc:creator>
+  <link>https://www.resourcesdatabase.com/posts/169/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p><link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/JoscelinRocha"><img src="https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg" alt="Buy me a coffee" width="15" height="21">Buy me a coffee</a></p>
+<hr>
+<p><strong>Excerpt from repo here:</strong> <code>{lintr}</code> provides <a href="https://en.wikipedia.org/wiki/Static_program_analysis">static code analysis for R</a>. It checks for adherence to a given style, identifying syntax errors and possible semantic issues, then reports them to you so you can take action.</p>
+<p><img src="https://github.com/r-lib/lintr/raw/main/man/figures/logo.png" class="img-fluid" width="352"></p>
+
+
+
+<a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a> ]]></description>
+  <category>package</category>
+  <category>style</category>
+  <guid>https://www.resourcesdatabase.com/posts/169/</guid>
+  <pubDate>Thu, 22 May 2025 04:00:00 GMT</pubDate>
+  <media:content url="https://github.com/r-lib/lintr/raw/main/man/figures/logo.png" medium="image" type="image/png"/>
 </item>
 <item>
   <title>An R + LLM starter kit</title>
@@ -503,91 +586,6 @@
   <guid>https://www.resourcesdatabase.com/posts/113/</guid>
   <pubDate>Tue, 22 Apr 2025 04:00:00 GMT</pubDate>
   <media:content url="https://www.improvingpsych.org/SIPS2018/wp-content/uploads/2018/01/Society-for-the-Improvement-of-Psychological-Science3-300x105.png" medium="image" type="image/png"/>
-</item>
-<item>
-  <title>Advanced R</title>
-  <dc:creator>Dr. Joscelin Rocha-Hidalgo</dc:creator>
-  <link>https://www.resourcesdatabase.com/posts/115/</link>
-  <description><![CDATA[ 
-
-
-
-
-
-<p><link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/JoscelinRocha"><img src="https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg" alt="Buy me a coffee" width="15" height="21">Buy me a coffee</a></p>
-<hr>
-<p>By <a href="https://adv-r.hadley.nz/">Hadley Wickham</a></p>
-<p><strong>Excerpt from site:</strong> This is the website for 2nd edition of “Advanced R”, a book in Chapman &amp; Hall’s R Series. The book is designed primarily for R users who want to improve their programming skills and understanding of the language. It should also be useful for programmers coming to R from other languages, as it helps you to understand why R works the way it does.</p>
-<ol type="1">
-<li>Free web-book here: <a href="https://adv-r.hadley.nz/" class="uri">https://adv-r.hadley.nz/</a></li>
-<li>Buy book here: <a href="https://www.amazon.com/dp/0815384572/ref=cm_sw_su_dp?tag=devtools-20">Link to Amazon</a></li>
-</ol>
-<p><img src="https://adv-r.hadley.nz/cover.png" class="img-fluid" width="405"></p>
-
-
-
-<a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a> ]]></description>
-  <category>Learning R</category>
-  <category>book</category>
-  <guid>https://www.resourcesdatabase.com/posts/115/</guid>
-  <pubDate>Tue, 22 Apr 2025 04:00:00 GMT</pubDate>
-  <media:content url="https://adv-r.hadley.nz/cover.png" medium="image" type="image/png"/>
-</item>
-<item>
-  <title>Beginner’s Guide to R</title>
-  <dc:creator>Dr. Joscelin Rocha-Hidalgo</dc:creator>
-  <link>https://www.resourcesdatabase.com/posts/119/</link>
-  <description><![CDATA[ 
-
-
-
-
-
-<p><link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/JoscelinRocha"><img src="https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg" alt="Buy me a coffee" width="15" height="21">Buy me a coffee</a></p>
-<hr>
-<p>By <a href="https://osf.io/2bfjy/">Esther Schott</a></p>
-<p>A beginner’s guide to R from Basic R, the world of Tidiverse, to even plotting.</p>
-<ol type="1">
-<li>Link to OSF files here: <a href="https://osf.io/2bfjy/" class="uri">https://osf.io/2bfjy/</a></li>
-</ol>
-<p><img src="https://www.resourcesdatabase.com/posts/119/featured.png" class="img-fluid"></p>
-
-
-
-<a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a> ]]></description>
-  <category>Learning R</category>
-  <category>intro</category>
-  <guid>https://www.resourcesdatabase.com/posts/119/</guid>
-  <pubDate>Tue, 22 Apr 2025 04:00:00 GMT</pubDate>
-  <media:content url="https://www.resourcesdatabase.com/posts/119/featured.png" medium="image" type="image/png" height="81" width="144"/>
-</item>
-<item>
-  <title>Efficient R programming</title>
-  <dc:creator>Dr. Joscelin Rocha-Hidalgo</dc:creator>
-  <link>https://www.resourcesdatabase.com/posts/124/</link>
-  <description><![CDATA[ 
-
-
-
-
-
-<p><link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/JoscelinRocha"><img src="https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg" alt="Buy me a coffee" width="15" height="21">Buy me a coffee</a></p>
-<hr>
-<p>By <a href="https://bookdown.org/csgillespie/efficientR/">Colin Gillespie Robin Lovelace</a></p>
-<p><strong>Excerpt from ebook:</strong> This book is for anyone who wants to make their R code faster to type, faster to run and more scalable. These considerations generally come after learning the very basics of R for data analysis: we assume you are either accustomed to R or proficient at programming in other languages, although this book could still be of use to beginners</p>
-<ol type="1">
-<li><a href="https://bookdown.org/csgillespie/efficientR/" class="uri">https://bookdown.org/csgillespie/efficientR/</a></li>
-</ol>
-<p><img src="https://bookdown.org/csgillespie/efficientR/figures/f0_web.png" class="img-fluid" width="379"></p>
-
-
-
-<a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a> ]]></description>
-  <category>Learning R</category>
-  <category>book</category>
-  <guid>https://www.resourcesdatabase.com/posts/124/</guid>
-  <pubDate>Tue, 22 Apr 2025 04:00:00 GMT</pubDate>
-  <media:content url="https://bookdown.org/csgillespie/efficientR/figures/f0_web.png" medium="image" type="image/png"/>
 </item>
 </channel>
 </rss>

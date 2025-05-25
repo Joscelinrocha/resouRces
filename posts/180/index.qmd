@@ -1,25 +1,19 @@
 ---
-title: "Hello Quarto"
+title: "Mastering Shiny"
 date: "2025-04-22"
-categories: [websites]
-image: featured.png
-image-alt: "Illustration of two penguins, one blue and one orange, taking a selfie with a selfie stick. The moon in the background looks like the Quarto logo."
+categories: [websites,shiny,dashboards]
+image: https://mastering-shiny.org/cover.png
+image-alt: 'Book cover titled "Mastering Shiny" by Hadley Wickham. Subtitle reads "Build Interactive Apps, Reports & Dashboards Powered by R." The cover features a detailed illustration of a pigeon with iridescent green and purple feathers, standing on a white background. The publisher "O’Reilly" is printed at the top.'
 ---
-
 
 <link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/JoscelinRocha">![Buy me a coffee](https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg){alt="Buy me a coffee" width="15" height="21"}Buy me a coffee</a>
 
 ------------------------------------------------------------------------
 
-
-## [Mastering Shiny](https://mastering-shiny.org/)
-
 By [Hadley Wickham](https://mastering-shiny.org/)
 
-**What is this?****Excerpt from ebook:** This book complements Shiny's online
-documentation and is intended to help app authors develop a deeper
-understanding of Shiny. After reading this book, you'll be able to write
-apps that have more customized UI, more maintainable code, and better
-performance and scalability.
+**Excerpt from ebook:** This book complements Shiny's online documentation and is intended to help app authors develop a deeper understanding of Shiny. After reading this book, you'll be able to write apps that have more customized UI, more maintainable code, and better performance and scalability.
 
 1.  Link to web-book here: <https://mastering-shiny.org/>
+
+![](https://mastering-shiny.org/cover.png){width="300"}

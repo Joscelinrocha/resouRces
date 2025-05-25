@@ -1,24 +1,16 @@
 ---
-title: "Hello Quarto"
-date: "2025-04-22"
-categories: [Learning R]
-image: featured.png
-image-alt: "Illustration of two penguins, one blue and one orange, taking a selfie with a selfie stick. The moon in the background looks like the Quarto logo."
+title: "Learning R as a SAS User"
+date: "2025-02-20"
+categories: [Learning R,Joscelin's fav,sas]
+image: https://hutchdatascience.org/data_snacks/r_snacks/images/sas-r.png
+image-alt: "SAS to R cheat sheet comparing syntax and functions, covering topics like data filtering, variable creation, renaming, grouping, summarizing, and plotting using tidyverse functions in R alongside equivalent SAS code, with visual plot examples included."
 ---
-
 
 <link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/JoscelinRocha">![Buy me a coffee](https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg){alt="Buy me a coffee" width="15" height="21"}Buy me a coffee</a>
 
 ------------------------------------------------------------------------
 
-
-## [Learning R as a SAS User](https://hutchdatascience.org/data_snacks/r_snacks/sas2r.html) 💯
-
 By Ted Laderas
-
-Added Thu Feb 20, 2025
-
-**What is this?**
 
 This comprehensive guide is tailored for individuals transitioning from SAS to R. It offers a wealth of resources, including:
 
@@ -31,3 +23,5 @@ This comprehensive guide is tailored for individuals transitioning from SAS to R
 The guide emphasizes the differences between SAS and R, providing actionable advice to make the learning curve more manageable.
 
 1.  Link to guide here: <https://hutchdatascience.org/data_snacks/r_snacks/sas2r.html>
+
+![](https://hutchdatascience.org/data_snacks/r_snacks/images/sas-r.png){width="576"}

@@ -1,30 +1,21 @@
 ---
-title: "Hello Quarto"
+title: "How to make your own website for free in under an hour"
 date: "2025-04-22"
-categories: [websites]
-image: featured.png
-image-alt: "Illustration of two penguins, one blue and one orange, taking a selfie with a selfie stick. The moon in the background looks like the Quarto logo."
+categories: [websites,tutorial,Joscelin's fav]
+image: https://www.dsquintana.blog/content/images/size/w1140/2020/06/clement-h-95YRwf6CNw8-unsplash.jpg
+image-alt: "A laptop on a white desk displaying code in a text editor, with JavaScript visible on the screen. To the right of the laptop is a yellow mug with a floral pattern and a green potted plant in the background."
 ---
-
 
 <link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/JoscelinRocha">![Buy me a coffee](https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg){alt="Buy me a coffee" width="15" height="21"}Buy me a coffee</a>
 
 ------------------------------------------------------------------------
 
+By [Quintana](https://www.dsquintana.blog/create-an-academic-website-free-easy-2020/)
 
-## [How to make your own website for free in under an hour](https://www.dsquintana.blog/create-an-academic-website-free-easy-2020/)
+**Excerpt from blog:** This tutorial will walk you through how to make your own website for free using the blogdown package in RStudio.
 
-By
-[Quintana](https://www.dsquintana.blog/create-an-academic-website-free-easy-2020/)
-💯
-
-**What is this?**
-
-**Excerpt from blog:** This tutorial will walk you through how to make
-your own website for free using the blogdown package in RStudio.
-
-1.  Link to blog here(2019):
-    <https://www.dsquintana.blog/free-website-in-r-easy/>
-2.  Updated blog here (2020):
-    <https://www.dsquintana.blog/create-an-academic-website-free-easy-2020/>
+1.  Link to blog here(2019): <https://www.dsquintana.blog/free-website-in-r-easy/>
+2.  Updated blog here (2020): <https://www.dsquintana.blog/create-an-academic-website-free-easy-2020/>
 3.  Link to video here: <https://www.youtube.com/watch?v=ox_Ue9yzf-0>
+
+![](https://www.dsquintana.blog/content/images/size/w1140/2020/06/clement-h-95YRwf6CNw8-unsplash.jpg)

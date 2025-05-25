@@ -1,26 +1,19 @@
 ---
-title: "Hello Quarto"
+title: "blogdown: Creating Websites with R Markdown"
 date: "2025-04-22"
-categories: [websites]
-image: featured.png
-image-alt: "Illustration of two penguins, one blue and one orange, taking a selfie with a selfie stick. The moon in the background looks like the Quarto logo."
+categories: [websites,book]
+image: https://bookdown.org/yihui/blogdown/images/cover.png
+image-alt: 'Cover of the book titled “blogdown: Creating Websites with R Markdown.” At the center is a hexagonal orange sticker with a large white “R” and the word “blogdown” underneath. The background features a light gray honeycomb pattern. The book is authored by Yihui Xie, Amber Thomas, and Alison Presmanes Hill. The CRC Press logo and “The R Series” label appear on the cover.'
 ---
-
 
 <link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/JoscelinRocha">![Buy me a coffee](https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg){alt="Buy me a coffee" width="15" height="21"}Buy me a coffee</a>
 
 ------------------------------------------------------------------------
 
+By [by Yihui Xie, Amber Thomas, & Alison Presmanes Hill](https://bookdown.org/yihui/blogdown/)
 
-## [blogdown: Creating Websites with R Markdown](https://bookdown.org/yihui/blogdown/)
-
-By [by Yihui Xie, Amber Thomas, & Alison Presmanes
-Hill](https://bookdown.org/yihui/blogdown/)
-
-**What is this?****Excerpt from ebook:** We introduce an R package, blogdown, in this
-short book, to teach you how to create websites using R Markdown and
-Hugo. If you have experience with creating websites, you may naturally
-ask what the benefits of using R Markdown are, and how blogdown is
-different from existing popular website platforms, such as WordPress.
+**What is this?Excerpt from ebook:** We introduce an R package, blogdown, in this short book, to teach you how to create websites using R Markdown and Hugo. If you have experience with creating websites, you may naturally ask what the benefits of using R Markdown are, and how blogdown is different from existing popular website platforms, such as WordPress.
 
 1.  Link to ebook here: <https://bookdown.org/yihui/blogdown/>
+
+![](https://bookdown.org/yihui/blogdown/images/cover.png){width="370"}

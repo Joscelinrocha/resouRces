@@ -1,23 +1,19 @@
 ---
-title: "Hello Quarto"
+title: "Teacup Giraffes_Before the Adventure Begins: INTRO TO R"
 date: "2025-04-22"
-categories: [Learning R]
-image: featured.png
-image-alt: "Illustration of two penguins, one blue and one orange, taking a selfie with a selfie stick. The moon in the background looks like the Quarto logo."
+categories: [Learning R,intro,statistics,Joscelin's fav]
+image: https://tinystats.github.io/teacups-giraffes-and-statistics/images/big_image/Ship.jpg
+image-alt: "Illustration of a large blue ship anchored near a wooden dock with a seagull and a small cartoon giraffe standing on the pier. In the background is a tropical island with lush green vegetation and a blue sky with a few white clouds."
 ---
-
 
 <link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/JoscelinRocha">![Buy me a coffee](https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg){alt="Buy me a coffee" width="15" height="21"}Buy me a coffee</a>
 
 ------------------------------------------------------------------------
 
-
-## [Teacup Giraffes_Before the Adventure Begins: INTRO TO R](https://tinystats.github.io/teacups-giraffes-and-statistics/01_introToR.html#common_functions)🌱
-
 By [Hasse Walum & Desirée De Leon](https://tinystats.github.io/teacups-giraffes-and-statistics/01_introToR.html#common_functions)
-
-**What is this?**
 
 The site's purpose is to introduce you to statistics with R but the first module gives you a really concise introduction of R.
 
 1.  Link to module: <https://tinystats.github.io/teacups-giraffes-and-statistics/01_introToR.html>
+
+![](https://tinystats.github.io/teacups-giraffes-and-statistics/images/big_image/Ship.jpg)

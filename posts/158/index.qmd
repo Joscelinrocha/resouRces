@@ -1,26 +1,20 @@
 ---
-title: "Hello Quarto"
-date: "2025-04-22"
-categories: [Learning R]
-image: featured.png
-image-alt: "Illustration of two penguins, one blue and one orange, taking a selfie with a selfie stick. The moon in the background looks like the Quarto logo."
+title: "Statistical Computing at Johns Hopkins Bloomberg School of Public Health"
+date: "2023-04-14"
+categories: [Learning R,package creation,intro,tidyverse,documentation,API,shy,dashboards,statistics]
+image: https://www.stephaniehicks.com/jhustatcomputing2022/images/cool_icon.png
+image-alt: "Digital illustration of branching tree-like structures with thick magenta trunks that split into increasingly fine cyan and white branches, set against a black background."
 ---
-
 
 <link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/JoscelinRocha">![Buy me a coffee](https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg){alt="Buy me a coffee" width="15" height="21"}Buy me a coffee</a>
 
 ------------------------------------------------------------------------
 
-
-## [Statistical Computing at Johns Hopkins Bloomberg School of Public Health](https://www.stephaniehicks.com/jhustatcomputing2022/)
-
 By [Stephanie Hicks](https://www.stephaniehicks.com/jhustatcomputing2022/)
-
-Added Fri Apri 14th, 2023
-
-**What is this?**
 
 **Excerpt from course site:** This course covers advanced statistical computing programming paradigms and workflows required for the research and application of statistical methods. Includes the basics of programming in unix and/or using command-line tools, introduction to version control, advanced R and tidyverse skills, introduction to creating R packages with documentation, working with relational databases, introduction to functional programming, getting and using data from APIs, introduction to Shiny and dashboards. Topics in statistical data analysis provide working examples.
 
 1.  Link to site here: <https://www.stephaniehicks.com/jhustatcomputing2022/>
 2.  Link to courses repo here: <https://github.com/stephaniehicks/jhustatprogramming2022>
+
+![](https://www.stephaniehicks.com/jhustatcomputing2022/images/cool_icon.png)

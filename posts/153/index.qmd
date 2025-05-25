@@ -1,22 +1,14 @@
 ---
-title: "Hello Quarto"
+title: "Remaster the Tidyverse"
 date: "2025-04-22"
-categories: [Learning R]
-image: featured.png
-image-alt: "Illustration of two penguins, one blue and one orange, taking a selfie with a selfie stick. The moon in the background looks like the Quarto logo."
+categories: [Learning R,tidyverse]
 ---
-
 
 <link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/JoscelinRocha">![Buy me a coffee](https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg){alt="Buy me a coffee" width="15" height="21"}Buy me a coffee</a>
 
 ------------------------------------------------------------------------
 
-
-## [Remaster the Tidyverse](https://github.com/rstudio-education/remaster-the-tidyverse)
-
 By [Garrett Grolemund](https://github.com/rstudio-education/remaster-the-tidyverse)
-
-**What is this?**
 
 **Excerpt from site:** This repository contains editable class materials built by Garrett Grolemund for two separate one-day workshops: **Welcome to the Tidyverse** A gentle introduction to R and its Tidyverse that focuses on learning to do Exploratory Data Analysis with the ggplot2, dplyr, broom, modelr, and rmarkdown packages. The course focuses on doing data science, not writing code; but by the end of the day students will find that they have gained confidence writing code with R.
 
