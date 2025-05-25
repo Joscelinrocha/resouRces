@@ -2,8 +2,8 @@
 title: "Supervised Machine Learning for Text Analysis in R"
 date: "2025-04-22"
 categories: [machine learning,book,modeling]
-image: "featured.png"
-image-alt: 'Book cover titled "Supervised Machine Learning for Text Analysis in R" by Emil Hvitfeldt and Julia Silge, part of the Data Science Series by CRC Press. The cover features stylized blocks of multicolored text on the left and a scatter plot graph on the right, all set against a dark blue background.'
+image: 'featured.png'
+image-alt: 'Book cover titled Supervised Machine Learning for Text Analysis in R by Emil Hvitfeldt and Julia Silge, part of the Data Science Series by CRC Press. The cover features stylized blocks of multicolored text on the left and a scatter plot graph on the right, all set against a dark blue background.'
 ---
 
 <link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/JoscelinRocha">![Buy me a coffee](https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg){alt="Buy me a coffee" width="15" height="21"}Buy me a coffee</a>
