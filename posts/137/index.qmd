@@ -2,7 +2,7 @@
 title: "Kingdom of NewbR: An introduction to R"
 date: "2025-04-22"
 categories: [Learning R,intro,wrangling]
-image: https://dpak.shinyapps.io/LEARNR/_w_00252baefe3c4c66a87745931a81c358/images/fantasymap-01.PNG
+image: "featured.png"
 image-alt: "Whimsical fantasy-style map titled 'Kingdom of NewbR,' representing concepts in R programming. Landmarks include 'The Infinite Lakes of Loops,' 'The Mountain of Data Types,' 'The Steppes of Arithmetics,' and 'The Free Cities of Data Wrangling.' Also labeled are 'The Bay of Subset,' and paths leading to 'Melt,' 'Aggregate,' and 'Merge,' with the 'Kingdom of GGPlot' indicated to the north."
 ---
 

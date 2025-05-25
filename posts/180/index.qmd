@@ -2,7 +2,7 @@
 title: "Mastering Shiny"
 date: "2025-04-22"
 categories: [websites,shiny,dashboards]
-image: https://mastering-shiny.org/cover.png
+image: "featured.png"
 image-alt: 'Book cover titled "Mastering Shiny" by Hadley Wickham. Subtitle reads "Build Interactive Apps, Reports & Dashboards Powered by R." The cover features a detailed illustration of a pigeon with iridescent green and purple feathers, standing on a white background. The publisher "O’Reilly" is printed at the top.'
 ---
 
