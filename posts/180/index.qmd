@@ -3,7 +3,7 @@ title: "Mastering Shiny"
 date: "2025-04-22"
 categories: [websites,shiny,dashboards]
 image: "featured.png"
-image-alt: 'Book cover titled "Mastering Shiny" by Hadley Wickham. Subtitle reads "Build Interactive Apps, Reports & Dashboards Powered by R." The cover features a detailed illustration of a pigeon with iridescent green and purple feathers, standing on a white background. The publisher "O’Reilly" is printed at the top.'
+image-alt: 'Book cover titled Mastering Shiny by Hadley Wickham. Subtitle reads Build Interactive Apps, Reports & Dashboards Powered by R. The cover features a detailed illustration of a pigeon with iridescent green and purple feathers, standing on a white background. The publisher O’Reilly is printed at the top.'
 ---
 
 <link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/JoscelinRocha">![Buy me a coffee](https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg){alt="Buy me a coffee" width="15" height="21"}Buy me a coffee</a>
