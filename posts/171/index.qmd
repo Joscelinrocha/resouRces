@@ -1,5 +1,5 @@
 ---
-title: "Hello Quarto"
+title: "Introduction to Machine Learning with the Tidyverse"
 date: "2025-04-22"
 categories: [machine learning,intro,Joscelin's fav]
 image: "featured.png"
