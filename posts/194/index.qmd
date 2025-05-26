@@ -1,6 +1,6 @@
 ---
 title: "Understanding the Basics of Package Writing in R"
-date: "2023-10-28"
+date: "2023-103-28"
 categories: [packages]
 image: "featured.png"
 image-alt: "Illustration of two penguins, one blue and one orange, taking a selfie with a selfie stick. The moon in the background looks like the Quarto logo."
