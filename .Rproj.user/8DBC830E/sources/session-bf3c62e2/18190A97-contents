@@ -1,0 +1,19 @@
+---
+title: "Make your slides extra special"
+date: "2025-04-22"
+categories: [slides]
+image: "featured.png"
+image-alt: 'Presentation slide titled "Your Slides are So Extra!" with the subtitle "Extra-Special Presentations with xaringanExtra." The background is teal blue. The name of the speaker, Garrick Aden-Buie, and Twitter handle @grrrck are shown at the bottom left. A "useR!" logo appears in the bottom right corner.'
+---
+
+<link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/JoscelinRocha">![Buy me a coffee](https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg){alt="Buy me a coffee" width="15" height="21"}Buy me a coffee</a>
+
+------------------------------------------------------------------------
+
+By [Garrick Aden‑Buie](https://slides.garrickadenbuie.com/extra-special-xaringan/#1)
+
+Fun slides walking you through how to can make your slides made through xaringan a little more fun!
+
+1.  Slides link here: <https://slides.garrickadenbuie.com/extra-special-xaringan/#1>
+
+![](featured.png)

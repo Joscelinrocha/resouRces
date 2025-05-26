@@ -1,0 +1,19 @@
+---
+title: "Swirl"
+date: "2025-04-22"
+categories: [learning R,intro,teach]
+image: https://swirlstats.com/images/swirl_new_large_final.png
+image-alt: "Logo for the swirl R package featuring the word 'swirl' in lowercase letters, with black and blue text enclosed in large blue curly braces on both sides."
+---
+
+<link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/JoscelinRocha">![Buy me a coffee](https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg){alt="Buy me a coffee" width="15" height="21"}Buy me a coffee</a>
+
+------------------------------------------------------------------------
+
+**Excerpt from site:** Swirl teaches you R programming and data science interactively, at your own pace, and right in the R console!
+
+1.  Link to site here: <https://swirlstats.com/>
+2.  Link to courses repo here: <https://github.com/swirldev/swirl_courses#swirl-courses>
+3.  Link to the Swirl Course Network: <https://swirlstats.com/students.html>
+
+![](https://swirlstats.com/images/swirl_new_large_final.png)

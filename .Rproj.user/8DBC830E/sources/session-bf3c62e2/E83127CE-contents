@@ -1,0 +1,15 @@
+---
+title: "The Tidyverse Style Guide"
+date: "2025-04-22"
+categories: [learning R,git,github,style,tidyverse]
+---
+
+<link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/JoscelinRocha">![Buy me a coffee](https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg){alt="Buy me a coffee" width="15" height="21"}Buy me a coffee</a>
+
+------------------------------------------------------------------------
+
+By [Hadley Wickham](https://style.tidyverse.org/)
+
+**Excerpt from site:** Good coding style is like correct punctuation: you can manage without it, but it sure makes things easier to read. This site describes the style used throughout the tidyverse.
+
+1.  Guide here: <https://style.tidyverse.org/>

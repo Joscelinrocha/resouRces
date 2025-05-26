@@ -1,0 +1,20 @@
+---
+title: "Multivariate Statistics: Using the Right Tool for the Job"
+date: "2023-04-30"
+categories: [statistics,video]
+image: "featured.png"
+image-alt: "Slide with a blue background and bold white text reading “Multivariate Statistics: Using the Right Tool for the Job” with “Eric R. Scott” written below in smaller font."
+---
+
+<link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/JoscelinRocha">![Buy me a coffee](https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg){alt="Buy me a coffee" width="15" height="21"}Buy me a coffee</a>
+
+------------------------------------------------------------------------
+
+By Eric Scott
+
+**Excerpt from video:** Eric discusses the difference between unsupervised and supervised (AKA "unconstrained" and "constrained") multivariate analyses and when to use them. He then walks us through a worked example in R with the {ropls} package.
+
+1.  Link to video here: <https://www.youtube.com/watch?v=icKk7bkG6w4&ab_channel=CCTDataScience>
+2.  Link to slides here: <https://cct-datascience.quarto.pub/multivariate-statistics-using-the-right-tool-for-the-job/#/title-slide>
+
+![](featured.png){fig-alt="Slide with a blue background and bold white text reading “Multivariate Statistics: Using the Right Tool for the Job” with “Eric R. Scott” written below in smaller font."}

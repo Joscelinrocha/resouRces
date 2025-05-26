@@ -1,0 +1,17 @@
+---
+title: "Introduction to R"
+date: "2025-05-25"
+categories: [intro,learning R]
+---
+
+<link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/JoscelinRocha">![Buy me a coffee](https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg){alt="Buy me a coffee" width="15" height="21"}Buy me a coffee</a>
+
+------------------------------------------------------------------------
+
+**Excerpt from site:** For this class, we’ll be learning the basics of the R programming language, and interacting with R through RStudio which is an efficient and user-friendly tool.
+
+A bit of background: R is a language that was created for statistical analysis and graphics; it does these two things very well. Over time, additional functionality has been added to R (because it is an open standard language, so anyone can contribute packages or libraries) so that it now works very well for data analysis, web scraping, app building, and even natural language processing.
+
+Learning a programming language requires some investment of time. We're going to cover the *basics* of what you need to know to get started, but I can't teach you everything in 3 hours (and frankly I don't know everything anyway). You will be able to do data analysis in R after this class, but you will also need to keep exploring, learning, and troubleshooting. I will provide resources to help with all that.
+
+1.  Link to the repo here: <https://github.com/ireapps/nicar24-intro-to-R>

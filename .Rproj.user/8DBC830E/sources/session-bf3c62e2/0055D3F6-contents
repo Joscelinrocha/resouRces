@@ -1,0 +1,16 @@
+---
+title: "R package primer a minimal tutorial"
+date: "2025-04-22"
+categories: [packages]
+---
+
+<link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/JoscelinRocha">![Buy me a coffee](https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg){alt="Buy me a coffee" width="15" height="21"}Buy me a coffee</a>
+
+------------------------------------------------------------------------
+
+By [Karl Broman](https://kbroman.org/pkg_primer/)
+
+Minimal tutorial about how to write your very own R package.
+
+1.  Link to tutorial here: <https://kbroman.org/pkg_primer/>
+2.  Link to repo here: <https://github.com/kbroman/pkg_primer>

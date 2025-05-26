@@ -1,0 +1,19 @@
+---
+title: "Creating a blog with Quarto in 10 steps"
+date: "2023-04-30"
+categories: [quarto]
+image: https://beamilz.com/posts/2022-06-05-creating-a-blog-with-quarto/en/img/preview.png
+image-alt: 'Homepage of a Quarto blog titled "name-of-your-blog" featuring two posts with dates, authors, tags (news, code, analysis), preview text, and images; a sidebar lists post categories.'
+---
+
+<link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/JoscelinRocha">![Buy me a coffee](https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg){alt="Buy me a coffee" width="15" height="21"}Buy me a coffee</a>
+
+------------------------------------------------------------------------
+
+By [Beatriz Milz](https://beamilz.com/posts/2022-06-05-creating-a-blog-with-quarto/en/)
+
+**Excerpt from blog:** I'm going to write about some of the steps that you need to take to create a blog with Quarto.
+
+1.  Link to blog here: <https://beamilz.com/posts/2022-06-05-creating-a-blog-with-quarto/en/>
+
+![](https://beamilz.com/posts/2022-06-05-creating-a-blog-with-quarto/en/img/preview.png){fig-alt="Homepage of a Quarto blog titled \"name-of-your-blog\" featuring two posts with dates, authors, tags (news, code, analysis), preview text, and images; a sidebar lists post categories."}

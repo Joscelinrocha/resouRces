@@ -1,0 +1,15 @@
+---
+title: "Managing complicated research workflows in R with {targets} [February 2025]"
+date: "2025-02-27"
+categories: [workflows]
+---
+
+<link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/JoscelinRocha">![Buy me a coffee](https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg){alt="Buy me a coffee" width="15" height="21"}Buy me a coffee</a>
+
+------------------------------------------------------------------------
+
+by Eric Scott
+
+**Description from site:** As data analysis projects grow, they can get complicated to update and time consuming to re-run. Learn how to save time and reduce confusion by using the targets package to manage your analysis workflow in R. This workshop will be especially useful to you if 1) you have or plan on writing analysis code that has many long-running (maybe independent) steps and you want to avoid re-running everything whenever you update your data or code, 2) you want your research to be reproducible, but you're struggling as your project gains more data wrangling, analysis, and reporting steps.
+
+1.  Link to video recording here: <https://www.youtube.com/watch?v=qTo6riXn6sw&ab_channel=CCTDataScience>

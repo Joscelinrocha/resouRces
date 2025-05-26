@@ -1,0 +1,19 @@
+---
+title: "Create your own R package-R Packages"
+date: "2025-04-22"
+categories: [package creation,book]
+image: https://r-pkgs.org/images/cover-2e-small.png
+image-alt: 'Book cover titled "R Packages: Organize, Test, Document, and Share Your Code" (Second Edition) by Hadley Wickham and Jennifer Bryan. The design features a detailed illustration of a reddish-brown and gray bird with wings outstretched, perched on a curved branch. The background is white, with the OReilly logo at the top left and a diagonal ribbon in the top right corner labeled “Second Edition.”'
+---
+
+<link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/JoscelinRocha">![Buy me a coffee](https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg){alt="Buy me a coffee" width="15" height="21"}Buy me a coffee</a>
+
+------------------------------------------------------------------------
+
+By [Hadley Wickham Jennifer Bryan](https://r-pkgs.org/)
+
+**Excerpt from e-book:** Packages are the fundamental units of reproducible R code. They include reusable R functions, the documentation that describes how to use them, and sample data. In this book you'll learn how to turn your code into packages that others can easily download and use. Writing a package can seem overwhelming at first. So start with the basics and improve it over time. It doesn't matter if your first version isn't perfect as long as the next version is better.
+
+1.  Link to e-book here: <https://r-pkgs.org/>
+
+![](https://r-pkgs.org/images/cover-2e-small.png){width="325"}

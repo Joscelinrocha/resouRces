@@ -1,0 +1,23 @@
+---
+title: "Re-constructing Google Forms responses with Quarto and {glue}"
+date: "2023-08-08"
+categories: [quarto]
+---
+
+<link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/JoscelinRocha">![Buy me a coffee](https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg){alt="Buy me a coffee" width="15" height="21"}Buy me a coffee</a>
+
+------------------------------------------------------------------------
+
+By Eric R. Scott
+
+In this tutorial, Eric R. Scott demonstrates how to embed Google Forms into Quarto documents, enabling seamless data collection within your reports or websites. The guide covers:
+
+-   Creating a Google Form for data input.
+
+-   Embedding the form into a Quarto document.
+
+-   Retrieving and analyzing the collected responses in R.
+
+This integration is particularly useful for educators and researchers seeking to gather user input directly from their Quarto-based content.
+
+1.  Link to tutorial here: <https://ericrscott.com/posts/2023-08-08-google-forms-quarto/>

@@ -1,0 +1,21 @@
+---
+title: "Making shareable documents with Quarto"
+date: "2023-04-30"
+categories: [quarto]
+image: fhttps://openscapes.github.io/quarto-website-tutorial/images/openscapes_hex.png
+image-alt: 'Hexagonal badge with the word "openscapes" in lowercase orange letters across the top, featuring a stylized landscape of a data visualization grid with line graphs and scattered purple flowers, and the URL "openscapes.org" at the bottom.'
+---
+
+<link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/JoscelinRocha">![Buy me a coffee](https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg){alt="Buy me a coffee" width="15" height="21"}Buy me a coffee</a>
+
+------------------------------------------------------------------------
+
+**Excerpt from blog:** This is a 1-hour tutorial that can be used to teach or as self-paced learning.
+
+We introduce Quarto by exploring this tutorial website, and practicing the basic Quarto workflow using different tools (GitHub browser, RStudio, and Jupyter) for editing your website.
+
+We'll start off from the browser so you don't need to install any additional software, however this approach is very limited and you will soon outgrow its capabilities. If you don't already have a workflow to edit files and sync to GitHub from your computer, I recommend RStudio. You don't need to know R to use RStudio, and it has powerful editor features that make for happy workflows.
+
+1.  Link to blog here: <https://openscapes.github.io/quarto-website-tutorial/>
+
+![](https://openscapes.github.io/quarto-website-tutorial/images/openscapes_hex.png){fig-alt="Hexagonal badge with the word \"openscapes\" in lowercase orange letters across the top, featuring a stylized landscape of a data visualization grid with line graphs and scattered purple flowers, and the URL \"openscapes.org\" at the bottom." width="259"}
