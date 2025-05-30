@@ -17,7 +17,33 @@
 <width>144</width>
 </image>
 <generator>quarto-1.6.42</generator>
-<lastBuildDate>Wed, 28 May 2025 04:00:00 GMT</lastBuildDate>
+<lastBuildDate>Thu, 29 May 2025 04:00:00 GMT</lastBuildDate>
+<item>
+  <title>educationdata</title>
+  <dc:creator>Dr. Joscelin Rocha-Hidalgo</dc:creator>
+  <link>https://www.resourcesdatabase.com/posts/228/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p><link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/JoscelinRocha"><img src="https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg" alt="Buy me a coffee" width="15" height="21">Buy me a coffee</a></p>
+<hr>
+<p>Retrieve data from the Urban Institute’s <a href="https://educationdata.urban.org/">Education Data API</a> as a <code>data.frame</code> for easy analysis.</p>
+<ol type="1">
+<li>Link to site here: <a href="https://urbaninstitute.github.io/education-data-package-r/" class="uri">https://urbaninstitute.github.io/education-data-package-r/</a></li>
+</ol>
+<p><img src="https://urbaninstitute.github.io/education-data-package-r/reference/figures/logo.png" class="img-fluid" alt="Hex sticker for the educationdata R package. It features a stylized red apple made up of numbers in various sizes and colors (mostly red, white, and green), set against a black background. The word &quot;educationdata&quot; appears in white below the apple, with the URL &quot;educationdata.urban.org&quot; written in the lower right edge of the hexagon. A blue border outlines the hexagon." width="371"></p>
+
+
+
+<a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a> ]]></description>
+  <category>datasets</category>
+  <guid>https://www.resourcesdatabase.com/posts/228/</guid>
+  <pubDate>Thu, 29 May 2025 04:00:00 GMT</pubDate>
+  <media:content url="https://urbaninstitute.github.io/education-data-package-r/reference/figures/logo.png" medium="image" type="image/png"/>
+</item>
 <item>
   <title>Tidycensus will convince you to learn R</title>
   <dc:creator>Dr. Joscelin Rocha-Hidalgo</dc:creator>
@@ -555,33 +581,6 @@
   <category>tricks</category>
   <guid>https://www.resourcesdatabase.com/posts/74/</guid>
   <pubDate>Mon, 19 May 2025 04:00:00 GMT</pubDate>
-</item>
-<item>
-  <title>Deploy Flexdashboard on Github Pages with Github Actions and Dockerfor R Users</title>
-  <dc:creator>Dr. Joscelin Rocha-Hidalgo</dc:creator>
-  <link>https://www.resourcesdatabase.com/posts/70/</link>
-  <description><![CDATA[ 
-
-
-
-
-
-<p><link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/JoscelinRocha"><img src="https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg" alt="Buy me a coffee" width="15" height="21">Buy me a coffee</a></p>
-<hr>
-<p>By <a href="https://github.com/RamiKrispin/deploy-flex-actions">Rami Krispin</a></p>
-<p><strong>Excerpt from blog:</strong> This repo provides a step-by-step guide and a template for deploying and automating a <a href="https://pkgs.rstudio.com/flexdashboard/">flexdashboard</a> dashboard on <a href="https://pages.github.com/">Github Pages</a> with <a href="https://www.docker.com/">Docker</a> and <a href="https://github.com/features/actions">Github Actions</a>.</p>
-<ol type="1">
-<li>Link to tutorial and repo: <a href="https://github.com/RamiKrispin/deploy-flex-actions" class="uri">https://github.com/RamiKrispin/deploy-flex-actions</a></li>
-</ol>
-<p><img src="https://raw.githubusercontent.com/RamiKrispin/deploy-flex-actions/main/images/flexdashboard_example.png" class="img-fluid"></p>
-
-
-
-<a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a> ]]></description>
-  <category>docker</category>
-  <guid>https://www.resourcesdatabase.com/posts/70/</guid>
-  <pubDate>Mon, 05 May 2025 04:00:00 GMT</pubDate>
-  <media:content url="https://raw.githubusercontent.com/RamiKrispin/deploy-flex-actions/main/images/flexdashboard_example.png" medium="image" type="image/png"/>
 </item>
 </channel>
 </rss>

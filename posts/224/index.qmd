@@ -1,31 +1,23 @@
 ---
-title: "Hello Quarto"
-date: "2025-04-22"
+title: "Plotting brain atlases in ggplot"
+date: "2020-12-25"
 categories: [neuro]
-image: featured.png
-image-alt: "Illustration of two penguins, one blue and one orange, taking a selfie with a selfie stick. The moon in the background looks like the Quarto logo."
+image: https://ggseg.github.io/ggseg/reference/figures/logo.png
+image-alt: "xagon-shaped logo featuring a stylized illustration of a human brain hemisphere divided into brightly colored anatomical regions. The regions are distinctly segmented with bold, contrasting colors. Below the illustration, the text ggseg is written, indicating the R package for brain region visualization. The background is light gray with a dark gray border around the hexagon."
 ---
-
 
 <link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/JoscelinRocha">![Buy me a coffee](https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg){alt="Buy me a coffee" width="15" height="21"}Buy me a coffee</a>
 
 ------------------------------------------------------------------------
 
+**Description from site:** Plotting regions from different brain atlases ggplot2 is a handy way of displaying results or grouping of aparc data.
 
-## [Plotting brain atlases in ggplot](https://lcbc-uio.github.io/ggseg/articles/ggseg.html)
+The function ggseg(), is based in the ggplot2 format, it is recommended to get familiarized with plotting data with ggplot2.
 
-Added Sunday Dec 13th, 2020**What is this?**
+Out-of-the-box, ggseg() works without supplying any extra information. It will create a base plot of the aparc brain segmentations.
 
-**Description from site:** Plotting regions from different brain atlases
-ggplot2 is a handy way of displaying results or grouping of aparc data.
-
-The function ggseg(), is based in the ggplot2 format, it is recommended
-to get familiarized with plotting data with ggplot2.
-
-Out-of-the-box, ggseg() works without supplying any extra information.
-It will create a base plot of the aparc brain segmentations.
-
-1.  Link to site: <https://lcbc-uio.github.io/ggseg/articles/ggseg.html>
-2.  Link to ggseg vignette:
-    <https://github.com/LCBC-UiO/ggseg/blob/master/vignettes/ggseg.Rmd>
+1.  Link to site: <https://ggseg.github.io/ggseg/>
+2.  Link to ggseg vignette: <https://github.com/LCBC-UiO/ggseg/blob/master/vignettes/ggseg.Rmd>
 3.  Link to ggseg repo: <https://github.com/LCBC-UiO/ggseg>
+
+![](https://ggseg.github.io/ggseg/reference/figures/logo.png){fig-alt="xagon-shaped logo featuring a stylized illustration of a human brain hemisphere divided into brightly colored anatomical regions. The regions are distinctly segmented with bold, contrasting colors. Below the illustration, the text \"ggseg\" is written, indicating the R package for brain region visualization. The background is light gray with a dark gray border around the hexagon." width="474"}

@@ -1,30 +1,18 @@
 ---
-title: "Hello Quarto"
-date: "2025-04-22"
-categories: [neuro]
-image: featured.png
-image-alt: "Illustration of two penguins, one blue and one orange, taking a selfie with a selfie stick. The moon in the background looks like the Quarto logo."
+title: "fsbrain: an R package for the visualization of structural neuroimaging data"
+date: "2020-12-13"
+categories: [neuro,packge]
+image: https://github.com/dfsp-spirit/fsbrain_gallery/blob/master/surface/fsbrain_sulcal_depth_cbar_web.jpg?raw=true
+image-alt: "3D rendering of a human brain cortex with color-coded sulcal depth. The image displays both hemispheres from medial and lateral views. Depth is represented on a color scale from dark purple (shallow) to bright yellow (deep), with a labeled gradient bar beneath the brain models indicating sulcal depth in millimeters (ranging from -5 to 15 mm)."
 ---
-
 
 <link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/JoscelinRocha">![Buy me a coffee](https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg){alt="Buy me a coffee" width="15" height="21"}Buy me a coffee</a>
 
 ------------------------------------------------------------------------
 
+**Description from site:** We introduce fsbrain, an R package for the visualization of neuroimaging data. The package can be used to visualize vertex-wise and region-wise morphometry data, parcellations, labels and statistical results on brain surfaces in three dimensions (3D). Voxel data can be displayed in lightbox mode. The fsbrain package offers various customization options and produces publication quality plots which can be displayed interactively, saved as bitmap images, or integrated into R notebooks.
 
-## [fsbrain: an R package for the visualization of structural neuroimaging data](https://www.biorxiv.org/content/10.1101/2020.09.18.302935v1.full.pdf)
-
-Added Sunday Dec 13th, 2020**What is this?**
-
-**Description from site:** We introduce fsbrain, an R package for the
-visualization of neuroimaging data. The package can be used to visualize
-vertex-wise and region-wise morphometry data, parcellations, labels and
-statistical results on brain surfaces in three dimensions (3D). Voxel
-data can be displayed in lightbox mode. The fsbrain package offers
-various customization options and produces publication quality plots
-which can be displayed interactively, saved as bitmap images, or
-integrated into R notebooks.
-
-1.  Link to preprint:
-    <https://www.biorxiv.org/content/10.1101/2020.09.18.302935v1.full.pdf>
+1.  Link to preprint: <https://www.biorxiv.org/content/10.1101/2020.09.18.302935v1.full.pdf>
 2.  Link to repo: <https://github.com/dfsp-spirit/fsbrain>
+
+![](https://github.com/dfsp-spirit/fsbrain_gallery/blob/master/surface/fsbrain_sulcal_depth_cbar_web.jpg?raw=true)

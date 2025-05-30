@@ -1,31 +1,19 @@
 ---
-title: "Hello Quarto"
-date: "2025-04-22"
-categories: [neuro]
-image: featured.png
-image-alt: "Illustration of two penguins, one blue and one orange, taking a selfie with a selfie stick. The moon in the background looks like the Quarto logo."
+title: "Package brainGraph"
+date: "2020-12-13"
+categories: [neuro,mri,package]
+image: https://camo.githubusercontent.com/a255067e956a76f9f24346a4899190cf73ebc8a5bf9776238853b14ee0916e07/687474703a2f2f692e696d6775722e636f6d2f4b4b5a5a7149322e706e67
+image-alt: "Screenshot of a brain network visualization using the brainGraph R package. Two brain images are displayed side by side labeled Control and Patient. Each image shows colored nodes and connecting lines superimposed on an axial brain slice. Node colors represent brain lobes (e.g., frontal in red, parietal in green), and sizes correspond to degree centrality. The control and patient graphs show different node sizes and edge connections, with a legend summarizing node counts by lobe. A panel on the left provides user interface controls for customizing the graph display."
 ---
-
 
 <link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/JoscelinRocha">![Buy me a coffee](https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg){alt="Buy me a coffee" width="15" height="21"}Buy me a coffee</a>
 
 ------------------------------------------------------------------------
 
+**Description from site:** A set of tools for performing graph theory analysis of brain MRI data. It works with data from a Freesurfer analysis (cortical thickness, volumes, local gyrification index, surface area), diffusion tensor tractography data (e.g., from FSL) and resting-state fMRI data (e.g., from DPABI). It contains a graphical user interface for graph visualization and data exploration, along with several functions for generating useful figures.
 
-## [Package 'brainGraph'](https://cran.r-project.org/web/packages/brainGraph/brainGraph.pdf)
-
-Added Sunday Dec 13th, 2020**What is this?**
-
-**Description from site:** A set of tools for performing graph theory
-analysis of brain MRI data. It works with data from a Freesurfer
-analysis (cortical thickness, volumes, local gyrification index, surface
-area), diffusion tensor tractography data (e.g., from FSL) and
-resting-state fMRI data (e.g., from DPABI). It contains a graphical user
-interface for graph visualization and data exploration, along with
-several functions for generating useful figures.
-
-1.  Link to documentation:
-    <https://cran.r-project.org/web/packages/brainGraph/brainGraph.pdf>
+1.  Link to documentation: <https://cran.r-project.org/web/packages/brainGraph/brainGraph.pdf>
 2.  Link to repo: <https://github.com/cwatson/brainGraph>
-3.  Link to User Guide:
-    <https://cwatson.github.io/files/brainGraph_UserGuide.pdf>
+3.  Link to User Guide: <https://cwatson.github.io/files/brainGraph_UserGuide.pdf>
+
+![](https://camo.githubusercontent.com/a255067e956a76f9f24346a4899190cf73ebc8a5bf9776238853b14ee0916e07/687474703a2f2f692e696d6775722e636f6d2f4b4b5a5a7149322e706e67){fig-alt="Screenshot of a brain network visualization using the brainGraph R package. Two brain images are displayed side by side labeled “Control” and “Patient.” Each image shows colored nodes and connecting lines superimposed on an axial brain slice. Node colors represent brain lobes (e.g., frontal in red, parietal in green), and sizes correspond to degree centrality. The control and patient graphs show different node sizes and edge connections, with a legend summarizing node counts by lobe. A panel on the left provides user interface controls for customizing the graph display."}

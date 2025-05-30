@@ -1,0 +1,17 @@
+---
+title: "educationdata"
+date: "2025-05-29"
+categories: [datasets]
+image: https://urbaninstitute.github.io/education-data-package-r/reference/figures/logo.png
+image-alt: "Hex sticker for the educationdata R package. It features a stylized red apple made up of numbers in various sizes and colors (mostly red, white, and green), set against a black background. The word educationdata appears in white below the apple, with the URL educationdata.urban.org written in the lower right edge of the hexagon. A blue border outlines the hexagon."
+---
+
+<link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/JoscelinRocha">![Buy me a coffee](https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg){alt="Buy me a coffee" width="15" height="21"}Buy me a coffee</a>
+
+------------------------------------------------------------------------
+
+Retrieve data from the Urban Institute’s [Education Data API](https://educationdata.urban.org/) as a `data.frame` for easy analysis.
+
+1.  Link to site here: <https://urbaninstitute.github.io/education-data-package-r/>
+
+![](https://urbaninstitute.github.io/education-data-package-r/reference/figures/logo.png){fig-alt="Hex sticker for the educationdata R package. It features a stylized red apple made up of numbers in various sizes and colors (mostly red, white, and green), set against a black background. The word \"educationdata\" appears in white below the apple, with the URL \"educationdata.urban.org\" written in the lower right edge of the hexagon. A blue border outlines the hexagon." width="371"}

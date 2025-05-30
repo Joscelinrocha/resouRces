@@ -1,31 +1,20 @@
 ---
-title: "Hello Quarto"
+title: "ggsegExtra"
 date: "2025-04-22"
 categories: [neuro]
-image: featured.png
-image-alt: "Illustration of two penguins, one blue and one orange, taking a selfie with a selfie stick. The moon in the background looks like the Quarto logo."
+image: fhttps://github.com/ggseg/ggsegExtra/raw/master/man/figures/logo.png
+image-alt: "A hexagon-shaped logo with a dark gray outer border and black background, featuring a simplified illustration of a human brain hemisphere divided into large pastel-colored anatomical regions in pink, green, lavender, and blue. Fine boundary lines outline each region. Below the illustration, the text ggsegExtra is written in white serif font, indicating an extension of the ggseg R package for brain visualization."
 ---
-
 
 <link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/JoscelinRocha">![Buy me a coffee](https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg){alt="Buy me a coffee" width="15" height="21"}Buy me a coffee</a>
 
 ------------------------------------------------------------------------
 
+**Description from site:** This package mainly contains a plotting function *ggseg* and data.frames of different brain atlases for plotting. Plotting results of analyses on regions or networks often involves swapping between statistical tools, like R, and software for brain imaging to correctly visualize analysis results.
 
-## [ggsegExtra](https://github.com/LCBC-UiO/ggsegExtra)
+This package aims to make it possible to plot results directly through R.
 
-Added Sunday Dec 13th, 2020**What is this?**
+1.  Link to wiki here: <https://github.com/LCBC-UiO/ggsegExtra/wiki/Contributing%3A-polygon-atlases-new>
+2.  Link to repo here: <https://github.com/LCBC-UiO/ggsegExtra>
 
-**Description from site:** This package mainly contains a plotting
-function ggseg and data.frames of different brain atlases for plotting.
-Plotting results of analyses on regions or networks often involves
-swapping between statistical tools, like R, and software for brain
-imaging to correctly visualize analysis results.
-
-This package aims to make it possible to plot results directly through
-R.
-
-1.  Link to documentation here: <https://neuroconductor.org/help/ggseg/>
-2.  Link to wiki here:
-    <https://github.com/LCBC-UiO/ggsegExtra/wiki/Contributing%3A-polygon-atlases-new>
-3.  Link to repo here: <https://github.com/LCBC-UiO/ggsegExtra>
+![](https://github.com/ggseg/ggsegExtra/raw/master/man/figures/logo.png){fig-alt="A hexagon-shaped logo with a dark gray outer border and black background, featuring a simplified illustration of a human brain hemisphere divided into large pastel-colored anatomical regions in pink, green, lavender, and blue. Fine boundary lines outline each region. Below the illustration, the text \"ggsegExtra\" is written in white serif font, indicating an extension of the ggseg R package for brain visualization." width="354"}

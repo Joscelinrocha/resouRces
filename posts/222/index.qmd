@@ -1,37 +1,18 @@
 ---
-title: "Hello Quarto"
-date: "2025-04-22"
-categories: [neuro]
-image: featured.png
-image-alt: "Illustration of two penguins, one blue and one orange, taking a selfie with a selfie stick. The moon in the background looks like the Quarto logo."
+title: "Package eegUtils"
+date: "2020-12-22"
+categories: [neuro,eeg,package]
+image: https://github.com/craddm/eegUtils/raw/main/man/figures/unnamed-chunk-3-1.png
+image-alt: "A line plot showing EEG amplitude (in microvolts, µV) over time (in seconds) for multiple electrodes. Each colored line represents a different electrode (labeled A13, A21, A29, A31, A5, B16, B18, B26, B5, B6, B8) with varying waveform patterns. Vertical and horizontal black lines mark time zero and amplitude zero, respectively, indicating stimulus onset."
 ---
-
 
 <link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/JoscelinRocha">![Buy me a coffee](https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg){alt="Buy me a coffee" width="15" height="21"}Buy me a coffee</a>
 
 ------------------------------------------------------------------------
 
+**Description from site:** A collection of functions for EEG processing. Includes import functions for Biosemi (BDF) and Neuroscan (CNT), topographical plotting, referencing, and epoching. eegUtils is a package for the processing, manipulation, and plotting of EEG data. It includes functions for importing data from a variety of file formats (including Biosemi, Brain Vision Analyzer, and EEGLAB), many of the typical steps in pre-preprocessing (filtering, referencing, artefact rejection), more advanced processing techniques (time-frequency analysis, ICA), and many types of plot that are common in the field (ERP plots, time-frequency plots, topographical scalp maps). Although it uses custom object classes, it is designed such that these are always translatable to standard R data.frames, and thus can be used with any of the myriad packages and methods that support standard R formats.
 
-## [Package eegUtils](https://neuroconductor.org/help/eegUtils/)
+1.  Link to repo here: <https://github.com/craddm/eegUtils/>
+2.  Link to site here: <https://craddm.github.io/eegUtils/>
 
-Added Sunday Dec 13th, 2020
-
-**What is this?**
-
-**Description from site:** A collection of functions for EEG processing.
-Includes import functions for Biosemi (BDF) and Neuroscan (CNT),
-topographical plotting, referencing, and epoching. eegUtils is a package
-for the processing, manipulation, and plotting of EEG data. It includes
-functions for importing data from a variety of file formats (including
-Biosemi, Brain Vision Analyzer, and EEGLAB), many of the typical steps
-in pre-preprocessing (filtering, referencing, artefact rejection), more
-advanced processing techniques (time-frequency analysis, ICA), and many
-types of plot that are common in the field (ERP plots, time-frequency
-plots, topographical scalp maps). Although it uses custom object
-classes, it is designed such that these are always translatable to
-standard R data.frames, and thus can be used with any of the myriad
-packages and methods that support standard R formats.
-
-1.  Link to documentation here:
-    <https://neuroconductor.org/help/eegUtils/>
-2.  Link to repo here: <https://github.com/craddm/eegUtils/>
+![](https://github.com/craddm/eegUtils/raw/main/man/figures/unnamed-chunk-3-1.png){fig-alt="A line plot showing EEG amplitude (in microvolts, µV) over time (in seconds) for multiple electrodes. Each colored line represents a different electrode (labeled A13, A21, A29, A31, A5, B16, B18, B26, B5, B6, B8) with varying waveform patterns. Vertical and horizontal black lines mark time zero and amplitude zero, respectively, indicating stimulus onset."}

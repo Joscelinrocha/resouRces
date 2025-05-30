@@ -1,34 +1,24 @@
 ---
-title: "Hello Quarto"
-date: "2025-04-22"
-categories: [neuro]
-image: featured.png
-image-alt: "Illustration of two penguins, one blue and one orange, taking a selfie with a selfie stick. The moon in the background looks like the Quarto logo."
+title: "neuropointillist"
+date: "2020-12-24"
+categories: [neuro,mri]
+image: http://ibic.github.io/neuropointillist/logo.jpg
+image-alt: "n abstract illustration of a human brain in a left lateral view composed entirely of overlapping colored circles. The circles vary in size and are primarily blue, green, and yellow, arranged to form the shape and contours of brain regions, including the cortex and cerebellum. The image evokes a data visualization or conceptual representation of neural networks or brain activity."
 ---
-
 
 <link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/JoscelinRocha">![Buy me a coffee](https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg){alt="Buy me a coffee" width="15" height="21"}Buy me a coffee</a>
 
 ------------------------------------------------------------------------
 
+Description from site: Flexible modeling of neuroimaging data in R, point by point
 
-## [neuropointillist](http://ibic.github.io/neuropointillist/)
-
-Added Sunday Dec 13th, 2020**What is this?**
-
-Description from site: Flexible modeling of neuroimaging data in R,
-point by point
-
-1.  Link to site: http://ibic.github.io/neuropointillist/
+1.  Link to site: <http://ibic.github.io/neuropointillist/>
 2.  Content:
 
--   [Simple fMRI
-    example](http://ibic.github.io/neuropointillist/fmri.example.html)
--   [Advanced fMRI
-    example](http://ibic.github.io/neuropointillist/fingerfootlips.example.html)
--   [Permutation testing fMRI
-    example](http://ibic.github.io/neuropointillist/fingerfootlips_permute.html)
--   [Flournoy example
-    (longitudinal)](http://ibic.github.io/neuropointillist/flournoy.example.html)
--   [Correcting for multiple
-    comparisons](http://ibic.github.io/neuropointillist/clustercorrection.html)
+-   [Simple fMRI example](http://ibic.github.io/neuropointillist/fmri.example.html)
+-   [Advanced fMRI example](http://ibic.github.io/neuropointillist/fingerfootlips.example.html)
+-   [Permutation testing fMRI example](http://ibic.github.io/neuropointillist/fingerfootlips_permute.html)
+-   [Flournoy example (longitudinal)](http://ibic.github.io/neuropointillist/flournoy.example.html)
+-   [Correcting for multiple comparisons](http://ibic.github.io/neuropointillist/clustercorrection.html)
+
+![](http://ibic.github.io/neuropointillist/logo.jpg)

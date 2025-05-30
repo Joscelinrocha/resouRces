@@ -1,34 +1,18 @@
 ---
-title: "Hello Quarto"
-date: "2025-04-22"
+title: "freesurferformats: R Package For Reading and Writing Neuroimaging File Formats"
+date: "2020-12-13"
 categories: [neuro]
-image: featured.png
-image-alt: "Illustration of two penguins, one blue and one orange, taking a selfie with a selfie stick. The moon in the background looks like the Quarto logo."
+image: https://github.com/dfsp-spirit/freesurferformats/raw/master/vignettes/rgl_brain_aparc.jpg?raw=true
+image-alt: "3D rendering of the human cerebral cortex showing various brain regions segmented and colored distinctly. The image highlights the complex folds (gyri and sulci) of the brain's surface. Each region is shown in a different color to represent anatomical or functional boundaries, typically used in neuroimaging or brain mapping studies."
 ---
-
 
 <link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/JoscelinRocha">![Buy me a coffee](https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg){alt="Buy me a coffee" width="15" height="21"}Buy me a coffee</a>
 
 ------------------------------------------------------------------------
 
-
-## [freesurferformats: R Package For Reading and Writing Neuroimaging File Formats](https://github.com/dfsp-spirit/freesurferformats)
-
-Added Sunday Dec 13th, 2020
-
-**What is this?**
-
-**Description from site:** The 'freesurferformats' package is an R
-library for reading and writing neuroimaging file formats. The focus is
-on structural MRI file formats from the FreeSurfer brain imaging
-software suite, but a range of other file formats are supported as well.
-The package can be used to read 3D and 4D volume files (brain models,
-segemntations, voxel-wise results), 2D surface-based morphometry data
-(e.g., cortical thickness maps), brain surface meshes, atlas-based
-parcellations and labels, surface patches, and spatial transformation
-matrices in various file formats. The vast majority of formats can also
-be written. The related 'fsbrain' package can be used to visualize
-neuroimaging data directly in R.
+**Description from site:** The 'freesurferformats' package is an R library for reading and writing neuroimaging file formats. The focus is on structural MRI file formats from the FreeSurfer brain imaging software suite, but a range of other file formats are supported as well. The package can be used to read 3D and 4D volume files (brain models, segemntations, voxel-wise results), 2D surface-based morphometry data (e.g., cortical thickness maps), brain surface meshes, atlas-based parcellations and labels, surface patches, and spatial transformation matrices in various file formats. The vast majority of formats can also be written. The related 'fsbrain' package can be used to visualize neuroimaging data directly in R.
 
 1.  Link to package summary: <https://www.nitrc.org/projects/fsformats/>
 2.  Link to repo: <https://github.com/dfsp-spirit/freesurferformats>
+
+![](https://github.com/dfsp-spirit/freesurferformats/raw/master/vignettes/rgl_brain_aparc.jpg?raw=true){fig-alt="3D rendering of the human cerebral cortex showing various brain regions segmented and colored distinctly. The image highlights the complex folds (gyri and sulci) of the brain's surface. Each region is shown in a different color to represent anatomical or functional boundaries, typically used in neuroimaging or brain mapping studies."}

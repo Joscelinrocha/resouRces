@@ -1,46 +1,27 @@
 ---
-title: "Hello Quarto"
-date: "2025-04-22"
-categories: [neuro]
-image: featured.png
-image-alt: "Illustration of two penguins, one blue and one orange, taking a selfie with a selfie stick. The moon in the background looks like the Quarto logo."
+title: "fmri Functions and Package"
+date: "2020-12-13"
+categories: [neuro,mri,package]
 ---
-
 
 <link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/JoscelinRocha">![Buy me a coffee](https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg){alt="Buy me a coffee" width="15" height="21"}Buy me a coffee</a>
 
 ------------------------------------------------------------------------
 
+**Description from site:** Contains R-functions to perform an fMRI analysis as described inPolzehl and Tabelow (2019) <DOI:10.1007/978-3-030-29184-6>,Tabelow et al. (2006) <DOI:10.1016/j.neuroimage.2006.06.029>,Polzehl et al. (2010) <DOI:10.1016/j.neuroimage.2010.04.241>,Tabelow and Polzehl (2011) <DOI:10.18637/jss.v044.i11>.
 
-## [fmri Package](https://cran.r-project.org/web/packages/fmri/fmri.pdf)
-
-Added Sunday Dec 13th, 2020
-
-**What is this?****Description from site:** Contains R-functions to perform an fMRI
-analysis as described inPolzehl and Tabelow (2019) <DOI:10.1007/978-3-030-29184-6>,Tabelow et al. (2006) <DOI:10.1016/j.neuroimage.2006.06.029>,Polzehl et al. (2010) <DOI:10.1016/j.neuroimage.2010.04.241>,Tabelow and Polzehl (2011) <DOI:10.18637/jss.v044.i11>.
+1.  Link to fmri package: <https://cran.r-project.org/web/packages/fmri/fmri.pdf>
 
 Cool functions from package:
 
 1.  **read.NIFTI()**: Read fMRI data from NIFTI file(s)
 2.  **setmask()**: Add or replace mask in an fmridata object
-3.  **oro2fmri()**/**fmri2oro()**: Convert Between fmridata and
-    oro.nifti
-4.  **cutroi()**: This functions cuts a region-of-interest (ROI) from
-    input data
+3.  **oro2fmri()**/**fmri2oro()**: Convert Between fmridata and oro.nifti
+4.  **cutroi()**: This functions cuts a region-of-interest (ROI) from input data
 5.  **fmri.cluster()**: Cluster thresholding
-6.  **fmri.design ()**: Return a design matrix for a linear model with
-    given stimuli and possible polynomial drift terms
-7.  **fmri.designG()**: This function returns a design matrix for
-    multi-subject fMRI data to fit a Linear Mixed-effects Model
-    (one-stage procedure) with given stimuli, polynomial drift terms and
-    a set of known population parameters
-8.  **fmri.lmePar()**: Group maps are directly estimated from the BOLD
-    time series data of all subjects using lme from R package nlme to
-    fit a Linear Mixed-effects Model with temporally correlated and
-    heteroscedastic within-subject errors. Voxel-wise regression
-    analysis is accelerated by optional parallel processing using R
-    package parallel
-9.  **fmri.metaPar()**: Linear Mixed-effects Meta-Analysis model for
-    fMRI data
+6.  **fmri.design ()**: Return a design matrix for a linear model with given stimuli and possible polynomial drift terms
+7.  **fmri.designG()**: This function returns a design matrix for multi-subject fMRI data to fit a Linear Mixed-effects Model (one-stage procedure) with given stimuli, polynomial drift terms and a set of known population parameters
+8.  **fmri.lmePar()**: Group maps are directly estimated from the BOLD time series data of all subjects using lme from R package nlme to fit a Linear Mixed-effects Model with temporally correlated and heteroscedastic within-subject errors. Voxel-wise regression analysis is accelerated by optional parallel processing using R package parallel
+9.  **fmri.metaPar()**: Linear Mixed-effects Meta-Analysis model for fMRI data
 10. **fmri.pvalue()**: P-values
 11. **plot.fmripvalue()**: Visualize fMRI p-value maps
