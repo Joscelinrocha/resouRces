@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss  xmlns:atom="http://www.w3.org/2005/Atom" 
+      xmlns:media="http://search.yahoo.com/mrss/" 
+      xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+      xmlns:dc="http://purl.org/dc/elements/1.1/" 
+      version="2.0">
+<channel>
+<title>resouRces</title>
+<link>https://www.resourcesdatabase.com/</link>
+<atom:link href="https://www.resourcesdatabase.com/index.xml" rel="self" type="application/rss+xml"/>
+<description>Database of Resources to Learn &amp; Teach R</description>
+<image>
+<url>https://www.resourcesdatabase.com/images/logo.png</url>
+<title>resouRces</title>
+<link>https://www.resourcesdatabase.com/</link>
+<height>144</height>
+<width>144</width>
+</image>
+<generator>quarto-1.6.42</generator>
+<lastBuildDate>Sun, 01 Jun 2025 04:00:00 GMT</lastBuildDate>
+<item>
+  <title>{B4F502887207:/posts/232/index.html}</title>
+  <dc:creator>Dr. Joscelin Rocha-Hidalgo</dc:creator>
+  <link>https://www.resourcesdatabase.com/posts/232/</link>
+  <description>{B4F502887207:/posts/232/index.html}</description>
+  <category>markdown</category>
+  <guid>https://www.resourcesdatabase.com/posts/232/</guid>
+  <pubDate>Sun, 01 Jun 2025 04:00:00 GMT</pubDate>
+  <media:content url="https://www.resourcesdatabase.com/posts/232/featured.png" medium="image" type="image/png" height="81" width="144"/>
+</item>
+<item>
+  <title>{B4F502887207:/posts/191/index.html}</title>
+  <dc:creator>Dr. Joscelin Rocha-Hidalgo</dc:creator>
+  <link>https://www.resourcesdatabase.com/posts/191/</link>
+  <description>{B4F502887207:/posts/191/index.html}</description>
+  <category>package</category>
+  <guid>https://www.resourcesdatabase.com/posts/191/</guid>
+  <pubDate>Wed, 28 May 2025 04:00:00 GMT</pubDate>
+  <media:content url="https://learn.r-journalism.com/images/badge.png" medium="image" type="image/png"/>
+</item>
+<item>
+  <title>{B4F502887207:/posts/181/index.html}</title>
+  <dc:creator>Dr. Joscelin Rocha-Hidalgo</dc:creator>
+  <link>https://www.resourcesdatabase.com/posts/181/</link>
+  <description>{B4F502887207:/posts/181/index.html}</description>
+  <category>visualization</category>
+  <category>geospatial</category>
+  <guid>https://www.resourcesdatabase.com/posts/181/</guid>
+  <pubDate>Sun, 25 May 2025 04:00:00 GMT</pubDate>
+  <media:content url="https://www.resourcesdatabase.com/posts/181/featured.png" medium="image" type="image/png" height="103" width="144"/>
+</item>
+<item>
+  <title>{B4F502887207:/posts/187/index.html}</title>
+  <dc:creator>Dr. Joscelin Rocha-Hidalgo</dc:creator>
+  <link>https://www.resourcesdatabase.com/posts/187/</link>
+  <description>{B4F502887207:/posts/187/index.html}</description>
+  <category>visualization</category>
+  <category>geospatial</category>
+  <guid>https://www.resourcesdatabase.com/posts/187/</guid>
+  <pubDate>Sun, 25 May 2025 04:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>{B4F502887207:/posts/190/index.html}</title>
+  <dc:creator>Dr. Joscelin Rocha-Hidalgo</dc:creator>
+  <link>https://www.resourcesdatabase.com/posts/190/</link>
+  <description>{B4F502887207:/posts/190/index.html}</description>
+  <category>intro</category>
+  <category>learning R</category>
+  <guid>https://www.resourcesdatabase.com/posts/190/</guid>
+  <pubDate>Sun, 25 May 2025 04:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>{B4F502887207:/posts/121/index.html}</title>
+  <dc:creator>Dr. Joscelin Rocha-Hidalgo</dc:creator>
+  <link>https://www.resourcesdatabase.com/posts/121/</link>
+  <description>{B4F502887207:/posts/121/index.html}</description>
+  <category>learning R</category>
+  <category>book</category>
+  <category>intro</category>
+  <guid>https://www.resourcesdatabase.com/posts/121/</guid>
+  <pubDate>Sat, 24 May 2025 04:00:00 GMT</pubDate>
+  <media:content url="https://ab604.github.io/docs/coding-together-2019/img/carrick-bend.png" medium="image" type="image/png"/>
+</item>
+<item>
+  <title>{B4F502887207:/posts/122/index.html}</title>
+  <dc:creator>Dr. Joscelin Rocha-Hidalgo</dc:creator>
+  <link>https://www.resourcesdatabase.com/posts/122/</link>
+  <description>{B4F502887207:/posts/122/index.html}</description>
+  <category>learning R</category>
+  <category>intro</category>
+  <guid>https://www.resourcesdatabase.com/posts/122/</guid>
+  <pubDate>Sat, 24 May 2025 04:00:00 GMT</pubDate>
+  <media:content url="https://www.resourcesdatabase.com/posts/122/featured.png" medium="image" type="image/png" height="73" width="144"/>
+</item>
+<item>
+  <title>{B4F502887207:/posts/123/index.html}</title>
+  <dc:creator>Dr. Joscelin Rocha-Hidalgo</dc:creator>
+  <link>https://www.resourcesdatabase.com/posts/123/</link>
+  <description>{B4F502887207:/posts/123/index.html}</description>
+  <category>learning R</category>
+  <category>package</category>
+  <category>tidyverse</category>
+  <guid>https://www.resourcesdatabase.com/posts/123/</guid>
+  <pubDate>Sat, 24 May 2025 04:00:00 GMT</pubDate>
+  <media:content url="https://www.resourcesdatabase.com/posts/123/featured.png" medium="image" type="image/png" height="101" width="144"/>
+</item>
+<item>
+  <title>{B4F502887207:/posts/140/index.html}</title>
+  <dc:creator>Dr. Joscelin Rocha-Hidalgo</dc:creator>
+  <link>https://www.resourcesdatabase.com/posts/140/</link>
+  <description>{B4F502887207:/posts/140/index.html}</description>
+  <category>quarto</category>
+  <guid>https://www.resourcesdatabase.com/posts/140/</guid>
+  <pubDate>Sat, 24 May 2025 04:00:00 GMT</pubDate>
+  <media:content url="https://meghan.rbind.io/blog/2024-08-14-quarto-templates/yaml.png" medium="image" type="image/png"/>
+</item>
+<item>
+  <title>{B4F502887207:/posts/142/index.html}</title>
+  <dc:creator>Dr. Joscelin Rocha-Hidalgo</dc:creator>
+  <link>https://www.resourcesdatabase.com/posts/142/</link>
+  <description>{B4F502887207:/posts/142/index.html}</description>
+  <category>learning R</category>
+  <category>data science</category>
+  <category>intro</category>
+  <category>book</category>
+  <category>statistics</category>
+  <category>wrangling</category>
+  <category>tidyverse</category>
+  <category>meta-analysis</category>
+  <guid>https://www.resourcesdatabase.com/posts/142/</guid>
+  <pubDate>Sat, 24 May 2025 04:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>{B4F502887207:/posts/102/index.html}</title>
+  <dc:creator>Dr. Joscelin Rocha-Hidalgo</dc:creator>
+  <link>https://www.resourcesdatabase.com/posts/102/</link>
+  <description>{B4F502887207:/posts/102/index.html}</description>
+  <category>Joscelin&#39;s fav</category>
+  <category>wrangling</category>
+  <category>package</category>
+  <guid>https://www.resourcesdatabase.com/posts/102/</guid>
+  <pubDate>Fri, 23 May 2025 04:00:00 GMT</pubDate>
+  <media:content url="https://dillonhammill.github.io/DataEditR/logo.png" medium="image" type="image/png"/>
+</item>
+<item>
+  <title>{B4F502887207:/posts/105/index.html}</title>
+  <dc:creator>Dr. Joscelin Rocha-Hidalgo</dc:creator>
+  <link>https://www.resourcesdatabase.com/posts/105/</link>
+  <description>{B4F502887207:/posts/105/index.html}</description>
+  <category>Joscelin&#39;s fav</category>
+  <category>package</category>
+  <category>statistics</category>
+  <guid>https://www.resourcesdatabase.com/posts/105/</guid>
+  <pubDate>Fri, 23 May 2025 04:00:00 GMT</pubDate>
+  <media:content url="https://raw.githubusercontent.com/tidyverts/fable/main/man/figures/logo.png" medium="image" type="image/png"/>
+</item>
+<item>
+  <title>{B4F502887207:/posts/108/index.html}</title>
+  <dc:creator>Dr. Joscelin Rocha-Hidalgo</dc:creator>
+  <link>https://www.resourcesdatabase.com/posts/108/</link>
+  <description>{B4F502887207:/posts/108/index.html}</description>
+  <category>Joscelin&#39;s fav</category>
+  <category>package</category>
+  <category>statistics</category>
+  <category>bayesian</category>
+  <guid>https://www.resourcesdatabase.com/posts/108/</guid>
+  <pubDate>Fri, 23 May 2025 04:00:00 GMT</pubDate>
+  <media:content url="https://easystats.github.io/parameters/logo.png" medium="image" type="image/png"/>
+</item>
+<item>
+  <title>{B4F502887207:/posts/112/index.html}</title>
+  <dc:creator>Dr. Joscelin Rocha-Hidalgo</dc:creator>
+  <link>https://www.resourcesdatabase.com/posts/112/</link>
+  <description>{B4F502887207:/posts/112/index.html}</description>
+  <category>Joscelin&#39;s fav</category>
+  <guid>https://www.resourcesdatabase.com/posts/112/</guid>
+  <pubDate>Fri, 23 May 2025 04:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>{B4F502887207:/posts/169/index.html}</title>
+  <dc:creator>Dr. Joscelin Rocha-Hidalgo</dc:creator>
+  <link>https://www.resourcesdatabase.com/posts/169/</link>
+  <description>{B4F502887207:/posts/169/index.html}</description>
+  <category>package</category>
+  <category>style</category>
+  <guid>https://www.resourcesdatabase.com/posts/169/</guid>
+  <pubDate>Thu, 22 May 2025 04:00:00 GMT</pubDate>
+  <media:content url="https://github.com/r-lib/lintr/raw/main/man/figures/logo.png" medium="image" type="image/png"/>
+</item>
+<item>
+  <title>{B4F502887207:/posts/84/index.html}</title>
+  <dc:creator>Dr. Joscelin Rocha-Hidalgo</dc:creator>
+  <link>https://www.resourcesdatabase.com/posts/84/</link>
+  <description>{B4F502887207:/posts/84/index.html}</description>
+  <category>llm</category>
+  <category>blog</category>
+  <guid>https://www.resourcesdatabase.com/posts/84/</guid>
+  <pubDate>Tue, 20 May 2025 04:00:00 GMT</pubDate>
+  <media:content url="https://www.resourcesdatabase.com/posts/84/featured.png" medium="image" type="image/png" height="114" width="144"/>
+</item>
+<item>
+  <title>{B4F502887207:/posts/93/index.html}</title>
+  <dc:creator>Dr. Joscelin Rocha-Hidalgo</dc:creator>
+  <link>https://www.resourcesdatabase.com/posts/93/</link>
+  <description>{B4F502887207:/posts/93/index.html}</description>
+  <category>bayesian</category>
+  <category>statistics</category>
+  <category>psychometrics</category>
+  <category>tutorial</category>
+  <guid>https://www.resourcesdatabase.com/posts/93/</guid>
+  <pubDate>Tue, 20 May 2025 04:00:00 GMT</pubDate>
+  <media:content url="https://cogpsychreserve.netlify.app/posts/dotprobereliability/index_files/figure-html/unnamed-chunk-4-1.png" medium="image" type="image/png"/>
+</item>
+<item>
+  <title>{B4F502887207:/posts/61/index.html}</title>
+  <dc:creator>Dr. Joscelin Rocha-Hidalgo</dc:creator>
+  <link>https://www.resourcesdatabase.com/posts/61/</link>
+  <description>{B4F502887207:/posts/61/index.html}</description>
+  <category>datasets</category>
+  <guid>https://www.resourcesdatabase.com/posts/61/</guid>
+  <pubDate>Mon, 19 May 2025 04:00:00 GMT</pubDate>
+  <media:content url="https://opendata.cityofnewyork.us/wp-content/themes/opendata-wp/assets/img/nyc-open-data-logo.svg" medium="image" type="image/svg+xml"/>
+</item>
+<item>
+  <title>{B4F502887207:/posts/63/index.html}</title>
+  <dc:creator>Dr. Joscelin Rocha-Hidalgo</dc:creator>
+  <link>https://www.resourcesdatabase.com/posts/63/</link>
+  <description>{B4F502887207:/posts/63/index.html}</description>
+  <category>datasets</category>
+  <guid>https://www.resourcesdatabase.com/posts/63/</guid>
+  <pubDate>Mon, 19 May 2025 04:00:00 GMT</pubDate>
+  <media:content url="https://neurovault.org/static/images/neurovault-logo.svg" medium="image" type="image/svg+xml"/>
+</item>
+<item>
+  <title>{B4F502887207:/posts/74/index.html}</title>
+  <dc:creator>Dr. Joscelin Rocha-Hidalgo</dc:creator>
+  <link>https://www.resourcesdatabase.com/posts/74/</link>
+  <description>{B4F502887207:/posts/74/index.html}</description>
+  <category>tricks</category>
+  <guid>https://www.resourcesdatabase.com/posts/74/</guid>
+  <pubDate>Mon, 19 May 2025 04:00:00 GMT</pubDate>
+</item>
+</channel>
+</rss>
