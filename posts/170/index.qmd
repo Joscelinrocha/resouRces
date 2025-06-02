@@ -1,7 +1,7 @@
 ---
 title: "YaRrr! The Pirate's Guide"
 date: "2025-04-22"
-categories: [Learning R,book,intro,statistics,wrangling,visualization]
+categories: [learning R,book,intro,statistics,wrangling,visualization]
 image: https://bookdown.org/ndphillips/YaRrr/images/YaRrr_Cover.jpg
 image-alt: "A minimalist pirate face illustration with a large beard, eyepatch, and pirate hat featuring the R programming logo. The text 'YaRrr!' appears at the top, and 'The Pirate’s Guide to R' is written at the bottom in a script font."
 ---

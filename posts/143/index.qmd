@@ -1,7 +1,7 @@
 ---
 title: "Online R courses-Mainly free ones"
 date: "2021-04-15"
-categories: [Learning R,intro,Joscelin's fav,course]
+categories: [learning R,intro,Joscelin's fav,course]
 image: https://pll.harvard.edu/themes/custom/twel_scholar/logo.svg
 image-alt: "Harvard University logo featuring a crimson shield with three open books spelling 'VERITAS' and the words 'Harvard University' in white capital letters to the right of the shield."
 ---

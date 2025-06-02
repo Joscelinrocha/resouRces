@@ -1,7 +1,7 @@
 ---
 title: "Posit Cheat Sheets"
 date: "2025-02-20"
-categories: [Learning R]
+categories: [learning R]
 image: featured.png
 image-alt: "RStudio IDE cheat sheet by Posit summarizing features of the RStudio interface, including Documents and Apps, Source Editor, Tab Panes, Version Control, Debug Mode, and Package Development, with labeled screenshots and descriptions of key functions and workflows."
 ---
