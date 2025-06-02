@@ -1,33 +1,20 @@
 ---
-title: "Hello Quarto"
-date: "2025-04-22"
-categories: [markdown]
-image: featured.png
-image-alt: "Illustration of two penguins, one blue and one orange, taking a selfie with a selfie stick. The moon in the background looks like the Quarto logo."
+title: "Bookdown: Authoring Books and Technical Documents with R Markdown"
+date: "2024-10-25"
+categories: [markdown,book]
+image: fhttps://bookdown.org/yihui/bookdown/images/cover.jpg
+image-alt: "Book cover titled bookdown: Authoring Books and Technical Documents with R Markdown by Yihui Xie. Part of The R Series by CRC Press. The cover features a hexagon sticker with the RStudio logo and a white feather quill over a typewriter, symbolizing writing and documentation, on a hexagonal grid background."
 ---
-
 
 <link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/JoscelinRocha">![Buy me a coffee](https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg){alt="Buy me a coffee" width="15" height="21"}Buy me a coffee</a>
 
 ------------------------------------------------------------------------
 
-
-## [Bookdown: Authoring Books and Technical Documents with R Markdown](https://bookdown.org/yihui/bookdown/)
-
 By [Yihui Xie](https://bookdown.org/yihui/bookdown/)
 
-**What is this?**
+**Excerpt from ebook:** This short book introduces an R package, bookdown, to change your workflow of writing books. It should be technically easy to write a book, visually pleasant to view the book, fun to interact with the book, convenient to navigate through the book, straightforward for readers to contribute or leave feedback to the book author(s), and more importantly, authors should not always be distracted by typesetting details.
 
-**Excerpt from ebook:** This short book introduces an R
-package, bookdown, to change your workflow of writing books.
-It should be technically easy to write a book, visually
-pleasant to view the book, fun to interact with the book,
-convenient to navigate through the book, straightforward for
-readers to contribute or leave feedback to the book
-author(s), and more importantly, authors should not always
-be distracted by typesetting details.
+1.  Link to ebook here: <https://bookdown.org/yihui/bookdown/>
+2.  Link to buy book here: [CRC Press](https://www.routledge.com/bookdown-Authoring-Books-and-Technical-Documents-with-R-Markdown/Xie/p/book/9781138700109?utm_source=crcpress.com&utm_medium=referral)
 
-1.  Link to ebook here:
-    <https://bookdown.org/yihui/bookdown/>
-2.  Link to buy book here: [CRC
-    Press](https://www.routledge.com/bookdown-Authoring-Books-and-Technical-Documents-with-R-Markdown/Xie/p/book/9781138700109?utm_source=crcpress.com&utm_medium=referral)
+![](https://bookdown.org/yihui/bookdown/images/cover.jpg){fig-alt="Book cover titled bookdown: Authoring Books and Technical Documents with R Markdown by Yihui Xie. Part of The R Series by CRC Press. The cover features a hexagon sticker with the RStudio logo and a white feather quill over a typewriter, symbolizing writing and documentation, on a hexagonal grid background."}

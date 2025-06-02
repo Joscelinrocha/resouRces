@@ -2,18 +2,18 @@
 title: "Hello Quarto"
 date: "2022-07-28"
 categories: [talk]
-image: featured.png
-image-alt: "Illustration of two penguins, one blue and one orange, taking a selfie with a selfie stick. The moon in the background looks like the Quarto logo."
+image: "featured.png"
+image-alt: "Illustration of two cartoon penguins looking through a telescope under a starry night sky with the title Hello Quarto and the words share, collaborate, teach, reimagine, along with authors mine çetinkaya-rundel and julia stewart lowndes."
 ---
 
-Don't miss Julia Stewart Lowndes and I talk about Quarto at rstudio::conf(2022) at 9am ET.
-Join us in Potomac A or on the live stream at [rstd.io/conf](https://rstd.io/conf).
+Don't miss Julia Stewart Lowndes and I talk about Quarto at rstudio::conf(2022) at 9am ET. Join us in Potomac A or on the live stream at [rstd.io/conf](https://rstd.io/conf).
 
-Our talks is titled **Hello Quarto: Share + Collaborate + Teach + Reimagine**.
-And our slides are at [mine.quarto.pub/hello-quarto](https://mine.quarto.pub/hello-quarto) if you'd like to follow along!
+Our talks is titled **Hello Quarto: Share + Collaborate + Teach + Reimagine**. And our slides are at [mine.quarto.pub/hello-quarto](https://mine.quarto.pub/hello-quarto) if you'd like to follow along!
 
 ## Learn more
 
 -   Repo for slides: [github.com/mine-cetinkaya-rundel/hello-quarto](https://github.com/mine-cetinkaya-rundel/hello-quarto)
 -   Repo for the demo website we create in the talk: [github.com/mine-cetinkaya-rundel/hello-quarto-demo](https://github.com/mine-cetinkaya-rundel/hello-quarto-demo)
 -   Conference schedule for more Quarto talks on Day 2 of the conference: [rstudio.com/conference/2022/schedule](https://www.rstudio.com/conference/2022/schedule/)
+
+![](featured.png){fig-alt="Illustration of two cartoon penguins looking through a telescope under a starry night sky with the title Hello Quarto and the words share, collaborate, teach, reimagine, along with authors mine çetinkaya-rundel and julia stewart lowndes."}

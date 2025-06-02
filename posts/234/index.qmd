@@ -1,31 +1,21 @@
 ---
-title: "Hello Quarto"
-date: "2025-04-22"
+title: "Meta RMarkdown - Taxonomy and Use cases"
+date: "2020-07-25"
 categories: [markdown]
-image: featured.png
-image-alt: "Illustration of two penguins, one blue and one orange, taking a selfie with a selfie stick. The moon in the background looks like the Quarto logo."
+image: https://themockup.blog/posts/2020-07-25-meta-rmarkdown/nyr-slide.png
+image-alt: "Slide titled Higher, further, faster with Marvelous R Markdown by @thomas_mock. The left side of the slide features large black monospaced text on a white background, with a short link at the bottom (bit.ly/marvelRMD). The right side shows a stylized image of Captain Marvel with the text RMARKDOWN STUDIOS superimposed in red, mimicking the Marvel Studios logo."
 ---
-
 
 <link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/JoscelinRocha">![Buy me a coffee](https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg){alt="Buy me a coffee" width="15" height="21"}Buy me a coffee</a>
 
 ------------------------------------------------------------------------
 
+By [Thomas Mock](https://themockup.blog/posts/2020-07-25-meta-rmarkdown/)
 
-## [Meta RMarkdown - Taxonomy and Use cases](https://themockup.blog/posts/2020-07-25-meta-rmarkdown/)
+**Excerpt from blog:** A meta collection of all things R Markdown. This post will focus on 4 core strategies of why R Markdown is SO useful and absolutely worth learning with links to external tactics/guides/write-ups of how to accomplish the various tasks.
 
-By [Thomas
-Mock](https://themockup.blog/posts/2020-07-25-meta-rmarkdown/)
+1.  Link to blog here: <https://themockup.blog/posts/2020-07-25-meta-rmarkdown/>
+2.  Link to slides here: <https://docs.google.com/presentation/d/e/2PACX-1vRo1eXJtiwo6aTA8KZ2E-bUbv2GOonC2RIVk_5eWQ5y-ADXbRamBhHaa3w1vMW6BkEPOMJ13ZahSo8Q/embed?start=false&loop=true&delayms=30000&slide=id.p>
+3.  Link to slides in pdf here: <https://github.com/jthomasmock/themockup-blog/tree/master/posts/2020-07-25-meta-rmarkdown>
 
-**What is this?****Excerpt from blog:** A meta collection of all things R
-Markdown. This post will focus on 4 core strategies of why R
-Markdown is SO useful and absolutely worth learning with
-links to external tactics/guides/write-ups of how to
-accomplish the various tasks.
-
-1.  Link to blog here:
-    <https://themockup.blog/posts/2020-07-25-meta-rmarkdown/>
-2.  Link to slides here:
-    <https://docs.google.com/presentation/d/e/2PACX-1vRo1eXJtiwo6aTA8KZ2E-bUbv2GOonC2RIVk_5eWQ5y-ADXbRamBhHaa3w1vMW6BkEPOMJ13ZahSo8Q/embed?start=false&loop=true&delayms=30000&slide=id.p>
-3.  Link to slides in pdf here:
-    <https://github.com/jthomasmock/radix_themockup/blob/master/_posts/2020-07-25-meta-rmarkdown/rmd-slides.pdf>
+![](https://themockup.blog/posts/2020-07-25-meta-rmarkdown/nyr-slide.png){fig-alt="Slide titled \"Higher, further, faster with Marvelous R Markdown\" by @thomas_mock. The left side of the slide features large black monospaced text on a white background, with a short link at the bottom (bit.ly/marvelRMD). The right side shows a stylized image of Captain Marvel with the text “RMARKDOWN STUDIOS” superimposed in red, mimicking the Marvel Studios logo."}

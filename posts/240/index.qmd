@@ -1,44 +1,21 @@
 ---
-title: "Hello Quarto"
-date: "2025-04-22"
+title: "Writing Reproducible Research Papers with R Markdown"
+date: "2022-05-24"
 categories: [markdown]
 image: featured.png
-image-alt: "Illustration of two penguins, one blue and one orange, taking a selfie with a selfie stick. The moon in the background looks like the Quarto logo."
+image-alt: "Title slide of a presentation titled Writing Reproducible Research Papers with R Markdown by Resul Umit, dated 24 May 2022, with links at the bottom to skip intro and an offer to teach the workshop."
 ---
-
 
 <link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/JoscelinRocha">![Buy me a coffee](https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg){alt="Buy me a coffee" width="15" height="21"}Buy me a coffee</a>
 
 ------------------------------------------------------------------------
 
+By [Resul Umit](https://resulumit.com/teaching/rmd_workshop#1)
 
-## [Writing Reproducible Research Papers with R Markdown](https://resulumit.com/teaching/rmd_workshop#1)
+**Excerpt from site:** Workshop about Writing Reproducible Research Papers with R Markdown. Two days, on how to write reproducible research papers with R Markdown on November 2020.
 
-By [Resul
-Umit](https://resulumit.com/teaching/rmd_workshop#1)
+200+ slides, 40+ exercises, and time for converting a real project
 
-Added Sun June 6th, 2021
+1\. Link to slides: <https://resulumit.com/teaching/rmd_workshop#1>
 
-**What is this?**
-
-**Excerpt from site:** Workshop about Writing Reproducible
-Research Papers with R Markdown. Two days, on how to write
-reproducible research papers with R Markdown on November
-2020.
-
-200+ slides, 40+ exercises, and time for converting a real
-project 1. Link to slides:
-https://resulumit.com/teaching/rmd_workshop#1
-
-1.  Link to other workshops:
-    1.  [Version Control and Collaboration with Git and
-        GitHub by Resul Umit on March
-        2021](https://resulumit.com/teaching/git_workshop.html#1)
-    2.  [Automated Web Scraping with R by Resul Umit on May
-        2021](https://resulumit.com/teaching/scrp_workshop.html#1)
-    3.  [Creating Academic Websites with R by Resul Umit on
-        April
-        2021](https://resulumit.com/teaching/rbd_workshop.html#1)
-    4.  [Working with Twitter Data in R by Resul Umit on
-        February
-        2021](https://resulumit.com/teaching/twtr_workshop.html#1)
+![](featured.png){fig-alt="Title slide of a presentation titled Writing Reproducible Research Papers with R Markdown by Resul Umit, dated 24 May 2022, with links at the bottom to skip intro and an offer to teach the workshop."}

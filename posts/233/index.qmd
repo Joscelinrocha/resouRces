@@ -1,26 +1,19 @@
 ---
-title: "Hello Quarto"
-date: "2025-04-22"
+title: "How I Teach R Markdown"
+date: "2020-05-28"
 categories: [markdown]
-image: featured.png
-image-alt: "Illustration of two penguins, one blue and one orange, taking a selfie with a selfie stick. The moon in the background looks like the Quarto logo."
+image: https://rmd4medicine.netlify.app/slides/images/rmd-nav.png
+image-alt: "Screenshot of RStudio showing an R Markdown document in progress. The left pane displays the YAML header with the title Untitled, author Alison Hill, date 8/30/2019, and output format html_document. Below the header, markdown headers ranging from # HEADER 1 to ###### HEADER 6 are listed, with syntax highlighting. A dropdown navigation menu is visible, listing document sections based on the headers. The right pane shows the formatted output with indented headers corresponding to their markdown levels."
 ---
-
 
 <link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/JoscelinRocha">![Buy me a coffee](https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg){alt="Buy me a coffee" width="15" height="21"}Buy me a coffee</a>
 
 ------------------------------------------------------------------------
 
+By [Alison Hill](https://alison.rbind.io/post/2020-05-28-how-i-teach-r-markdown/)
 
-## [How I Teach R Markdown](https://alison.rbind.io/post/2020-05-28-how-i-teach-r-markdown/) 💯
+**Excerpt from blog:** So without further ado, here are some of my guiding principles when introducing R Markdown to beginners, for those who are ready to go beyond casual knitter:
 
-By [Alison
-Hill](https://alison.rbind.io/post/2020-05-28-how-i-teach-r-markdown/)
+1.  Link to blog: <https://www.apreshill.com/blog/2020-05-how-i-teach-r-markdown/>
 
-**What is it?****Excerpt from blog:** So without further ado, here are some
-of my guiding principles when introducing R Markdown to
-beginners, for those who are ready to go beyond casual
-knitter:
-
-1.  Link to blog:
-    <https://alison.rbind.io/post/2020-05-28-how-i-teach-r-markdown/>
+![](https://rmd4medicine.netlify.app/slides/images/rmd-nav.png){fig-alt="Screenshot of RStudio showing an R Markdown document in progress. The left pane displays the YAML header with the title \"Untitled\", author \"Alison Hill\", date \"8/30/2019\", and output format \"html_document\". Below the header, markdown headers ranging from # HEADER 1 to ###### HEADER 6 are listed, with syntax highlighting. A dropdown navigation menu is visible, listing document sections based on the headers. The right pane shows the formatted output with indented headers corresponding to their markdown levels."}

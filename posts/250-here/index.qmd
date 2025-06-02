@@ -1,0 +1,19 @@
+---
+title: "Python Tutorials"
+date: "2021-12-05"
+categories: [python,video]
+image: https://yt3.googleusercontent.com/WH6jMV6z1qAQsfEJM7KTvSpTAgzUlSZNtui8utjKqjR6UgvN2vDi4czfuqk5VPUlbuO58eZu=w2276-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj
+image-alt: "CoreyMS.com banner with stylized Python logo in the background and YouTube play button icon on the right side."
+---
+
+<link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/JoscelinRocha">![Buy me a coffee](https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg){alt="Buy me a coffee" width="15" height="21"}Buy me a coffee</a>
+
+------------------------------------------------------------------------
+
+By [Corey Schafer](https://www.youtube.com/c/Coreyms/featured)
+
+**Excerpt from site:** "This channel is focused on creating tutorials and walkthroughs for software developers, programmers, and engineers. We cover topics for all different skill levels, so whether you are a beginner or have many years of experience, this channel will have something for you."
+
+1.  Link to the video tutorials here: <https://www.youtube.com/c/Coreyms/featured>
+
+![](https://yt3.googleusercontent.com/WH6jMV6z1qAQsfEJM7KTvSpTAgzUlSZNtui8utjKqjR6UgvN2vDi4czfuqk5VPUlbuO58eZu=w2276-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj){fig-alt="CoreyMS.com banner with stylized Python logo in the background and YouTube play button icon on the right side."}

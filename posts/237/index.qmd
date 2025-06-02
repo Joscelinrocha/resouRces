@@ -1,20 +1,17 @@
 ---
-title: "Hello Quarto"
+title: "R-Markdown Table generator"
 date: "2025-04-22"
 categories: [markdown]
-image: featured.png
-image-alt: "Illustration of two penguins, one blue and one orange, taking a selfie with a selfie stick. The moon in the background looks like the Quarto logo."
+image: "featured.png"
+image-alt: "Screenshot of the Tables Generator interface on the Markdown tab. A 5-column, 4-row table is being edited with formatting options such as bold, italic, and text alignment above the grid. Below the grid, the generated Markdown table code is displayed. Checkboxes are available for options like Put tabs between columns, Compact mode, and Line breaks as br."
 ---
-
 
 <link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/JoscelinRocha">![Buy me a coffee](https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg){alt="Buy me a coffee" width="15" height="21"}Buy me a coffee</a>
 
 ------------------------------------------------------------------------
 
+Table generator to add to R-Markdown
 
-## [R-Markdown Table generator](https://www.tablesgenerator.com/markdown_tables)
+1.  Link to web-tool here: <https://www.tablesgenerator.com/markdown_tables>
 
-**What is this?**Table generator to add to R-Markdown
-
-1.  Link to web-tool here:
-    <https://www.tablesgenerator.com/markdown_tables>
+![](featured.png){fig-alt="Screenshot of the Tables Generator interface on the Markdown tab. A 5-column, 4-row table is being edited with formatting options such as bold, italic, and text alignment above the grid. Below the grid, the generated Markdown table code is displayed. Checkboxes are available for options like Put tabs between columns, Compact mode, and Line breaks as br."}

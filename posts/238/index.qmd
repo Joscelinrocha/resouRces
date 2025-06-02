@@ -1,26 +1,15 @@
 ---
-title: "Hello Quarto"
+title: "R Markdown for Scientists"
 date: "2025-04-22"
-categories: [markdown]
-image: featured.png
-image-alt: "Illustration of two penguins, one blue and one orange, taking a selfie with a selfie stick. The moon in the background looks like the Quarto logo."
+categories: [markdown,book]
 ---
-
 
 <link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/JoscelinRocha">![Buy me a coffee](https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg){alt="Buy me a coffee" width="15" height="21"}Buy me a coffee</a>
 
 ------------------------------------------------------------------------
 
-
-## [R Markdown for Scientists](https://rmd4sci.njtierney.com/)
-
 By [Nicholas Tierney](https://rmd4sci.njtierney.com/)
 
-**What is this?**
-
-**Excerpt from site:** This is a book on rmarkdown, aimed
-for scientists. It was initially developed as a 3 hour
-workshop, but is now developed into a resource that will
-grow and change over time as a living book.
+**Excerpt from site:** This is a book on rmarkdown, aimed for scientists. It was initially developed as a 3 hour workshop, but is now developed into a resource that will grow and change over time as a living book.
 
 1.  Link to web-book here: <https://rmd4sci.njtierney.com/>

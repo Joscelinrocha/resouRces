@@ -1,29 +1,19 @@
 ---
-title: "Hello Quarto"
+title: "R Markdown: The Definitive Guide"
 date: "2025-04-22"
-categories: [markdown]
-image: featured.png
-image-alt: "Illustration of two penguins, one blue and one orange, taking a selfie with a selfie stick. The moon in the background looks like the Quarto logo."
+categories: [markdown,book,Joscelin's fav]
+image: https://bookdown.org/yihui/rmarkdown/images/cover.png
+image-alt: "Cover of R Markdown: The Definitive Guide from The R Series by Yihui Xie, J. J. Allaire, and Garrett Grolemund. The design features a large gray R surrounded by icons representing output formats like HTML, PDF, Word, LaTeX, ePub, Kindle, and Tufte. Published by CRC Press."
 ---
-
 
 <link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/JoscelinRocha">![Buy me a coffee](https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg){alt="Buy me a coffee" width="15" height="21"}Buy me a coffee</a>
 
 ------------------------------------------------------------------------
 
+By [Yihui Xie, J. J. Allaire, & Garrett Grolemund](https://bookdown.org/yihui/rmarkdown/#)
 
-## [R Markdown: The Definitive Guide](https://bookdown.org/yihui/rmarkdown/#)💯 💯
+**Excerpt from ebook:** Note that this book is intended to be a guide instead of the comprehensive documentation of all topics related to R Markdown. Some chapters are only overviews, and you may need to consult the full documentation elsewhere (often freely available online)
 
-By [Yihui Xie, J. J. Allaire, & Garrett
-Grolemund](https://bookdown.org/yihui/rmarkdown/#)
+1.  Link to ebook here: <https://bookdown.org/yihui/rmarkdown/#>
 
-**What is this?**
-
-**Excerpt from ebook:** Note that this book is intended to
-be a guide instead of the comprehensive documentation of all
-topics related to R Markdown. Some chapters are only
-overviews, and you may need to consult the full
-documentation elsewhere (often freely available online)
-
-1.  Link to ebook here:
-    <https://bookdown.org/yihui/rmarkdown/#>
+![](https://bookdown.org/yihui/rmarkdown/images/cover.png){fig-alt="Cover of R Markdown: The Definitive Guide from The R Series by Yihui Xie, J. J. Allaire, and Garrett Grolemund. The design features a large gray \"R\" surrounded by icons representing output formats like HTML, PDF, Word, LaTeX, ePub, Kindle, and Tufte. Published by CRC Press."}

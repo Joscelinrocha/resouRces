@@ -1,27 +1,21 @@
 ---
-title: "Hello Quarto"
-date: "2025-04-22"
-categories: [python]
-image: featured.png
-image-alt: "Illustration of two penguins, one blue and one orange, taking a selfie with a selfie stick. The moon in the background looks like the Quarto logo."
+title: "Python & R for the Modern Data Scientist"
+date: "2021-12-08"
+categories: [python,Joscelin's fav,book]
+image: https://github.com/moderndatadesign/PyR4MDS/raw/master/book_cover.jpeg
+image-alt: "Cover of the book Python and R for the Modern Data Scientist by Rick J. Scavetta and Boyan Angelov, featuring a detailed illustration of a squid and the tagline The Best of Both Worlds."
 ---
-
 
 <link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/JoscelinRocha">![Buy me a coffee](https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg){alt="Buy me a coffee" width="15" height="21"}Buy me a coffee</a>
 
 ------------------------------------------------------------------------
 
-
-## [Python & R for the Modern Data Scientist](https://github.com/moderndatadesign/PyR4MDS)💯
-
 By [Rick J Scavetta & Boyan Angelov](https://github.com/moderndatadesign/PyR4MDS)
-
-Added Sun Dec 12, 2021
-
-**What is this?**
 
 **Excerpt from site:** "With this book, data scientists from the Python and R communities will learn how to speak the dialects of each language. By recognizing the strengths of working with both, you'll discover new ways to accomplish data science tasks and expand your skill set."
 
 1.  Link to Appendix A: A Python - R Bilingual Dictionary by Rick J Scavetta here 💯: <http://www.ylz.ncx.mybluehost.me/moderndata.design/PyR4MDS/>
 2.  Link to book to buy here: <https://www.oreilly.com/library/view/python-and-r/9781492093398/>
 3.  Link to github repo and code: <https://github.com/moderndatadesign/PyR4MDS>
+
+![](https://github.com/moderndatadesign/PyR4MDS/raw/master/book_cover.jpeg){fig-alt="Cover of the book Python and R for the Modern Data Scientist by Rick J. Scavetta and Boyan Angelov, featuring a detailed illustration of a squid and the tagline The Best of Both Worlds."}

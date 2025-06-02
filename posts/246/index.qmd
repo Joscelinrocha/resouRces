@@ -1,25 +1,19 @@
 ---
-title: "Hello Quarto"
-date: "2025-04-22"
-categories: [python]
+title: "Pydon'ts -- Write elegant Python code"
+date: "2021-12-23"
+categories: [python,not r related]
 image: featured.png
-image-alt: "Illustration of two penguins, one blue and one orange, taking a selfie with a selfie stick. The moon in the background looks like the Quarto logo."
+image-alt: "Stylized banner with the phrase Pydon's and the tagline Write elegant Python code, featuring the Python logo, over a background of colorful rock formations."
 ---
-
 
 <link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/JoscelinRocha">![Buy me a coffee](https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg){alt="Buy me a coffee" width="15" height="21"}Buy me a coffee</a>
 
 ------------------------------------------------------------------------
 
-
-## [Pydon'ts -- Write elegant Python code](https://mathspp.gumroad.com/l/pydonts)
-
 By [Rodrigo](https://mathspp.gumroad.com/l/pydonts)
-
-Added Sun Dec 12, 2021
-
-**What is this?**
 
 **Excerpt from site:** "Would you like me to teach you how to write Python 🐍 code that is more elegant, more effective, and more expressive than what you have been writing until now... for free?"
 
 1.  Link to post here: <https://mathspp.gumroad.com/l/pydonts>
+
+![](https://public-files.gumroad.com/ue65mhrc2seb3z0hhn4wlor2g7wi){fig-alt="Stylized banner with the phrase Pydon's and the tagline Write elegant Python code, featuring the Python logo, over a background of colorful rock formations."}

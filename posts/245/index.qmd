@@ -1,25 +1,19 @@
 ---
-title: "Hello Quarto"
-date: "2025-04-22"
-categories: [python]
+title: "Plotnine: Grammar of Graphics for Python"
+date: "2021-12-22"
+categories: [python,visualization]
 image: featured.png
-image-alt: "Illustration of two penguins, one blue and one orange, taking a selfie with a selfie stick. The moon in the background looks like the Quarto logo."
+image-alt: "Hexbin plot showing the relationship between diamond carat and price, with color intensity representing count; higher carat diamonds generally have higher prices."
 ---
-
 
 <link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/JoscelinRocha">![Buy me a coffee](https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg){alt="Buy me a coffee" width="15" height="21"}Buy me a coffee</a>
 
 ------------------------------------------------------------------------
 
-
-## [Plotnine: Grammar of Graphics for Python](https://datascienceworkshops.com/blog/plotnine-grammar-of-graphics-for-python/)
-
 By [Jeroen Janssens](https://datascienceworkshops.com/blog/plotnine-grammar-of-graphics-for-python/)
-
-Added Sun Dec 12, 2021
-
-**What is this?**
 
 **Excerpt from site:** "plotnine is a data visualisation package for Python based on the grammar of graphics, created by Hassan Kibirige. Its API is similar to ggplot2, a widely successful R package by Hadley Wickham and others".
 
 1.  Link to post here: <https://datascienceworkshops.com/blog/plotnine-grammar-of-graphics-for-python/>
+
+![](https://jeroenjanssens.com/img/plotnine_files/9rkLQ2NG_p-1209.webp){fig-alt="Hexbin plot showing the relationship between diamond carat and price, with color intensity representing count; higher carat diamonds generally have higher prices."}

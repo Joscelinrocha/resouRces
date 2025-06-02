@@ -1,21 +1,19 @@
 ---
-title: "Hello Quarto"
-date: "2025-04-22"
-categories: [markdown]
-image: featured.png
-image-alt: "Illustration of two penguins, one blue and one orange, taking a selfie with a selfie stick. The moon in the background looks like the Quarto logo."
+title: "An Introduction to R Markdown"
+date: "2022-09-22"
+categories: [markdown,intro]
+image: "featured.png"
+image-alt: 'Slide titled An Introduction to R Markdown by Dr. Alison Hill from RStudio. On the left, there is an illustration of a woman lounging in a red armchair with a laptop and a cat at her feet. She is surrounded by potted plants and wall shelves with books, a vase of flowers, and a fishbowl. On the right side of the slide is the URL: https://rstd.io/rmd4cdc.'
 ---
-
 
 <link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/JoscelinRocha">![Buy me a coffee](https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg){alt="Buy me a coffee" width="15" height="21"}Buy me a coffee</a>
 
 ------------------------------------------------------------------------
 
-
-## [An introduction to R-Markdown](https://apreshill.github.io/rmd4cdc/#1)
-
 By [Dr. Alison Hill](https://apreshill.github.io/rmd4cdc/#1)
 
-**What is this?**Slides giving an introduction to R-Markdown
+Slides giving an introduction to R-Markdown
 
 1.  Link to slides: <https://apreshill.github.io/rmd4cdc/#1>
+
+![](featured.png){fig-alt="Slide titled \"An Introduction to R Markdown\" by Dr. Alison Hill from RStudio. On the left, there is an illustration of a woman lounging in a red armchair with a laptop and a cat at her feet. She is surrounded by potted plants and wall shelves with books, a vase of flowers, and a fishbowl. On the right side of the slide is the URL: https://rstd.io/rmd4cdc."}
