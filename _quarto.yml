@@ -8,6 +8,7 @@ website:
   title: "resouRces"
   site-url: https://www.resourcesdatabase.com/
   description: "Database of Resources to Learn & Teach R"
+  google-analytics: "G-09569V4SRF"
 
   repo-url: https://github.com/Joscelinrocha/resouRces/
   repo-actions: [edit, issue]
