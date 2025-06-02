@@ -1,7 +1,7 @@
 ---
 title: "Hello Quarto"
 date: "2021-10-09"
-categories: [Learning R,book]
+categories: [learning R,book]
 image: "featured.png"
 image-alt: "Illustration of two penguins, one blue and one orange, taking a selfie with a selfie stick. The moon in the background looks like the Quarto logo."
 ---

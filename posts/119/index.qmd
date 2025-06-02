@@ -1,7 +1,7 @@
 ---
 title: "Beginner's Guide to R"
 date: "2025-04-22"
-categories: [Learning R,intro]
+categories: [learning R,intro]
 image: "featured.png"
 image-alt: "Illustration of two penguins, one blue and one orange, taking a selfie with a selfie stick. The moon in the background looks like the Quarto logo."
 ---

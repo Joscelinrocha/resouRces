@@ -1,7 +1,7 @@
 ---
 title: "The Power of Internal Packages"
 date: "2025-05-24"
-categories: [Learning R,package,tidyverse]
+categories: [learning R,package,tidyverse]
 image: "featured.png"
 image-alt: "Presentation slide titled 'Data Wrangling in the Tidyverse' by Nick Huntington-Klein, dated 26 February, 2023, displayed on a plain white background."
 ---

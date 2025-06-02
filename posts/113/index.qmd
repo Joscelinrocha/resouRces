@@ -1,7 +1,7 @@
 ---
 title: "A gentle crash course in R using tidyverse"
 date: "2025-04-22"
-categories: [Learning R,tidyverse]
+categories: [learning R,tidyverse]
 image: https://www.improvingpsych.org/SIPS2018/wp-content/uploads/2018/01/Society-for-the-Improvement-of-Psychological-Science3-300x105.png
 image-alt: "Logo for the Society for the Improvement of Psychological Science (SIPS), featuring the acronym 'SIPS' in bold navy blue letters encircled by overlapping multicolored rings, with the full organization name to the right."
 ---

@@ -1,7 +1,7 @@
 ---
 title: "An Introduction to R"
 date: "2025-02-20"
-categories: [Learning R,book,intro]
+categories: [learning R,book,intro]
 image: https://intro2r.com/images/cover_v3.png
 image-alt: "Cover of the book 'An Introduction to R' by Alex Douglas, Deon Roos, Francesca Mancini, Ana Couto, and David Lusseau, featuring a geometric pattern of nested, multicolored rectangles on a beige background."
 ---
