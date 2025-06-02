@@ -2,7 +2,7 @@
 title: "ggsegExtra"
 date: "2025-04-22"
 categories: [neuro]
-image: fhttps://github.com/ggseg/ggsegExtra/raw/master/man/figures/logo.png
+image: https://github.com/ggseg/ggsegExtra/raw/master/man/figures/logo.png
 image-alt: "A hexagon-shaped logo with a dark gray outer border and black background, featuring a simplified illustration of a human brain hemisphere divided into large pastel-colored anatomical regions in pink, green, lavender, and blue. Fine boundary lines outline each region. Below the illustration, the text ggsegExtra is written in white serif font, indicating an extension of the ggseg R package for brain visualization."
 ---
 

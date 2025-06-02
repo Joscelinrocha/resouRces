@@ -2,7 +2,7 @@
 title: "Pydon'ts -- Write elegant Python code"
 date: "2021-12-23"
 categories: [python,not r related]
-image: featured.png
+image: "featured.png"
 image-alt: "Stylized banner with the phrase Pydon's and the tagline Write elegant Python code, featuring the Python logo, over a background of colorful rock formations."
 ---
 
@@ -16,4 +16,6 @@ By [Rodrigo](https://mathspp.gumroad.com/l/pydonts)
 
 1.  Link to post here: <https://mathspp.gumroad.com/l/pydonts>
 
-![](https://public-files.gumroad.com/ue65mhrc2seb3z0hhn4wlor2g7wi){fig-alt="Stylized banner with the phrase Pydon's and the tagline Write elegant Python code, featuring the Python logo, over a background of colorful rock formations."}
+![](https://public-files.gumroad.com/ada8gat7bvi22c5046xfobpu3gtj)
+
+![](featured.png){fig-alt="Stylized banner with the phrase Pydon's and the tagline Write elegant Python code, featuring the Python logo, over a background of colorful rock formations."}

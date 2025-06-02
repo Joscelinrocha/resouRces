@@ -2,7 +2,7 @@
 title: "Bookdown: Authoring Books and Technical Documents with R Markdown"
 date: "2024-10-25"
 categories: [markdown,book]
-image: fhttps://bookdown.org/yihui/bookdown/images/cover.jpg
+image: https://bookdown.org/yihui/bookdown/images/cover.jpg
 image-alt: "Book cover titled bookdown: Authoring Books and Technical Documents with R Markdown by Yihui Xie. Part of The R Series by CRC Press. The cover features a hexagon sticker with the RStudio logo and a white feather quill over a typewriter, symbolizing writing and documentation, on a hexagonal grid background."
 ---
 

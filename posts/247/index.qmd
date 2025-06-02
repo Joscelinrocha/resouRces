@@ -2,7 +2,7 @@
 title: "Python Data Science Handbook"
 date: "2021-12-11"
 categories: [python,book,not r related]
-image: featured.png
+image: https://jakevdp.github.io/PythonDataScienceHandbook/figures/PDSH-cover.png
 image-alt: "Cover of the Python Data Science Handbook by Jake VanderPlas, featuring a black and white illustration of a lizard above the title, with a red background block and Jupyter logo."
 ---
 

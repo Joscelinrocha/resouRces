@@ -2,7 +2,7 @@
 title: "Plotnine: Grammar of Graphics for Python"
 date: "2021-12-22"
 categories: [python,visualization]
-image: featured.png
+image: https://jeroenjanssens.com/img/plotnine_files/9rkLQ2NG_p-1209.webp
 image-alt: "Hexbin plot showing the relationship between diamond carat and price, with color intensity representing count; higher carat diamonds generally have higher prices."
 ---
 
