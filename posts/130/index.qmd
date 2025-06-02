@@ -1,7 +1,7 @@
 ---
 title: "Getting Started in R -- Tinyverse Edition"
 date: "2021-10-12"
-categories: [Learning R,package,visualization]
+categories: [learning R,package,visualization]
 image: https://grantmcdermott.com/tinyplot/logo.svg
 image-alt: "Hex sticker for the tinyplot R package, featuring an easel with a stylized plot of colorful dots and density curves, and the package name 'tinyplot' written below in blue text."
 ---

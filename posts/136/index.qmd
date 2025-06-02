@@ -1,7 +1,7 @@
 ---
 title: "Just Enough R"
 date: "2025-04-22"
-categories: [Learning R,book,intro]
+categories: [learning R,book,intro]
 image: https://benwhalley.github.io/just-enough-r/media/keepcalm.png
 image-alt: "White ceramic mug with a red label reading 'KEEP CALM AND LEARN JUST ENOUGH R' in white capital letters, topped with a crown graphic, mimicking the classic 'Keep Calm' design."
 ---

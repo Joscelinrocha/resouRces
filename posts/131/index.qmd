@@ -1,7 +1,7 @@
 ---
 title: "Hands-On Programming"
 date: "2025-04-22"
-categories: [Learning R,book,intro,wrangling]
+categories: [learning R,book,intro,wrangling]
 image: https://rstudio-education.github.io/hopr/cover.png
 image-alt: "Book cover of 'Hands-On Programming with R' by Garrett Grolemund, featuring a black-and-white illustration of a parrot perched above a red title box, with the subtitle 'Write Your Own Functions and Simulations' and a foreword by Hadley Wickham."
 ---

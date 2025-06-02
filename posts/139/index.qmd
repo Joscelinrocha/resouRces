@@ -1,7 +1,7 @@
 ---
 title: "Leveling Up With The Tidyverse (And Hockey Data): Carnegie Mellon Sports Analytics Conference"
 date: "2020-10-25"
-categories: [Learning R,tidyverse,hockey]
+categories: [learning R,tidyverse,hockey]
 image: "featured.png"
 image-alt: "Illustration of two penguins, one blue and one orange, taking a selfie with a selfie stick. The moon in the background looks like the Quarto logo."
 ---

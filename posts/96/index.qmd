@@ -1,7 +1,7 @@
 ---
 title: "Version Control with Git"
 date: "2020-10-25"
-categories: [git,github,not r but cool]
+categories: [git,github,not r related]
 ---
 
 <link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/JoscelinRocha">![Buy me a coffee](https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg){alt="Buy me a coffee" width="15" height="21"}Buy me a coffee</a>

@@ -1,7 +1,7 @@
 ---
 title: "Use GIT like a professional software engineer!: Git and GitHub Crash Course for beginners"
 date: "2023-04-14"
-categories: [git,github,not r but cool]
+categories: [git,github,not r related]
 ---
 
 <link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/JoscelinRocha">![Buy me a coffee](https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg){alt="Buy me a coffee" width="15" height="21"}Buy me a coffee</a>

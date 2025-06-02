@@ -1,7 +1,7 @@
 ---
 title: "Introduction to data.table"
 date: "2025-04-22"
-categories: [Learning R]
+categories: [learning R]
 image: https://raw.githubusercontent.com/Rdatatable/data.table/master/.graphics/logo.png
 image-alt: "Hex sticker for the R package data.table, featuring a yellow sea lion sitting on a stylized black table with brackets and colons, and the text 'data.table' in red below."
 ---

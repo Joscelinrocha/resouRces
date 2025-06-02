@@ -1,7 +1,7 @@
 ---
 title: "Getting Started with R"
 date: "2025-04-22"
-categories: [Learning R,intro,Joscelin's fav]
+categories: [learning R,intro,Joscelin's fav]
 image: "featured.png"
 image-alt: "Minimalist blue background with three nested white hexagons centered, resembling the hex sticker style commonly associated with R packages."
 ---

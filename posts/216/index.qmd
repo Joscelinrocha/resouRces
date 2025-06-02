@@ -1,7 +1,7 @@
 ---
 title: "fsbrain: an R package for the visualization of structural neuroimaging data"
 date: "2020-12-13"
-categories: [neuro,packge]
+categories: [neuro,package]
 image: https://github.com/dfsp-spirit/fsbrain_gallery/blob/master/surface/fsbrain_sulcal_depth_cbar_web.jpg?raw=true
 image-alt: "3D rendering of a human brain cortex with color-coded sulcal depth. The image displays both hemispheres from medial and lateral views. Depth is represented on a color scale from dark purple (shallow) to bright yellow (deep), with a labeled gradient bar beneath the brain models indicating sulcal depth in millimeters (ranging from -5 to 15 mm)."
 ---

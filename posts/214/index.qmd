@@ -1,32 +1,19 @@
 ---
-title: "Hello Quarto"
-date: "2025-04-22"
+title: "Methods for Quantitative Magnetic Resonance Imaging ('qMRI')"
+date: "2020-12-13"
 categories: [neuro]
 image: featured.png
-image-alt: "Illustration of two penguins, one blue and one orange, taking a selfie with a selfie stick. The moon in the background looks like the Quarto logo."
+image-alt: "Color-coded brain tractography image showing fiber pathways in the brain using diffusion MRI data, with streamlines in green, red, blue, and purple over a black background."
 ---
-
 
 <link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/JoscelinRocha">![Buy me a coffee](https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg){alt="Buy me a coffee" width="15" height="21"}Buy me a coffee</a>
 
 ------------------------------------------------------------------------
 
+Description from site: Implementation of methods for estimation of quantitative maps from Multi-Parameter Mapping (MPM) acquisitions (Weiskopf et al. (2013) ) including adaptive smoothing methods in the framework of the ESTATICS model (Estimating the apparent transverse relaxation time (R2\*) from images with different contrasts, Weiskopf et al. (2014) ). The smoothing method is described in Mohammadi et al. (2017). . Usage of the package is also described in Polzehl and Tabelow (2019), Magnetic Resonance Brain Imaging, Chapter 6, Springer, Use R! Series.
 
-## [Methods for Quantitative Magnetic Resonance Imaging ('qMRI')](https://cloud.r-project.org/web/packages/qMRI/index.html)
+1.  Link to package: <https://cloud.r-project.org/web/packages/qMRI/index.html>
+2.  Link to manual: <https://cloud.r-project.org/web/packages/qMRI/qMRI.pdf>
+3.  Link to developers: <https://www.wias-berlin.de/software/index.jsp?id=imaging&lang=1>
 
-Added Sunday Dec 13th, 2020**What is this?**
-
-Description from site: Implementation of methods for estimation of
-quantitative maps from Multi-Parameter Mapping (MPM) acquisitions
-(Weiskopf et al. (2013) ) including adaptive smoothing methods in the
-framework of the ESTATICS model (Estimating the apparent transverse
-relaxation time (R2\*) from images with different contrasts, Weiskopf et
-al. (2014) ). The smoothing method is described in Mohammadi et al.
-(2017). . Usage of the package is also described in Polzehl and Tabelow
-(2019), Magnetic Resonance Brain Imaging, Chapter 6, Springer, Use R!
-Series.
-
-1.  Link to package:
-    <https://cloud.r-project.org/web/packages/qMRI/index.html>
-2.  Link to manual:
-    <https://cloud.r-project.org/web/packages/qMRI/qMRI.pdf>
+![](https://www.wias-berlin.de/misc/visuals/all/sim-fg6_biomed_imaging.jpg){fig-alt="Color-coded brain tractography image showing fiber pathways in the brain using diffusion MRI data, with streamlines in green, red, blue, and purple over a black background."}

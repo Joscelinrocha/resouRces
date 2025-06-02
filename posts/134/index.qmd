@@ -1,7 +1,7 @@
 ---
 title: "Introduction to R for Statistics and Data Science"
 date: "2025-04-22"
-categories: [Learning R,course,statistics,data science]
+categories: [learning R,course,statistics,data science]
 image: https://www.adventures-in-r.com/authors/admin/avatar_hu4dd4fafbd03c4d1a001bed4e53e4bb44_6548858_270x270_fill_q90_lanczos_center.jpeg
 image-alt: "R programming language logo overlaid on a photo of Giant's Causeway, featuring hexagonal basalt columns under a cloudy sky by the sea."
 ---

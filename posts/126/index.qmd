@@ -1,7 +1,7 @@
 ---
 title: "Fundamentals of R Workshop Materials"
 date: "2025-04-22"
-categories: [Learning R,intro,statistics]
+categories: [learning R,intro,statistics]
 image: "featured.png"
 image-alt: "Presentation slide titled 'Fundamentals of R' with a grunge-style gray background and bold black text, authored by Elizabeth Page-Gould from University of Toronto and Alexander Danvers from Arizona State University, created for SIPS 2017. Includes the SIPS logo in the bottom right corner."
 ---

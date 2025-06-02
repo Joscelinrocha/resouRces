@@ -1,7 +1,7 @@
 ---
 title: "Understanding the Basics of Package Writing in R"
 date: "2023-103-28"
-categories: [packages]
+categories: [package]
 image: https://cosimameyer.com/slides/correlcon2021/img/setup.png
 image-alt: "RStudio New Project Wizard window for creating a new R package named overviewR, showing options to add source files, set directory, initialize a Git repository, and use renv."
 ---

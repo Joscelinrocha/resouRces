@@ -1,7 +1,7 @@
 ---
 title: "Forecasting: Principles and Practice"
 date: "2025-04-22"
-categories: [Learning R,book]
+categories: [learning R,book]
 image: https://otexts.com/fpp2/fpp2_cover.jpg
 image-alt: "Cover of the book 'Forecasting: Principles and Practice' by Rob J. Hyndman and George Athanasopoulos, featuring an illustration of a person drawing forecast lines on a chalkboard-like background. Subtitled 'A comprehensive introduction to the latest forecasting methods using R.' Second edition published by OTexts."
 ---

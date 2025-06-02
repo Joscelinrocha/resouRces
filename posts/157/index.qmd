@@ -1,7 +1,7 @@
 ---
 title: "Swirl"
 date: "2025-04-22"
-categories: [learning R,intro,teach]
+categories: [learning R,intro,teaching r]
 image: https://swirlstats.com/images/swirl_new_large_final.png
 image-alt: "Logo for the swirl R package featuring the word 'swirl' in lowercase letters, with black and blue text enclosed in large blue curly braces on both sides."
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Coding togetheR"
 date: "2025-05-24"
-categories: [Learning R,book,intro]
+categories: [learning R,book,intro]
 image: https://ab604.github.io/docs/coding-together-2019/img/carrick-bend.png
 image-alt: "Black and white illustration of a Carrick Bend knot, showing two interwoven ropes forming a symmetrical, basket-like pattern commonly used for securely joining heavy ropes."
 ---

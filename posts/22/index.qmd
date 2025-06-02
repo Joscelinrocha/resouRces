@@ -1,7 +1,7 @@
 ---
 title: "Streamlining with R"
 date: "2022-07-12"
-categories: [Learning R,intro]
+categories: [learning R,intro]
 image: "featured.png"
 image-alt: "Presentation slide with the title 'Streamlining with R' in bold red text, followed by presenter information: Meghan Hall, NEAIR, July 12, 2022, on a beige background."
 ---

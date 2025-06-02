@@ -1,7 +1,7 @@
 ---
 title: "Learning R as a SAS User"
 date: "2025-02-20"
-categories: [Learning R,Joscelin's fav,sas]
+categories: [learning R,Joscelin's fav,sas]
 image: https://hutchdatascience.org/data_snacks/r_snacks/images/sas-r.png
 image-alt: "SAS to R cheat sheet comparing syntax and functions, covering topics like data filtering, variable creation, renaming, grouping, summarizing, and plotting using tidyverse functions in R alongside equivalent SAS code, with visual plot examples included."
 ---

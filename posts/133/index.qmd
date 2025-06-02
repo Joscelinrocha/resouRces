@@ -1,7 +1,7 @@
 ---
 title: "Introduction to dplyr "
 date: "2025-04-22"
-categories: [Learning R,tidyverse,intro,package]
+categories: [learning R,tidyverse,intro,package]
 image: https://raw.githubusercontent.com/tidyverse/dplyr/main/man/figures/logo.png
 image-alt: "Hex sticker for the R package dplyr, featuring colorful pliers in red, blue, teal, and orange on a dark striped background, symbolizing data manipulation tools.Illustration of two penguins, one blue and one orange, taking a selfie with a selfie stick. The moon in the background looks like the Quarto logo."
 ---

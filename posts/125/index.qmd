@@ -1,7 +1,7 @@
 ---
 title: "Keeping it Tidy"
 date: "2025-04-22"
-categories: [Learning R,tidyverse,wrangling,visualization,intro]
+categories: [learning R,tidyverse,wrangling,visualization,intro]
 image: https://meghan.quarto.pub/keeping-it-tidy/images/image.png
 image-alt: "Promotional graphic for an R-Ladies Paris event featuring Meghan Hall, titled 'Keeping it Tidy: Using the Tidyverse to Efficiently Organize, Transform, and Visualize Data,' held on September 8, 2022 at 7pm CEST via Zoom. Includes tidyverse logo, Meghan Hall’s photo, and social media icons and links."
 ---

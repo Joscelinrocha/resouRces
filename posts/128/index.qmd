@@ -1,7 +1,7 @@
 ---
 title: "Get R Done | R Stats Tutorials"
 date: "2025-04-22"
-categories: [Learning R,video,intro]
+categories: [learning R,video,intro]
 image: featured.png
 image-alt: "Thumbnail image for a video titled 'Why you Should Learn R' featuring a man with a beard wearing a checked shirt, with the phrase 'Get R Done' in the top-left corner and an R console prompt symbol at the bottom-left."
 ---

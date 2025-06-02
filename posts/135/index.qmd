@@ -1,7 +1,7 @@
 ---
 title: "Intro to R for Biologists"
 date: "2025-04-22"
-categories: [Learning R,intro]
+categories: [learning R,intro]
 image: "featured.png"
 image-alt: "Webpage header with the text 'Introduction to R' over a blue background of repeated DNA base sequences (A, T, C, G), with a transparent button labeled 'View on GitHub' below."
 ---
