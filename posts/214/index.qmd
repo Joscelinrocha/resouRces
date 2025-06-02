@@ -2,7 +2,7 @@
 title: "Methods for Quantitative Magnetic Resonance Imaging ('qMRI')"
 date: "2020-12-13"
 categories: [neuro]
-image: featured.png
+image: https://www.wias-berlin.de/misc/visuals/all/sim-fg6_biomed_imaging.jpg
 image-alt: "Color-coded brain tractography image showing fiber pathways in the brain using diffusion MRI data, with streamlines in green, red, blue, and purple over a black background."
 ---
 
