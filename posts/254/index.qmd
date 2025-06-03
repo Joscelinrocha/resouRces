@@ -1,23 +1,91 @@
 ---
-title: "Hello Quarto"
+title: "An introduction to statistics in R"
 date: "2025-04-22"
-categories: [statistics]
-image: featured.png
-image-alt: "Illustration of two penguins, one blue and one orange, taking a selfie with a selfie stick. The moon in the background looks like the Quarto logo."
+categories: [statistics,intro,learning R]
 ---
-
 
 <link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/JoscelinRocha">![Buy me a coffee](https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg){alt="Buy me a coffee" width="15" height="21"}Buy me a coffee</a>
 
 ------------------------------------------------------------------------
 
-
-## [An introduction to statistics in R](http://petersonbiology.com/math230Notes/dataInR.html)
-
 By [Mark Peterson](http://petersonbiology.com/math230Notes/dataInR.html)
-
-**What is this?**
 
 **Excerpt from site:** A series of tutorials by Mark Peterson for working in R
 
 1.  Link to site here: <http://petersonbiology.com/math230Notes/dataInR.html>
+
+# **Chapter Navigation**
+
+1.  [Basics of Data in R](https://petersonbiology.com/math230Notes/dataInR.html)
+
+2.  [Plotting and evaluating one categorical variable](https://petersonbiology.com/math230Notes/oneCategoricalVar.html)
+
+3.  [Plotting and evaluating two categorical variables](https://petersonbiology.com/math230Notes/twoCategoricalVar.html)
+
+4.  [Analyzing shape and center of one quantitative variable](https://petersonbiology.com/math230Notes/oneQuantShapeAndCenter.html)
+
+5.  [Analyzing the spread of one quantitative variable](https://petersonbiology.com/math230Notes/oneQuantSpread.html)
+
+6.  [Relationships between quantitative and categorical data](https://petersonbiology.com/math230Notes/quantAndCatVariables.html)
+
+7.  [Relationships between two quantitative variables](https://petersonbiology.com/math230Notes/relateQuantVars.html)
+
+8.  [Final Thoughts on linear regression](https://petersonbiology.com/math230Notes/finalThoughtsLM.html)
+
+9.  [A bit off topic - functions, grep, and colors](https://petersonbiology.com/math230Notes/playingWithColor.html)
+
+10. [Sampling and Loops](https://petersonbiology.com/math230Notes/samplingAndLoops.html)
+
+11. [Confidence Intervals](https://petersonbiology.com/math230Notes/confIntervals.html)
+
+12. [Bootstrapping](https://petersonbiology.com/math230Notes/bootstrapSimulation.html)
+
+13. [More on Bootstrapping](https://petersonbiology.com/math230Notes/moreBootstrapping.html)
+
+14. [Hypothesis testing and p-values](https://petersonbiology.com/math230Notes/introHypothesisTestsAndPvalues.html)
+
+15. [Differences in proportions and statistical thresholds](https://petersonbiology.com/math230Notes/statThresholdsProportions.html)
+
+16. [Hypothesis testing for means](https://petersonbiology.com/math230Notes/hypothesisTesting_means.html)
+
+17. [Final thoughts on hypothesis testing](https://petersonbiology.com/math230Notes/finalThoughtHypTesting.html)
+
+18. [Approximating with a distribution model](https://petersonbiology.com/math230Notes/approximatingWithNormal.html)
+
+19. [Using the normal model in practice](https://petersonbiology.com/math230Notes/usingNormalApprox.html)
+
+20. [Approximating for a single proportion](https://petersonbiology.com/math230Notes/approximatingSingleProp.html)
+
+21. [Null distribution for a single proportion and limitations](https://petersonbiology.com/math230Notes/nullSinglePropAndLimitations.html)
+
+22. [Approximating for a single mean](https://petersonbiology.com/math230Notes/approximatingSingleMean.html)
+
+23. [CI and hypothesis tests for a single mean](https://petersonbiology.com/math230Notes/singMeanCIandH0test.html)
+
+24. [Approximating a difference in proportions](https://petersonbiology.com/math230Notes/samplingDistributionTwoProportions.html)
+
+25. [Hypothesis test for a difference in proportions](https://petersonbiology.com/math230Notes/hypothesisTestDiffProportions.html)
+
+26. [Difference in means](https://petersonbiology.com/math230Notes/sampDistDiffMeans.html)
+
+27. [Difference in means - Hypothesis testing and paired differences](https://petersonbiology.com/math230Notes/diffMean_H0testingAndPairedDiff.html)
+
+28. [Shortcuts](https://petersonbiology.com/math230Notes/shortcuts.html)
+
+29. [Testing categorical variables with Chi-sqare](https://petersonbiology.com/math230Notes/multipleProportions_chisq.html)
+
+30. [Testing proportions in groups](https://petersonbiology.com/math230Notes/multipleProportions_chisqAssociation.html)
+
+31. [Comparing the means of many groups](https://petersonbiology.com/math230Notes/anova.html)
+
+32. [Linear Regression](https://petersonbiology.com/math230Notes/regression.html)
+
+33. [Multiple Regression](https://petersonbiology.com/math230Notes/multipleRegression.html)
+
+34. [Basic Probability](https://petersonbiology.com/math230Notes/basicProbability.html)
+
+35. [Random variables](https://petersonbiology.com/math230Notes/randomVariables.html)
+
+36. [Conditional Probability](https://petersonbiology.com/math230Notes/conditionalProbability.html)
+
+37. [Bayesian Analysis](https://petersonbiology.com/math230Notes/bayes.html)

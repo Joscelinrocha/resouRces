@@ -1,23 +1,17 @@
 ---
-title: "Hello Quarto"
-date: "2025-04-22"
+title: "Comparing Multiple Means in R: Repeated Measures ANOVA in R"
+date: "2020-09-13"
 categories: [statistics]
-image: featured.png
-image-alt: "Illustration of two penguins, one blue and one orange, taking a selfie with a selfie stick. The moon in the background looks like the Quarto logo."
+image: https://www.datanovia.com/en/wp-content/uploads/dn-tutorials/r-statistics-2-comparing-groups-means/figures/046-repeated-measure-anova-one-way-boxplot-1.png
+image-alt: "Boxplot showing score distributions at three time points labeled t1, t2, and t3. Scores increase over time, with median values rising from around 3 at t1, to 5 at t2, and to around 7.5 at t3. Individual data points are overlaid as black dots."
 ---
-
 
 <link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/JoscelinRocha">![Buy me a coffee](https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg){alt="Buy me a coffee" width="15" height="21"}Buy me a coffee</a>
 
 ------------------------------------------------------------------------
 
-
-## [Comparing Multiple Means in R: Repeated Measures ANOVA in R](https://www.datanovia.com/en/lessons/repeated-measures-anova-in-r/)
-
-Added Sun Sep 13th, 2020
-
-**What is this?**
-
 **Excerpt from site:** This chapter describes the different types of repeated measures ANOVA, including: One-way repeated-measures ANOVA, two-way repeated-measures ANOVA, three-way repeated-measures ANOVA.
 
 1.  Link to site here: <https://www.datanovia.com/en/lessons/repeated-measures-anova-in-r/>
+
+![](https://www.datanovia.com/en/wp-content/uploads/dn-tutorials/r-statistics-2-comparing-groups-means/figures/046-repeated-measure-anova-one-way-boxplot-1.png){fig-alt="Boxplot showing score distributions at three time points labeled t1, t2, and t3. Scores increase over time, with median values rising from around 3 at t1, to 5 at t2, and to around 7.5 at t3. Individual data points are overlaid as black dots."}

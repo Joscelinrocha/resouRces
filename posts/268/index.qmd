@@ -1,24 +1,23 @@
 ---
-title: "Hello Quarto"
+title: "Don’t Repeat Yourself in R"
 date: "2025-04-22"
-categories: [statistics]
-image: featured.png
-image-alt: "Illustration of two penguins, one blue and one orange, taking a selfie with a selfie stick. The moon in the background looks like the Quarto logo."
+categories: [visualization,markdown,intro]
 ---
-
 
 <link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/JoscelinRocha">![Buy me a coffee](https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg){alt="Buy me a coffee" width="15" height="21"}Buy me a coffee</a>
 
 ------------------------------------------------------------------------
 
+By Ella Barnes and Karina Kumar, Data Fellows of the Media Innovation Group at University of Texas at Austin.
 
-## [Five different "Cohen's d" statistics for within-subject designs](http://jakewestfall.org/blog/index.php/2016/03/25/five-different-cohens-d-statistics-for-within-subject-designs/)
+## **Goals of this session**
 
-By [Cookie Scientist](http://jakewestfall.org/blog/index.php/2016/03/25/five-different-cohens-d-statistics-for-within-subject-designs/)
+-   Import multiple files at once
 
-**What is this?**
+-   Create your own function
 
-**Excerpt from blog:** What I'll show here is that there are at least 5 different and non-equivalent ways that people might compute a d-like effect size (which they would invariably simply call "Cohen's d") for Jeff's dataset, and the resulting effect sizes range from about 0.25 to 1.91.
-I'll compare and contrast these procedures and ultimately choose one that I think is the least crazy, if you must compute a standardized effect size (more on that later).
+-   Generate parameterized reports quickly
 
-1.  Link to blog here: <http://jakewestfall.org/blog/index.php/2016/03/25/five-different-cohens-d-statistics-for-within-subject-designs/>
+Why dRy? Data analysis often requires repetitive processes. These tools can help you maximize efficiency and stop repeating the same code over and over again.
+
+1.  Link to site here: <https://utdata.github.io/dRy/>

@@ -17,7 +17,35 @@
 <width>144</width>
 </image>
 <generator>quarto-1.6.42</generator>
-<lastBuildDate>Sun, 01 Jun 2025 04:00:00 GMT</lastBuildDate>
+<lastBuildDate>Mon, 02 Jun 2025 04:00:00 GMT</lastBuildDate>
+<item>
+  <title>officeverse</title>
+  <dc:creator>Dr. Joscelin Rocha-Hidalgo</dc:creator>
+  <link>https://www.resourcesdatabase.com/posts/271/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p><link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/JoscelinRocha"><img src="https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg" alt="Buy me a coffee" width="15" height="21">Buy me a coffee</a></p>
+<hr>
+<p>By <em>David Gohel</em></p>
+<p><strong>Excerpt from book:</strong> This book deals with reporting from R with the packages ‘officer’, ‘officedown’, ‘flextable’, ‘rvg’ and ‘mschart’.</p>
+<p>These packages are available from CRAN or from github in their development version.</p>
+<p>These packages have been developed to facilitate the production of Word documents and PowerPoint presentations from and with R. It was written specifically to offer a competitive solution to SAS ODS for tabular and graphical reporting.</p>
+<ol type="1">
+<li>Link to book: <a href="https://ardata-fr.github.io/officeverse/index.html" class="uri">https://ardata-fr.github.io/officeverse/index.html</a></li>
+</ol>
+
+
+
+<a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a> ]]></description>
+  <category>book</category>
+  <category>package</category>
+  <guid>https://www.resourcesdatabase.com/posts/271/</guid>
+  <pubDate>Mon, 02 Jun 2025 04:00:00 GMT</pubDate>
+</item>
 <item>
   <title>Data analysis and plotting</title>
   <dc:creator>Dr. Joscelin Rocha-Hidalgo</dc:creator>
@@ -557,32 +585,6 @@
   <guid>https://www.resourcesdatabase.com/posts/63/</guid>
   <pubDate>Mon, 19 May 2025 04:00:00 GMT</pubDate>
   <media:content url="https://neurovault.org/static/images/neurovault-logo.svg" medium="image" type="image/svg+xml"/>
-</item>
-<item>
-  <title>Animated versions of common dplyr functions</title>
-  <dc:creator>Dr. Joscelin Rocha-Hidalgo</dc:creator>
-  <link>https://www.resourcesdatabase.com/posts/74/</link>
-  <description><![CDATA[ 
-
-
-
-
-
-<p><link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/JoscelinRocha"><img src="https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg" alt="Buy me a coffee" width="15" height="21">Buy me a coffee</a></p>
-<hr>
-<p>by <a href="https://rfortherestofus.com/">R for the Rest of Us</a></p>
-<p><strong>Excerpt from blog:</strong> One of the best parts about the functions in the <a href="https://click.convertkit-mail.com/e5uv8dzv9wf0uzpgz8i8h8rgp222cl/owhkhqhrv3g73rbv/aHR0cHM6Ly9kcGx5ci50aWR5dmVyc2Uub3JnLw=="><code>dplyr</code> package</a> (one of several that make up the <code>tidyverse</code> collection of packages) is that their names indicate what they do. No need to remember a weird acronym; the name of the function to filter your data is <code>filter()</code>. But, helpful as these function names are, it can still be hard to remember exactly what the functions do…I’ve collected all of these animations in one place (and added some sample code to show how they work). If you’re just learning R and want a visual aid to help you, check it out! If you’ve already mastered these functions, consider sharing them with a friend.</p>
-<ol type="1">
-<li>Link to blog: <a href="https://rfortherestofus.com/2024/07/dplyr-functions-animated" class="uri">https://rfortherestofus.com/2024/07/dplyr-functions-animated</a></li>
-<li>Link to video: <a href="https://youtu.be/t1fFi1pSdL0" class="uri">https://youtu.be/t1fFi1pSdL0</a></li>
-</ol>
-
-
-
-<a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a> ]]></description>
-  <category>tricks</category>
-  <guid>https://www.resourcesdatabase.com/posts/74/</guid>
-  <pubDate>Mon, 19 May 2025 04:00:00 GMT</pubDate>
 </item>
 </channel>
 </rss>

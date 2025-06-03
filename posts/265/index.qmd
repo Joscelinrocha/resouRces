@@ -1,24 +1,21 @@
 ---
-title: "Hello Quarto"
-date: "2025-04-22"
+title: "Answering questions with data"
+date: "2018-09-01"
 categories: [statistics]
-image: featured.png
-image-alt: "Illustration of two penguins, one blue and one orange, taking a selfie with a selfie stick. The moon in the background looks like the Quarto logo."
+image: https://www.crumplab.com/statistics/imgs/TextbookCover.png
+image-alt: "Cover of a 2018 textbook titled Answering questions with data: Introductory Statistics for Psychology Students, with a red title block and a stylized forest pattern of green and black trees on a white background."
 ---
-
 
 <link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/JoscelinRocha">![Buy me a coffee](https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg){alt="Buy me a coffee" width="15" height="21"}Buy me a coffee</a>
 
 ------------------------------------------------------------------------
 
+By Matthew J. C. Crump, Danielle J. Navarro, Jeffrey Suzuki
 
-## [Crump Lab Statistics for Undergrads in Psychology Textbook](https://github.com/CrumpLab/statistics)
-
-**What is this?**
-
-This is a FREE Statistics for Undergrads in Psychology Textbook, on a creative commons license.
-Source code for everything available in the respective repos.
+This is a FREE Statistics for Undergrads in Psychology Textbook, on a creative commons license. Source code for everything available in the respective repos.
 
 1.  Web-book is here: <https://crumplab.github.io/statistics/>
 2.  Lab manual is here: <https://crumplab.github.io/statisticsLab/>
 3.  Course website is here: <https://crumplab.github.io/psyc3400/>
+
+![](https://www.crumplab.com/statistics/imgs/TextbookCover.png){fig-alt="Cover of a 2018 textbook titled Answering questions with data: Introductory Statistics for Psychology Students, with a red title block and a stylized forest pattern of green and black trees on a white background."}

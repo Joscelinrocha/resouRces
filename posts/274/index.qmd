@@ -1,25 +1,19 @@
 ---
-title: "Hello Quarto"
-date: "2025-04-22"
+title: "Introduction to Multilevel Modelling"
+date: "2023-04-30"
 categories: [statistics]
-image: featured.png
-image-alt: "Illustration of two penguins, one blue and one orange, taking a selfie with a selfie stick. The moon in the background looks like the Quarto logo."
+image: https://www.learn-mlms.com/open_mlm_materials_files/figure-html/unnamed-chunk-17-1.png
+image-alt: "Scatterplot with regression lines showing the relationship between socioeconomic status (ses) and math scores, with data grouped by school code (schcode). Each school is represented by a different color, and the plot includes trend lines for each group."
 ---
-
 
 <link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/JoscelinRocha">![Buy me a coffee](https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg){alt="Buy me a coffee" width="15" height="21"}Buy me a coffee</a>
 
 ------------------------------------------------------------------------
 
-
-## [Introduction to Multilevel Modelling](https://www.learn-mlms.com/)
-
 By [Mairead Shaw & Jessica Kay Flake](https://www.learn-mlms.com/)
-
-Added Sun April 30th 2023
-
-**What is this?**
 
 **Excerpt from site:** This website will teach you the fundamentals about multilevel modelling, from why and when you would use them and how to do so for various research questions and data structures.
 
 1.  Link to website here: <https://www.learn-mlms.com/>
+
+![](https://www.learn-mlms.com/open_mlm_materials_files/figure-html/unnamed-chunk-17-1.png){fig-alt="Scatterplot with regression lines showing the relationship between socioeconomic status (ses) and math scores, with data grouped by school code (schcode). Each school is represented by a different color, and the plot includes trend lines for each group." width="527"}

@@ -1,27 +1,19 @@
 ---
-title: "Hello Quarto"
-date: "2025-04-22"
-categories: [statistics]
-image: featured.png
-image-alt: "Illustration of two penguins, one blue and one orange, taking a selfie with a selfie stick. The moon in the background looks like the Quarto logo."
+title: "Bayesian Hierarchical Models in Ecology"
+date: "2023-05-28"
+categories: [statistics,book,bayesian]
+image: https://bookdown.org/steve_midway/BHME/Cover.jpg
+image-alt: "Black and white portrait of Reverend Thomas Bayes with added cartoon elements including a brown pith helmet and two green palm trees in the background."
 ---
-
 
 <link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/JoscelinRocha">![Buy me a coffee](https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg){alt="Buy me a coffee" width="15" height="21"}Buy me a coffee</a>
 
 ------------------------------------------------------------------------
 
-
-## [Bayesian Hierarchical Models in Ecology](https://bookdown.org/steve_midway/BHME/)
-
 By [Steve Midway](https://bookdown.org/steve_midway/BHME/)
 
-Added Sun May 28th, 2023
-
-**What is this?**
-
-**Learning objectives from ebook:** Welcome to *Bayesian Hierarchical Models in Ecology*.
-This is an ebook that is also serving as the course materials for a graduate class of the same name.
-There will be numerous and on-going changes to this book, so please check back.
+**Learning objectives from ebook:** Welcome to *Bayesian Hierarchical Models in Ecology*. This is an ebook that is also serving as the course materials for a graduate class of the same name. There will be numerous and on-going changes to this book, so please check back.
 
 1.  Link to site: <https://bookdown.org/steve_midway/BHME/>
+
+![](https://bookdown.org/steve_midway/BHME/Cover.jpg){fig-alt="Black and white portrait of Reverend Thomas Bayes with added cartoon elements including a brown pith helmet and two green palm trees in the background."}

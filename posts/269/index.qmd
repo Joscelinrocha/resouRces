@@ -1,25 +1,19 @@
 ---
-title: "Hello Quarto"
+title: "GAM in R"
 date: "2025-04-22"
-categories: [statistics]
-image: featured.png
-image-alt: "Illustration of two penguins, one blue and one orange, taking a selfie with a selfie stick. The moon in the background looks like the Quarto logo."
+categories: [statistics,gam]
+image: "featured.png"
+image-alt: "Comic book style explosion graphic with red halftone background and yellow text that reads GAMs IN R by NOAM ROSS."
 ---
-
 
 <link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/JoscelinRocha">![Buy me a coffee](https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg){alt="Buy me a coffee" width="15" height="21"}Buy me a coffee</a>
 
 ------------------------------------------------------------------------
 
-
-## [GAM in R](https://noamross.github.io/gams-in-r-course/)
-
 By [Noam Ross](https://noamross.github.io/gams-in-r-course/)
 
-**What is this?**
-
-**Excerpt from site:** Generalized Additive Models in R.
-This short course will teach you how to use these flexible, powerful tools to model data and solve data science problems.
-GAMs offer offer a middle ground between simple linear models and complex machine-learning techniques, allowing you to model and understand complex systems.
+**Excerpt from site:** Generalized Additive Models in R. This short course will teach you how to use these flexible, powerful tools to model data and solve data science problems. GAMs offer offer a middle ground between simple linear models and complex machine-learning techniques, allowing you to model and understand complex systems.
 
 1.  Link to the interactive course here: <https://noamross.github.io/gams-in-r-course/>
+
+![](featured.png){fig-alt="Comic book style explosion graphic with red halftone background and yellow text that reads GAMs IN R by NOAM ROSS."}

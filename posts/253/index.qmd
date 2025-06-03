@@ -1,21 +1,17 @@
 ---
-title: "Hello Quarto"
+title: "Advanced-Research-Methods-for-Psychologists"
 date: "2025-04-22"
-categories: [statistics]
-image: featured.png
-image-alt: "Illustration of two penguins, one blue and one orange, taking a selfie with a selfie stick. The moon in the background looks like the Quarto logo."
+categories: [statistics,wrangling,visualization,intro,learning R]
+image: https://github.com/mattansb/Practical-Applications-in-R-for-Psychologists/raw/master/logo/Hex.png
+image-alt: "Hex sticker with orange background displaying the text Practical Applications in R for Psych, featuring three scatterplots in red, blue, and green with regression lines, representing psychological data analysis."
 ---
-
 
 <link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/JoscelinRocha">![Buy me a coffee](https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg){alt="Buy me a coffee" width="15" height="21"}Buy me a coffee</a>
 
 ------------------------------------------------------------------------
 
-
-## [Advanced-Research-Methods-for-Psychologists](https://github.com/mattansb/Advanced-Research-Methods-foR-Psychologists)
-
-**What is this?**
-
 **Excerpt from site:** Lesson files used in the Advanced Research Methods for Psychologists - Practical Applications in R, taught at Ben-Gurion University on the Negev.
 
 1.  Link to repo here: <https://github.com/mattansb/Advanced-Research-Methods-foR-Psychologists>
+
+![](https://github.com/mattansb/Practical-Applications-in-R-for-Psychologists/raw/master/logo/Hex.png){fig-alt="Hex sticker with orange background displaying the text Practical Applications in R for Psych, featuring three scatterplots in red, blue, and green with regression lines, representing psychological data analysis."}

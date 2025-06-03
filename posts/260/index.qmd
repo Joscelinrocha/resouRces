@@ -1,24 +1,20 @@
 ---
-title: "Hello Quarto"
+title: "Broadening Your Statistical Horizons Generalized Linear Models and Multilevel Models"
 date: "2025-04-22"
-categories: [statistics]
-image: featured.png
-image-alt: "Illustration of two penguins, one blue and one orange, taking a selfie with a selfie stick. The moon in the background looks like the Quarto logo."
+categories: [statistics,book]
+image: https://bookdown.org/roback/bookdown-BeyondMLR/data/book_cover.jpg
+image-alt: " Book cover of Beyond Multiple Linear Regression by Paul Roback and Julie Legler, featuring a maroon background with layered blue and orange ridge plots and the subtitle Applied Generalized Linear Models and Multilevel Models in R."
 ---
-
 
 <link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/JoscelinRocha">![Buy me a coffee](https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg){alt="Buy me a coffee" width="15" height="21"}Buy me a coffee</a>
 
 ------------------------------------------------------------------------
 
+By [Julie Legler & Paul Roback](https://bookdown.org/roback/bookdown-BeyondMLR/)
 
-## [Broadening Your Statistical Horizons Generalized Linear Models and Multilevel Models](https://bookdown.org/roback/bookdown-bysh/)
+**Beyond Multiple Linear Regression: Applied Generalized Linear Models and Multilevel Models in R** (R Core Team [2020](https://bookdown.org/roback/bookdown-BeyondMLR/#ref-RProject)) is intended to be accessible to undergraduate students who have successfully completed a regression course through, for example, a textbook like *Stat2* (Cannon et al. [2019](https://bookdown.org/roback/bookdown-BeyondMLR/#ref-Cannon2019)). We started teaching this course at St. Olaf College in 2003 so students would be able to deal with the non-normal, correlated world we live in. It has been offered at St. Olaf every year since. Even though there is no mathematical prerequisite, we still introduce fairly sophisticated topics such as likelihood theory, zero-inflated Poisson, and parametric bootstrapping in an intuitive and applied manner. We believe strongly in case studies featuring real data and real research questions; thus, most of the data in the textbook (and [available at our GitHub repo](https://github.com/proback/BeyondMLR)) arises from collaborative research conducted by the authors and their students, or from student projects. Our goal is that, after working through this material, students will develop an expanded toolkit and a greater appreciation for the wider world of data and statistical modeling.
 
-By [Julie Legler & Paul Roback](https://bookdown.org/roback/bookdown-bysh/)
+1.  Link to ebook here: <https://bookdown.org/roback/bookdown-BeyondMLR/>
+2.  Link to repo here: <https://github.com/proback/BeyondMLR>
 
-**What is this?**
-
-Awesome books for stats!!
-Fav book
-
-1.  <https://bookdown.org/roback/bookdown-bysh/>
+![](https://bookdown.org/roback/bookdown-BeyondMLR/data/book_cover.jpg){fig-alt="Book cover of Beyond Multiple Linear Regression by Paul Roback and Julie Legler, featuring a maroon background with layered blue and orange ridge plots and the subtitle Applied Generalized Linear Models and Multilevel Models in R."}

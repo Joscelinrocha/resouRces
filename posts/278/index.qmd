@@ -1,22 +1,22 @@
 ---
-title: "Hello Quarto"
+title: "Learning Statistics with jamovi: A Tutorial for Beginners in Statistical Analysis."
 date: "2025-04-22"
-categories: [statistics]
-image: featured.png
-image-alt: "Illustration of two penguins, one blue and one orange, taking a selfie with a selfie stick. The moon in the background looks like the Quarto logo."
+categories: [statistics,intro,jamovi]
+image: https://davidfoxcroft.github.io/lsj-book/images/obp.0333.jpg
+image-alt: "Book cover titled Learning Statistics with Jamovi: A Tutorial for Beginners in Statistical Analysis by Danielle Navarro and David Foxcroft. The cover features three red and green carnations at different stages of blooming, arranged in increasing height from left to right, against a white background."
 ---
-
 
 <link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/JoscelinRocha">![Buy me a coffee](https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg){alt="Buy me a coffee" width="15" height="21"}Buy me a coffee</a>
 
 ------------------------------------------------------------------------
 
+By Danielle J. Navarro and David R. Foxcroft
 
-## [Learning stats with Jamovi](https://www.learnstatswithjamovi.com/)
+In this textbook we cover the contents of an introductory statistics class, as typically taught to undergraduate psychology, health or social science students. The book covers how to get started in jamovi as well as giving an introduction to data manipulation. From a statistical perspective, the book discusses descriptive statistics and graphing first, followed by chapters on probability theory, sampling and estimation, and null hypothesis testing. After introducing the theory, the book covers the analysis of contingency tables, correlation, t-tests, regression, ANOVA and factor analysis. Bayesian statistics are touched on at the end of the book.
 
-**What is this?**
+This book is an adaptation of DJ Navarro (2018). Learning statistics with R: A tutorial for psychology students and other beginners. (Version 0.6). <https://learningstatisticswithr.com/>.
 
-Technically not R but a wonderful resources anyways.
-If you would like to learn or teach people how to use JAMOVI, here is my favorite book!
+1.  Link to site here: <https://www.learnstatswithjamovi.com/>
+2.  Link to book here: <https://davidfoxcroft.github.io/lsj-book/>
 
-1.  The book is here: <https://drive.google.com/file/d/1aNNhC9rMUISCdcWCsNW9rf70Yv1scv6N/view>
+![](https://davidfoxcroft.github.io/lsj-book/images/obp.0333.jpg){fig-alt="Book cover titled \"Learning Statistics with Jamovi: A Tutorial for Beginners in Statistical Analysis\" by Danielle Navarro and David Foxcroft. The cover features three red and green carnations at different stages of blooming, arranged in increasing height from left to right, against a white background."}

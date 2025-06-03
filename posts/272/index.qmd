@@ -1,25 +1,17 @@
 ---
-title: "Hello Quarto"
-date: "2025-04-22"
-categories: [statistics]
-image: featured.png
-image-alt: "Illustration of two penguins, one blue and one orange, taking a selfie with a selfie stick. The moon in the background looks like the Quarto logo."
+title: "Handling missing values in R"
+date: "2021-06-06"
+categories: [statistics,missing data]
+image: https://i1.wp.com/finnstats.com/wp-content/uploads/2021/04/Missing-Value-plot.png?zoom=2&w=450&ssl=1
+image-alt: "Heatmap showing mileage states for different vehicle types, with vehicle types labeled on the top and state categories on the right. Blue cells indicate zero count, and pink cells indicate non-zero counts, forming a diagonal pattern from bottom-left to top-right."
 ---
-
 
 <link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/JoscelinRocha">![Buy me a coffee](https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg){alt="Buy me a coffee" width="15" height="21"}Buy me a coffee</a>
 
 ------------------------------------------------------------------------
 
-
-## [Handling missing values in R](https://www.r-bloggers.com/2021/04/handling-missing-values-in-r/)
-
-Added Sun June 6th, 2021
-
-**What is this?**
-
-**Excerpt from blog:** Handling missing values in R, one of the common tasks in data analysis is handling missing values.
-In R, missing values are often represented by the symbol NA (not available) or some other value that represents missing values (i.e. 99).
-Impossible values (e.g., dividing by zero) are represented by the symbol NaN (not a number)
+**Excerpt from blog:** Handling missing values in R, one of the common tasks in data analysis is handling missing values. In R, missing values are often represented by the symbol NA (not available) or some other value that represents missing values (i.e. 99). Impossible values (e.g., dividing by zero) are represented by the symbol NaN (not a number)
 
 1.  Link to blog here: <https://www.r-bloggers.com/2021/04/handling-missing-values-in-r/>
+
+![](https://i1.wp.com/finnstats.com/wp-content/uploads/2021/04/Missing-Value-plot.png?zoom=2&w=450&ssl=1){fig-alt="Heatmap showing mileage states for different vehicle types, with vehicle types labeled on the top and state categories on the right. Blue cells indicate zero count, and pink cells indicate non-zero counts, forming a diagonal pattern from bottom-left to top-right."}

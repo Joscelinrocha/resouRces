@@ -1,27 +1,21 @@
 ---
-title: "Hello Quarto"
-date: "2025-04-22"
-categories: [statistics]
-image: featured.png
-image-alt: "Illustration of two penguins, one blue and one orange, taking a selfie with a selfie stick. The moon in the background looks like the Quarto logo."
+title: "Bayesian statistics with R"
+date: "2021-10-12"
+categories: [statistics,bayesian,video]
+image: "featured.png"
+image-alt: "Slide titled Bayesian statistics with R, 1. An introduction to Bayesian inference, presented by Olivier Gimenez for a course taking place in November–December 2024."
 ---
-
 
 <link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/JoscelinRocha">![Buy me a coffee](https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg){alt="Buy me a coffee" width="15" height="21"}Buy me a coffee</a>
 
 ------------------------------------------------------------------------
 
-
-## [Bayesian statistics with R](https://oliviergimenez.github.io/bayesian-stats-with-R/)
-
 By [Olivier Gimenez](https://oliviergimenez.github.io/bayesian-stats-with-R/)
-
-Added Tuesday Oct 12th, 2021
-
-**What is this?**
 
 **Learning objectives from site:** Try and demystify Bayesian statistics, and MCMC methods; Make the difference between Bayesian and Frequentist analyses; Understand the Methods section of a paper that does Bayesian stuff; Run Bayesian analyses with R (in Jags)
 
-1.  Link to site: <https://oliviergimenez.github.io/bayesian-stats-with-R/>
-2.  Link to repo: <https://github.com/oliviergimenez/bayesian-stats-with-R>
-3.  Link to recording: [https://www.youtube.com/watch?v =uvU-TmEt8_M](https://www.youtube.com/watch?v%20=uvU-TmEt8_M)
+1.  Link to site here: <https://oliviergimenez.github.io/bayesian-stats-with-R/>
+2.  Link to repo here: <https://github.com/oliviergimenez/bayesian-stats-with-R>
+3.  Link to recording here: [https://www.youtube.com/watch?v =uvU-TmEt8_M](https://www.youtube.com/watch?v%20=uvU-TmEt8_M)
+
+![](featured.png){fig-alt="Slide titled Bayesian statistics with R, 1. An introduction to Bayesian inference, presented by Olivier Gimenez for a course taking place in November–December 2024."}

@@ -1,26 +1,19 @@
 ---
-title: "Hello Quarto"
-date: "2025-04-22"
+title: "lm-table-maker"
+date: "2023-05-28"
 categories: [statistics]
-image: featured.png
-image-alt: "Illustration of two penguins, one blue and one orange, taking a selfie with a selfie stick. The moon in the background looks like the Quarto logo."
+image: https://private-user-images.githubusercontent.com/61850735/276416505-00c67112-ddc7-46b6-bb1e-f4a52aa7517f.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDg5MTE2NTksIm5iZiI6MTc0ODkxMTM1OSwicGF0aCI6Ii82MTg1MDczNS8yNzY0MTY1MDUtMDBjNjcxMTItZGRjNy00NmI2LWJiMWUtZjRhNTJhYTc1MTdmLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA2MDMlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNjAzVDAwNDIzOVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTU0Zjc5NzhiYzIyNWU2ZjRiY2U2Y2E4ODc2ZTMzY2RjODFhNmE4NDAzNmMyZmNmMzA3NDY0NDM0ZDY2YTM4NzEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.0a3v_yrJlcSBc4u818eazsDxinunqIBPj1Z-eCOw9xw
+image-alt: "Three linear mixed effects model outputs presented in a table, showing coefficients, effect sizes, confidence intervals, F-values, degrees of freedom, p-values, and significance levels for the predictors: Intercept, Treatment, Time, and Treatment * Time. Each model is centered differently: (1) original, (2) at control saline, and (3) at introduction. The interaction term Treatment * Time is significant across all models."
 ---
-
 
 <link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/JoscelinRocha">![Buy me a coffee](https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg){alt="Buy me a coffee" width="15" height="21"}Buy me a coffee</a>
 
 ------------------------------------------------------------------------
 
-
-## [lm-table-maker](https://github.com/patrickmonari/lm-table-maker)
-
 By [Patrick Monari](https://github.com/patrickmonari/lm-table-maker)
 
-Added by Sun May 28th, 2023
-
-**What is this?**
-
-**Excerpt from site:** R function to generate publication-ready figures from linear models.
-Exports as html file
+**Excerpt from site:** R function to generate publication-ready figures from linear models. Exports as html file
 
 1.  Link to repo and function here: <https://github.com/patrickmonari/lm-table-maker>
+
+![](https://private-user-images.githubusercontent.com/61850735/276416505-00c67112-ddc7-46b6-bb1e-f4a52aa7517f.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDg5MTE2NTksIm5iZiI6MTc0ODkxMTM1OSwicGF0aCI6Ii82MTg1MDczNS8yNzY0MTY1MDUtMDBjNjcxMTItZGRjNy00NmI2LWJiMWUtZjRhNTJhYTc1MTdmLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA2MDMlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNjAzVDAwNDIzOVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTU0Zjc5NzhiYzIyNWU2ZjRiY2U2Y2E4ODc2ZTMzY2RjODFhNmE4NDAzNmMyZmNmMzA3NDY0NDM0ZDY2YTM4NzEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.0a3v_yrJlcSBc4u818eazsDxinunqIBPj1Z-eCOw9xw){fig-alt="Three linear mixed effects model outputs presented in a table, showing coefficients, effect sizes, confidence intervals, F-values, degrees of freedom, p-values, and significance levels for the predictors: Intercept, Treatment, Time, and Treatment * Time. Each model is centered differently: (1) original, (2) at control saline, and (3) at introduction. The interaction term Treatment * Time is significant across all models."}

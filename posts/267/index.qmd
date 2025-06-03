@@ -1,27 +1,19 @@
 ---
-title: "Hello Quarto"
-date: "2025-04-22"
+title: "Estimating Correlations Adjusted for Group Membership"
+date: "2025-02-22"
 categories: [statistics]
-image: featured.png
-image-alt: "Illustration of two penguins, one blue and one orange, taking a selfie with a selfie stick. The moon in the background looks like the Quarto logo."
+image: https://www.pipinghotdata.com/posts/2021-10-11-estimating-correlations-adjusted-for-group-membership/img/thumbnail.PNG
+image-alt: "Scatterplots of body mass versus bill depth for Gentoo, Chinstrap, and Adelie penguins, each showing a strong positive correlation, and a combined plot for all species showing a negative correlation, with emoji reactions. Next to the plots is R code using compute_adj_corr to calculate an adjusted correlation, returning a value of 0.6207223."
 ---
-
 
 <link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/JoscelinRocha">![Buy me a coffee](https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg){alt="Buy me a coffee" width="15" height="21"}Buy me a coffee</a>
 
 ------------------------------------------------------------------------
 
-
-## [Estimating Correlations Adjusted for Group Membership](https://www.pipinghotdata.com/posts/2021-10-11-estimating-correlations-adjusted-for-group-membership/)
-
 By Shannon Pileggi
 
-Added Thu Feb 20, 2025
-
-**What is this?**
-
-This article discusses how to obtain accurate correlation estimates in the presence of underlying groups or related observations.
-It demonstrates the use of linear mixed models to adjust correlation estimates, providing sensible overall correlations across subgroups.
-The article includes applied examples using the Palmer penguins dataset and TidyTuesday Spotify songs to illustrate the approach.
+This article discusses how to obtain accurate correlation estimates in the presence of underlying groups or related observations. It demonstrates the use of linear mixed models to adjust correlation estimates, providing sensible overall correlations across subgroups. The article includes applied examples using the Palmer penguins dataset and TidyTuesday Spotify songs to illustrate the approach.
 
 1.  Link to article: <https://www.pipinghotdata.com/posts/2021-10-11-estimating-correlations-adjusted-for-group-membership/>
+
+![](https://www.pipinghotdata.com/posts/2021-10-11-estimating-correlations-adjusted-for-group-membership/img/thumbnail.PNG){fig-alt="Scatterplots of body mass versus bill depth for Gentoo, Chinstrap, and Adelie penguins, each showing a strong positive correlation, and a combined plot for all species showing a negative correlation, with emoji reactions. Next to the plots is R code using compute_adj_corr to calculate an adjusted correlation, returning a value of 0.6207223."}
