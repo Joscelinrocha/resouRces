@@ -1,24 +1,19 @@
 ---
-title: "Hello Quarto"
+title: "Reproducible Statistics for Psychologists with R-Lab Tutorials"
 date: "2025-04-22"
-categories: [statistics]
-image: featured.png
-image-alt: "Illustration of two penguins, one blue and one orange, taking a selfie with a selfie stick. The moon in the background looks like the Quarto logo."
+categories: [statistics,book]
+image: https://www.crumplab.com/rstatsforpsych/imgs/cover.png
+image-alt: "Book cover titled Reproducible statistics for Psychologists with R: Lab Tutorials by Matthew J. C. Crump (2020). The top section has a purple background with bold white text and a large purple R logo. The bottom half features a lush, painted forest scene framed within a white hexagon."
 ---
-
 
 <link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/JoscelinRocha">![Buy me a coffee](https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg){alt="Buy me a coffee" width="15" height="21"}Buy me a coffee</a>
 
 ------------------------------------------------------------------------
 
-
-## [Reproducible Statistics for Psychologists with R-Lab Tutorials](https://crumplab.github.io/rstatsforpsych/index.html)
-
 By [Mattew J. C. Crump 2020](https://crumplab.github.io/rstatsforpsych/index.html)
 
-**What is this?**
-
-**Excerpt from site:** This is a series of labs/tutorials currently under development (2020-2021) for a two-semester graduate-level statistics sequence in Psychology \@ Brooklyn College of CUNY.
-The goal of these tutorials is to 1) develop a deeper conceptual understanding of the principles of statistical analysis and inference; and 2) develop practical skills for data-analysis, such as using the increasingly popular statistical software environment R to code reproducible analyses.
+**Excerpt from site:** This is a series of labs/tutorials currently under development (2020-2021) for a two-semester graduate-level statistics sequence in Psychology \@ Brooklyn College of CUNY. The goal of these tutorials is to 1) develop a deeper conceptual understanding of the principles of statistical analysis and inference; and 2) develop practical skills for data-analysis, such as using the increasingly popular statistical software environment R to code reproducible analyses.
 
 1.  Link to website here: <https://crumplab.github.io/rstatsforpsych/index.html>
+
+![](https://www.crumplab.com/rstatsforpsych/imgs/cover.png){fig-alt="Book cover titled Reproducible statistics for Psychologists with R: Lab Tutorials by Matthew J. C. Crump (2020). The top section has a purple background with bold white text and a large purple R logo. The bottom half features a lush, painted forest scene framed within a white hexagon." width="422"}

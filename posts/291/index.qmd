@@ -1,26 +1,21 @@
 ---
-title: "Hello Quarto"
+title: "r-statistics.co"
 date: "2025-04-22"
 categories: [statistics]
-image: featured.png
-image-alt: "Illustration of two penguins, one blue and one orange, taking a selfie with a selfie stick. The moon in the background looks like the Quarto logo."
+image: https://cdn-0.r-statistics.co/screenshots/corrplot2.png
+image-alt: "Circular correlation plot of the mtcars dataset showing variable relationships. Larger and darker circles indicate stronger correlations, with blue for positive and red for negative. Variables like cyl, hp, and wt are strongly positively correlated, while wt and mpg (not shown but inferred) would likely be strongly negatively correlated."
 ---
-
 
 <link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/JoscelinRocha">![Buy me a coffee](https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg){alt="Buy me a coffee" width="15" height="21"}Buy me a coffee</a>
 
 ------------------------------------------------------------------------
 
-
-## [r-statistics.co](https://r-statistics.co/)
-
 By [Selva Prabhakaran](https://r-statistics.co/)
 
-**What is this?**
-
-**Excerpt from site:** An educational resource for those seeking knowledge related to machine learning and statistical computing in R.
-Here, you will find quality articles, with working R code and examples, where, the goal is to make the #rstats concepts clear and as simple as possible.
+**Excerpt from site:** An educational resource for those seeking knowledge related to machine learning and statistical computing in R. Here, you will find quality articles, with working R code and examples, where, the goal is to make the #rstats concepts clear and as simple as possible.
 
 This is built by keeping in mind, statisticians who are new to R programming language, R programmers without a stats background, analysts who work in SAS or python, college grads and developers who are relatively new to both R and stats/ML.
 
 1.  Link to website here: <https://r-statistics.co/>
+
+![](https://cdn-0.r-statistics.co/screenshots/corrplot2.png){fig-alt="Circular correlation plot of the mtcars dataset showing variable relationships. Larger and darker circles indicate stronger correlations, with blue for positive and red for negative. Variables like cyl, hp, and wt are strongly positively correlated, while wt and mpg (not shown but inferred) would likely be strongly negatively correlated." width="481"}

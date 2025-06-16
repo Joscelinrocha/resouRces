@@ -1,27 +1,19 @@
 ---
-title: "Hello Quarto"
+title: "Structural Equation Modeling (SEM) in R"
 date: "2025-04-22"
-categories: [statistics]
-image: featured.png
-image-alt: "Illustration of two penguins, one blue and one orange, taking a selfie with a selfie stick. The moon in the background looks like the Quarto logo."
+categories: [statistics, Joscelin's fav, sem]
+image: https://kevintshoemaker.github.io/NRES-746/SimRegLabl.png
+image-alt: "Diagram of a simple regression model. The predictor variable x1, labeled as motivation, is shown in a rectangle with a looped arrow indicating its variance. An arrow labeled regression coefficient points from x1 to the response variable y1, labeled as reading, also in a rectangle. Below y1, a triangle labeled 1 has an upward arrow labeled intercept pointing to y1. A residual variable, labeled z1 and shown in a circle, points to y1 with an arrow labeled 1. A looped arrow on z1 indicates its residual variance."
 ---
-
 
 <link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/JoscelinRocha">![Buy me a coffee](https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg){alt="Buy me a coffee" width="15" height="21"}Buy me a coffee</a>
 
 ------------------------------------------------------------------------
 
-
-## [Structural Equation Modeling (SEM) in R](https://kevintshoemaker.github.io/NRES-746/SEM.RMarkdown.html) 💯
-
 By Jeremy Adkins
 
-Added Thu Feb 20, 2025
-
-**What is this?**
-
-This resource provides an in-depth introduction to Structural Equation Modeling (SEM) tailored for ecologists.
-It covers the fundamentals of SEM, including its relevance in ecological research, key definitions, types of SEMs, and practical examples.
-The tutorial emphasizes the use of SEM to model complex networks of causal relationships between observed and latent variables, offering intuitive interpretations of ecological data.
+This resource provides an in-depth introduction to Structural Equation Modeling (SEM) tailored for ecologists. It covers the fundamentals of SEM, including its relevance in ecological research, key definitions, types of SEMs, and practical examples. The tutorial emphasizes the use of SEM to model complex networks of causal relationships between observed and latent variables, offering intuitive interpretations of ecological data.
 
 1.  Link to tutorial here: <https://kevintshoemaker.github.io/NRES-746/SEM.RMarkdown.html>
+
+![](https://kevintshoemaker.github.io/NRES-746/SimRegLabl.png){fig-alt="Diagram of a simple regression model. The predictor variable x1, labeled as motivation, is shown in a rectangle with a looped arrow indicating its variance. An arrow labeled regression coefficient points from x1 to the response variable y1, labeled as reading, also in a rectangle. Below y1, a triangle labeled 1 has an upward arrow labeled intercept pointing to y1. A residual variable, labeled z1 and shown in a circle, points to y1 with an arrow labeled 1. A looped arrow on z1 indicates its residual variance."}

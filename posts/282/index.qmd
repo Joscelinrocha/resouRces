@@ -1,25 +1,19 @@
 ---
-title: "Hello Quarto"
+title: "Model Summary"
 date: "2025-04-22"
 categories: [statistics]
-image: featured.png
-image-alt: "Illustration of two penguins, one blue and one orange, taking a selfie with a selfie stick. The moon in the background looks like the Quarto logo."
+image: https://github.com/vincentarelbundock/modelsummary/blob/main/docs/images/modelsummary_montage.png?raw=true
+image-alt: "A collage of R statistical outputs and summary tables. On the left are various tables showing regression results, descriptive statistics, and a coefficient plot for penguin species. The right side features a penguin flipper length comparison by species and sex, a summary table with variable statistics including unique values, mean, SD, and distribution plots, and a small regression output for car performance metrics."
 ---
-
 
 <link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/JoscelinRocha">![Buy me a coffee](https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg){alt="Buy me a coffee" width="15" height="21"}Buy me a coffee</a>
 
 ------------------------------------------------------------------------
 
-
-## [Model Summary](https://vincentarelbundock.github.io/modelsummary/)
-
-**What is this?**
-
-modelsummary creates beautiful and customizable tables to summarize statistical models in R.
-Results from several models are presented side-by-side.
-Tables can be echoed to the R console or viewed in the RStudio Viewer.
-They can be saved to HTML, PDF, Text/Markdown, LaTeX, MS Word, RTF, JPG, and PNG formats.
-Tables can easily be embedded in dynamic document pipelines like Rmarkdown, knitr, or Sweave.
+**Excerpt from site:** modelsummary creates beautiful and customizable tables to summarize statistical models in R. Results from several models are presented side-by-side. Tables can be echoed to the R console or viewed in the RStudio Viewer. They can be saved to HTML, PDF, Text/Markdown, LaTeX, MS Word, RTF, JPG, and PNG formats. Tables can easily be embedded in dynamic document pipelines like Rmarkdown, knitr, or Sweave.
 
 1.  Link to site: <https://vincentarelbundock.github.io/modelsummary/>
+
+![](https://modelsummary.com/man/figures/modelsummary_gallery.gif){width="427"}
+
+![](https://github.com/vincentarelbundock/modelsummary/blob/main/docs/images/modelsummary_montage.png?raw=true){fig-alt="A collage of R statistical outputs and summary tables. On the left are various tables showing regression results, descriptive statistics, and a coefficient plot for penguin species. The right side features a penguin flipper length comparison by species and sex, a summary table with variable statistics including unique values, mean, SD, and distribution plots, and a small regression output for car performance metrics."}

@@ -1,28 +1,20 @@
 ---
-title: "Hello Quarto"
-date: "2025-04-22"
-categories: [statistics]
-image: featured.png
-image-alt: "Illustration of two penguins, one blue and one orange, taking a selfie with a selfie stick. The moon in the background looks like the Quarto logo."
+title: "GSpatial Statistics for Data Science: Theory and Practice with R"
+date: "2023-11-07"
+categories: [statistics,book,geospatial,data science]
+image: https://www.paulamoraga.com/book-spatial/img/bookcoverspatial.jpg
+image-alt: "Book cover titled Spatial Statistics for Data Science: Theory and Practice with R by Paula Moraga. The cover features layered map graphics and a colorful regional map on a dark blue background, with the label Data Science Series at the top."
 ---
-
 
 <link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/JoscelinRocha">![Buy me a coffee](https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg){alt="Buy me a coffee" width="15" height="21"}Buy me a coffee</a>
 
 ------------------------------------------------------------------------
 
-
-## [Spatial Statistics for Data Science: Theory and Practice with R](https://www.paulamoraga.com/book-spatial/)
-
 By [Paula Moraga](https://www.paulamoraga.com/book-spatial/index.html)
 
-Added Tue November 7th, 2023
-
-**What is this?**
-
-**Excerpt from book:** *Spatial Statistics for Data Science: Theory and Practice with R* describes statistical methods, modeling approaches, and visualization techniques to analyze spatial data using R.
-The book starts by providing a comprehensive overview of the types of spatial data and R packages for spatial data retrieval, manipulation, and visualization.
-Then, it provides a detailed explanation of the theoretical concepts of spatial statistics, along with fully reproducible examples demonstrating how to simulate, describe, and analyze areal, geostatistical, and point pattern data in various applications.
+**Excerpt from book:** *Spatial Statistics for Data Science: Theory and Practice with R* describes statistical methods, modeling approaches, and visualization techniques to analyze spatial data using R. The book starts by providing a comprehensive overview of the types of spatial data and R packages for spatial data retrieval, manipulation, and visualization. Then, it provides a detailed explanation of the theoretical concepts of spatial statistics, along with fully reproducible examples demonstrating how to simulate, describe, and analyze areal, geostatistical, and point pattern data in various applications.
 
 1.  Link to free e-book here: <https://www.paulamoraga.com/book-spatial/>
-2.  Link to purchase book here: <https://www.routledge.com/Geospatial-Health-Data-Modeling-and-Visualization-with-R-INLA-and-Shiny/Moraga/p/book/9780367357955>
+2.  Link to purchase book here: <https://www.amazon.com/Spatial-Statistics-Data-Science-Practice/dp/1032633514>
+
+![](https://www.paulamoraga.com/book-spatial/img/bookcoverspatial.jpg){fig-alt="Book cover titled Spatial Statistics for Data Science: Theory and Practice with R by Paula Moraga. The cover features layered map graphics and a colorful regional map on a dark blue background, with the label Data Science Series at the top." width="452"}

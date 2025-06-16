@@ -1,0 +1,20 @@
+---
+title: "Summary and Analysis of Extension Program Evaluation in R"
+date: "2020-09-13"
+categories: [statistics,book]
+image: https://rcompanion.org/rcompanion/images/h_03_01.png
+image-alt: "A scatter plot with error bars showing the relationship between row spacing (in inches) on the x-axis and crop yield (in bushels per acre) on the y-axis. Yields decrease as spacing increases from 18 to 42 inches. Each point is represented by a black square, with vertical error bars indicating variability or uncertainty around the yield estimate."
+---
+
+<link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/JoscelinRocha">![Buy me a coffee](https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg){alt="Buy me a coffee" width="15" height="21"}Buy me a coffee</a>
+
+------------------------------------------------------------------------
+
+By [Salvatore S. Mangiafico](https://rcompanion.org/handbook/index.html)
+
+**Excerpt from book:** This book is written for students at the undergraduate level with no prior knowledge of the analysis of experiments, and with no prior knowledge of computer programming. This being said, students with no background in these areas will need to apply care and dedication in order to understand the material and the computer code used in examples. These students may also need to explore the optional readings to obtain a better foundation in statistical thinking and theory.
+
+1.  Link to book here: <https://rcompanion.org/handbook/index.html>
+2.  Similar companion book for python: <https://rcompanion.org/python/>
+
+![](https://rcompanion.org/rcompanion/images/h_03_01.png){fig-alt="A scatter plot with error bars showing the relationship between row spacing (in inches) on the x-axis and crop yield (in bushels per acre) on the y-axis. Yields decrease as spacing increases from 18 to 42 inches. Each point is represented by a black square, with vertical error bars indicating variability or uncertainty around the yield estimate." width="549"}

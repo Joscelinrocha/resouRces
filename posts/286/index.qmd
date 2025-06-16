@@ -1,22 +1,20 @@
 ---
-title: "Hello Quarto"
-date: "2025-04-22"
-categories: [statistics]
-image: featured.png
-image-alt: "Illustration of two penguins, one blue and one orange, taking a selfie with a selfie stick. The moon in the background looks like the Quarto logo."
+title: "PSYCH 252: Statistical Methods at Stanford University"
+date: "2025-01-08"
+categories: [statistics,book,course]
+image: https://psych252.github.io/psych252book/figures/combined_plot.png
+image-alt: "Three-panel figure on diamond characteristics. Panel A shows density plots of diamond widths by color grade (D to J). Panel B displays a heatmap of average carat values by clarity and color. Panel C presents a bar chart of average price in USD across cut qualities from fair to ideal."
 ---
-
 
 <link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/JoscelinRocha">![Buy me a coffee](https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg){alt="Buy me a coffee" width="15" height="21"}Buy me a coffee</a>
 
 ------------------------------------------------------------------------
 
+By Tobias Gerstenberg
 
-## [PSYCH 252: Statistical Methods at Stanford University](https://psych252.github.io/)
-
-**What is this?**
-
-**Excerpt from site:** This course offers an introduction to advanced topics in statistics with the focus of understanding data in the behavioral and social sciences.
-It is a practical course in which learning statistical concepts and building models in R go hand in hand.
+**Excerpt from site:** This course offers an introduction to advanced topics in statistics with the focus of understanding data in the behavioral and social sciences. It is a practical course in which learning statistical concepts and building models in R go hand in hand.
 
 1.  Link to e-course here: <https://psych252.github.io/>
+2.  Link to book here: <https://psych252.github.io/psych252book/>
+
+![](https://psych252.github.io/psych252book/figures/combined_plot.png){fig-alt="Three-panel figure on diamond characteristics. Panel A shows density plots of diamond widths by color grade (D to J). Panel B displays a heatmap of average carat values by clarity and color. Panel C presents a bar chart of average price in USD across cut qualities from fair to ideal." width="598"}

@@ -1,25 +1,19 @@
 ---
-title: "Hello Quarto"
-date: "2025-04-22"
-categories: [statistics]
-image: featured.png
-image-alt: "Illustration of two penguins, one blue and one orange, taking a selfie with a selfie stick. The moon in the background looks like the Quarto logo."
+title: "Statistical Analysis and Visualizations Using R"
+date: "2021-04-15"
+categories: [statistics,course,intro,visualization]
+image: https://okanbulut.github.io/rbook/figure/boxplot1_annotated.png
+image-alt: "Annotated boxplot showing summary statistics of a dataset. The plot includes arrows labeling the Minimum (0), 25th percentile (12.75), Median (30.5), 75th percentile (50.5), and Maximum (116) values along the y-axis."
 ---
-
 
 <link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/JoscelinRocha">![Buy me a coffee](https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg){alt="Buy me a coffee" width="15" height="21"}Buy me a coffee</a>
 
 ------------------------------------------------------------------------
 
-
-## [Statistical Analysis and Visualizations Using R](https://okanbulut.github.io/rbook/)
-
 By [Okan Bulut](https://okanbulut.github.io/rbook/)
-
-Added Thu April 15th, 2021
-
-**What is this?**
 
 **Excerpt from site:** This full-day course is intended to provide participants with a hands-on training in exploring, visualizing, and analyzing data using the R programming language.1 To control R, participants will use RStudio, which is a free, user-friendly program with a console, syntax-highlighting editor that supports direct code execution, and a variety of robust tools for plotting.
 
 1.  Link to course here: <https://okanbulut.github.io/rbook/>
+
+![](https://okanbulut.github.io/rbook/figure/boxplot1_annotated.png){fig-alt="Annotated boxplot showing summary statistics of a dataset. The plot includes arrows labeling the Minimum (0), 25th percentile (12.75), Median (30.5), 75th percentile (50.5), and Maximum (116) values along the y-axis."}

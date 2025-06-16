@@ -1,25 +1,18 @@
 ---
-title: "Hello Quarto"
-date: "2025-04-22"
-categories: [statistics]
-image: featured.png
-image-alt: "Illustration of two penguins, one blue and one orange, taking a selfie with a selfie stick. The moon in the background looks like the Quarto logo."
+title: "Statistical Rethinking 2 with Stan and R"
+date: "2020-08-02"
+categories: [statistics,book,stan]
 ---
-
 
 <link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/JoscelinRocha">![Buy me a coffee](https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg){alt="Buy me a coffee" width="15" height="21"}Buy me a coffee</a>
 
 ------------------------------------------------------------------------
 
-
-## [Statistical Rethinking 2 with Stan and R](https://vincentarelbundock.github.io/rethinking2/)
-
 By [Vincent Arel-Bundock](https://vincentarelbundock.github.io/rethinking2/)
 
 **What is this?**
 
-**Excerpt from e-book:** Vincent is trying to replicate (nearly) all the models in Richard McElreath's Statistical Rethinking (2nd ed.) book using Stan, R, rstan, tidybayes, and ggplot2.
-This is work in progress.
+**Excerpt from e-book:** Vincent is trying to replicate (nearly) all the models in Richard McElreath's Statistical Rethinking (2nd ed.) book using Stan, R, rstan, tidybayes, and ggplot2. This is work in progress.
 
 1.  Link to ebook here: <https://vincentarelbundock.github.io/rethinking2/>
 2.  Link to repo here: <https://github.com/vincentarelbundock/rethinking2>

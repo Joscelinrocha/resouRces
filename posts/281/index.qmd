@@ -1,25 +1,22 @@
 ---
-title: "Hello Quarto"
+title: "Methods and Algorithms for Correlation Analysis in R"
 date: "2025-04-22"
-categories: [statistics]
-image: featured.png
-image-alt: "Illustration of two penguins, one blue and one orange, taking a selfie with a selfie stick. The moon in the background looks like the Quarto logo."
+categories: [statistics, Joscelin's favorite]
+image: https://github.com/easystats/correlation/raw/main/man/figures/logo.png
+image-alt: "Hexagonal logo with the word correlation at the top in white text on a bright pink background. The center features a stylized molecule-like network with black branches and blue-and-white eyeball-shaped nodes, all enclosed in a yellow border."
 ---
-
 
 <link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/JoscelinRocha">![Buy me a coffee](https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg){alt="Buy me a coffee" width="15" height="21"}Buy me a coffee</a>
 
 ------------------------------------------------------------------------
 
-
-## [Methods and Algorithms for Correlation Analysis in R](https://www.researchgate.net/publication/342978399_Methods_and_Algorithms_for_Correlation_Analysis_in_R)
-
 By [Dominique Makowski, Mattan S. Ben-Shachar, Indrajeet Patil, & Daniel Lüdecke](https://www.researchgate.net/publication/342978399_Methods_and_Algorithms_for_Correlation_Analysis_in_R)
 
 **What is this?**
 
-**Excerpt from site:** Correlations tests are arguably one of the most commonly used statistical procedures, and are used as a basis in many applications such as exploratory data analysis, structural modeling, data engineering etc.
-In this context, we present correlation, a toolbox for the R language(R Core Team, 2019) and part of the easy stats collection, focused on correlation analysis.
+**Excerpt from site:** Correlations tests are arguably one of the most commonly used statistical procedures, and are used as a basis in many applications such as exploratory data analysis, structural modeling, data engineering etc. In this context, we present correlation, a toolbox for the R language(R Core Team, 2019) and part of the easy stats collection, focused on correlation analysis.
 
 1.  Link to paper here: <https://www.researchgate.net/publication/342978399_>Methods_and_Algorithms_for_Correlation_Analysis_in_R
 2.  Link to repo here: <https://github.com/easystats/correlation>
+
+![](https://github.com/easystats/correlation/raw/main/man/figures/logo.png){fig-alt="Hexagonal logo with the word correlation at the top in white text on a bright pink background. The center features a stylized molecule-like network with black branches and blue-and-white eyeball-shaped nodes, all enclosed in a yellow border." width="475"}

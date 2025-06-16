@@ -1,26 +1,21 @@
 ---
-title: "Hello Quarto"
+title: "STAT 545 Data wrangling, exploration, and analysis with R"
 date: "2025-04-22"
 categories: [statistics]
-image: featured.png
-image-alt: "Illustration of two penguins, one blue and one orange, taking a selfie with a selfie stick. The moon in the background looks like the Quarto logo."
+image: https://stat545.com/assets/stat545-logo.png
+image-alt: "Circular logo with a navy-blue chalkboard background containing faint math symbols and a drawing of a cat. In the foreground, large white text reads STAT 545."
 ---
-
 
 <link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/JoscelinRocha">![Buy me a coffee](https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg){alt="Buy me a coffee" width="15" height="21"}Buy me a coffee</a>
 
 ------------------------------------------------------------------------
 
-
-## [STAT 545 Data wrangling, exploration, and analysis with R](https://stat545.com/) 💯
-
 By [Jenny Bryan](https://stat545.com/)
 
 **What is this?**
 
-**Excerpt from site:** This site is about everything that comes up during data analysis except for statistical modelling and inference.
-This might strike you as strange, given R's statistical roots.
-First, let me assure you we believe that modelling and inference are important.
-But the world already offers a lot of great resources for doing statistics with R.
+**Excerpt from site:** This site is about everything that comes up during data analysis except for statistical modelling and inference. This might strike you as strange, given R's statistical roots. First, let me assure you we believe that modelling and inference are important. But the world already offers a lot of great resources for doing statistics with R.
 
 1.  Link to the site: <https://stat545.com/>
+
+![](https://stat545.com/assets/stat545-logo.png){fig-alt="Circular logo with a navy-blue chalkboard background containing faint math symbols and a drawing of a cat. In the foreground, large white text reads STAT 545." width="405"}

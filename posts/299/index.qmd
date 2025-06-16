@@ -1,30 +1,22 @@
 ---
-title: "Hello Quarto"
+title: "Statistical Thinking for the 21st Century "
 date: "2025-04-22"
-categories: [statistics]
-image: featured.png
-image-alt: "Illustration of two penguins, one blue and one orange, taking a selfie with a selfie stick. The moon in the background looks like the Quarto logo."
+categories: [statistics,python]
+image: https://pup-assets.imgix.net/onix/images/9780691250939.jpg?w=410&auto=format
+image-alt: "Book cover for Statistical Thinking: Analyzing Data in an Uncertain World by Russell A. Poldrack. It features a stylized illustration of a person in a suit with a spiral pattern in place of a face, against a teal background."
 ---
-
 
 <link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/JoscelinRocha">![Buy me a coffee](https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg){alt="Buy me a coffee" width="15" height="21"}Buy me a coffee</a>
 
 ------------------------------------------------------------------------
 
-
-## [Statistical Thinking for the 21st Century](https://statsthinking21.org/) 💯
-
 By [Russell Poldrack](https://statsthinking21.org/)
 
-**What is this?**
-
-**Excerpt from site:** The goal of this book is to the tell the story of statistics as it is used today by researchers around the world.
-It's a different story than the one told in most introductory statistics books, which focus on teaching how to use a set of tools to acheive very specific goals.
-This book focuses on understanding the basic ideas of statistical thinking --- a systematic way of thinking about how we describe the world and make decisions and predictions, all in the context of the inherent uncertainty that exists in the real world.
-It also brings to bear current methods that have only become feasible in light of the amazing increases in computational power that have happened in the last few decades.
-Analyses that would have taken years in the 1950's can now be completed in a few seconds on a standard laptop computer, and this power unleashes the ability to use computer simulation to ask questions in new and powerful ways.
+**Excerpt from site:** The goal of this book is to the tell the story of statistics as it is used today by researchers around the world. It's a different story than the one told in most introductory statistics books, which focus on teaching how to use a set of tools to acheive very specific goals. This book focuses on understanding the basic ideas of statistical thinking --- a systematic way of thinking about how we describe the world and make decisions and predictions, all in the context of the inherent uncertainty that exists in the real world. It also brings to bear current methods that have only become feasible in light of the amazing increases in computational power that have happened in the last few decades. Analyses that would have taken years in the 1950's can now be completed in a few seconds on a standard laptop computer, and this power unleashes the ability to use computer simulation to ask questions in new and powerful ways.
 
 1.  Link to site here: <https://statsthinking21.org/>
 2.  Link to core text here: <https://statsthinking21.github.io/statsthinking21-core-site/>
 3.  Link to R repo here: <https://github.com/statsthinking21/statsthinking21-R>
 4.  Link to Python repo here (under work now): <https://github.com/statsthinking21/statsthinking21-python>
+
+![](https://pup-assets.imgix.net/onix/images/9780691250939.jpg?w=410&auto=format){fig-alt="Book cover for \"Statistical Thinking: Analyzing Data in an Uncertain World\" by Russell A. Poldrack. It features a stylized illustration of a person in a suit with a spiral pattern in place of a face, against a teal background."}

@@ -1,28 +1,19 @@
 ---
-title: "Hello Quarto"
-date: "2025-04-22"
-categories: [statistics]
-image: featured.png
-image-alt: "Illustration of two penguins, one blue and one orange, taking a selfie with a selfie stick. The moon in the background looks like the Quarto logo."
+title: "Open Source Research Methods for the Social Sciences"
+date: "2023-05-05"
+categories: [statistics,course,video]
+image: https://images.squarespace-cdn.com/content/v1/53eaa19de4b067140df04f8e/1529363276030-1KJ5HYVDG55QTJB5ZK6J/datalab_transparent_r225_350x60.png?format=1500w
+image-alt: "Logo for datalab.cc featuring lowercase red letters in a modern sans-serif font, with a hollow outline around cc."
 ---
-
 
 <link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/JoscelinRocha">![Buy me a coffee](https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg){alt="Buy me a coffee" width="15" height="21"}Buy me a coffee</a>
 
 ------------------------------------------------------------------------
 
-
-## [Open Source Research Methods for the Social Sciences](https://canvas.pitt.edu/courses/124970)
-
 By [Ben Rottman](https://canvas.pitt.edu/courses/124970)
 
-Added Fri May 5th, 2023
-
-**What is this?**
-
-**Excerpt from course:** This website has all the materials I use for teaching research methods within the Psychology major at Pitt.
-I'm making these materials public, and calling this project Open Source Research Methods for the Social Sciences (osRMss).
-I hope that you find the content useful.
-I look forward to getting feedback and suggestions and to continually improve osRMss over time.
+**Excerpt from course:** This website has all the materials I use for teaching research methods within the Psychology major at Pitt. I'm making these materials public, and calling this project Open Source Research Methods for the Social Sciences (osRMss). I hope that you find the content useful. I look forward to getting feedback and suggestions and to continually improve osRMss over time.
 
 1.  Link to course here: <https://canvas.pitt.edu/courses/124970>
+
+![](https://images.squarespace-cdn.com/content/v1/53eaa19de4b067140df04f8e/1529363276030-1KJ5HYVDG55QTJB5ZK6J/datalab_transparent_r225_350x60.png?format=1500w){fig-alt="Logo for datalab.cc featuring lowercase red letters in a modern sans-serif font, with a hollow outline around \"cc\"."}
