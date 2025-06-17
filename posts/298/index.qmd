@@ -1,19 +1,32 @@
 ---
-title: "Statistical Modeling and Computation for Educational Scientists"
-date: "2025-06-12"
-categories: [statistics,book]
-image: https://zief0002.github.io/modeling/figs/banner.png
-image-alt: "Cartoon figure with a ponytail wearing a red cape labeled code hero, flying while holding a laptop with the R logo on it."
+title: "mall"
+date: "2025-06-16"
+categories: [llm,package, Joscelin's fav]
+image: https://mlverse.github.io/mall/site/images/favicon/apple-touch-icon-180x180.png
+image-alt: "Stylized hex sticker for the R package mall featuring an illustration of a shopping mall with a large teal sign displaying the word mall in white text. The background includes architectural features such as columns, steps, and a central water fountain."
 ---
 
 <link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/JoscelinRocha">![Buy me a coffee](https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg){alt="Buy me a coffee" width="15" height="21"}Buy me a coffee</a>
 
 ------------------------------------------------------------------------
 
-By [Andrew Zieffler](https://zief0002.github.io/modeling/)
+**Excerpt from site here:** Use Large Language Models (LLM) to run Natural Language Processing (NLP) operations against your data. It takes advantage of the LLMs general language training in order to get the predictions, thus removing the need to train a new NLP model. `mall` is available for R and Python.
 
-**Excerpt from book:** The content in this “book”, as the title suggests, is related to statistical modeling and computation. More specifically, the content focuses on using the General Linear Model (GLM) to provide statistical evidence that can help answer substantive questions in the educational and social sciences. It is a book intended for applied practitioners in the educational or social sciences. The statistical content is hopefully presented in a manner that these domain scientists will find useful, including practical suggestions for analysis and the presentation of results intended to help researchers clearly communicate the results of a data analysis.
+It works by running multiple LLM predictions against your data. The predictions are processed row-wise over a specified column. It relies on the “one-shot” prompt technique to instruct the LLM on a particular NLP operation to perform. The package includes prompts to perform the following specific NLP operations:
 
-1.  Link to book here: <https://zief0002.github.io/modeling/>
+-   [Sentiment analysis](https://mlverse.github.io/mall/#sentiment)
 
-![](https://zief0002.github.io/modeling/figs/banner.png){fig-alt="Cartoon figure with a ponytail wearing a red cape labeled \"code hero,\" flying while holding a laptop with the R logo on it." width="420"}
+-   [Text summarizing](https://mlverse.github.io/mall/#summarize)
+
+-   [Classify text](https://mlverse.github.io/mall/#classify)
+
+-   [Extract one, or several](https://mlverse.github.io/mall/#extract), specific pieces information from the text
+
+-   [Translate text](https://mlverse.github.io/mall/#translate)
+
+-   [Verify that something is true](https://mlverse.github.io/mall/#verify) about the text (binary)
+
+1.  Link to package here: <https://mlverse.github.io/mall/>
+2.  Link to repo here: <https://github.com/mlverse/mall>
+
+![](https://mlverse.github.io/mall/site/images/favicon/apple-touch-icon-180x180.png){fig-alt="Stylized hex sticker for the R package \"mall\" featuring an illustration of a shopping mall with a large teal sign displaying the word \"mall\" in white text. The background includes architectural features such as columns, steps, and a central water fountain." width="420"}

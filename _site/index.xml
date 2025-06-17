@@ -17,9 +17,9 @@
 <width>144</width>
 </image>
 <generator>quarto-1.6.42</generator>
-<lastBuildDate>Thu, 12 Jun 2025 04:00:00 GMT</lastBuildDate>
+<lastBuildDate>Mon, 16 Jun 2025 04:00:00 GMT</lastBuildDate>
 <item>
-  <title>Statistical Modeling and Computation for Educational Scientists</title>
+  <title>mall</title>
   <dc:creator>Dr. Joscelin Rocha-Hidalgo</dc:creator>
   <link>https://www.resourcesdatabase.com/posts/298/</link>
   <description><![CDATA[ 
@@ -30,21 +30,31 @@
 
 <p><link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/JoscelinRocha"><img src="https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg" alt="Buy me a coffee" width="15" height="21">Buy me a coffee</a></p>
 <hr>
-<p>By <a href="https://zief0002.github.io/modeling/">Andrew Zieffler</a></p>
-<p><strong>Excerpt from book:</strong> The content in this “book”, as the title suggests, is related to statistical modeling and computation. More specifically, the content focuses on using the General Linear Model (GLM) to provide statistical evidence that can help answer substantive questions in the educational and social sciences. It is a book intended for applied practitioners in the educational or social sciences. The statistical content is hopefully presented in a manner that these domain scientists will find useful, including practical suggestions for analysis and the presentation of results intended to help researchers clearly communicate the results of a data analysis.</p>
+<p><strong>Excerpt from site here:</strong> Use Large Language Models (LLM) to run Natural Language Processing (NLP) operations against your data. It takes advantage of the LLMs general language training in order to get the predictions, thus removing the need to train a new NLP model. <code>mall</code> is available for R and Python.</p>
+<p>It works by running multiple LLM predictions against your data. The predictions are processed row-wise over a specified column. It relies on the “one-shot” prompt technique to instruct the LLM on a particular NLP operation to perform. The package includes prompts to perform the following specific NLP operations:</p>
+<ul>
+<li><p><a href="https://mlverse.github.io/mall/#sentiment">Sentiment analysis</a></p></li>
+<li><p><a href="https://mlverse.github.io/mall/#summarize">Text summarizing</a></p></li>
+<li><p><a href="https://mlverse.github.io/mall/#classify">Classify text</a></p></li>
+<li><p><a href="https://mlverse.github.io/mall/#extract">Extract one, or several</a>, specific pieces information from the text</p></li>
+<li><p><a href="https://mlverse.github.io/mall/#translate">Translate text</a></p></li>
+<li><p><a href="https://mlverse.github.io/mall/#verify">Verify that something is true</a> about the text (binary)</p></li>
+</ul>
 <ol type="1">
-<li>Link to book here: <a href="https://zief0002.github.io/modeling/" class="uri">https://zief0002.github.io/modeling/</a></li>
+<li>Link to package here: <a href="https://mlverse.github.io/mall/" class="uri">https://mlverse.github.io/mall/</a></li>
+<li>Link to repo here: <a href="https://github.com/mlverse/mall" class="uri">https://github.com/mlverse/mall</a></li>
 </ol>
-<p><img src="https://zief0002.github.io/modeling/figs/banner.png" class="img-fluid" alt="Cartoon figure with a ponytail wearing a red cape labeled &quot;code hero,&quot; flying while holding a laptop with the R logo on it." width="420"></p>
+<p><img src="https://mlverse.github.io/mall/site/images/favicon/apple-touch-icon-180x180.png" class="img-fluid" alt="Stylized hex sticker for the R package &quot;mall&quot; featuring an illustration of a shopping mall with a large teal sign displaying the word &quot;mall&quot; in white text. The background includes architectural features such as columns, steps, and a central water fountain." width="420"></p>
 
 
 
 <a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a> ]]></description>
-  <category>statistics</category>
-  <category>book</category>
+  <category>llm</category>
+  <category>package</category>
+  <category>Joscelin&#39;s fav</category>
   <guid>https://www.resourcesdatabase.com/posts/298/</guid>
-  <pubDate>Thu, 12 Jun 2025 04:00:00 GMT</pubDate>
-  <media:content url="https://zief0002.github.io/modeling/figs/banner.png" medium="image" type="image/png"/>
+  <pubDate>Mon, 16 Jun 2025 04:00:00 GMT</pubDate>
+  <media:content url="https://mlverse.github.io/mall/site/images/favicon/apple-touch-icon-180x180.png" medium="image" type="image/png"/>
 </item>
 <item>
   <title>officeverse</title>

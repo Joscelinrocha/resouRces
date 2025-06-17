@@ -1,7 +1,7 @@
 ---
 title: "Methods and Algorithms for Correlation Analysis in R"
 date: "2025-04-22"
-categories: [statistics, Joscelin's favorite]
+categories: [statistics, Joscelin's fav]
 image: https://github.com/easystats/correlation/raw/main/man/figures/logo.png
 image-alt: "Hexagonal logo with the word correlation at the top in white text on a bright pink background. The center features a stylized molecule-like network with black branches and blue-and-white eyeball-shaped nodes, all enclosed in a yellow border."
 ---
