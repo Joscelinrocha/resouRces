@@ -1,20 +1,15 @@
 ---
-title: "PsyTeachR"
-date: "2025-04-22"
-categories: [teaching r, statistics, visualization, data science, package creation, teaching r, learning r]
-image: "featured.png"
-image-alt: "Grid of colorful hexagon stickers representing educational R resources."
+title: "Data Manipulation"
+date: "2025-08-13"
+categories: [wrangling, statistics]
 ---
 
 <link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/JoscelinRocha">![Buy me a coffee](https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg){alt="Buy me a coffee" width="15" height="21"}Buy me a coffee</a>
 
 ------------------------------------------------------------------------
 
-**Excerpt from website:** The psyTeachR team at the University of Glasgow School of Psychology and Institute of Neuroscience and Psychology has successfully made the transition to teaching reproducible research using R across all undergraduate and postgraduate levels. Our curriculum now emphasizes essential 'data science' graduate skills that have been overlooked in traditional approaches to teaching, including programming skills, data visualisation, data wrangling and reproducible reports. Students learn about probability and inference through data simulation as well as by working with real datasets.
+By Gina Reynolds
 
-This website contains our open materials for teaching reproducible research. Levels of
+**Excerpt from website:** *A data project often actually starts with a part than might present some frustration: data cleaning, manipulation, and management. Sometimes this is called “data wrangling” because of the possible struggles that arise in getting your data ready for data visualization and analysis. But wrangling can be satisfying. You might find yourself liking it!*
 
-1.  Level 1: Grassroot- <https://psyteachr.github.io/ug1-practical/>
-2.  Level 2: Practical- <https://psyteachr.github.io/ug2-practical/>
-
-[![](featured.png){fig-alt="Grid of colorful hexagon stickers representing educational R resources."}](https://psyteachr.github.io/)
+1.  Link to site here: <https://evamaerey.github.io/data_manipulation/about>

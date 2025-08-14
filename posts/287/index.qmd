@@ -1,7 +1,7 @@
 ---
 title: "PsyTeachR University of Glasgow"
 date: "2025-04-22"
-categories: [statistics, course,visualization]
+categories: [teaching r, statistics, visualization, data science, package creation, teaching r, learning r]
 image: "featured.png"
 image-alt: "Colorful hex sticker collection from the psyTeachR series. Each hex represents a topic like data skills, analysis, stat models, reproducible research, AI tutor, data visualization, shiny apps, R packages, and more, highlighting tools and tutorials for learning R and data science."
 ---

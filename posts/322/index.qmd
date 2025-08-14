@@ -2,7 +2,7 @@
 title: "30DayChartChallenge: Steven Ponce’s Contributions"
 date: "2025-04-17"
 categories: [visualization]
-image: featured.png
+image: https://github.com/poncest/30DayChartChallenge/raw/main/summary/image_plot.png
 image-alt: "Collage titled “#30DayChartChallenge Contributions” showing 30 data visualizations each from the 2024 and 2025 challenges. Each row corresponds to a year, with 2025 on top and 2024 below. X-axis labeled “Count” from 0 to 30. Social handles and tags at the bottom: stevenponce (LinkedIn), sponce1 (Butterfly icon), poncest (GitHub), and hashtags #rstats #ggplot2."
 ---
 
