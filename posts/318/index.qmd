@@ -1,25 +1,19 @@
 ---
-title: "Hello Quarto"
-date: "2025-04-22"
-categories: [teaching r]
-image: featured.png
-image-alt: "Illustration of two penguins, one blue and one orange, taking a selfie with a selfie stick. The moon in the background looks like the Quarto logo."
+title: "rstudio4edu A Handbook for Teaching and Learning with R and RStudio"
+date: "2019-09-11"
+categories: [teaching r, learning r, book]
+image: https://rstudio4edu.github.io/rstudio4edu-book/images/logo/logo-rstudio4edu.png
+image-alt: "Teal icon of three books, with one leaning to the right, above the text “rstudio4edu” in lowercase. Represents RStudio resources for education."
 ---
-
 
 <link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/JoscelinRocha">![Buy me a coffee](https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg){alt="Buy me a coffee" width="15" height="21"}Buy me a coffee</a>
 
 ------------------------------------------------------------------------
 
-
-## [rstudio4edu A Handbook for Teaching and Learning with R and RStudio](https://rstudio4edu.github.io/rstudio4edu-book/)
-
 By [Desirée De Leon & Alison Hill](https://rstudio4edu.github.io/rstudio4edu-book/)
 
-**What is it?**
-
-**Excerpt from handbook:** This handbook was inspired by the Handbook for Teaching and Learning with Jupyter- a book written by and for educators who teach data science.
-It is a thoughtful and inspiring resource for all educators, with a focus on the Python ecosystem.
-We aimed to create a similar resource for educators working with the R and RStudio ecosystem.
+**Excerpt from handbook:** This handbook was inspired by the Handbook for Teaching and Learning with Jupyter- a book written by and for educators who teach data science. It is a thoughtful and inspiring resource for all educators, with a focus on the Python ecosystem. We aimed to create a similar resource for educators working with the R and RStudio ecosystem.
 
 1.  Link to handbook: <https://rstudio4edu.github.io/rstudio4edu-book/>
+
+[![](https://rstudio4edu.github.io/rstudio4edu-book/images/logo/logo-rstudio4edu.png){fig-alt="Teal icon of three books, with one leaning to the right, above the text “rstudio4edu” in lowercase. Represents RStudio resources for education."}](https://rstudio4edu.github.io/rstudio4edu-book/)

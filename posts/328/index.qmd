@@ -1,25 +1,19 @@
 ---
-title: "Hello Quarto"
-date: "2025-04-22"
-categories: [visualization]
-image: featured.png
-image-alt: "Illustration of two penguins, one blue and one orange, taking a selfie with a selfie stick. The moon in the background looks like the Quarto logo."
+title: "Alternatives to Simple Color Legends in ggplot2"
+date: "2021-12-12"
+categories: [visualization, blog]
+image: https://meghan.rbind.io/blog/2021-07-20-alternatives-to-simple-color-legends-in-ggplot2/gghighlight.png
+image-alt: "Line chart showing the percentage of each U.S. state in exceptional drought from 2010 to 2021. In early 2021, Utah (UT), Arizona (AZ), and New Mexico (NM) each have over 40% of their area in exceptional drought—the highest level. Data lines for California (CA) and Texas (TX) are also labeled. Source: U.S. Drought Monitor."
 ---
-
 
 <link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/JoscelinRocha">![Buy me a coffee](https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg){alt="Buy me a coffee" width="15" height="21"}Buy me a coffee</a>
 
 ------------------------------------------------------------------------
 
-
-## [Alternatives to Simple Color Legends in ggplot2](https://meghan.rbind.io/blog/color-legend/)
-
 By [Meghan Hall](https://meghan.rbind.io/blog/color-legend/)
-
-Added Sat Dec 12th, 2021
-
-**What is this?**
 
 **Excerpt from post:** Legends, or the way aesthetic values are mapped to data, are an essential part of plots, and this post introduces a few different options for labeling colors effectively.
 
 1.  Link to post here: <https://meghan.rbind.io/blog/color-legend/>
+
+![](https://meghan.rbind.io/blog/2021-07-20-alternatives-to-simple-color-legends-in-ggplot2/gghighlight.png){fig-alt="Line chart showing the percentage of each U.S. state in exceptional drought from 2010 to 2021. In early 2021, Utah (UT), Arizona (AZ), and New Mexico (NM) each have over 40% of their area in exceptional drought—the highest level. Data lines for California (CA) and Texas (TX) are also labeled. Source: U.S. Drought Monitor."}

@@ -1,25 +1,15 @@
 ---
-title: "Hello Quarto"
-date: "2025-04-22"
-categories: [teaching r]
-image: featured.png
-image-alt: "Illustration of two penguins, one blue and one orange, taking a selfie with a selfie stick. The moon in the background looks like the Quarto logo."
+title: "How to prepare and teach an R lesson"
+date: "2020-08-15"
+categories: [teaching r, blog]
 ---
-
 
 <link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/JoscelinRocha">![Buy me a coffee](https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg){alt="Buy me a coffee" width="15" height="21"}Buy me a coffee</a>
 
 ------------------------------------------------------------------------
 
-
-## [How to prepare and teach an R lesson](https://www.monicathieu.com/posts/2020-08-15-prepare-teach-r-lesson/)
-
 By [Monica Thieu](https://www.monicathieu.com/posts/2020-08-15-prepare-teach-r-lesson/)
 
-**What is it?**
+**Excerpt from blog:** This blog post contains a written version of my speaker notes for my 20-minute 2020 NYC R conference talk. Since the talk time is on the shorter side, I trimmed a few things out of the talk that I would have liked to include with more time. The speaker notes for the unabridged version are included here for your reference.
 
-**Excerpt from blog:** This blog post contains a written version of my speaker notes for my 20-minute 2020 NYC R conference talk.
-Since the talk time is on the shorter side, I trimmed a few things out of the talk that I would have liked to include with more time.
-The speaker notes for the unabridged version are included here for your reference.
-
-1.  Link to blog: <https://www.monicathieu.com/posts/2020-08-15-prepare-teach-r-lesson/>
+1.  Link to blog: <https://www.monicathieu.com/posts/2020-08-15-prepare-teach-r-lesson.html>

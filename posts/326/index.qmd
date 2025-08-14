@@ -1,27 +1,21 @@
 ---
-title: "Hello Quarto"
-date: "2025-04-22"
+title: "Adding Sparklines to gt Tables"
+date: "2025-02-20"
 categories: [visualization]
-image: featured.png
-image-alt: "Illustration of two penguins, one blue and one orange, taking a selfie with a selfie stick. The moon in the background looks like the Quarto logo."
+image: https://rfortherestofus.com/img/containers/images/blog/006-sparklines-gt/final_sparklines.png/0c75bb28b711af409eab2383539ea88d.webp
+image-alt: "Table listing 15 major tech companies, their stock price percentage increase, and a small sparkline for each showing price trends. Tesla shows the highest growth at over 6,900%, followed by Netflix, NVIDIA, Apple, and Amazon."
 ---
-
 
 <link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/JoscelinRocha">![Buy me a coffee](https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg){alt="Buy me a coffee" width="15" height="21"}Buy me a coffee</a>
 
 ------------------------------------------------------------------------
 
-
-## [Adding Sparklines to gt Tables](https://rfortherestofus.com/2024/02/sparklines-gt)
-
 By R for the Rest of Us
-
-Added Thu Feb 20, 2025
-
-**What is this?**
 
 This tutorial shows how to add sparklines—small line charts—to **gt** tables in R using the **gtExtras** package, making tables more visually informative.
 
 1.  Link to tutorial: <https://rfortherestofus.com/2024/02/sparklines-gt>
 
 2.  Link to video here: <https://www.youtube.com/watch?v=ipUCv49Slag&ab_channel=RfortheRestofUs>
+
+![](https://rfortherestofus.com/img/containers/images/blog/006-sparklines-gt/final_sparklines.png/0c75bb28b711af409eab2383539ea88d.webp){fig-alt="Table listing 15 major tech companies, their stock price percentage increase, and a small sparkline for each showing price trends. Tesla shows the highest growth at over 6,900%, followed by Netflix, NVIDIA, Apple, and Amazon."}

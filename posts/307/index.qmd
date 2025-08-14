@@ -1,24 +1,17 @@
 ---
-title: "Hello Quarto"
-date: "2025-04-22"
+title: "Teaching Methods with R"
+date: "2025-08-13"
 categories: [statistics]
-image: featured.png
-image-alt: "Illustration of two penguins, one blue and one orange, taking a selfie with a selfie stick. The moon in the background looks like the Quarto logo."
+image: "featured.png"
+image-alt: "Screenshot of the 'rminr' website titled 'Research Methods in R.'The 2023 edition includes guides for using R in psychological research, aimed at undergraduate students. Materials are curated by Andy Wills and are available under a Creative Commons license. A 'View on GitHub' button is visible in the top right corner."
 ---
-
 
 <link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/JoscelinRocha">![Buy me a coffee](https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg){alt="Buy me a coffee" width="15" height="21"}Buy me a coffee</a>
 
 ------------------------------------------------------------------------
 
-
-## [Teaching Methods with R](https://ajwills72.github.io/rminr/)
-
-**What is this?**
-
-**Excerpt from site:** Research Methods in R is a set of guides on how to use R as your central research methods tool.
-The target audience is psychology undergraduate students.
-Research Methods in R is Creative Commons, so you are free to reuse these materials and adapt them as you wish, as long as you attribute them to their authors, and as long as your modifications have a Creative Commons licence.
-They come with absolutely no warranty of any kind.
+**Excerpt from site:** Research Methods in R is a set of guides on how to use R as your central research methods tool. The target audience is psychology undergraduate students. Research Methods in R is Creative Commons, so you are free to reuse these materials and adapt them as you wish, as long as you attribute them to their authors, and as long as your modifications have a Creative Commons licence. They come with absolutely no warranty of any kind.
 
 1.  Link to site here: <https://ajwills72.github.io/rminr/>
+
+[![](featured.png){fig-alt="Screenshot of the \"rminr\" website titled \"Research Methods in R.\" The 2023 edition includes guides for using R in psychological research, aimed at undergraduate students. Materials are curated by Andy Wills and are available under a Creative Commons license. A \"View on GitHub\" button is visible in the top right corner."}](https://ajwills72.github.io/rminr/)

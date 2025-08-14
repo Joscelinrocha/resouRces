@@ -1,24 +1,20 @@
 ---
-title: "Hello Quarto"
-date: "2025-04-22"
-categories: [statistics]
-image: featured.png
-image-alt: "Illustration of two penguins, one blue and one orange, taking a selfie with a selfie stick. The moon in the background looks like the Quarto logo."
+title: "Visualizing research trends"
+date: "2025-08-13"
+categories: [statistics, video]
+image: "featured.png"
+image-alt: "RStudio screenshot showing R code to plot the trend in oxytocin research over time. A man wearing headphones is speaking via video overlay, with a chart titled “Interest in oxytocin research over the past decade” displayed."
 ---
-
 
 <link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/JoscelinRocha">![Buy me a coffee](https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg){alt="Buy me a coffee" width="15" height="21"}Buy me a coffee</a>
 
 ------------------------------------------------------------------------
 
-
-## [Visualizing research trends](https://twitter.com/dsquintana/status/1166083585771802626?s=20)
-
 By [Dan Quintana](https://twitter.com/dsquintana/status/1166083585771802626?s=20)
-
-**What is this?**
 
 Dan Quintana made a screencast of how to visualise research trends for a paper introduction or grant application using the {europepmc}
 
 1.  Link to screencast: <https://twitter.com/dsquintana/status/1166083585771802626?s=20>
 2.  Link to code: <https://gist.github.com/dsquintana/b512b715786088339b61a7fb79367d5e>
+
+![](featured.png){fig-alt="RStudio screenshot showing R code to plot the trend in oxytocin research over time. A man wearing headphones is speaking via video overlay, with a chart titled “Interest in oxytocin research over the past decade” displayed."}

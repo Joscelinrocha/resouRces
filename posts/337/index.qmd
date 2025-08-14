@@ -1,25 +1,22 @@
 ---
-title: "Hello Quarto"
+title: "colorblindr"
 date: "2025-04-22"
-categories: [visualization]
-image: featured.png
-image-alt: "Illustration of two penguins, one blue and one orange, taking a selfie with a selfie stick. The moon in the background looks like the Quarto logo."
+categories: [visualization, Joscelin's fav, package]
+image: https://github.com/clauswilke/colorblindr/raw/master/man/figures/README-iris-OkabeIto-cvd-1.png
+image-alt: "Four density plots of Sepal.Length in the Iris dataset, each simulating different types of color vision. Top left: Deuteranomaly (green-weak); top right: Protanomaly (red-weak); bottom left: Tritanomaly (blue-weak); bottom right: Desaturated (greyscale). All plots show three overlapping density curves representing setosa, versicolor, and virginica species."
 ---
-
 
 <link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/JoscelinRocha">![Buy me a coffee](https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg){alt="Buy me a coffee" width="15" height="21"}Buy me a coffee</a>
 
 ------------------------------------------------------------------------
 
-
-## [colorblindr](https://github.com/clauswilke/colorblindr)
-
 By [Claire D. McWhite & Claus O. Wilke](https://github.com/clauswilke/colorblindr)
 
 **What is this?**
 
-Simulate colorblindness in production-ready R figures.
-💯
+Simulate colorblindness in production-ready R figures. 💯
 
 1.  Link to repo here: <https://github.com/clauswilke/colorblindr>
 2.  Link to the simulator: <http://hclwizard.org/cvdemulator/>
+
+![](https://github.com/clauswilke/colorblindr/raw/master/man/figures/README-iris-OkabeIto-cvd-1.png){fig-alt="Four density plots of Sepal.Length in the Iris dataset, each simulating different types of color vision. Top left: Deuteranomaly (green-weak); top right: Protanomaly (red-weak); bottom left: Tritanomaly (blue-weak); bottom right: Desaturated (greyscale). All plots show three overlapping density curves representing setosa, versicolor, and virginica species."}

@@ -1,28 +1,19 @@
 ---
-title: "Hello Quarto"
-date: "2025-04-22"
+title: "30DayChartChallenge: Steven Ponce’s Contributions"
+date: "2025-04-17"
 categories: [visualization]
 image: featured.png
-image-alt: "Illustration of two penguins, one blue and one orange, taking a selfie with a selfie stick. The moon in the background looks like the Quarto logo."
+image-alt: "Collage titled “#30DayChartChallenge Contributions” showing 30 data visualizations each from the 2024 and 2025 challenges. Each row corresponds to a year, with 2025 on top and 2024 below. X-axis labeled “Count” from 0 to 30. Social handles and tags at the bottom: stevenponce (LinkedIn), sponce1 (Butterfly icon), poncest (GitHub), and hashtags #rstats #ggplot2."
 ---
-
 
 <link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/JoscelinRocha">![Buy me a coffee](https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg){alt="Buy me a coffee" width="15" height="21"}Buy me a coffee</a>
 
 ------------------------------------------------------------------------
 
-
-## [30DayChartChallenge: Steven Ponce’s Contributions](https://github.com/poncest/30DayChartChallenge)
-
 By Steven Ponce
 
-Added Thu Apr 17, 2025
-
-**What is this?**
-
-This repository showcases Steven Ponce’s participation in the annual #30DayChartChallenge, a community-driven data visualization event held every April.
-Each day features a prompt across five key categories: comparisons, distributions, relationships, time series, and uncertainties.
-Steven's contributions include R scripts and visualizations for each prompt, organized into folders for the 2024 and 2025 challenges.
-The repository also contains a `summary` folder, fonts, and a `renv` environment for reproducibility.​
+This repository showcases Steven Ponce’s participation in the annual #30DayChartChallenge, a community-driven data visualization event held every April. Each day features a prompt across five key categories: comparisons, distributions, relationships, time series, and uncertainties. Steven's contributions include R scripts and visualizations for each prompt, organized into folders for the 2024 and 2025 challenges. The repository also contains a `summary` folder, fonts, and a `renv` environment for reproducibility.​
 
 1.  Link to repository: <https://github.com/poncest/30DayChartChallenge>
+
+![](https://github.com/poncest/30DayChartChallenge/raw/main/summary/image_plot.png){fig-alt="Collage titled “#30DayChartChallenge Contributions” showing 30 data visualizations each from the 2024 and 2025 challenges. Each row corresponds to a year, with 2025 on top and 2024 below. X-axis labeled “Count” from 0 to 30. Social handles and tags at the bottom: stevenponce (LinkedIn), sponce1 (Butterfly icon), poncest (GitHub), and hashtags #rstats #ggplot2."}

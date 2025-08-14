@@ -1,24 +1,20 @@
 ---
-title: "Hello Quarto"
-date: "2025-04-22"
-categories: [visualization]
-image: featured.png
-image-alt: "Illustration of two penguins, one blue and one orange, taking a selfie with a selfie stick. The moon in the background looks like the Quarto logo."
+title: "Create stylish tables in R using formattables"
+date: "2018-04-22"
+categories: [visualization, blog]
+image: https://images.squarespace-cdn.com/content/v1/58eef8846a4963e429687a4d/1684733016142-8HZJQBFDNT0PS5XU7YA8/formattable_tile.jpg?format=2500w
+image-alt: "Table showing health indicators from 2011 to 2016 with averages and improvement values. Rows include: Prevalence of Obesity, Tobacco Use, Cardiovascular Disease, and Diabetes. Values are color-coded with green for yearly data, red for high averages, and arrows indicating positive or negative trends."
 ---
-
 
 <link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/JoscelinRocha">![Buy me a coffee](https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg){alt="Buy me a coffee" width="15" height="21"}Buy me a coffee</a>
 
 ------------------------------------------------------------------------
 
-
-## [Create stylish tables in R using formattable](https://www.littlemissdata.com/blog/prettytables)
-
 By [Laura Ellis](https://www.littlemissdata.com/blog/prettytables)
 
-**What is this?**
-
-Blog that uses *formattable* to crate pretty tables.
+Blog that uses *formattable* to create pretty tables.
 
 1.  Link to blog here: <https://www.littlemissdata.com/blog/prettytables>
 2.  Link to repo here: <https://github.com/lgellis/MiscTutorial/tree/master/Austin>
+
+![](https://images.squarespace-cdn.com/content/v1/58eef8846a4963e429687a4d/1684733016142-8HZJQBFDNT0PS5XU7YA8/formattable_tile.jpg?format=2500w){fig-alt="Table showing health indicators from 2011 to 2016 with averages and improvement values. Rows include: Prevalence of Obesity (average 22.28, ↓21.47), Tobacco Use (average 15.53, ↑4.02), Cardiovascular Disease (average 4.48, ↓24), and Diabetes (average 8.27, ↓30). Values are color-coded with green for yearly data, red for high averages, and arrows indicating positive or negative trends."}

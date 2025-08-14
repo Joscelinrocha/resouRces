@@ -1,21 +1,17 @@
 ---
-title: "Hello Quarto"
-date: "2025-04-22"
-categories: [visualization]
-image: featured.png
-image-alt: "Illustration of two penguins, one blue and one orange, taking a selfie with a selfie stick. The moon in the background looks like the Quarto logo."
+title: "Align the assignment operators within a highlighted area"
+date: "2025-08-10"
+categories: [visualization, Joscelin's fav]
+image: "featured.png"
+image-alt: "R code example showing how assignment operators are parsed. The first code block assigns sequences to variables a, b, and c using <-. The second block shows that if the assignment operator <- is inside a comment, it’s treated as part of the comment, not as an actual assignment."
 ---
-
 
 <link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/JoscelinRocha">![Buy me a coffee](https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg){alt="Buy me a coffee" width="15" height="21"}Buy me a coffee</a>
 
 ------------------------------------------------------------------------
 
-
-## [Align the assignment operators within a highlighted area](https://github.com/seasmith/AlignAssign)
-
-**What is this?**
-
 Technically not a visualization resource but once you use it on your script, it is so pleasant to look at (at least for me).
 
 1.  Link to animations here: <https://github.com/seasmith/AlignAssign>
+
+![](https://github.com/seasmith/AlignAssign/raw/master/inst/media/demo_cursors.gif)

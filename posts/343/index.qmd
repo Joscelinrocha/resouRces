@@ -1,23 +1,19 @@
 ---
-title: "Hello Quarto"
+title: "Crime Mapping in R"
 date: "2025-04-22"
-categories: [visualization]
-image: featured.png
-image-alt: "Illustration of two penguins, one blue and one orange, taking a selfie with a selfie stick. The moon in the background looks like the Quarto logo."
+categories: [visualization, geospatial, statistics, book]
+image: https://maczokni.github.io/crime_mapping_textbook/crime_mapping_textbook_files/figure-html/unnamed-chunk-269-1.png
+image-alt: "Map of the U.S. showing homicide rates by county in 1990. Counties are shaded in five red color bins representing quantiles: lightest for 0.00, then increasing through ranges up to the darkest red for 10.33 to 71.38. Higher rates are concentrated in the South, parts of California, and urban counties. A legend in the bottom right explains the shading."
 ---
-
 
 <link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/JoscelinRocha">![Buy me a coffee](https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg){alt="Buy me a coffee" width="15" height="21"}Buy me a coffee</a>
 
 ------------------------------------------------------------------------
 
-
-## [Crime Mapping in R](https://maczokni.github.io/crimemapping_textbook_bookdown/)
-
 By [Juanjo Medina & Reka Solymosi](https://maczokni.github.io/crimemapping_textbook_bookdown/)
-
-**What is this?**
 
 **Excerpt from site:** This workbook contains the lab materials and homework assignments for an introduction to crime mapping course designed for LAWS31152 and 60142 Crime Mapping, an optional module open to 3rd year undergraduates on the BA Criminology programme as well as postgraduates on the MA and MRes Criminology programmes at the University of Manchester.
 
-1.  Link to web-book here: <https://maczokni.github.io/crimemapping_textbook_bookdown/>
+1.  Link to web-book here: <https://maczokni.github.io/crime_mapping_textbook/>
+
+![](https://maczokni.github.io/crime_mapping_textbook/crime_mapping_textbook_files/figure-html/unnamed-chunk-269-1.png){fig-alt="Map of the U.S. showing homicide rates by county in 1990. Counties are shaded in five red color bins representing quantiles: lightest for 0.00, then increasing through ranges up to the darkest red for 10.33 to 71.38. Higher rates are concentrated in the South, parts of California, and urban counties. A legend in the bottom right explains the shading."}

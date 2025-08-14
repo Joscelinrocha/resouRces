@@ -1,27 +1,20 @@
 ---
-title: "Hello Quarto"
-date: "2025-04-22"
+title: "Astonishingly easy mapping in R with mapview"
+date: "2023-04-24"
 categories: [visualization]
-image: featured.png
-image-alt: "Illustration of two penguins, one blue and one orange, taking a selfie with a selfie stick. The moon in the background looks like the Quarto logo."
+image: https://legacy-us-images.foundryco.app/images/article/2021/12/67mapview_albers02-100914099-large.jpg?auto=webp&quality=85,70
+image-alt: "Choropleth map of the United States showing percentage change in a variable (2010–2020) by state. States are color-coded from purple (lowest change) to yellow-green (highest change). A color scale in the top right corner ranges from 0% to over 15%. West Virginia and Illinois show the lowest values (dark purple), while states like Utah, Texas, and Florida are among the highest (light green to yellow). Map created with Leaflet."
 ---
-
 
 <link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/JoscelinRocha">![Buy me a coffee](https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg){alt="Buy me a coffee" width="15" height="21"}Buy me a coffee</a>
 
 ------------------------------------------------------------------------
 
-
-## [Astonishingly easy mapping in R with mapview](https://www.infoworld.com/article/3644848/astonishingly-easy-mapping-in-r-with-mapview.html)
-
 By [Sharon Machlis](https://www.infoworld.com/article/3644848/astonishingly-easy-mapping-in-r-with-mapview.html)
 
-Added Mon Apr 24, 2023
-
-**What is this?**
-
-**Excerpt from site:** TCreate interactive maps of GIS data with tooltips, hover text, and legends in one short and simple line of code.
-Plus get extras like side-by-side sliders and multiple maps in sync.
+**Excerpt from site:** Create interactive maps of GIS data with tooltips, hover text, and legends in one short and simple line of code. Plus get extras like side-by-side sliders and multiple maps in sync.
 
 1.  Post here: <https://www.infoworld.com/article/3644848/astonishingly-easy-mapping-in-r-with-mapview.html>
 2.  Video here: <https://www.youtube.com/watch?v=pHOto3VDG9s>
+
+![](https://legacy-us-images.foundryco.app/images/article/2021/12/67mapview_albers02-100914099-large.jpg?auto=webp&quality=85,70){fig-alt="Choropleth map of the United States showing percentage change in a variable (2010–2020) by state. States are color-coded from purple (lowest change) to yellow-green (highest change). A color scale in the top right corner ranges from 0% to over 15%. West Virginia and Illinois show the lowest values (dark purple), while states like Utah, Texas, and Florida are among the highest (light green to yellow). Map created with Leaflet."}

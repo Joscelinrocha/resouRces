@@ -1,23 +1,19 @@
 ---
-title: "Hello Quarto"
+title: "How I Teach R Markdown"
 date: "2025-04-22"
-categories: [teaching r]
-image: featured.png
-image-alt: "Illustration of two penguins, one blue and one orange, taking a selfie with a selfie stick. The moon in the background looks like the Quarto logo."
+categories: [teaching r, blog]
+image: https://rmd4medicine.netlify.app/slides/images/rmd-nav.png
+image-alt: "Screenshot of an R Markdown file in RStudio. The YAML header includes the title “Untitled,” author “Alison Hill,” date “8/30/2019,” and output format “html_document.” Below, markdown headers from level 1 to 6 are written using # symbols, each labeled “HEADER” followed by its number. A navigation dropdown at the bottom shows a list of headers from the file. The preview pane on the right shows the nested headers rendered in HTML."
 ---
-
 
 <link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/JoscelinRocha">![Buy me a coffee](https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg){alt="Buy me a coffee" width="15" height="21"}Buy me a coffee</a>
 
 ------------------------------------------------------------------------
 
-
-## [How I Teach R Markdown](https://alison.rbind.io/post/2020-05-28-how-i-teach-r-markdown/)
-
 By [Alison Hill](https://alison.rbind.io/post/2020-05-28-how-i-teach-r-markdown/)
-
-**What is it?**
 
 **Excerpt from blog:** So without further ado, here are some of my guiding principles when introducing R Markdown to beginners, for those who are ready to go beyond casual knitter:
 
-1.  Link to blog: <https://alison.rbind.io/post/2020-05-28-how-i-teach-r-markdown/>
+1.  Link to blog: <https://www.apreshill.com/blog/2020-05-how-i-teach-r-markdown/>
+
+![](https://rmd4medicine.netlify.app/slides/images/rmd-nav.png){fig-alt="Screenshot of an R Markdown file in RStudio. The YAML header includes the title “Untitled,” author “Alison Hill,” date “8/30/2019,” and output format “html_document.” Below, markdown headers from level 1 to 6 are written using # symbols, each labeled “HEADER” followed by its number. A navigation dropdown at the bottom shows a list of headers from the file. The preview pane on the right shows the nested headers rendered in HTML."}

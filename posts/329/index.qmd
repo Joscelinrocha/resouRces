@@ -1,21 +1,18 @@
 ---
-title: "Hello Quarto"
+title: "An Introduction to Hierarchical Modeling"
 date: "2025-04-22"
-categories: [visualization]
-image: featured.png
-image-alt: "Illustration of two penguins, one blue and one orange, taking a selfie with a selfie stick. The moon in the background looks like the Quarto logo."
+categories: [visualization, Joscelin's fav]
+image: "featured.png"
+image-alt: "A bubble chart with five large circles, each containing smaller colored circles arranged in a honeycomb pattern. The large circles are colored red, blue, orange, green, and purple, representing grouped data clusters. No text or labels are shown."
 ---
-
 
 <link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/JoscelinRocha">![Buy me a coffee](https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg){alt="Buy me a coffee" width="15" height="21"}Buy me a coffee</a>
 
 ------------------------------------------------------------------------
 
-
-## [An Introduction to Hierarchical Modeling](http://mfviz.com/hierarchical-models/)
-
-**What is this?**
-
 This project was built by Michael Freeman, a faculty member at the University of Washington Information School.
 
 1.  All code for this project is on GitHub here: <https://github.com/mkfreeman/hierarchical-models/>
+2.  Link to the project here: <http://mfviz.com/hierarchical-models/>
+
+![](featured.png){fig-alt="A bubble chart with five large circles, each containing smaller colored circles arranged in a honeycomb pattern. The large circles are colored red, blue, orange, green, and purple, representing grouped data clusters. No text or labels are shown."}

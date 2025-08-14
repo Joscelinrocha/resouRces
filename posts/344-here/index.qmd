@@ -1,0 +1,19 @@
+---
+title: "Dark ggtheme: Publication-Ready Themes and Color Palettes for ggplot2"
+date: "2025-02-20"
+categories: [visualization, package]
+image: https://github.com/koundy/ggplot_theme_Publication/raw/master/Theme_dark_demo_files/figure-html/unnamed-chunk-2-1.png
+image-alt: "Side-by-side scatter plots with dark backgrounds showing car data. Both plots map miles per gallon (mpg) on the x-axis and engine displacement (disp) on the y-axis. Points are colored by carburetor count (carb), with a legend at the bottom indicating values from 1 to 8 using distinct colors. Both plots are titled 'Scatter Plot' in pale yellow, but differ slightly in axis label styles and point spacing."
+---
+
+<link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/JoscelinRocha">![Buy me a coffee](https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg){alt="Buy me a coffee" width="15" height="21"}Buy me a coffee</a>
+
+------------------------------------------------------------------------
+
+By Koundy
+
+The **ggplot_theme_Publication** repository offers three custom themes and new color palettes for **ggplot2**, aiming to create clean and simple graphics suitable for publication. These themes address common aesthetic concerns such as plot background, title and axis label fonts and sizes, axis appearance, tick marks, colors, and legend positioning. By applying these themes, users can enhance the visual appeal and readability of their plots, making them more suitable for inclusion in academic and professional publications.
+
+1.  Link to repository here: <https://github.com/koundy/ggplot_theme_Publication>
+
+![](https://github.com/koundy/ggplot_theme_Publication/raw/master/Theme_dark_demo_files/figure-html/unnamed-chunk-2-1.png){fig-alt="Side-by-side scatter plots with dark backgrounds showing car data. Both plots map miles per gallon (mpg) on the x-axis and engine displacement (disp) on the y-axis. Points are colored by carburetor count (carb), with a legend at the bottom indicating values from 1 to 8 using distinct colors. Both plots are titled \"Scatter Plot\" in pale yellow, but differ slightly in axis label styles and point spacing."}

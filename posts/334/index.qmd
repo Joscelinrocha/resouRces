@@ -1,21 +1,17 @@
 ---
-title: "Hello Quarto"
+title: "Basic usage of tidycensus-a vignette"
 date: "2025-04-22"
-categories: [visualization]
-image: featured.png
-image-alt: "Illustration of two penguins, one blue and one orange, taking a selfie with a selfie stick. The moon in the background looks like the Quarto logo."
+categories: [visualization, package]
+image: https://walker-data.com/tidycensus/articles/basic-usage_files/figure-html/unnamed-chunk-7-1.png
+image-alt: "Horizontal dot-and-whisker plot showing household income estimates by county in Vermont from the 2017–2021 American Community Survey. Each county is listed on the y-axis, with Grand Isle at the top and Essex at the bottom. The x-axis shows income in dollars. Red dots represent ACS income estimates, and black horizontal lines indicate the margin of error. Grand Isle has the highest estimate near $90,000, and Essex the lowest, below $50,000."
 ---
-
 
 <link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/JoscelinRocha">![Buy me a coffee](https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg){alt="Buy me a coffee" width="15" height="21"}Buy me a coffee</a>
 
 ------------------------------------------------------------------------
 
-
-## [Basic usage of tidycensus--a vignette](https://walker-data.com/tidycensus/articles/basic-usage.html)
-
-**What is this?**
-
 **Excerpt from vignette:** There are two major functions implemented in tidycensus: get_decennial, which grants access to the 1990, 2000, and 2010 decennial US Census APIs, and get_acs, which grants access to the 5-year American Community Survey APIs.
 
 1.  Link to vignette here: <https://walker-data.com/tidycensus/articles/basic-usage.html>
+
+![](https://walker-data.com/tidycensus/articles/basic-usage_files/figure-html/unnamed-chunk-7-1.png){fig-alt="Horizontal dot-and-whisker plot showing household income estimates by county in Vermont from the 2017–2021 American Community Survey. Each county is listed on the y-axis, with Grand Isle at the top and Essex at the bottom. The x-axis shows income in dollars. Red dots represent ACS income estimates, and black horizontal lines indicate the margin of error. Grand Isle has the highest estimate near $90,000, and Essex the lowest, below $50,000."}

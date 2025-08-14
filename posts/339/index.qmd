@@ -1,24 +1,17 @@
 ---
-title: "Hello Quarto"
-date: "2025-04-22"
-categories: [visualization]
-image: featured.png
-image-alt: "Illustration of two penguins, one blue and one orange, taking a selfie with a selfie stick. The moon in the background looks like the Quarto logo."
+title: "corrmorant: Flexible Correlation Matrices Based on ggplot2"
+date: "2021-06-06"
+categories: [visualization, package, statistics]
+image: https://github.com/r-link/corrmorant/raw/master/man/figures/logo.png
+image-alt: "Hexagon sticker featuring a black cormorant bird with wings outstretched. The bird wears a gold chain with an “R” logo pendant. Below it are overlapping blue and purple data distributions connected by dotted lines. The word “corrmorant” is written in bold lowercase black letters at the bottom."
 ---
-
 
 <link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/JoscelinRocha">![Buy me a coffee](https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg){alt="Buy me a coffee" width="15" height="21"}Buy me a coffee</a>
 
 ------------------------------------------------------------------------
 
-
-## [corrmorant: Flexible Correlation Matrices Based on ggplot2](https://github.com/r-link/corrmorant)
-
-Added Jun 6th, 2021
-
-**What is this?**
-
-**Excerpt from site:** corrmorant extends ggplot2 by an automated framework for plots of correlation matrices that can be easily modified via regular ggplot2 syntax.
-In addition, it provides a large set of visualization tools for exploratory data analysis based on correlation matrices.
+**Excerpt from site:** corrmorant extends ggplot2 by an automated framework for plots of correlation matrices that can be easily modified via regular ggplot2 syntax. In addition, it provides a large set of visualization tools for exploratory data analysis based on correlation matrices.
 
 1.  Link to package here: <https://github.com/r-link/corrmorant>
+
+![](https://github.com/r-link/corrmorant/raw/master/man/figures/logo.png){fig-alt="Hexagon sticker featuring a black cormorant bird with wings outstretched. The bird wears a gold chain with an “R” logo pendant. Below it are overlapping blue and purple data distributions connected by dotted lines. The word “corrmorant” is written in bold lowercase black letters at the bottom."}

@@ -1,23 +1,19 @@
 ---
-title: "Hello Quarto"
-date: "2025-04-22"
-categories: [statistics]
-image: featured.png
-image-alt: "Illustration of two penguins, one blue and one orange, taking a selfie with a selfie stick. The moon in the background looks like the Quarto logo."
+title: "Test your model!! Performance package"
+date: "2025-08-13"
+categories: [statistics, Joscelin's fav]
+image: https://easystats.github.io/performance/logo.png
+image-alt: "Hex logo for the performance R package showing a cartoon monster being scored by three judges holding signs with numbers."
 ---
-
 
 <link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/JoscelinRocha">![Buy me a coffee](https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg){alt="Buy me a coffee" width="15" height="21"}Buy me a coffee</a>
 
 ------------------------------------------------------------------------
 
-
-## [Test your model!! Performance package](https://easystats.github.io/performance/index.html)
-
-**What is this?**
-
 Test if your model is a good model!
-The primary goal of the performance package is to provide utilities for computing indices of model quality and goodness of fit.
-This includes measures like r-squared (R2), root mean squared error (RMSE) or intraclass correlation coefficient (ICC), but also functions to check (mixed) models for overdispersion, zero-inflation, convergence or singularity.
+
+The primary goal of the performance package is to provide utilities for computing indices of model quality and goodness of fit. This includes measures like r-squared (R2), root mean squared error (RMSE) or intraclass correlation coefficient (ICC), but also functions to check (mixed) models for overdispersion, zero-inflation, convergence or singularity.
 
 1.  Link to information: <https://easystats.github.io/performance/index.html>
+
+[![](https://easystats.github.io/performance/logo.png){fig-alt="Hex logo for the performance R package showing a cartoon monster being scored by three judges holding signs with numbers."}](https://easystats.github.io/performance/index.html)

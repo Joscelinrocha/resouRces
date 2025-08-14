@@ -1,22 +1,20 @@
 ---
-title: "Hello Quarto"
+title: "powerLATE"
 date: "2025-04-22"
-categories: [statistics]
-image: featured.png
-image-alt: "Illustration of two penguins, one blue and one orange, taking a selfie with a selfie stick. The moon in the background looks like the Quarto logo."
+categories: [statistics, package]
+image: https://github.com/EddieYang211/powerLATE_aux/raw/master/powerLATE_tree.png?raw=true
+image-alt: "Flowchart for using the powerLATE R package. Start by supplying treatment assignment probability and compliance rate. Choose whether to include covariates and whether the ordered means assumption holds. Then decide between estimating effect size or absolute effect. Depending on the target (sample size, power, or effect), supply the required values (e.g., kappa, tau, omega, N, or power)."
 ---
-
 
 <link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/JoscelinRocha">![Buy me a coffee](https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg){alt="Buy me a coffee" width="15" height="21"}Buy me a coffee</a>
 
 ------------------------------------------------------------------------
 
-
-## [**powerLATE**](https://github.com/kbansak/powerLATE):
-
 Excerpt from site: powerLATE implements the generalized power analysis for the local average treatment effect (LATE), proposed by Bansak (2020).
 
-Power analysis is in the context of estimating the LATE (also known as the complier average causal effect, or CACE), with calculations based on a test of the null hypothesis that the LATE equals 0 with a two-sided alternative.
-The method uses standardized effect sizes to place a conservative bound on the power under minimal assumptions.
-powerLATE allows users to recover power, sample size requirements, or minimum detectable effect sizes.
-It also allows users to work with absolute effects rather than effect sizes, to specify an additional assumption to narrow the bounds, and to incorporate covariate adjustment.
+Power analysis is in the context of estimating the LATE (also known as the complier average causal effect, or CACE), with calculations based on a test of the null hypothesis that the LATE equals 0 with a two-sided alternative. The method uses standardized effect sizes to place a conservative bound on the power under minimal assumptions. powerLATE allows users to recover power, sample size requirements, or minimum detectable effect sizes. It also allows users to work with absolute effects rather than effect sizes, to specify an additional assumption to narrow the bounds, and to incorporate covariate adjustment.
+
+1.  Link to site here: <https://github.com/kbansak/powerLATE>
+2.  Link to tutorial here: <https://github.com/kbansak/powerLATE_tutorial>
+
+[![](https://github.com/EddieYang211/powerLATE_aux/raw/master/powerLATE_tree.png?raw=true){fig-alt="Flowchart for using the powerLATE R package. Start by supplying treatment assignment probability and compliance rate. Choose whether to include covariates and whether the ordered means assumption holds. Then decide between estimating effect size or absolute effect. Depending on the target (sample size, power, or effect), supply the required values (e.g., kappa, tau, omega, N, or power)."}](https://github.com/kbansak/powerLATE)

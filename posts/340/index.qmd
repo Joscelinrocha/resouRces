@@ -1,21 +1,18 @@
 ---
-title: "Hello Quarto"
-date: "2025-04-22"
-categories: [visualization]
-image: featured.png
-image-alt: "Illustration of two penguins, one blue and one orange, taking a selfie with a selfie stick. The moon in the background looks like the Quarto logo."
+title: "Crazy graphs"
+date: "2018-04-22"
+categories: [visualization, not r related]
+image: https://xeno.graphics/wp-content/uploads/2018/03/treemapbarchart-1240x645.png
+image-alt: "Stacked bar chart showing U.S. imports and exports in 1985, 1995, 2005, and 2015, adjusted for inflation. Each bar is divided into color-coded segments representing product categories. Both imports and exports increased significantly over time, with imports consistently higher than exports."
 ---
-
 
 <link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/JoscelinRocha">![Buy me a coffee](https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg){alt="Buy me a coffee" width="15" height="21"}Buy me a coffee</a>
 
 ------------------------------------------------------------------------
 
-
-## [Crazy graphs](https://paulvanderlaken.com/2018/08/27/xenographics-unusual-charts-and-maps/)
-
-**What is this?**
-
 Awesome crazy graph!!
 
-1.  Link to site here: <https://paulvanderlaken.com/2018/08/27/xenographics-unusual-charts-and-maps/>
+1.  Link to introduction of site here: <https://paulvanderlaken.com/2018/08/27/xenographics-unusual-charts-and-maps/>
+2.  Link to site here: <https://xeno.graphics/>
+
+![](https://xeno.graphics/wp-content/uploads/2018/03/treemapbarchart-1240x645.png){fig-alt="Stacked bar chart showing U.S. imports and exports in 1985, 1995, 2005, and 2015, adjusted for inflation. Each bar is divided into color-coded segments representing product categories. Both imports and exports increased significantly over time, with imports consistently higher than exports."}
